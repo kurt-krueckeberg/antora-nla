@@ -1,0 +1,5 @@
+= To Do
+
+* After cropping the .tif files. determine how to sharpen and enhance them and save them in a 
+smaller format. 
+* After doing so with all of them, upload them to Transkribus.
