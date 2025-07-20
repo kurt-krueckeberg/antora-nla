@@ -9,3 +9,4 @@ asciidoc:
     table-caption: false
 nav:
   - modules/ROOT/nav-top.adoc
+  - modules/1237/nav.adoc

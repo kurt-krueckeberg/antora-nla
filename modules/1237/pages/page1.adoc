@@ -1,0 +1,10 @@
+
+
+.Transliteration
+|===
+|Nrus|Designation Actorum|Amt|Jahre|Monat|Tag
+
+
+|===
+
+* Designation Actorum -- "Record of proceedings" or "Designation of the records"; or maybe “List of the plaintiffs” or “Designation of parties”  
