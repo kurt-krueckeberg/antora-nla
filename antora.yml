@@ -1,0 +1,11 @@
+name: manuscripts
+title: Niedersächisches Landesarchiv Unterlagen
+url: https://nla.krueckeberg.org
+version: '1.0' 
+# start_page: genealogy::index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+  - modules/ROOT/nav-top.adoc

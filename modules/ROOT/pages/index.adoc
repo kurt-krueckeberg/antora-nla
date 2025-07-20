@@ -1,0 +1,27 @@
+= NLA
+
+.Unterlagen (Documents)
+|===
+|Identifier|German Denotation|English|Life Span
+
+|NLA BU, K 2, A Nr. 1237
+|Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
+|The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his farmyard and garden.
+|1798 - 1800
+
+|NLA BU, K 2, A Nr. 689
+|Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.
+|A capital loan of 200 Reichstaler currency lent from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch.
+|1841 - 1845
+
+
+|NLA BU, L 122, F Nr. 354
+|Konkurs des Jobst Krückeberg [in Bückeburg]
+|Bankruptcy of Jobst Krückeberg [in Bückeburg]
+|1725 - 1725
+
+|NLA BU, L 20, C Nr. 98
+|Testament der Witwe Hauptmännin Krückeberg
+|Will of the widow, Captain’s wife Krückeberg
+|1793 - 1793
+|===
