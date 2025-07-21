@@ -34,15 +34,15 @@ zur Vergrößerung seines Gartens |||Dec |1
 
 .Terms Explained
 ****
-* *Designation Actorum* -- latin for "Record of proceedings" or "Designation of the records"; or or more loosely:
-"List of Proceedings" or "Index of Entries".
+* *Designation Actorum* -- latin for *"Record of proceedings"* or *"Designation of the records"*; or or more loosely:
+*"List of Proceedings"* or *"Index of Entries"*.
 * d.d. -- *de dato*, which is Latin for "of the date" or "dated."
-* *"desfallsiger"*, meaning “pertinent” or “relating to the matter”. Breakdown of the word: 
+* *"desfallsiger"*, meaning *"pertinent"* or *"relating to the matter". Breakdown of the word: 
 ** desfallsig = an adjective made from:
-*** *des Falles* – “of the case” (genitive of der Fall)
+*** *des Falles* – *"of the case"* (genitive of der Fall)
 *** *-ig* – a common adjectival suffix
 +
-So “desfallsiger Bericht” literally means:
+So "desfallsiger Bericht" literally means:
 ____
 "Report concerning this case" or "pertinent report".
 ____
