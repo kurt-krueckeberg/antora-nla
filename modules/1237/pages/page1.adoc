@@ -19,19 +19,18 @@ andjedachte Beamte, d.d.||1800|Oct|18
 |4.|Bericht von denselben Beamten||1800|Oct|18
 
 |4 1/2.|dazu gehöriger Bericht +
-von Lteutenant Funiz
+von Lteutenant Funiz||||
 
 |5.|Concept Cammer: Rasiripts +
 am die Beamte yu Buckeburg +
 desgle an den Bammewrantu +
-meister Haukmann d.d.||||
+meister Haukmann d.d.||||27
+
+|6.|Concept Kaufbriefes der Rentkammer +
+für den Colon Krückeberg nr: 10 +
+zu Berenbusch über einen Platz +
+zur Vergrößerung seines Garkens|||Dec|1
 |===
-// 
-// |6.|Concept Kaufbriefes der Rentkammer +
-// für den Colon Krückeberg nr: 10 +
-// zu Berenbusch über einen Platz +
-// zur Vergrößerung seines Garkens|||Dec|1
-// |===
 
 * Designation Actorum -- "Record of proceedings" or "Designation of the records"; or maybe “List of the plaintiffs” or “Designation of parties”  
 * d.d. -- *de dato*, which is Latin for "of the date" or "dated."
