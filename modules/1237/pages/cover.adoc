@@ -6,9 +6,10 @@ image::cover.png[link=self]
 .Transliteration
 ....
 Ausweisungen & Rottländereien
-[???]Amt Bückeburg
+Specia[f?]                            <— struck through
+Ger.[?] Amt Bückeburg
 
-                                     Rep:II
+                            Rep:II
 
 
           ACTA
@@ -20,8 +21,8 @@ Ausweisungen & Rottländereien
 
                     in specie
                  die dem Colon Krückeberg
-                 No 10, zu Berenbusch aus
-                 g[??]iesenew Plätze zur
+                 No 10, zu Berenbusch aus[-]
+                 gewiesene Plätze zur
                  Vergrößerung seines
                  Hofraums unmd Gartens
 
@@ -30,4 +31,32 @@ Ausweisungen & Rottländereien
 1798-1800
 
                   Amt Bückeburg
+....
+
+NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
+
+
+....
+Allocations & Fallow Lands
+Specia[f?]                            <— struck through
+Court Office Bückeburg
+AB
+
+                         File Group: II
+
+                         FILE
+                  Allocations
+              and Fallow Lands
+
+                         Specifically
+                   the plots allocated to
+                   the Colon Krückeberg
+                   No. 10, in Berenbusch,
+                   for the enlargement of his
+                   farmyard and garden
+
+                         concerning
+1798–1800
+
+                   Office of Bückeburg
 ....
