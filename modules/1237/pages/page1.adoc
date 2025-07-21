@@ -4,44 +4,86 @@
 .Transliteration
 [cols="1,7,2,2,2,1"]
 |===
-|Nrus|Designation Actorum|Amt|Jahre|Monat|Tag
+|Nrus |Designatio Actorum |Amt |Jahre |Monat |Tag
 
-|1.|Vorstellung des Colons +
-Krückeberg nr:10, zu Beren +
-busch, d.d.|Bburg|1798|Maÿ|29
+|1. |Vorstellung des Colons +
+Krückeberg No: 10 zu Beren- +
+busch, d.d. |Bburg |1798 |May |29
 
-|2.|Desfalsigeer Bericht der +
-Beamten zu Buckeburg d.d.||1799|Febr|27
+|2. |Desfallsiger Bericht der +
+Beamten zu Bückeburg, d.d. ||1799 |Febr |27
 
-|3.|Concept Cammer: Rescripts +
-andjedachte Beamte, d.d.||1800|Oct|18
+|3. |Concept Cammer Rescripts +
+an gedachte Beamte, d.d. ||1800 |Mart |11
 
-|4.|Bericht von denselben Beamten||1800|Oct|18
+|4. |Bericht von denselben Beamten ||1800 |Oct |18
 
-|4 1/2.|dazu gehöriger Bericht +
-von Lteutenant Funiz||||
+|4 ½.|dazu gehöriger Bericht +
+von Lieutenant Funck |||||
 
-|5.|Concept Cammer: Rasiripts +
-am die Beamte yu Buckeburg +
-desgle an den Bammewrantu +
-meister Haukmann d.d.||||27
+|5. |Concept Cammer Rescripts +
+an die Beamten zu Bückeburg +
+desgl. an den Cammerwahr- +
+meister Barkmann, d.d. |||||27
 
-|6.|Concept Kaufbriefes der Rentkammer +
-für den Colon Krückeberg nr: 10 +
+|6. |Concept Kaufbrief der Rentkammer +
+für den Colon Krückeberg No. 10 +
 zu Berenbusch über einen Platz +
-zur Vergrößerung seines Garkens|||Dec|1
+zur Vergrößerung seines Gartens |||Dec |1
 |===
 
-* Designation Actorum -- "Record of proceedings" or "Designation of the records"; or maybe “List of the plaintiffs” or “Designation of parties”  
+[Terms Explained]
+****
+* *Designation Actorum* -- latin for "Record of proceedings" or "Designation of the records"; or or more loosely:
+"List of Proceedings" or "Index of Entries".
 * d.d. -- *de dato*, which is Latin for "of the date" or "dated."
+* *"desfallsiger"*, meaning “pertinent” or “relating to the matter”. Breakdown of the word: 
+** desfallsig = an adjective made from:
+*** *des Falles* – “of the case” (genitive of der Fall)
+*** *-ig* – a common adjectival suffix
+--
++
+So “desfallsiger Bericht” literally means:
+____
+"Report concerning this case" or "pertinent report".
+____
+* *Cammer* is an old spelling of *Kammer*, meaning "chamber" or “chancellery.” *Cammerwahrmeister* (more precisely: *Kammerwahrmeister*)
+refers to a type of chancellery administrator or clerk. 
+* *"Cammerwahrmeister"*, a form of “Kammerwärter” or steward/clerk.
+* 
+"Haukmann" → corrected to "Barkmann" (more likely based on handwriting).
+* *Funiz* more closely matches the image, but is not a valid surname.
+* *"desgl."* in row 5 is an abbreviation for *"desgleichen"* (likewise, similarly).
+****
 
 .Translation
-[cols="1,5,2,2,2,1"]
+[cols="1,7,2,2,2,1"]
 |===
-|Nrus|Record of the Proceedings/ +
-Minutes of the Meetings	|Amt|Jahre|Monat|Tag
+|No. |Description of Records |Office |Year |Month |Day
 
-|1.|Presentation/Submission by Colonist Krückeberg, No. 10, of Berenbusch, dated|Bückeburg|1798|May|29
-|===
+|1. |Petition by the colonist +
+Krückeberg No. 10 at Beren- +
+busch, dated |Bburg |1798 |May |29
 
- 
+|2. |Pertinent report by the +
+officials at Bückeburg, dated ||1799 |Feb |27
+
+|3. |Draft of Chancery rescript +
+to the aforementioned officials, dated ||1800 |Mar |11
+
+|4. |Report by the same officials ||1800 |Oct |18
+
+|4½. |Related report +
+by Lieutenant Funck |||||
+
+|5. |Draft of Chancery rescript +
+to the officials at Bückeburg, +
+similarly to the chamber steward +
+Barkmann, dated |||||27
+
+|6. |Draft purchase deed by the fiscal office +
+for the colonist Krückeberg No. 10 +
+at Berenbusch, for a plot +
+to enlarge his garden |||Dec |1
+
+|=== 
