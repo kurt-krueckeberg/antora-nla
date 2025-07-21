@@ -1,5 +1,7 @@
 = Page  1
-#:page-role: wide
+:page-role: wide
+
+image::001.png[link=self]
 
 .Transliteration
 [cols="1,7,2,2,2,1"]
