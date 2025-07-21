@@ -1,6 +1,8 @@
 = Page 2
 :page-role: wide
 
+image::002-1-a.png[link=self]
+
 ....
 Cam: Nr: 662.                                    Nr: 1.
 Res Can

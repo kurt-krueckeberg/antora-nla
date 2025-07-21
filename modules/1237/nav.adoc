@@ -2,3 +2,4 @@
 //NLA BU, K 2, A Nr. 1237
 * xref:cover.adoc[]
 * xref:page1.adoc[]
+* xref:page2.adoc[]
