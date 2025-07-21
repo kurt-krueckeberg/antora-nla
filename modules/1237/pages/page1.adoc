@@ -1,10 +1,36 @@
-
+= Page  1
 
 .Transliteration
 |===
 |Nrus|Designation Actorum|Amt|Jahre|Monat|Tag
 
+|1.|Vorstellung des Colons +
+Krückeberg nr:10, zu Beren +
+busch, d.d.|Bburg|1798|Maÿ|29
 
+|2.|des [falsigeer] Be[r][u/n]hst der +
+Beamten zu Buckeburg d.d.||1799|Febr|27
+
+|3.|Concept [Canner???]: Rescripts +
+andjedachte Beamte, d.d.||1800|Oct|18
+
+|4.|Bericht von denselben Beamten||1800|Oct|18
+
+|4 1/2.|dazu gehöriger Bericht +
+von [enant] F||||
+
+|5.|Concept ??? ??? +
 |===
 
 * Designation Actorum -- "Record of proceedings" or "Designation of the records"; or maybe “List of the plaintiffs” or “Designation of parties”  
+* d.d. -- *de dato*, which is Latin for "of the date" or "dated."
+
+.Translation
+|===
+|Nrus|Record of the Proceedings/ +
+Minutes of the Meetings	|Amt|Jahre|Monat|Tag
+
+|1.|Presentation/Submission by Colonist Krückeberg, No. 10, of Berenbusch, dated|Bückeburg|1798|May|29
+|===
+
+ 
