@@ -55,7 +55,7 @@ refers to a type of chancellery administrator or clerk.
 ****
 
 .Translation
-[cols="1,7,2,2,2,1"]
+[width="60%",cols="1,7,2,2,2,1"]
 |===
 |No. |Description of Records |Office |Year |Month |Day
 
