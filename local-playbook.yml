@@ -2,7 +2,7 @@ site:
 # title: Krückeberg and Bleeke Genealogy Research Topics
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://nla.krueckeberg.org
-  start_page: manuscripts:ROOT:index.adoc
+  start_page: nla-docs:ROOT:index.adoc
 content:
   sources:
     - url: ./
