@@ -2,6 +2,7 @@
 :page-role: width
 
 .Transliteration
+[cols="1,5,2,2,2,1"]
 |===
 |Nrus|Designation Actorum|Amt|Jahre|Monat|Tag
 
@@ -27,6 +28,7 @@ von [enant] F||||
 * d.d. -- *de dato*, which is Latin for "of the date" or "dated."
 
 .Translation
+[cols="1,5,2,2,2,1"]
 |===
 |Nrus|Record of the Proceedings/ +
 Minutes of the Meetings	|Amt|Jahre|Monat|Tag
