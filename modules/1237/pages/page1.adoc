@@ -1,5 +1,5 @@
 = Page  1
-:page-role: wide
+#:page-role: wide
 
 .Transliteration
 [cols="1,5,2,2,2,1"]
