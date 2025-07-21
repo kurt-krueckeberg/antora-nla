@@ -1,5 +1,9 @@
 = Cover
+:page-role: wide
 
+image::cover.png[link=self]
+
+.Transliteration
 ....
 Ausweisungen & Rottländereien
 [???]Amt Bückeburg
