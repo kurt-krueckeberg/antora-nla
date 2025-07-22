@@ -1,6 +1,6 @@
 = Page2, Bottom Text
 
-image::002-1-bottom-text-2.png[link=self]
+image::002-1-bottom-small-text-2.png[link=self]
 
 .Transliteration
 [verse]
