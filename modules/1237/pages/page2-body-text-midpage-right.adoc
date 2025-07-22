@@ -1,0 +1,55 @@
+[NOTE]
+====
+The smaller text, written in the margin to the right of the main proceedings,
+appears to be a set of trial honorific forms of address. These phrases—such as
+*"Durchlauchtigste Fürstin!"* and *"Hochgeborner Graf!"*—were likely drafted by
+the clerk to determine the proper formal salutation for official correspondence
+concerning the Krückeberg case. In 18th-century Schaumburg-Lippe, land-related
+petitions like this often required communication with or approval from the
+reigning Fürstin and possibly a Count, making correct titles and address
+formulas essential in any accompanying letters or rescripts.
+====
+
+
+[verse]
+____
+Durchlauchtigste Fürstin!
+
+Gnädigst Regierende Fürstin und Frau
+
+Hochgeborner Graf!
+
+Gnädigst Regierender Graf und Herr
+____
+
+
+[verse]
+____
+Most Serene Princess!
+
+Most Gracious Ruling Princess and Lady
+
+Highborn Count!
+
+Most Gracious Ruling Count and Lord
+____
+
+
+== Glossary
+
+Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
+
+Fürstin:: Princess (female ruler or the consort of a *Fürst*). Rank below a king/queen but sovereign or mediatized territorial ruler within the Holy Roman Empire and successor states.
+
+Gnädigst:: “Most gracious.” Intensified form of *gnädig* (“gracious, merciful”). Very common in formal addresses to princes, counts, and other high nobles; functions as a deferential honorific rather than a literal comment on kindness.
+
+Regierende / Regierender:: “Ruling,” “reigning,” i.e., exercising governmental authority (as opposed to merely titular). Spelling in period documents may vary (*Regierende*, *Regirende*); gender and case endings change with the noun (here: *Fürstin* vs *Graf*).
+
+Frau:: Literally “woman” or “wife,” but in formal address “Lady.” In princely salutations, “und Frau” = “and Lady,” marking respect for her person and/or consort status.
+
+Hochgeborner:: “Highborn.” A noble style traditionally used when addressing counts (*Grafen*) and certain other ranks. Masculine form shown here.
+
+Graf:: Count. A hereditary noble rank; in many German territories an important territorial lord beneath princely rank.
+
+Herr:: “Lord,” “Sir,” depending on context and rank. In high-noble address formulas, “und Herr” reinforces deference to the person’s seigneurial or jurisdictional authority.
+
