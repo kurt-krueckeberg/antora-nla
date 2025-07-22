@@ -3,8 +3,11 @@
 
 image::001.png[link=self]
 
-.Transliteration
-[width="60%",cols="1,7,2,2,2,1"]
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+[cols="1,7,2,2,2,1"]
 |===
 |Nrus |Designatio Actorum |Amt |Jahre |Monat |Tag
 
@@ -34,8 +37,7 @@ zu Berenbusch über einen Platz +
 zur Vergrößerung seines Gartens |||Dec |1
 |===
 
-.Translation
-[width="60%",cols="1,7,2,2,2,1"]
+[cols="1,7,2,2,2,1"]
 |===
 |No. |Description of Records |Office |Year |Month |Day
 
@@ -65,6 +67,9 @@ for the colonist Krückeberg No. 10 +
 at Berenbusch, for a plot +
 to enlarge his garden |||Dec |1
 |=== 
+
+|
+|===
 
 == Glossary of Terms
 
