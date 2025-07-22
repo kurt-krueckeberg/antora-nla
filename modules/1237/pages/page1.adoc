@@ -7,6 +7,7 @@ image::001.png[link=self]
 |===
 |Transliteration|Translation
 
+|
 [cols="1,7,2,2,2,1"]
 |===
 |Nrus |Designatio Actorum |Amt |Jahre |Monat |Tag
