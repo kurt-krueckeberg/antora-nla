@@ -1,6 +1,8 @@
 == Page2, Other Text I
 :page-role: wide
 
+This text appears to the right of the main text of the proceedings. It is written much smaller.
+
 image::002-forms-of-address.png[link=self]
 
 == Transliteration
