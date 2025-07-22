@@ -1,5 +1,7 @@
 = Page2, Bottom Text
 
+This is the text, written in a smaller hand, that appears underneath the text of the proceedings:
+
 image::002-1-bottom-small-text-2.png[link=self]
 
 Based on its content and style, this text is almost certainly written by Herr Krückeberg himself (or dictated by
