@@ -35,7 +35,8 @@ ____
 |Transliteration|Translation
 
 |
-....
+[verse]
+____
 Cam: Nr: 662.                                    Nr: 1.
 Res Can
 
@@ -58,7 +59,7 @@ Platze im Förste für jeden zu fällende Pappel
 dreÿ Stetz-Stangen wieder zu pflanzen,
      Nase  [<-- marginal note. Written in smaller hand. Meaning unclear]
                                   Maas forstenste
-....
+____
 
 |
 |===
