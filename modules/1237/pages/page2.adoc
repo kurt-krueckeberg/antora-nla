@@ -10,12 +10,12 @@ image::002-1-a.png[link=self]
 |===
 |Key |Value
 
-|Archive Reference (File No. in the Fiscal Office) | Cam: Nr: 662
-|Document Type     | Res: Cam: (Chamber Rescript)
-|Date Presented    | praes. 30. May 1798
-|Date Received     | B. 14. Jun. 1798
-|Location          | Amt Bückeburg / Berenbusch
-|Subject           | Land request by Colon Krückeberg (No. 10)
+|*Archive Reference* (File No. in the Fiscal Office) | Cam: Nr: 662
+|*Document Type*     | Res: Cam: (Chamber Rescript)
+|*Date Presented*    | praes. 30. May 1798
+|*Date Received*     | B. 14. Jun. 1798
+|*Location*          | Amt Bückeburg / Berenbusch
+|*Subject*           | Land request by Colon Krückeberg (No. 10)
 |===
 
 [cols="a,a"]
