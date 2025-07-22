@@ -86,3 +86,26 @@ for the colonist Krückeberg No. 10 +
 at Berenbusch, for a plot +
 to enlarge his garden |||Dec |1
 |=== 
+
+[glossary]
+Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list of proceedings"* or *"index of entries"*.
+
+d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*
+
+desfallsiger:: Means *"pertinent"* or *"relating to the matter."*  
+  Breakdown of the word:  
+  desfallsig = an adjective formed from:  
+  - *des Falles* – *"of the case"* (genitive of *der Fall*)  
+  - *-ig* – a common adjectival suffix  
+  → So *"desfallsiger Bericht"* literally means *"report concerning this case"* or *"pertinent report."*
+
+Cammer:: Old spelling of *Kammer*, meaning "chamber" or "chancellery." Used for financial or administrative offices in German principalities.
+
+Cammerwahrmeister:: Variant of *Kammerwahrmeister*, referring to a chancellery official or steward/clerk. Related to *Kammerwärter*.
+
+gedacht:: While it normally means *"thought,"* *"intended,"* or *"meant,"* in older German official usage it meant *"aforementioned"* or *"the said."*
+
+Funck:: A historically attested surname. While the image might suggest *Funiz*, that form is not a known or valid name.
+
+desgl.:: Abbreviation for *desgleichen*, meaning *"likewise"* or *"similarly."*
+
