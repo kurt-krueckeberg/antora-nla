@@ -4,7 +4,7 @@
 image::002-1-a.png[link=self]
 
 
-[cols="l,l"]
+[cols="a,a"]
 |===
 |Transliteration|Translation
 
