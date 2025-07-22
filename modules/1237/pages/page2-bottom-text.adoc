@@ -14,7 +14,7 @@ him and written in his name). Notice these expressions:
 
 Thus, this is clearly a first-person petition rather than administrative note by the Amt (office or bureau).
 
-[verse, transliteration]
+[verse, Transliteration]
 ____
 Nahe an meinem Garten langt auf der Gemein-
 heit bey der Straße eine schiebe Ecke Landes,
@@ -28,8 +28,7 @@ An Ewr. Durchlauchten und der
 Hochgräflichen Gnaden ergehet daher meine
 ____
 
-.Translation
-[verse]
+[verse, Translation]
 ____
 Close to my garden, on the common
 land by the road, there lies a wedge‑shaped corner of ground
