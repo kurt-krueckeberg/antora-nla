@@ -3,7 +3,7 @@
 
 This text appears to the right of the main text of the proceedings. It is written much smaller.
 
-image::002-honorifics.png[link=self]
+image::002-2-honorifics.png[link=self]
 
 == Transliteration
 [verse]
