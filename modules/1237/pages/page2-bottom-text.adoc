@@ -1,71 +1,18 @@
+= Page2, Bottom Text
+
+image::002-1-bottom-text-2.png[link=self]
+
+.Transliteration
 [verse]
 ____
-Nase an meinen Garten bragt auf der Gemein-
-heit bey der Straaße eine schiebe Ecke Landes
+Nahe an meinen Garten bragt auf der Gemein-
+heit beÿ der Straaße eine schiebe Ecke Landes
 die unbebauet ist und mithin auch niemand
 enien Nutzen verschaft, wodurch über dem noch die
-Straaße [S/F]umgal wird. Da dieselbe nun nahe-
-en meinen Garten stoßt, so wünschte ich dieselben
-be 
-gern urbar zu machen und täuflich an mich
+Straaße [S/F]umga[l?] wird. Da dieselbe nun nahe-
+en meinen Garten stoßt, so wünschte ich diesel-
+be gern [?]urbar zu machen und täuflich an mich
 zu bringen.
-An
-Ewr.
-Durchlauchten und
-her
-Hochgräflichen
-Gnaden
-ergehet daher
-mene
-____
-
-[verse]
-____
-Nähr an meinen
-Garten,
-berg.
-auf
-der
-gemein
-heit
-bey
-der
-Straaße
-eine
-schiebe Ecke Landes
-die
-unbebauet
-e
-nirthin
-auch niemanden
-eman
-Nutzen verschaft
-wodurch.
-über dem noch die
-Straaße
-[S/F]nnegat,
-wird
-da
-dieselbe
-nun nahe
-en
-meinen
-Garten
-stoßt
-wünschte
-ich diesel¬
-be
-gern
-urbar zu machen.
-und käuflich
-an mich
-zu bringen.
-An
-Ewr.
-Durchlauchten um
-Ew.
-Hochgräflichen Gnaden
-ergeher.
-daher
-men
+An Ewr. Durchlauchten und her
+Hochgräflichen Gnaden ergehet daher meine
 ____

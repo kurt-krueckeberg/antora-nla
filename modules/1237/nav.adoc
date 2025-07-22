@@ -4,3 +4,4 @@
 * xref:page1.adoc[]
 * xref:page2.adoc[]
 ** xref:page2-honorifics.adoc[]
+** xref:page2-bottom-text.adoc[]
