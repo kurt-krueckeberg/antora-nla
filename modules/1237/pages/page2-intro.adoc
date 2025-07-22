@@ -1,0 +1,13 @@
+= Page 2
+
+image::002.png[link=self]
+
+== Overview
+
+Page two has multiple sections of text written by different individuals. The large text, the main text, is the recording of the
+proceedings of the Amt. To the right of it, written in a smaller hand, are what look to be expressions of salutation or formal
+address, written as if to choose which to use, address to the Graf (count). Finally below the record of the proceedings are the
+words of Colon Krückeberg.
+
+Each area of text what extracted and a separate image of it created.
+
