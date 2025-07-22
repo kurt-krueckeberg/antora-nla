@@ -34,27 +34,6 @@ zu Berenbusch über einen Platz +
 zur Vergrößerung seines Gartens |||Dec |1
 |===
 
-.Terms Explained
-****
-* *Designation Actorum* -- latin for *"Record of proceedings"* or *"Designation of the records"*; or or more loosely:
-*"List of Proceedings"* or *"Index of Entries"*.
-* *d.d.* -- *de dato*, which is Latin for "of the date" or "dated."
-* *"desfallsiger"*, meaning *"pertinent"* or *"relating to the matter". Breakdown of the word: 
-** desfallsig = an adjective made from:
-*** *des Falles* – *"of the case"* (genitive of der Fall)
-*** *-ig* – a common adjectival suffix
-
-+
-So "desfallsiger Bericht" literally means: *"Report concerning this case" or "pertinent report"*.
-* *Cammer* is an old spelling of *Kammer*, meaning "chamber" or “chancellery.” *Cammerwahrmeister* (more precisely: *Kammerwahrmeister*)
-refers to a type of chancellery administrator or clerk. 
-* *"Cammerwahrmeister"*, a form of “Kammerwärter” or steward/clerk.
-* *gedacht* means "thought, intended, meant", but in older German "gedacht" also had a very different]
-formal, idiomatic use:aforementioned / above-mentioned. 
-* *Funck* - *Funiz* more closely matches the image, but is not a valid surname.
-* *"desgl."* in row 5 is an abbreviation for *"desgleichen"* (likewise, similarly).
-****
-
 .Translation
 [width="60%",cols="1,7,2,2,2,1"]
 |===
@@ -87,7 +66,8 @@ at Berenbusch, for a plot +
 to enlarge his garden |||Dec |1
 |=== 
 
-[glossary]
+== Glossary of Terms
+
 Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list of proceedings"* or *"index of entries"*.
 
 d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*
