@@ -37,6 +37,7 @@ zu Berenbusch über einen Platz +
 zur Vergrößerung seines Gartens |||Dec |1
 |===
 
+|
 [cols="1,7,2,2,2,1"]
 |===
 |No. |Description of Records |Office |Year |Month |Day
@@ -67,8 +68,6 @@ for the colonist Krückeberg No. 10 +
 at Berenbusch, for a plot +
 to enlarge his garden |||Dec |1
 |=== 
-
-|
 |===
 
 == Glossary of Terms
