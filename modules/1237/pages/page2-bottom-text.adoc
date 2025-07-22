@@ -14,6 +14,8 @@ him and written in his name). Notice these expressions:
 
 Thus, this is clearly a first-person petition rather than administrative note by the Amt (office or bureau).
 
+== Transliteration
+
 [verse, Transliteration]
 ____
 Nahe an meinem Garten langt auf der Gemein-
@@ -27,6 +29,8 @@ zu bringen.
 An Ewr. Durchlauchten und der
 Hochgräflichen Gnaden ergehet daher meine
 ____
+
+== Transliteration
 
 [verse, Translation]
 ____
