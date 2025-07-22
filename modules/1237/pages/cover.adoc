@@ -11,7 +11,8 @@ NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a st
 |Transliteration|Translation
 
 |
-....
+[verse]
+____
 Ausweisungen & Rottländereien
 Specia[f?]                            <— struck through
 Ger.[?] Amt Bückeburg
@@ -37,7 +38,7 @@ Ger.[?] Amt Bückeburg
 1798-1800
 
                   Amt Bückeburg
-....
+____
 
 |
 ....
