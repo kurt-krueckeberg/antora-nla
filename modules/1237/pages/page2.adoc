@@ -3,8 +3,10 @@
 
 image::002-1-a.png[link=self]
 
-.Archival Reference
+.Explantions
 ****
+== Archival Reference
+
 [cols="1,3"]
 |===
 |Archive Reference (File No. in the Fiscal Office) | Cam: Nr: 662
