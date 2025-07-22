@@ -18,18 +18,6 @@ image::002-1-a.png[link=self]
 |Subject           | Land request by Colon Krückeberg (No. 10)
 |===
 
-[verse]
-____
-Der verlangte Platz liegt  
-in der Dorf Straße von  
-Berenbusch, ist  
-ein kleiner  
-Winkel, der ohne  
-allen Nachteil  
-ausgewiesen  
-werden kann.
-____
-
 [cols="a,a"]
 |===
 |Transliteration|Translation
