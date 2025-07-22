@@ -3,7 +3,14 @@
 
 image::cover.png[link=self]
 
-.Transliteration
+NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
+
+
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 ....
 Ausweisungen & Rottländereien
 Specia[f?]                            <— struck through
@@ -32,9 +39,7 @@ Ger.[?] Amt Bückeburg
                   Amt Bückeburg
 ....
 
-NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
-
-
+|
 ....
 Allocations & Fallow Lands
 Specia[f?]                            <— struck through
@@ -59,3 +64,4 @@ AB
 
                    Office of Bückeburg
 ....
+|===
