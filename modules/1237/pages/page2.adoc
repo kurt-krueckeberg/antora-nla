@@ -1,7 +1,7 @@
 = Page 2
 :page-role: wide
 
-image::002-1-a.png[link=self]
+image::002-1-proceedings.png[link=self]
 
 [.lead]
 *Archival Reference*
