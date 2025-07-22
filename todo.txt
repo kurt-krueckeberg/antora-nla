@@ -1,0 +1,1 @@
+* Break page2 down into a land page describing the layout of text sections, then submenus for each section/page of text.
