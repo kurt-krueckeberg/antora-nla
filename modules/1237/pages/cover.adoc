@@ -65,3 +65,16 @@ AB
                    Office of Bückeburg
 ____
 |===
+
+
+== Glossary of Terms from Document Cover
+
+[glossary]
+ACTA:: Latin. Plural of *actum*, meaning *"acts,"* *"records,"* or *"proceedings."* In this context, it refers to the official record or file of a legal or administrative matter.
+
+in specie:: Latin phrase meaning *"specifically,"* *"in detail,"* or *"in kind."* In 18th–19th century German administrative documents, it commonly introduces a specific description of what a file or act contains.
+
+betreffend:: German. Means *"concerning,"* *"regarding,"* or *"relating to."* Used at the end of document titles or headers to indicate the subject matter of the file.
+
+Amt:: German. Literally *"office"* or *"district authority."* In this context, *Amt Bückeburg* refers to the territorial and administrative authority based in Bückeburg, responsible for local governance and official recordkeeping.
+
