@@ -1,3 +1,5 @@
+[verse]
+____
 Nase an meinen Garten bragt auf der Gemein-
 heit bey der Straaße eine schiebe Ecke Landes
 die unbebauet ist und mithin auch niemand
@@ -15,8 +17,10 @@ Hochgräflichen
 Gnaden
 ergehet daher
 mene
+____
 
-----------
+[verse]
+----
 Nähr an meinen
 Garten,
 berg.
