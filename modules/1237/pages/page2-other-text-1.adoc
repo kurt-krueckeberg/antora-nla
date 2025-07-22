@@ -1,4 +1,7 @@
 == Page2, Other Text I
+:page-role: wide
+
+image::002-forms-of-address.png[link=self]
 
 == Transliteration
 [verse]
