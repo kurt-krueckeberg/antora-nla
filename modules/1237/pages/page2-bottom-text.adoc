@@ -14,8 +14,7 @@ him and written in his name). Notice these expressions:
 
 Thus, this is clearly a first-person petition rather than administrative note by the Amt (office or bureau).
 
-[verse]
-.Transliteration
+[verse, transliteration]
 ____
 Nahe an meinem Garten langt auf der Gemein-
 heit bey der Straße eine schiebe Ecke Landes,
