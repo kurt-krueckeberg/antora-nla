@@ -3,6 +3,26 @@
 
 image::002-1-a.png[link=self]
 
+.Explanatary Notes
+****
+* *Cam: Nr: 662* - *"Chamber [Office] Document No. 662"* or *"File No. 662 of the Fiscal Office"*.
+* Res Can is likely shorthand for the latin *Rescriptum Cammerale*: 
+** *Res* = abbreviation of Rescriptum (a written reply or decree).
+** *Can* = abbreviation of Cammeral or Cammerale (chamber, as in Chancery or administrative office —
+older spelling of Kammer).
+****
+
+
+[.metadata]
+[cols="2,5"]
+|===
+|Archive Reference (File No. in the Fiscal Office) | Cam: Nr: 662
+|Document Type     | Res: Cam: (Chamber Rescript)
+|Date Presented    | praes. 30. May 1798
+|Date Received     | B. 14. Jun. 1798
+|Location          | Amt Bückeburg / Berenbusch
+|Subject           | Land request by Colon Krückeberg (No. 10)
+|===
 
 [cols="a,a"]
 |===
@@ -30,9 +50,29 @@ zu verkaufen, und der Krückeberg hätte sich
 verbindlich zu machen an einem anderen
 Platze im Förste für jeden zu fällende Pappel
 dreÿ Stetz-Stangen wieder zu pflanzen,
-     Nase  [<-- replacement written  below Stetz]
-                                  Akkaas forstenste
+     Nase  [<-- marginal note. Written in smaller hand. Meaning unclear]
+                                  Maas forstenste
 ....
 
 |
 |===
+
+
+== Glossary of Terms
+
+[.glossary]
+Cam:: Abbreviation for *Cammer* (modern *Kammer*), meaning fiscal office or chancellery. Responsible for land, taxation, and administrative matters.
+Nr:: *Nummer* (Number), usually refers to the registry number of the file or document.
+Cam: Nr: 662:: Archival reference number. "Cam:" abbreviates *Cammer* (old spelling of *Kammer*), meaning the fiscal or administrative office. "Nr: 662" is the filing number used internally by that office to track this specific case.
+Res: Cam:: *Rescriptum Cammerale* – a formal response or directive issued by the Cammer (chancellery). Often filed in series.
+praes.:: Abbreviation of *praesentiert* (German) or Latin *praesens*, meaning "presented on [date]".
+B.:: Short for *Bescheid vom* (notice/response dated...), a common filing notation.
+dreÿ:: Archaic form of *drei* (three). The long "ÿ" was often used for stylistic reasons, especially in handwritten formal texts.
+Papplen:: Variant spelling of *Pappeln* (poplars), with double "p" and "l" — not corrected in transcription.
+Nachteil:: Written without “th” in this document, though the older “Nachtheil” is also common.
+Maas:: Likely the surname of the forestry official, signed in an ornate hand at the bottom.
+Forstamts Bericht:: Forestry office report.
+
+== Notes
+
+This transcription preserves original spelling, punctuation, and spacing as found in the 1798 manuscript. No modernizations have been applied.
