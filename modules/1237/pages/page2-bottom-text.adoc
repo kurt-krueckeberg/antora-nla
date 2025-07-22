@@ -8,9 +8,9 @@ image::002-1-bottom-small-text-2.png[link=self]
 Based on its content and style, this text is almost certainly written by Herr Krückeberg himself (or dictated by
 him and written in his name). Notice these expressions:
 
-* “Nahe an meinem Garten …” (Close to my garden)
-* “… so wünschte ich dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
-* “… an mich zu bringen.” (to acquire it for myself)
+* “Nahe an *meinem* Garten …” (Close to my garden)
+* “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
+* “… an *mich* zu bringen.” (to acquire it for myself)
 
 Thus, this is clearly a first-person petition rather than administrative note by the Amt (office or bureau).
 
