@@ -3,6 +3,12 @@
 
 image::002-1-a.png[link=self]
 
+
+[cols="l,l"]
+|===
+|Transliteration|Translation
+
+|
 ....
 Cam: Nr: 662.                                    Nr: 1.
 Res Can
@@ -27,3 +33,6 @@ drey Stetz-Stangen wieder zu pflanzen,
 Akkaas forstenste¬
 Nase
 ....
+
+|
+|===
