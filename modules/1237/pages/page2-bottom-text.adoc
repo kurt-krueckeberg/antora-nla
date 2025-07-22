@@ -1,4 +1,5 @@
 = Page2, Bottom Text
+:page-role: wide
 
 This is the text, written in a smaller hand, that appears underneath the text of the proceedings:
 
