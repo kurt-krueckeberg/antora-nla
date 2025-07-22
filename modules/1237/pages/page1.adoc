@@ -6,7 +6,7 @@ image::001.png[link=self]
 .Transliteration
 [width="60%",cols="1,7,2,2,2,1"]
 |===
-|Nrus |Designatio Actorum |Amt |Jahre |Monat |Tag
+|Nos |Designatio Actorum |Amt |Jahre |Monat |Tag
 
 |1. |Vorstellung des Colons +
 Krückeberg No: 10 zu Beren- +
