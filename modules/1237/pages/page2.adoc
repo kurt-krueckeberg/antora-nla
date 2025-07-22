@@ -3,12 +3,13 @@
 
 image::002-1-a.png[link=self]
 
-.Explantions
-****
-== Archival Reference
+[.lead]
+*Archival Reference*
 
-[cols="1,3"]
+[cols="1,3", frame=all, grid=all, options="header"]
 |===
+|Key |Value
+
 |Archive Reference (File No. in the Fiscal Office) | Cam: Nr: 662
 |Document Type     | Res: Cam: (Chamber Rescript)
 |Date Presented    | praes. 30. May 1798
@@ -16,7 +17,6 @@ image::002-1-a.png[link=self]
 |Location          | Amt Bückeburg / Berenbusch
 |Subject           | Land request by Colon Krückeberg (No. 10)
 |===
-****
 
 [cols="a,a"]
 |===
