@@ -41,7 +41,8 @@ Ger.[?] Amt Bückeburg
 ____
 
 |
-....
+[verse]
+____
 Allocations & Fallow Lands
 Specia[f?]                            <— struck through
 Court Office Bückeburg
@@ -64,5 +65,5 @@ AB
 1798–1800
 
                    Office of Bückeburg
-....
+____
 |===
