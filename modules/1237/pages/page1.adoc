@@ -4,7 +4,7 @@
 image::001.png[link=self]
 
 .Transliteration
-[cols="1,7,2,2,2,1"]
+[width="60%",cols="1,7,2,2,2,1"]
 |===
 |Nrus |Designatio Actorum |Amt |Jahre |Monat |Tag
 
@@ -35,7 +35,7 @@ zur Vergrößerung seines Gartens |||Dec |1
 |===
 
 .Translation
-[cols="1,7,2,2,2,1"]
+[width="60%",cols="1,7,2,2,2,1"]
 |===
 |No. |Description of Records |Office |Year |Month |Day
 
