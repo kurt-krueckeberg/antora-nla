@@ -19,7 +19,7 @@ image::002-1-bottom-small-text-2.png[link=self]
 footnote:schiebe[“Schiebe Ecke” refers to a wedge-shaped or jutting corner of land.]
 footnote:urbar[“Urbar machen” means “to bring under cultivation,” referring to converting uncultivated land into arable land.]
 
-[verse, Transliteration]
+[verse]
 ____
 Nahe an meinem Garten langt auf der Gemein-
 heit beÿ der Straße eine schiebe Ecke Landes footnote:schiebe[],
@@ -38,7 +38,7 @@ ____
 
 == Translation
 
-[verse, Translation]
+[verse]
 ____
 Close to my garden, on the common
 land by the road, there lies a wedge‑shaped corner of ground
