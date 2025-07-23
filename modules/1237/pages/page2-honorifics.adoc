@@ -3,6 +3,15 @@
 
 This text appears to the right of the main text of the proceedings. It is written much smaller.
 
+The smaller text, written in the margin to the right of the main proceedings,
+appears to be a set of trial honorific forms of address. These phrases—such as
+"Durchlauchtigste Fürstin!" and "Hochgeborner Graf!"—were likely drafted by the
+clerk to determine the proper formal salutation for official correspondence
+concerning the Krückeberg case. In 18th-century Schaumburg-Lippe, land-related
+petitions like this often required communication with or approval from the
+reigning Fürstin and possibly a Count, making correct titles and address
+formulas essential in any accompanying letters or rescripts.
+
 image::002-2-honorifics.png[link=self]
 
 == Transliteration
@@ -29,18 +38,6 @@ Highborn Count!
 
 Most Gracious Ruling Count and Lord
 ____
-
-[NOTE]
-====
-The smaller text, written in the margin to the right of the main proceedings,
-appears to be a set of trial honorific forms of address. These phrases—such as
-*"Durchlauchtigste Fürstin!"* and *"Hochgeborner Graf!"*—were likely drafted by
-the clerk to determine the proper formal salutation for official correspondence
-concerning the Krückeberg case. In 18th-century Schaumburg-Lippe, land-related
-petitions like this often required communication with or approval from the
-reigning Fürstin and possibly a Count, making correct titles and address
-formulas essential in any accompanying letters or rescripts.
-====
 
 == Glossary
 
