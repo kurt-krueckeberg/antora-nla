@@ -16,6 +16,9 @@ image::002-1-bottom-small-text-2.png[link=self]
 
 == Transliteration
 
+footnote:schiebe[“Schiebe Ecke” refers to a wedge-shaped or jutting corner of land.]
+footnote:urbar[“Urbar machen” means “to bring under cultivation,” referring to converting uncultivated land into arable land.]
+
 [verse, Transliteration]
 ____
 Nahe an meinem Garten langt auf der Gemein-
@@ -56,7 +59,3 @@ Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, “Your Serene Highnes
 [[hochgraeflich]]
 Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
 
-== Footnotes
-
-footnote:schiebe[“Schiebe Ecke” refers to a wedge-shaped or jutting corner of land.]
-footnote:urbar[“Urbar machen” means “to bring under cultivation,” referring to converting uncultivated land into arable land.]
