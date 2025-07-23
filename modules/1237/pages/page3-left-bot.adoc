@@ -1,43 +1,24 @@
-= Page 3, Bottom Left
-:page-role: wide
-
-TODO: Give the location of the text (opposite pages 2 on the back of page 2)
-This text reads like a draft petition or the closing lines of a formal letter from Krückeberg (or on his behalf). It requests:
-
-* To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
-* For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
-* Concludes with a formulaic expression of respect to the ruling authorities (Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden).
-
-It is essentially the *final request and closing formula of a petition.*
+= Page 3, Top bottom
 
 image::003-left-top.png[link=self]
 
-footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.]
-footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.]
-footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
-footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
+
+
+== Transliteration
 
 [verse]
 ____
-Mir jene Ecke xref:#gnaedigst[gnädigst] für
-einen billigen Preis footnote:preis[] käuflich zu
-überlassen und dieselbe deßhalb
-baldigst footnote:bald[] besichtigen und ausmessen footnote:ausm[] 
-zu lassen.
+hupplu
+Bückeburg D. 19 Mai 1798
+Lindeman
+pro A
 
-In tiefster Ehrfurcht verharre ich footnote:ehrf[] 
-xref:#durchlaucht[Ewr. Durchlauchten]
-und
-xref:#hochgraeflich[Ewr. Hochgräflichen Gnaden]
 ____
 
-== Glossary of Terms
+== Translation
 
-[[gnaedigst]]
-gnädigst:: “Most graciously,” a deferential expression used in petitions to noble authorities.
+[verse]
+____
 
-[[durchlaucht]]
-Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, “Your Serene Highness,” a title for princes or princesses.
 
-[[hochgraeflich]]
-Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+____
