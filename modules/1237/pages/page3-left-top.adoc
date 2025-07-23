@@ -1,0 +1,21 @@
+= Page 3, Top Left
+
+image::003-left-top.png[link=self]
+
+
+
+== Transliteration
+
+[verse]
+____
+
+
+____
+
+== Translation
+
+[verse]
+____
+
+
+____
