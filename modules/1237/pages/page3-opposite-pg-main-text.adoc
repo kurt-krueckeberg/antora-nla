@@ -12,10 +12,10 @@ It is essentially the *final request and closing formula of a petition.*
 
 image::003-left-main-txt.png[link=self]
 
-footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.]
-footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.]
-footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
-footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
+footnote:preis["Reasonable/fair price," indicating fairness rather than bargaining.]
+footnote:bald["Baldigst" means "as soon as possible," a formal superlative of *bald*.]
+footnote:ausm["Ausmessen" means "to measure or survey," referring to land boundaries.]
+footnote:ehrf[A formal closing formula meaning "I remain in deepest reverence," similar to "your humble servant."]
 
 [verse]
 ____
@@ -40,17 +40,17 @@ ____
 
 == Glossary of Honorifics and Formal Language
 
-gnädigst:: “Most graciously,” a deferential expression used in petitions to noble authorities.
+gnädigst:: "Most graciously," a deferential expression used in petitions to noble authorities.
 
-Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning "Your Serene Highness," a title for princes or princesses.
 
-Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+Ewr. Hochgräflichen Gnaden:: "Your High Comital Grace," an honorific address for counts or countesses.
 
-Durchlauchtigste Fürstin:: “Most Serene Princess,” a formal closing salutation to a ruling princess.
+Durchlauchtigste Fürstin:: "Most Serene Princess," a formal closing salutation to a ruling princess.
 
-Gnädigst Regierende Fürstin und Frau:: “Most Gracious Ruling Princess and Lady,” another closing title.
+Gnädigst Regierende Fürstin und Frau:: "Most Gracious Ruling Princess and Lady," another closing title.
 
-Hochgeborner Graf:: “High-born Count,” a ceremonial address for a noble count.
+Hochgeborner Graf:: "High-born Count," a ceremonial address for a noble count.
 
-Gnädigst Regierender Graf und Herr:: “Most Gracious Ruling Count and Lord,” another ceremonial closing address.
+Gnädigst Regierender Graf und Herr:: "Most Gracious Ruling Count and Lord," another ceremonial closing address.
 
