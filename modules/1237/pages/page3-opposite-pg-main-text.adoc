@@ -1,8 +1,8 @@
-= Page 3, Bottom Left
+= Page 3, Opposite Page Text
 :page-role: wide
 
-This text appears on the left page opposite of the *TODO:add month* 1799 proceedings. It reads like a draft petition or the
-closing lines of a formal letter from Krückeberg (or on his behalf). It requests:
+This text appears on the left page opposite of the February 27, 1799, proceedings. It was written on the back of
+1798 proceedings. It reads like a draft petition or the closing lines of a formal letter from Krückeberg (or on his behalf). It requests:
 
 * To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
 * For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
