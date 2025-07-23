@@ -1,4 +1,5 @@
 = Page 3, Oppsite Page Text at bottom
+:page-role: wide
 
 image::003-left-bot.png[link=self]
 
