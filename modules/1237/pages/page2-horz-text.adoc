@@ -1,0 +1,12 @@
+= Page 2, Horizontal Text
+
+image::002-horz-text.png[link=self]
+
+== Transliteration
+
+[verse]
+____
+Reis Cam Brevi mann dem
+Amte yum Berichte D. 18
+Febr 1799 Maas
+____
