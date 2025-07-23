@@ -4,9 +4,65 @@ image::002-horz-text.png[link=self]
 
 == Transliteration
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
-Reis Cam Brevi mann dem
-Amte yum Berichte D. 18
+Res: Cam Brevi manu dem
+Amte zum Berichte D. 18
 Febr 1799 Maas
 ____
+
+|
+[verse]
+____
+Chamber Rescript. Summarily sent to the
+office for a report, the 18th of February 1799. (Signed) Maas.
+____
+|===
+
+== Interpretation of Marginal Note
+
+The text reads:
+
+[verse]
+____
+Res: Cam. Brevi manu dem
+Amte zum Berichte D. 18.
+Febr 1799 Maas
+____
+
+=== Meaning
+This note can be translated as:
+
+*"Chamber Rescript. Summarily sent to the office for a report, the 18th of February 1799. (Signed) Maas."*
+
+**Explanation:**
+- *Res: Cam.* indicates that this is an official rescript or directive issued by the Cammer (Chamber/Chancellery).
+- *Brevi manu* (Latin for "by a short hand") means that this was done briefly, without lengthy procedure — essentially a short-form order or instruction.
+- *zum Berichte* means “to the office for the purpose of a report,” indicating that the matter was forwarded to the Amt for an official opinion or update.
+- *D. 18.* abbreviates *den 18.* (the 18th day), a dating convention used in administrative documents.
+- *Maas* is the signature of the official who issued or noted this instruction.
+
+== Glossary of Terms
+
+[glossary]
+Res:: Abbreviation of *Rescriptum* (Latin), meaning "rescript," "official reply," or "directive."
+
+Cam.:: Abbreviation for *Cammer* (modern *Kammer*), meaning "Chamber" or "Chancellery," i.e., the administrative office issuing the order.
+
+Brevi manu:: Latin phrase meaning "summarily," "briefly," or "without lengthy procedure." Often used for short, direct orders.
+
+Amte:: The dative singular of *Amt* (office, administrative district) in its older form with the now-archaic "-e" ending. Historically, many German nouns took a dative singular "-e" in formal and literary language, e.g., *im Hause* (modern: *im Haus*), *zu Tische* (modern: *zu Tisch*), and *dem Amte* (modern: *dem Amt*).
+
+zum Berichte:: German for "for the report," meaning it was sent to the office to prepare or provide a report.
+
+D. 18.:: Abbreviation of *den 18.* (the 18th day), a common dating convention in older German administrative documents.
+
+Febr. 1799:: Abbreviation for "Februar 1799" — February 1799.
+
+Maas:: Likely the surname of the official or clerk signing the note.
+
