@@ -10,7 +10,7 @@ This text reads like a draft petition or the closing lines of a formal letter fr
 
 It is essentially the *final request and closing formula of a petition.*
 
-image::003-left-bot.png[link=self]
+image::003-left-top.png[link=self]
 
 footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.]
 footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.]
