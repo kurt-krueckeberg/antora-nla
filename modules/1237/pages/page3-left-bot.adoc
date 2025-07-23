@@ -1,8 +1,6 @@
-= Page 3, Top bottom
+= Page 3, Oppsite Page Text at bottom
 
-image::003-left-top.png[link=self]
-
-
+image::003-left-bot.png[link=self]
 
 == Transliteration
 
