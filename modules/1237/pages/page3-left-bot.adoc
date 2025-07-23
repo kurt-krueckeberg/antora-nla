@@ -1,29 +1,80 @@
 = Page 3, Bottom Left
 
+TODO: Give the location of the text (opposite pages 2 on the back of page 2)
+This text reads like a draft petition or the closing lines of a formal letter from Krückeberg (or on his behalf). It requests:
+
+* To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
+* For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
+* Concludes with a formulaic expression of respect to the ruling authorities (Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden).
+
+It is essentially the *final request and closing formula of a petition.*
+
 image::003-left-bot.png[link=self]
 
 
 == Transliteration
-
 [verse]
 ____
 Mir jene Ecke gnädigst für
 einen billigen Preis käuflich zu
-überlaßen und deiselbe derhalb
-baldigst besichtigen und ausmest
-zu laßen
-Ehrfürcht ersterbe ich
-[?]w Durchl. auchten
-und
-[?]w Hochgräflichen Gnaden
-Ja tiefster Ehes... ersterte ich
-[?]w  Hochgräflichen Gnaden
-____
+überlassen und dieselbe deßhalb
+baldigst besichtigen und ausmessen
+zu lassen.
 
-== Translation
+In tiefster Ehrfurcht verharre ich
+Ewr. Durchlauchten
+und
+Ewr. Hochgräflichen Gnaden
+____
 
 [verse]
 ____
+Mir jene Ecke gnädigst <1> für
+einen billigen Preis <2> käuflich zu
+überlassen <3> und dieselbe deßhalb
+baldigst <4> besichtigen und ausmessen <5>
+zu lassen.
 
-
+In tiefster Ehrfurcht verharre ich <6>
+Ewr. <7> Durchlauchten <8>
+und
+Ewr. <7> Hochgräflichen Gnaden <9>
 ____
+
+<1> *gnädigst* – “most graciously,” a term of deference common in petitions to noble authorities.  
+<2> *einen billigen Preis* – “a fair/reasonable price,” indicating humility and fairness.  
+<3> *überlassen* – “to cede, grant, or transfer,” often phrased as a privilege conferred by the authority.  
+<4> *baldigst* – “as quickly as possible,” a superlative form for emphasis.  
+<5> *ausmessen* – “to measure or survey land,” used when referring to property or garden expansion.  
+<6> *In tiefster Ehrfurcht verharre ich* – “I remain in deepest reverence,” akin to “Your humble and obedient servant.”  
+<7> *Ewr.* – Abbreviation for *Euer/Eure*, “Your” (formal).  
+<8> *Durchlauchten* – “Serene Highness,” a princely title.  
+<9> *Hochgräflichen Gnaden* – “High Comital Grace,” a title for counts or countesses.
+
+== Glossary
+
+[glossary]
+gnädigst:: Literally “graciously” or “most graciously,” expressing utmost respect when addressing a noble authority.
+
+billigen Preis:: A “fair” or “reasonable price,” showing that the petitioner is not attempting to bargain but asks for a just arrangement.
+
+überlassen:: To cede or transfer something as a favor, often used when land or property is granted by a ruler.
+
+baldigst:: A superlative form of “bald” (soon), meaning “as quickly as possible” or “without delay.”
+
+besichtigen:: To inspect or examine; here, used in the sense of inspecting the piece of land.
+
+ausmessen:: To measure or survey land.
+
+In tiefster Ehrfurcht verharre ich:: A formal closing formula meaning “I remain in deepest reverence,” similar to “Your humble and obedient servant” in English.
+
+Ewr.:: Abbreviation of *Euer* or *Eure*, meaning “Your” (formal). Commonly used before honorific titles like *Durchlaucht* or *Gnaden.*
+
+Durchlauchten:: Title meaning “Serene Highness,” used for princes, princesses, or high-ranking nobility.
+
+Hochgräflichen Gnaden:: “High Comital Grace,” an honorific form of address for counts and countesses.
+
+laßen:: Older spelling of “lassen” (to allow, let), retaining the long s (ſ) and single-s conventions of the time.
+
+
+
