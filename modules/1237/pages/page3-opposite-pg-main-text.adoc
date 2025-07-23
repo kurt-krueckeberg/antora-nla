@@ -12,33 +12,45 @@ It is essentially the *final request and closing formula of a petition.*
 
 image::003-left-main-txt.png[link=self]
 
-footnote:gnad[“Most graciously,” a deferential expression used in petitions to noble authorities.]
-footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.]
-footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.]
-footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
-footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
-footnote:durch[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
-footnote:hochg[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
-
 [verse]
 ____
 unterthänigst bitte
 
-Mir jene Ecke gnädigst footnote:gnad[] für
-einen billigen Preis footnote:preis[] käuflich zu
+Mir jene Ecke gnädigst footnote:gnad[“Most graciously,” a deferential expression used in petitions to noble authorities.] für
+einen billigen Preis footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.] käuflich zu
 überlassen und dieselbe deßhalb
-baldigst footnote:bald[] besichtigen und ausmessen footnote:ausm[] 
+baldigst footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.] besichtigen und ausmessen footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
 zu lassen.
 
-In tiefster Ehrfurcht verharre ich footnote:ehrf[] 
-Ewr. Durchlauchten footnote:durch[]
+In tiefster Ehrfurcht verharre ich footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
+Ewr. Durchlauchten footnote:durch[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
 und
-Ewr. Hochgräflichen Gnaden footnote:hochg[]
+Ewr. Hochgräflichen Gnaden footnote:hochg[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
 
 Durchlauchtigste Fürstin!
 Gnädigst Regierende Fürstin und Frau
 Hochgeborner Graf!
 Gnädigst Regierender Graf und Herr
+____
+
+[verse]
+____
+I most humbly request
+
+that the corner of land be most graciously sold to me
+for a fair price, and that it therefore
+be inspected as soon as possible and measured
+for this purpose.
+
+With deepest respect, I remain before
+Your Serene Highness
+and
+Your High Comital Grace.
+
+Most Serene Princess!
+Most Gracious Ruling Princess and Lady,
+High-born Count!
+Most Gracious Ruling Count and Lord.
 ____
 
 == Glossary of Honorifics and Formal Language
