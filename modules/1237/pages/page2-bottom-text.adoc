@@ -1,10 +1,8 @@
 = Page2, Bottom Text
 :page-role: wide
 
-This is the text, written in a smaller hand, that appears underneath the text of the proceedings:
-
-Based on its content and style, this text is almost certainly written by Herr Krückeberg himself (or dictated by
-him and written in his name). Notice these expressions:
+This text, written in a smaller hand, appears underneath the text of the proceedings. Based on its content and style, it is
+almost certainly written by Herr Krückeberg himself (or dictated by him and written in his name). Notice these expressions:
 
 * “Nahe an *meinem* Garten …” (Close to my garden)
 * “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
