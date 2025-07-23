@@ -1,4 +1,5 @@
 = Page 3, Bottom Left
+:page-role: wide
 
 TODO: Give the location of the text (opposite pages 2 on the back of page 2)
 This text reads like a draft petition or the closing lines of a formal letter from Krückeberg (or on his behalf). It requests:
