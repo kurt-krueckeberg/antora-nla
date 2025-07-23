@@ -19,15 +19,18 @@ image::002-1-bottom-small-text-2.png[link=self]
 [verse, Transliteration]
 ____
 Nahe an meinem Garten langt auf der Gemein-
-heit bey der Straße eine schiebe Ecke Landes,
+heit beÿ der Straße eine schiebe Ecke Landes footnote:schiebe[],
 die unbebauet ist und mithin auch niemand
 einen Nutzen verschaffet, wodurch über dem noch die
 Straße unegal wird. Da dieselbe nun nahe
 an meinen Garten stößt, so wünschte ich diesel-
-be gern urbar zu machen und täglich an mich
+be gern urbar footnote:urbar[] zu machen und käuflich an mich
 zu bringen.
-An Ewr. Durchlauchten und der
-Hochgräflichen Gnaden ergehet daher meine
+
+An xref:#durchlaucht[Ewr. Durchlauchten]
+und
+xref:#hochgraeflich[Ewr. Hochgräflichen Gnaden]
+ergehet daher meine Bitte.
 ____
 
 == Translation
@@ -44,3 +47,16 @@ to bring it under cultivation and, if permitted, to acquire it for myself.
 To Your Serene Highness and to the
 High Comital Grace therefore goes my [petition/request].
 ____
+
+== Glossary of Terms
+
+[[durchlaucht]]
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, “Your Serene Highness,” a title for princes or princesses.
+
+[[hochgraeflich]]
+Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+== Footnotes
+
+footnote:schiebe[“Schiebe Ecke” refers to a wedge-shaped or jutting corner of land.]
+footnote:urbar[“Urbar machen” means “to bring under cultivation,” referring to converting uncultivated land into arable land.]
