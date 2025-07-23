@@ -1,4 +1,4 @@
-= Page 2
+= Page 2, Proceedings
 :page-role: wide
 
 image::002-1-proceedings.png[link=self]
