@@ -14,48 +14,45 @@ Thus, this is clearly a first-person petition rather than administrative note by
 
 image::002-1-bottom-small-text-2.png[link=self]
 
-== Transliteration
-
-footnote:schiebe[“Schiebe Ecke” refers to a wedge-shaped or jutting corner of land.]
-footnote:urbar[“Urbar machen” means “to bring under cultivation,” referring to converting uncultivated land into arable land.]
-
 [verse]
 ____
-Nahe an meinem Garten langt auf der Gemein-
-heit beÿ der Straße eine schiebe Ecke Landes footnote:schiebe[],
+Nahe an meinen Garten bragt auf der Gemein-
+heit beÿ der Straße eine schiebe Ecke Landes footnote:[“Schiebe Ecke” means a wedge-shaped or sloping corner of land.]
 die unbebauet ist und mithin auch niemand
-einen Nutzen verschaffet, wodurch über dem noch die
-Straße unegal wird. Da dieselbe nun nahe
+einen Nutzen verschafft, wodurch über dem noch die
+Straße unegal footnote:[“unegal” means uneven or irregular in shape, possibly referring to the street's alignment.] wird.
+Da dieselbe nun nahe
 an meinen Garten stößt, so wünschte ich diesel-
-be gern urbar footnote:urbar[] zu machen und käuflich an mich
+be gern urbar footnote:[“Urbar machen” means to cultivate or bring uncultivated land under use.] zu machen und käuflich an mich
 zu bringen.
 
-An xref:#durchlaucht[Ewr. Durchlauchten]
+An Ewr. Durchlauchten footnote:[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
 und
-xref:#hochgraeflich[Ewr. Hochgräflichen Gnaden]
-ergehet daher meine Bitte.
+Ewr. Hochgräflichen Gnaden footnote:[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
+ergehet daher meine
+Bitte.
 ____
-
-== Translation
 
 [verse]
 ____
-Close to my garden, on the common
-land by the road, there lies a wedge‑shaped corner of ground
-which is uncultivated and thus provides no benefit
-to anyone, whereby moreover the road
-becomes irregular. Since this piece adjoins
-my garden, I would like
-to bring it under cultivation and, if permitted, to acquire it for myself.
-To Your Serene Highness and to the
-High Comital Grace therefore goes my [petition/request].
+Close to my garden, on the common land
+by the road, there lies a sloping corner of land
+which is uncultivated and therefore of no use to anyone,
+and which even causes the road to be uneven.
+Since this corner adjoins my garden,
+I would like to cultivate it and purchase it.
+
+I therefore respectfully present this petition
+to Your Serene Highness
+and
+Your High Comital Grace.
 ____
 
-== Glossary of Terms
+== Glossary of Honorifics and Formal Language
 
-[[durchlaucht]]
-Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, “Your Serene Highness,” a title for princes or princesses.
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
 
-[[hochgraeflich]]
 Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+urbar machen:: “To bring under cultivation,” referring to making unused land arable.
 
