@@ -1,11 +1,12 @@
 .xref:index.adoc[]
 //NLA BU, K 2, A Nr. 1237
 * xref:cover.adoc[]
-* xref:page1.adoc[]
-* xref:page2-intro.adoc[]
-** xref:page2.adoc[]
-** xref:page2-honorifics.adoc[]
-** xref:page2-bottom-text.adoc[]
-* TODO: Complete page three
-** xref:page3-opposite-pg-main-text.adoc[]
-** xref:page3-left-bot.adoc[]
+* xref:image1.adoc[]
+* xref:image2-intro.adoc[]
+** xref:image2.adoc[]
+** xref:image2-honorifics.adoc[]
+** xref:image2-bottom-text.adoc[]
+* TODO: Complete image three
+** xref:image3-opposite-pg-main-text.adoc[]
+** xref:image3-left-bot.adoc[]
+* xref:image12.adoc[]

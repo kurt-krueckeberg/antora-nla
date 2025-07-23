@@ -1,4 +1,4 @@
-= Page 2
+= Image 2 Overiew
 :page-role: wide
 
 image::002.png[link=self]

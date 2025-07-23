@@ -1,4 +1,4 @@
-= Page2, Bottom Text
+= Image 2, Bottom Text
 :page-role: wide
 
 This text, written in a smaller hand, appears underneath the text of the proceedings. Based on its content and style, it is

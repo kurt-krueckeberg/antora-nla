@@ -1,4 +1,4 @@
-= Page 2, Horizontal Text
+= Image 2, Horizontal Text
 
 This text was written horizontally along the left edge below the text of the proceedings. It explains
 this page of text is an official _rescript_ or directive issued by the _Cammer_ (Chamber/Chancellery).

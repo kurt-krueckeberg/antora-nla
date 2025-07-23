@@ -1,4 +1,4 @@
-= Page 3, Opposite Page Text
+= Image 3, Opposite Page Text
 :page-role: wide
 
 This text appears on the left page opposite of the February 27, 1799, proceedings. It was written on the back of
