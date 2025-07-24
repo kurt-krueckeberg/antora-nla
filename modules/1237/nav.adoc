@@ -10,3 +10,4 @@
 ** xref:image3-opposite-pg-main-text.adoc[]
 ** xref:image3-left-bot.adoc[]
 * xref:image11.adoc[]
+* xref:image12.adoc[]

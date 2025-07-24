@@ -1,0 +1,24 @@
+= Image 12
+:page-role: wide
+
+image::0012.png[link=self]
+
+== Transliteration
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+____
+
+|
+[verse]
+____
+____
+|===
+
+[role="section-narrow"]
+== Glossary of Terms
