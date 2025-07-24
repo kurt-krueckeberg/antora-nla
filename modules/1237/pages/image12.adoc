@@ -19,7 +19,7 @@ seines Gartens.
                       und Hofraums zweÿ in der Dorfstraße  
                       belegene Plätze ausgewiesen, und  
                       dergestalt käuflich überlaßen werden  
-                      sollen, daß er jede Quadrat i Rüte  
+                      sollen, daß er jede Quadrat: Rute  
                       mit 24 Mariengroschen zu bezahlen  
                       habe; und hiernächst diese Plätze durch  
                       einen beeidigten Landmeßer, und zwar  
@@ -41,6 +41,27 @@ seines Gartens.
 Expidirt p. Beÿer    
 ____
 
+== Glossary of Terms
+
+== Glossary of Terms
+
+*Gräfl.*:: Abbreviation for _gräflich_, meaning "comital" or "belonging to a count (Graf)". Indicates that the authority or office belongs to or is governed by a count or his estate.
+
+*vormundschaftl.*:: Abbreviation for _vormundschaftlich_, meaning "pertaining to guardianship". In this context, it suggests the count’s affairs were managed under a guardianship—perhaps due to minority or incapacity of the noble.
+
+*Rentcammer*:: Variant spelling of _Rentkammer_ (modern: Rentenkammer), the comital fiscal office responsible for managing revenue, land, and estate matters of the noble family or state.
+
+*Quadratrute* (or Quadrat-Rute):: A historical **unit of area**, roughly based on the square of a _Rute_ (rod). The _Rute_ varied regionally but was typically around 3.5–4 meters. A _Quadratrute_ is a square with sides of one Rute. In the document, land prices are expressed per Quadratrute (e.g., 24 Mariengroschen per Quadratrute).
+
+*Rottzins*:: A kind of land rent or hereditary lease fee paid for use of cleared forest land (_Rodung_). It was common in German feudal and post-feudal tenure systems.
+
+*Kontribution*:: A form of **tax or tribute**, often levied on landowners, tenants, or municipalities to support military or state expenses.
+
+*Mariengroschen*:: A form of small silver coin used as currency in various parts of Germany until the 19th century.
+
+*Fus dec:*:: Abbreviation for _Fuß decimal_, referring to decimal feet. Measurement was taken with feet broken down into decimals, which was more precise than older fractional systems.
+
+*Expedirt p. Beÿer*:: Indicates that the document was **issued** or **finalized** ("expedited") by a clerk or scribe named **Beÿer**. The abbreviation "p." may stand for _per_ or _par_, indicating authorship or certification.
 
 == Translation
 
@@ -78,6 +99,6 @@ of his garden.
                       contribution for the aforementioned plots,  
                       as well as both regular and extraordinary taxes and dues to
                       [continues on next page] 
-Issued by Beÿer       
+Issued by Beier       
 ____
 
