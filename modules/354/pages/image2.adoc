@@ -1,4 +1,5 @@
 = Image 2
+:page-role: wide
 
 image::002.png[link=self]
 
