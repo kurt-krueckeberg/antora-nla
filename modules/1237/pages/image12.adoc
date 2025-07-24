@@ -2,6 +2,10 @@
 :page-role: wide
 
 image::0012.png[link=self]
+
+[role="section-narrow"]
+== Transliteration
+
 [verse]
 ____
 Concept Cammeral-Kaufbriefs                                            6.  
@@ -61,6 +65,7 @@ ____
 
 *Expedirt p. Beÿer*:: Indicates that the document was **issued** or **finalized** ("expedited") by a clerk or scribe named **Beÿer**. The abbreviation "p." may stand for _per_ or _par_, indicating authorship or certification.
 
+[role="section-narrow"]
 == Translation
 
 [verse]

@@ -9,6 +9,26 @@ body.wide .doc
    }
 }
 
+.literal-narrow {
+    max-width: 95ch;
+    border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+
+/* used in: [role="literal-max-width"] */
+.literal-narrower {
+    max-width: 90ch;
+    border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+.section-narrow {
+    max-width: 95ch;
+}
+
+.section-narrower {
+    max-width: 90ch;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
