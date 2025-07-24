@@ -17,6 +17,7 @@ image::0012.png[link=self]
 |===
 |Translation|Translation
 
+|
 [verse]
 ____
  Concept Cammeral-Kaufbriefs                                            6.  
