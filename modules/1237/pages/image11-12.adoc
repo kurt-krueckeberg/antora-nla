@@ -5,11 +5,7 @@ In December, 1800, the Gräflich Schaumburg-Lippische vormundschaftliche Rentcam
 Guardianship Treasury Office) officially rendered and documented their decision on Jobst Heinrich Krückeberg's
 petition, which appears on images 11 and 12 below.
 
-Here is image 11, the first part of the decision:
-
 image::0011.png[align=left,title='Decision on Jobst Heinrich Krückeberg's Petition, part one (Click to enlarge)',link=self]
-
-Here is image 12, the conclusion of the decision:
 
 image::0012.png[align=left,title='Decision on Jobst Heinrich Krückeberg's Petition, part two (Click to enlarge)',link=self]
 
