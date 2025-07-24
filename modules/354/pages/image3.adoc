@@ -1,0 +1,25 @@
+= Image 3
+:page-role: wide
+
+image::003.png[link=self]
+
+== Transliteration and Translation
+
+[cols="1a,2a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+____
+
+|
+[verse]
+____
+____
+
+|===
+
+[role="section-narrow"]
+== Glossary of Terms

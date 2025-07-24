@@ -1,2 +1,3 @@
 .xref:index.adoc[]
 * xref:image2.adoc[]
+* xref:image3.adoc[]
