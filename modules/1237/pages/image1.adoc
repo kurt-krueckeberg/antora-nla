@@ -1,4 +1,4 @@
-= Image 1
+= Record of Proceedings
 :page-role: wide
 
 image::001.png[link=self]
