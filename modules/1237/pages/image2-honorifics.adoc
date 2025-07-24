@@ -1,4 +1,4 @@
-= Image 2, Honorifics
+= June 1798, Honorifics
 :page-role: wide
 
 This text appears to the right of the main text of the proceedings. It is written much smaller.
