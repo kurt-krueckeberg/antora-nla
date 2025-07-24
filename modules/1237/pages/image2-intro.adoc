@@ -1,4 +1,4 @@
-= June 1798 Proceedings Overview
+= June 1798
 :page-role: wide
 
 image::002.png[link=self]
