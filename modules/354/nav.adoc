@@ -1,0 +1,2 @@
+.xref:index.adoc[]
+* xref:image2.adoc[]

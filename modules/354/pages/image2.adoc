@@ -1,0 +1,154 @@
+= Image 2
+
+image::002.png[link=self]
+
+== Transliteration and Translation
+
+[cols="1a,2a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Actum d. 24. 9br. 1725.
+
+Erschien H. Reinecke, stellete vor,  
+wasgestalt Jobst Krückenbergs an Hoffe  
+des H. Drosten von dem Brinck be-  
+legenes Haus in einem gar bau-  
+fälligen und fast ruinösen Stande  
+wäre, weil nun dieser Krückenberg  
+von vielen Jahren unvor die Contr-  
+bution restirete, und zu befürchten, daß,  
+wenn selbiges Haus einfällt, die Stadt  
+darunter Schaden leiden würde; bat  
+also, weil Krückenberg nicht im Stande,  
+das Geringste davon aufzubringen, überdies  
+er schon so viel an Contribution schul-  
+dig als das Haus wert, und man  
+die Stadt jetzo bekanntermaßen einer  
+gar großen Bedürftigkeit, also wolte er  
+mit Substitution dieses Hauses, in einer  
+Subhasta, weil es zum gänzlichen Besten  
+stände, hinlänglich gegebenen Gehorsam habe.
+
+Comiti dem Kirchenbuch zur Nachricht,  
+et praefigat Tag ad Subhastam  
+auf den 15. künftigen  
+Monats Xbr. Dec. eod.
+____
+
+|
+[verse]
+____
+Actum [Held] on the 24th of November 1725.
+
+Mr. Reinecke appeared and presented the following:
+
+That Jobst Krückeberg’s house on the estate of the Lord Drost von dem Brinck
+was in a very dilapidated and almost ruinous condition, since this Krückeberg
+had for many years remained in arrears on his contribution payments, and there
+was concern that, should this house collapse, the city would suffer damage as a
+result.
+
+Therefore, since Krückeberg is not in a position to pay even the slightest
+amount, and in addition already owes as much in back contributions as the house
+is worth, and since the city is now, as is well known, in very great need of
+money, he requested that, in substitution, this house be placed in a public
+auction, as this would serve the overall best interest.
+
+Respectfully submitted for
+entry in the church book,
+and the day for the public auction
+is scheduled for the 15th
+of the upcoming month of December of this year.
+____
+
+|===
+
+[role="section-narrow"]
+== Glossary of Terms
+
+[cols="1,3", options="header"]
+|===
+| Term
+| Explanation
+
+| Actum
+| Latin: "Done" or "Enacted." Common in legal records to mark formal entry dates.
+
+| 9br.
+| Abbreviation for November (Latin: *November*). 7br = September, 8br = October, 9br = November, Xbr = December.
+
+| Erschien
+| "[He] appeared." Typical legal phrasing at the start of proceedings.
+
+| H.
+| Abbreviation for *Herr* (Mr. or Lord).
+
+| Droste / Drosten
+| A noble-appointed regional official responsible for administration and justice.
+
+| Hoffe
+| Archaic/dialect form of *Hof* = farmstead or estate.
+
+| Haus
+| House or dwelling.
+
+| bau-fällig
+| Structurally unsafe; in danger of collapse.
+
+| ruinös
+| Ruinous; in decayed or dangerous condition.
+
+| Contribution
+| Tax or required monetary obligation to the territorial authority (e.g., Rentkammer).
+
+| restirete
+| Archaic/dialectal form of *restierte* = was in arrears (delinquent in payments).
+
+| Schaden leiden
+| To suffer damage or loss.
+
+| aufzubringen
+| To raise (money); to come up with funds.
+
+| wert
+| Worth; value.
+
+| bekanntermaßen
+| As is well known; commonly acknowledged.
+
+| Bedürftigkeit
+| Need; financial hardship.
+
+| Substitution
+| Legal replacement of one obligation or property for another.
+
+| Subhasta
+| Latin: Public auction (especially for debt/bankruptcy sales).
+
+| gänzlichen
+| Entire, complete, total.
+
+| Gehorsam
+| Obedience or formal deference; stock phrase indicating respectful request.
+
+| Comiti
+| Latin: “To the committee” or “to the authority.” The recipient of the record.
+
+| Kirchenbuch
+| Church book or parish register, often used for official entries beyond births and marriages.
+
+| zur Nachricht
+| For information/notification.
+
+| praefigat Tag ad Subhastam
+| Latin: "Sets a date for the auction."
+
+| eod.
+| Latin abbreviation of *eodem* = "on the same [date/month/year]" as mentioned.
+|===
+
+
