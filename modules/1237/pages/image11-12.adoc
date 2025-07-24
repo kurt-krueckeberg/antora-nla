@@ -1,0 +1,209 @@
+= Images 11 and 12
+:page-role: wide
+
+Images 11 and 12 are one written composition concerning the disposition of Jobst Heinrich Krückeberg's request.
+The Gräflich Schaumburg-Lippische vormundschaftliche Rentcammer (Comital Schaumburg-Lippe
+Guardianship Treasury Office) officially rendered and documented the decision.
+
+Here is image 11, the first part of the decision:
+
+image::0011.png[link=self]
+
+Here is image 12, the conclusion of the decision:
+
+image::0012.png[link=self]
+
+[cols="1a,1a"]
+|===
+|Translation|Translation
+
+[verse]
+____
+ Concept Cammeral-Kaufbriefs                                            6.  
+für den Colon Kruckeberg  
+Nr: 10 zu Berenbusch über  
+einen Platz zur Vergrößerung  
+seines Gartens.
+
+Expedirt p. Beÿer
+    
+Nachdem auf Ansuchen des Colons  
+Jobst Heinrich Krückeberg Nr. 10  
+zu Berenbusch, Amts Bückeburg,  
+von Gräfl. vormundschaftl. Rentcammer  
+bewilliget worden, daß demselben  
+zur Vergrößerung seines Gartens  
+und Hofraums zweÿ in der Dorfstraße  
+belegene Plätze ausgewiesen, und  
+dergestalt käuflich überlaßen werden  
+sollen, daß er jede Quadrat: Rute  
+mit 24 Mariengroschen zu bezahlen  
+habe; und hiernächst diese Plätze durch  
+einen beeidigten Landmeßer, und zwar  
+ersterer zur Vergrößerung seines  
+Gartens zu neunzehn Ruten 44 Fus dec:  
+und der andere zum Hofraum, zu  
+einer Rute 90 Fus dec: gros ausge-  
+meßen, auch das Kaufgeld nach dem  
+bestimten Preise mit vierzehn Rthlr  
+8 ugln 1d an Gräfln Cammercasse  
+erleget worden; wobeÿ gedachter  
+Colon Krückeberg verpflichtet ist  
+den von bemeldeten beiden Plätzen  
+angesetzten Rottzins und Kontri-  
+bution, auch sowohl gewöhnliche  
+als außerordentliche Abgaben  
+zu übernehmen und jährlich zu gehörne  
+Zeit in die Rechnungen des Amts Bücke-  
+bürg richtig abzutragen; So wird  
+dem Colon Jobst Heinrich Krucke-  
+berg nr: 10, zu Berenbusch und deßen  
+Erben das Eigenthum dieser von ihm  
+erkauften Platze hiemit übergeben  
+und die Versicherung ertheilet, daß  
+er und seine Erben bey deren Besitz  
+jederzeit und gegen Jedermann  
+geschützet werden sollen.  
+Deßen zur Urkund ist dieses statt Kaufe-  
+briefs unter beÿ gedruckten Gräfl.  
+vormundschaftln Cam̅ersiegel und  
+gewöhnlicher Unterschrift ausge-  
+fertiget worden. So geschehen  
+Bückeburg d. December 1800.  
+
+Grafl: Schaumburg; Lippische zur  
+vormundschaftliche Rentcammer  
+verordnete Director und Räthe  
+Gladbeck v. Landesberg Maas  
+Windt  
+
+Wippermann
+____
+
+|
+[verse]
+____
+Draft of the Chamber Contract
+for the colonist Krückeberg
+No. 10 in Berenbusch
+concerning a parcel for the enlargement
+of his garden.
+
+Dispatched by Beÿer
+
+After, upon request by the colonist
+Jobst Heinrich Krückeberg No. 10
+in Berenbusch, district of Bückeburg,
+permission was granted by the
+Comital Guardianship Treasury Office
+that, for the enlargement of his garden
+and courtyard area, two plots situated
+on the village street
+be assigned to him and
+transferred to him by purchase
+in such a way that he
+shall pay 24 Mariengroschen
+per square rod; and thereafter these parcels
+were measured by a sworn land surveyor, namely:
+the first for the enlargement of his
+garden at 19 rods, 44 feet, decimal,
+and the second for the courtyard area
+at 1 rod, 90 feet, decimal, large—
+and the purchase price, according to the
+set rate, was paid in the amount of
+14 Reichsthaler, 8 Groschen, 1 Pfennig
+to the Comital Treasury;
+whereupon the aforementioned
+colonist Krückeberg is obliged
+to pay the assigned land tax and
+contributions on these two parcels,
+as well as ordinary
+and extraordinary levies
+
+to assume them and to enter them
+accurately at the proper time
+into the accounts of the Office of Bückeburg;
+Thus, the ownership of these parcels
+purchased by him is hereby transferred
+to the colonist Jobst Heinrich Krückeberg
+No. 10 in Berenbusch and his heirs,
+and the assurance is given
+that he and his heirs shall at all times
+and against all persons
+be protected in their possession.
+
+As proof of this, this document
+in place of a formal deed of sale
+has been issued under the
+impressed comital guardianship
+treasury seal and customary signature.
+So issued
+Bückeburg, December 1800.
+
+Directors and councillors appointed
+to the Comital Schaumburg-Lippe
+Guardianship Treasury Office:
+
+Gladbeck, von Landesberg, Maas,
+Windt
+
+Wippermann
+____
+|====
+
+== Glossary of Terms
+
+*Colon*:: A farmer or settler holding land, often hereditary, under a manorial or feudal system.
+
+*Nr: 10*:: House or plot number 10 — part of the village's local addressing system.
+
+*Amts Bückeburg*:: The jurisdictional district or administrative office located in Bückeburg.
+
+*Gräfl.*:: Abbreviation of _Gräflich_, meaning “Count’s” or “comital,” referring to a count’s authority or domain.
+
+*vormundschaftl.*:: Abbreviation of _vormundschaftlich_, meaning “guardianship-related”; referring here to the administration of estates under guardianship.
+
+*Rentcammer*:: A financial or administrative office responsible for managing revenue and property, akin to a treasury.
+
+*Cammercasse*:: The treasury or financial chest of the comital domain.
+
+*Kaufbrief*:: A purchase document or contract, confirming the official transfer of property.
+
+*käuflich überlaßen*:: To sell and transfer ownership officially.
+
+*Quadrat: Rute*:: Square rod (Rute); a unit of area. The colon here functions as an abbreviation mark.
+
+*Mariengroschen*:: A historical coin used in parts of Germany, often used in accounting in the 18th and early 19th centuries.
+
+*beeidigter Landmeßer*:: A sworn land surveyor.
+
+*Ruthen*, *Fus*, *dec:*, *gros*:: Archaic units of measurement: rods, feet, and likely abbreviations of _decimal_ and _gross_ respectively.
+
+*Rottzins*:: A type of feudal ground rent or lease payment tied to use of uncultivated or newly cleared land.
+
+*Kontribution*:: A form of tax or contribution owed by subjects, often used in military or general taxation contexts.
+
+*gewöhnliche und außerordentliche Abgaben*:: Regular and extraordinary levies or dues.
+
+*geschützet*:: Archaic spelling of _geschützt_, meaning protected.
+
+*zur Urkund*:: As legal confirmation or attestation.
+
+*statt Kaufebriefs*:: In place of a formal purchase deed/document.
+
+*beÿgedruckten*:: With the printed (or affixed) [seal] — “beÿ” is an archaic spelling of “bei” (at/with).
+
+*Cam̅ersiegel*:: The official seal of the comital treasury or chamber. The overline on the “m” indicates a contraction: “Cam̅er” = “Cammer”.
+
+*ausgefertiget*:: Archaic form of _ausgefertigt_, meaning issued or executed (in legal/administrative context).
+
+*Director und Räthe*:: Director and councillors — the officials empowered to authorize the document.
+
+*Expedirt p. Beÿer*:: Dispatched/processed by Beÿer; a note indicating the scribe or official responsible for drafting or processing the document.
+
+*Erben*:: Heirs.
+
+*Urkund*:: Deed or documentation.
+
+
+
