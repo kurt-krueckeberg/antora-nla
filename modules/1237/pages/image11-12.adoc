@@ -15,7 +15,7 @@ image::0012.png[align=left,title='Decision on Jobst Heinrich Krückeberg's Petit
 
 == Transliteration and Translation
 
-[cols="1a,1a"]
+[cols="1a,2a"]
 |===
 |Translation|Translation
 
