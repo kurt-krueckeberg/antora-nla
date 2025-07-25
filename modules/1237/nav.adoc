@@ -9,5 +9,5 @@
 * xref:image3-overview.adoc[] 
 ** xref:image3-petition.adoc[]
 ** xref:image3-report-and-response.adoc[]
-* TODO:images 4-11
+* *TODO:* Images 4-11
 * xref:image11-12.adoc[]
