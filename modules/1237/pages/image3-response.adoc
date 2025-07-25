@@ -10,8 +10,8 @@ administrative directives:
 
 * Instructing the local officials to investigate other possibly unauthorized garden expansions in Berenbusch and to report back.
 
-It was written in the left margin the Land Assignment Report and encroaches on the text of the Land
-Assigment Report.
+It was written in the left margin the Land Assignment Report and encroaches on its text. In this
+image the text of the Land Assigment Report has been erased to aid readability.
 
 image::003-right-page-left-margin-text.png[link=self]
 
