@@ -7,11 +7,12 @@ image::003-left-bot.png[link=self]
 
 [verse]
 ____
-hupplu
-Bückeburg D. 19 Mai 1798
-Lindeman
-pro A
-
+[verse]
+____
+Supplic.                          unterschriebner  
+Bückeburg d. 29t. Mai 1798.       Col. Krückeberg N. 10 zu Beren-  
+Lindemann geh.                    busch  
+pro St.                           
 ____
 
 == Translation
