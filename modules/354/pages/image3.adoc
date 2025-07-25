@@ -21,7 +21,7 @@ auff
 
 [options="header"]
 |===
-| Bidder                       | Reichstaler | Groschen
+| Bidder                       | G (Gebot in Reichstaler) | Groschen
 
 | Frantz Krückeberg            | 15          | 
 | H. Receptor Reinecke         | 16          | 
@@ -37,8 +37,11 @@ auff
 ****
 [NOTE]
 ====
-Column headers do not appear in the text. The table documents the Subhasta (Public Auction) held in 1721,
-concerning the sale of Jobst Krückeberg’s house in a bankruptcy proceeding.
+The first currency column is labeled "G" in the original, likely short for "Gebot" (bid).
+The second column is unlabeled but contains Groschen in one row (value < 24).
+
+The table documents the Subhasta (Public Auction) held in 1721, concerning the sale of Jobst
+Krückeberg’s house in a bankruptcy proceeding.
 
 The competitive bidding was recorded in the common currency of the time. Schaumburg-Lippe and surrounding
 principalities (including Prussia, which held terrority nearby, and Hanover) used a well-established Reichstaler-based
