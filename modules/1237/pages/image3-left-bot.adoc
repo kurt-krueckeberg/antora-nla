@@ -7,10 +7,10 @@ image::003-left-bot.png[link=self]
 
 [verse]
 ____
-Supplic.                                               unterschriebner  
-Bückeburg d. 29t. Mai 1798.       Col. Krückeberg N. 10 zu Beren-  
-Lindemann geh.                             busch  
-pro St.                           
+Supplic.                        
+Bückeburg d. 29t. Mai 1798.       unterschriebner  
+Lindemann geh.                    Col. Krückeberg N. 10 zu Beren-  
+pro St.                                    busch                          
 ____
 
 == Translation
