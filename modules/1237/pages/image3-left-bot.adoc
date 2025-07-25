@@ -7,8 +7,6 @@ image::003-left-bot.png[link=self]
 
 [verse]
 ____
-[verse]
-____
 Supplic.                          unterschriebner  
 Bückeburg d. 29t. Mai 1798.       Col. Krückeberg N. 10 zu Beren-  
 Lindemann geh.                    busch  
@@ -19,6 +17,4 @@ ____
 
 [verse]
 ____
-
-
 ____
