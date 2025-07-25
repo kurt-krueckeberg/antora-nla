@@ -1,0 +1,129 @@
+= Land Assignment Report for Jobst Heinrich Krückeberg (1799–1800)
+:page-role: wide
+
+image::003-right-page-main-text.png[link=self]
+
+[role="section-narrow"]
+== Transliteration
+
+[verse]
+____
+pr: 6. Merz 1799  
+Cam: N: 53.  
+2 1.  
+Forst-Sachen  
+
+An  
+Vormundschaftliche Cammer  
+Bericht  
+der Aemter Bückeburg und  
+Arensburg.  
+
+Betr.  
+Ausweisung  
+
+In der Anlage remittiren wir die  
+Vorstellung des Brinksitzers Jobst  
+Henr: Krückeberg N 10 zu Beren-  
+busch mit der Anzeige, daß unter  
+den Einwohnern der Dorfschaften  
+Berenbusch, Nordtholtz und Evesen  
+nur allein der sehr wohl begütherte  
+Köter Weiland et. zu Berenbusch  
+sich als unzufrieden über die vor-  
+habende Ausweisung bezeigt hat.  
+indem er eines Theils selbsten  
+diesen Platz zu überkommen wünscht  
+und andern Theils vorgiebt, daß  
+ihm der Weg zur Einfahrt seiner  
+Früchte zu sehr beengt würde.  
+
+Wir werden bey der Ausmeßung  
+dieses näher beurtheilen und  
+dahin seyn, daß ihm wegen der  
+Einfahrt keine gegründete Be-  
+schwerde
+____
+
+[role="section-narrow"]
+== Glossary of Terms and Archaic Spellings
+
+*Vormundschaftliche Kammer*::
+Literally "Guardianship Chamber", but in the context of early modern German
+principalities like Schaumburg-Lippe, this refers to a fiscal-administrative
+authority operating under a regency or in the absence of a ruling count. It
+handled official matters such as land sales, rents, taxation, and resource
+management. It did not primarily concern itself with the guardianship of
+individuals, but rather served as the ruling administrative body.
+
+*remittiren*:: An older spelling of *remittieren*, meaning to submit, transmit,
+or refer officially. In this administrative context, it means to formally send
+a report or petition from a lower authority (like a local Amt) to a higher
+authority (like the Vormundschaftliche Kammer) for decision or approval.
+
+*Betr.*:: Abbreviation for *Betreff*, meaning "subject" or "regarding." Commonly used in official documents to indicate the topic or reference line.
+
+*Ausweisung*:: Allotment or designation of land, often used in administrative or land management contexts.
+
+*beurtheilen*:: Archaic spelling of *beurteilen*, meaning "to judge" or "to assess".
+
+*Cammer*:: Archaic form of *Kammer*, meaning "chamber" or "department", often used in historical administrative contexts such as *Rentkammer* (revenue chamber).
+
+*Erbtheil*:: Archaic compound of *Erbteil*, meaning "inheritance share". *Theil* is the older spelling of *Teil* ("part").
+
+*Früchte*:: Literally "fruits", in this context referring to harvested crops or produce.
+
+*Köter*:: Not a given name but a social designation in rural contexts; refers to a cottager or smallholder (German: *Kötter*). It was sometimes used before the person's name.
+
+*Platz*:: A plot or parcel of land.
+
+*Rottzins*:: A type of feudal land rent (often a quit-rent) payable by tenants for cleared land (*Rodung* = clearing).
+
+*sehn*:: Likely an archaic or regional variant spelling of *sein* ("to be"). In this context, the verb *dahin sein* is part of a periphrastic construction implying intent or obligation (e.g., "to make sure" or "to ensure"). It is almost certainly a Kurrentschrift “h” in the image, and the meaning is parallel to *sein*, not *sehen* ("to see").
+
+*Theil*:: Archaic form of *Teil*, meaning "part" or "portion". Common in 18th–19th century German.
+
+*Vormundschaftlich(e)*:: Pertaining to guardianship, used in administrative contexts (e.g., *vormundschaftliche Kammer* = "guardianship chamber", i.e., a noble fiscal or estate authority acting on behalf of a minor or estate).
+
+*Weg zur Einfahrt*:: The route or access path for bringing in goods (e.g., agricultural produce).
+
+[role="section-narrow"]
+== Translation
+
+[verse]
+____
+March 6, 1799  
+Chamber No. 53.  
+2 1.  
+Forestry Matters  
+
+To  
+the Guardianship Chamber  
+
+Report  
+from the Offices of Bückeburg and  
+Ahnsen.  
+
+Subject:  
+Land Assignment  
+
+Enclosed we remit the petition of the smallholder Jobst  
+Henrich Krückeberg No. 10 of Berenbusch,  
+with the note that among the residents of the villages  
+Berenbusch, Nordholz, and Evesen,  
+only the well-to-do Köter named Weiland in Berenbusch  
+has expressed dissatisfaction with the proposed  
+assignment,  
+partly because he himself wishes to obtain  
+this plot,  
+and partly because he claims that  
+his access route for bringing in his crops  
+would be too restricted.  
+
+We will assess this more closely during  
+the survey, and  
+ensure that no legitimate  
+complaint arises regarding  
+his access.
+____
+
