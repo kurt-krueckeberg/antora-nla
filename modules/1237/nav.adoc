@@ -9,5 +9,4 @@
 * xref:image3-overview.adoc[] 
 ** xref:image3-petition.adoc[]
 ** xref:image3-report-and-response.adoc[]
-** xref:image3-left-page-text.adoc[]
 * xref:image11-12.adoc[]
