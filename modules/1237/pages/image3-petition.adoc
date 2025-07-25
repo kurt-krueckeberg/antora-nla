@@ -1,0 +1,109 @@
+= Petition of Jobst Heinrich Krückeberg
+:page-role: wide
+
+The petition of Jobst Heinrich Krückeberg appears on the left page of image 3. The petition was accompanied by a
+Land Assignment Report. It requests:
+
+* To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
+* For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
+* Concludes with a formulaic expression of respect to the ruling authorities (Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden).
+
+The personal petiton of Jobst Heinrich Krückeberg was sent by the *Ämter Bückeburg und Arensburg* (local
+adminstrative offices of Bückeburg and Arenburg) along with their report to the *Gräflich vormundschaftliche
+Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative authority for land
+and estate matters. 
+
+image::003-left-main-txt.png[link=self]
+
+=== Transliteration of Jobst Heinrich Krückeberg's Petition
+
+[verse]
+____
+unterthänigst bitte
+
+Mir jene Ecke gnädigst footnote:gnad[“Most graciously,” a deferential expression used in petitions to noble authorities.] für
+einen billigen Preis footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.] käuflich zu
+überlassen und dieselbe deßhalb
+baldigst footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.] besichtigen und ausmessen footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
+zu lassen.
+
+In tiefster Ehrfurcht verharre ich footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
+Ewr. Durchlauchten footnote:durch[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
+und
+Ewr. Hochgräflichen Gnaden footnote:hochg[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
+
+Durchlauchtigste Fürstin!
+Gnädigst Regierende Fürstin und Frau
+Hochgeborner Graf!
+Gnädigst Regierender Graf und Herr
+____
+
+=== Glossary of Honorifics and Formal Language
+
+gnädigst:: “Most graciously,” a deferential expression used in petitions to noble authorities.
+
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
+
+Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+Durchlauchtigste Fürstin:: “Most Serene Princess,” a formal closing salutation to a ruling princess.
+
+Gnädigst Regierende Fürstin und Frau:: “Most Gracious Ruling Princess and Lady,” another closing title.
+
+Hochgeborner Graf:: “High-born Count,” a ceremonial address for a noble count.
+
+Gnädigst Regierender Graf und Herr:: “Most Gracious Ruling Count and Lord,” another ceremonial closing address.
+
+
+=== Translation of Jobst Heinrich Krückeberg's Petition
+
+[verse]
+____
+I most humbly request
+
+that the corner of land be most graciously sold to me
+for a fair price, and that it therefore
+be inspected as soon as possible and measured
+for this purpose.
+
+With deepest respect, I remain before
+Your Serene Highness
+and
+Your High Comital Grace.
+
+Most Serene Princess!
+Most Gracious Ruling Princess and Lady,
+High-born Count!
+Most Gracious Ruling Count and Lord.
+____
+
+== Endorsement of the Petition 
+
+This brief endorsement identifies the petitioner — Colon Krückeberg of house
+number 10 in Berenbusch — and confirms that the petition was submitted by
+Lindemann acting on his behalf. The abbreviation “geh.” (short for “gehörig” or
+“gegenwärtig”) indicates that Lindemann is formally representing Krückeberg in
+this matter. The abbreviation “pro St.” is short for *pro Supplicante* (Latin),
+meaning “on behalf of the supplicant.” Such endorsements were common in 18th-
+and early 19th-century administrative practice when formal petitions were
+delivered by representatives or clerks.
+
+image::003-left-bot.png[link=self]
+
+== Transliteration and Translation of Endorsement of the Petition
+
+[verse]
+____
+Supplic.                        
+Bückeburg d. 29t. Mai 1798.             unterschriebner  
+Lindemann geh.                          Col. Krückeberg N. 10 zu Beren-  
+pro St.                                          busch                          
+____
+
+[verse]
+____
+Petition.  
+Bückeburg, the 29th of May 1798.  Signed  
+Lindemann, on behalf  Colon [=Farmer] Krückeberg No. 10 in Berenbusch  
+on behalf of the supplicant  
+____
