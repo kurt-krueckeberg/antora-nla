@@ -1,10 +1,9 @@
 = Written Reqeust
 :page-role: wide
 
-This text, written in a smaller hand, appears underneath the text of the
-forestry report. Based on its content and style, it is almost certainly written
-by Herr Krückeberg himself (or dictated by him and written in his name). Notice
-these expressions:
+This text, written in a smaller hand, appears underneath the forestry report.
+Based on its content and style, it is almost certainly written by Herr Krückeberg
+himself (or dictated by him and written in his name). Notice these expressions:
 
 * “Nahe an *meinem* Garten …” (Close to my garden)
 * “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
