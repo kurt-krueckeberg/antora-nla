@@ -6,7 +6,7 @@
 ** xref:image2-proceedings.adoc[]
 ** xref:image2-honorifics.adoc[]
 ** xref:image2-bottom-text.adoc[]
-* TODO:Add Overview of Image 3 Content
+* xref:image3-overview.adoc[] 
 ** xref:image3-land-assignment-report.adoc[]
 ** xref:image3-response.adoc[] 
 ** xref:image3-left-page-text.adoc[]

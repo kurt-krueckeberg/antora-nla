@@ -3,7 +3,7 @@
 
 image::003-right-page.png[link=sefl]
 
-[reol="section-narrow"]
+[role="section-narrow"]
 == Overview
 
 The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the *Ämter Bückeburg

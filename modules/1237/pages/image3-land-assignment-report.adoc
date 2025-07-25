@@ -1,6 +1,8 @@
 = Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799
 :page-role: wide
 
+This is the Land Assigment Report issued by the
+
 image::003-right-page-main-text.png[link=self]
 
 [role="section-narrow"]
