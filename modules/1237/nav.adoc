@@ -6,8 +6,7 @@
 ** xref:image2-proceedings.adoc[]
 ** xref:image2-honorifics.adoc[]
 ** xref:image2-bottom-text.adoc[]
-* TODO: Complete image three
-** xref:image3-main-text.adoc[]
+* xref:image3-main-text.adoc[]
 ** xref:image3-opposite-pg-main-text.adoc[]
 ** xref:image3-left-bot.adoc[]
 * xref:image11-12.adoc[]
