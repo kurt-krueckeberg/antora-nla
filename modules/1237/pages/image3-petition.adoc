@@ -81,31 +81,41 @@ ____
 
 == Endorsement of the Petition 
 
-This brief endorsement identifies the petitioner — Colon Krückeberg of house
-number 10 in Berenbusch — and confirms that the petition was submitted by
-Lindemann acting on his behalf. The abbreviation “geh.” (short for “gehörig” or
-“gegenwärtig”) indicates that Lindemann is formally representing Krückeberg in
-this matter. The abbreviation “pro St.” is short for *pro Supplicante* (Latin),
-meaning “on behalf of the supplicant.” Such endorsements were common in 18th-
-and early 19th-century administrative practice when formal petitions were
-delivered by representatives or clerks.
+This brief note appears at the bottom of Jobst Heinrich Krückeberg’s petition
+to the authorities. It confirms that the petition was submitted in Bückeburg on
+May 29, 1798, and was written not by Krückeberg himself, but by a scribe or
+clerk named Lindemann, likely employed by the chancery or local administration.
+The phrase "pro St." is shorthand for pro Statu, meaning “by order” or “on
+behalf [of the authority].” It implies that Lindemann drafted the petition
+officially or in accordance with administrative procedure. The note concludes
+with “unterschriebner” (signed) and identifies Krückeberg by name and house
+number, serving as a formal signature or attestation. The handwriting and
+format strongly suggest that Krückeberg dictated or authorized the petition
+rather than writing it personally.
 
 image::003-left-bot.png[link=self]
 
-== Transliteration and Translation of Endorsement of the Petition
+=== Transliteration and Translation of Endorsement of the Petition
 
 [verse]
 ____
-Supplic.                        
-Bückeburg d. 29t. Mai 1798.             unterschriebner  
-Lindemann geh.                          Col. Krückeberg N. 10 zu Beren-  
-pro St.                                          busch                          
+Supplic.  
+Bückeburg d. 29t. Mai 1798.  
+Lindemann geh.  
+pro St.
+
+unterschriebner  
+Col. Krückeberg N. 10 zu Berenbusch  
 ____
 
 [verse]
 ____
 Petition.  
-Bückeburg, the 29th of May 1798.  Signed  
-Lindemann, on behalf  Colon [=Farmer] Krückeberg No. 10 in Berenbusch  
-on behalf of the supplicant  
+Bückeburg, May 29, 1798.  
+Lindemann, written on behalf of  
+by order.
+
+signed  
+Col. Krückeberg No. 10 at Berenbusch  
 ____
+
