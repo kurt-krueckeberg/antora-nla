@@ -5,7 +5,7 @@ The text berlow appears to the right of the main text of the proceedings. It is 
 much smaller to the right of forestry report.
 
 It appears to be a set of trial honorific forms of address. These phrases—such as
-"Durchlauchtigste Fürstin!" and "Hochgeborner Graf!"—were likely drafted by the
+*"Durchlauchtigste Fürstin!"* and *"Hochgeborner Graf!"*—were likely drafted by the
 clerk to determine the proper formal salutation for official correspondence
 concerning the Krückeberg case. In 18th-century Schaumburg-Lippe, land-related
 petitions like this often required communication with or approval from the
