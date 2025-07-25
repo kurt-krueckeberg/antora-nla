@@ -1,8 +1,8 @@
 = Honorifics
 :page-role: wide
 
-This text appears to the right of the main text of the proceedings. It is written much smaller to the
-right of forestry report.
+The text berlow appears to the right of the main text of the proceedings. It is written
+much smaller to the right of forestry report.
 
 It appears to be a set of trial honorific forms of address. These phrases—such as
 "Durchlauchtigste Fürstin!" and "Hochgeborner Graf!"—were likely drafted by the
