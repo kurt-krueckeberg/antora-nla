@@ -1,4 +1,4 @@
-= Land Assignment Report for Jobst Heinrich Krückeberg (1799–1800)
+= Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799
 :page-role: wide
 
 image::003-right-page-main-text.png[link=self]
