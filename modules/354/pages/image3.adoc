@@ -5,21 +5,64 @@ image::003.png[link=self]
 
 == Transliteration and Translation
 
-[cols="1a,2a"]
+
+....
+Actum d. 15ten Xbris 1721.
+
+In heutigen Subhastation
+werden nach angesagte
+drey Lieffern, das zuerst
+Jobst Krückebergs Haus durch
+den Diener öffentlich aus-
+gerufen, und bestes Gebot dar-
+auff
+....
+
+
+[options="header"]
 |===
-|Transliteration|Translation
+| Bidder                       | Reichstaler | Groschen
 
-|
-[verse]
-____
-____
-
-|
-[verse]
-____
-____
-
+| Frantz Krückeberg            | 15          | 
+| H. Receptor Reinecke         | 16          | 
+| H. Bürgermeister Lindemann   | 17          | 
+| N. Lindemann                 | 20          | 
+| Frantz Krückeberg            | 21          | 
+| idem ["same person as above"]| 22          | 
+| M. Reinecke                  | 23          | 
+| Frantz Krückeberg            | 23          | 18
 |===
 
-[role="section-narrow"]
-== Glossary of Terms
+.Explantion of Table
+****
+[NOTE]
+====
+Column headers do not appear in the text. The table documents the Subhasta (Public Auction) held in 1721,
+concerning the sale of Jobst Krückeberg’s house in a bankruptcy proceeding.
+
+The competitive bidding was recorded in the common currency of the time. Schaumburg-Lippe and surrounding
+principalities (including Prussia, which held terrority nearby, and Hanover) used a well-established Reichstaler-based
+system:
+
+[width="50%"]
+|===
+|Unit	|Description
+
+|1 Reichstaler	Main|currency unit
+
+|1 Reichstaler = 24 Groschen|Standard subdivision
+
+|(Sometimes: 1 Groschen = 12 Pfennige)|Smaller units
+|===
+
+This currency structure was so common that numeric columns without headers were universally understood as Taler and
+Groschen, unless otherwise stated.
+====
+****
+
+....
+H. Ren.
+Als nun woraufft das Liech[t]
+....
+
+
