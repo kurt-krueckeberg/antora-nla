@@ -1,4 +1,5 @@
 =  Response to Land Assignment Report
+:page-role: wide
  
 This *marginal note* is a response to the xref:image3-land-assignment-report[remitted report], but
 not a formal reply addressed to Krückeberg. It is an internal instruction, filed with the main
