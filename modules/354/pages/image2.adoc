@@ -3,17 +3,12 @@
 
 image::002.png[link=self]
 
-== Transliteration and Translation
+== Transliteration
 
-[cols="1a,2a"]
-|===
-|Transliteration|Translation
+=== Actum d. 24. 9br. 1725.
 
-|
 [verse]
 ____
-Actum d. 24. 9br. 1725.
-
 Erschien H. Reinecke, stellete vor,  
 wasgestalt Jobst Krückenbergs an Hoffe  
 des H. Drosten von dem Brinck be-  
@@ -40,11 +35,12 @@ auf den 15. künftigen
 Monats Xbr. Dec. eod.
 ____
 
-|
+== Translation
+
+=== Actum [Held] on the 24th of November 1725.
+
 [verse]
 ____
-Actum [Held] on the 24th of November 1725.
-
 Mr. Reinecke appeared and presented the following:
 
 That Jobst Krückeberg’s house on the estate of the Lord Drost von dem Brinck
@@ -64,9 +60,6 @@ entry in the church book,
 and the day for the public auction
 is scheduled for the 15th
 of the upcoming month of December of this year.
-____
-
-|===
 
 [role="section-narrow"]
 == Glossary of Terms
