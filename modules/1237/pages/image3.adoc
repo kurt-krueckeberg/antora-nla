@@ -1,0 +1,7 @@
+= Image 4
+
+image::004.png[link=self]
+
+== Transliteration and Translation
+
+
