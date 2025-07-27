@@ -231,6 +231,11 @@ image::003-right-page-left-margin-text.png[link=self]
 
 === Transliteration of Official Response to Petition and Land Assignment Report
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
 Res Cam  
@@ -251,6 +256,18 @@ März
 
 M
 ____
+
+|
+[verse, Response from the Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber)]
+____
+The plot is therefore to be allocated, and since various residents in
+Berenbusch are said to have enlarged their gardens on their own authority, the
+officials are to obtain further information about this and report accordingly.
+
+B[ückeburg], 10 March
+M[aas]
+____
+|===
 
 === Translation of Official Response to Petition and Land Assignment Report
 
