@@ -4,8 +4,8 @@
 [role="image-pair"]
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::03-left-page.jpg[]
-|image::03-right-page.jpg[]
+|image::03-left-page.jpg[role="image-pair-img"]
+|image::03-right-page.jpg[role="image-pair-img"]
 |===
 
 [role="section-narrow"]
