@@ -45,7 +45,7 @@ body.wide .doc
     display: block;
 }
 
-img.image-pair-img {
+.image-pair img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   background: white;
@@ -53,6 +53,7 @@ img.image-pair-img {
   max-width: 100%;
   height: auto;
 }
+
 
 /* 
 Note: The Poppins font (and the Comfortaa font) are enabled using the Goolge font API in the
