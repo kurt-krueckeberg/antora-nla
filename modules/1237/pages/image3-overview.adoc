@@ -1,19 +1,42 @@
 = Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[%header,cols="1a,1a",frame=none,grid=none]
 |===
+^|Accompanying Petition of +
+
+Jobst Heinrich Krückeberg (left page) ^|Land Assignment Report (right page)
+
 |image::03-left-page.jpg[role=image-pair]
+
 |image::03-right-page.jpg[role=image-pair]
 |===
 
 [role="section-narrow"]
 == Overview
 
-The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the *Ämter Bückeburg
-und Arensburg* (local adminstrative offices of Bückeburg and Arenburg). They are reporting to the *Gräflich
-vormundschaftliche Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative authority
-for land and estate matters. 
+=== Petition of Jobst Heinrich Krückeberg
+
+The petition of Jobst Heinrich Krückeberg appears on the left page of image 3. It requests:
+
+* To purchase the corner of land for a fair price.
+
+* For the land to be inspected and measured. 
+
+* Concludes with a formulaic expression of respect to the ruling authorities (*Ewr. Durchlauchten* und *Ewr.
+* Hochgräflichen Gnaden*).
+
+The personal petiton of Jobst Heinrich Krückeberg was sent by the *Ämter Bückeburg und Arensburg* (local
+adminstrative offices of Bückeburg and Arenburg) along with their report to the *Gräflich vormundschaftliche
+Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative authority for land
+and estate matters.
+
+=== The Land Assignment Report
+
+On the right page, the "main text", the larger text on the page, is the *The Land Assignment Report* issued by the
+*Ämter Bückeburg und Arensburg* (local adminstrative offices of Bückeburg and Arenburg). They are reporting to the
+*Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative
+authority for land and estate matters. 
 
 The report describes:
 
