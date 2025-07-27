@@ -1,0 +1,261 @@
+= Land Assignment Report for Jobst Heinrich Krückeberg and Its Response
+:page-role: wide
+
+== Land Assignment Report
+
+This is the Land Assigment Report issued by the issued by the *Ämter Bückeburg und Arensburg* (local
+adminstrative offices of Bückeburg and Arenburg). They are reporting to the *Gräflich vormundschaftliche
+Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative authority for
+land and estate matters. It was sent along with the personal petition of Jobst Heinrich Krückeberg.
+
+The response to their report was also written on the left side of this report; however, in this image,
+in the image below it has been removed to improve the readability of the report. The response folows
+follows late below.
+
+=== Land Assignment Report: Key Points
+
+* The request from *Jobst Heinrich Krückeberg*, a _Brinksitzer_ (smallholder) residing at No. 10 in Berenbusch, to obtain a piece of land to enlarge his garden and farmyard.
+
+* A local objection raised by a *Köter* (an older term for a small cottager with minimal land rights; see glossary) named *Weiland*, also from Berenbusch, who:
+** Expressed dissatisfaction with the planned assignment.
+** Claimed he himself wanted to acquire the same plot.
+** Argued the land reassignment would restrict his access for transporting crops.
+
+* An assurance from the local authorities (the Ämter Bückeburg and Arensburg) that this access issue would be examined more closely during the land survey (_Ausmeßung_), but initial assessment suggested the objection had no valid basis.
+
+* _Additional finding_: The actual cause of Weiland’s objection seemed to be that he had *illegally planted willow trees* (_Weiden Bäumen_) on the plot in question—i.e. he had already started using it without authorization.
+
+* Final judgment: Since the planting had been done *without permission* (_eigenmächtiger Weise_), this act did not constitute a legal claim to the land, and there were *no legitimate grounds* to deny Krückeberg’s requested assignment.
+
+image::003-right-page-main-text.png[link=self]
+
+image::004.png[link=self]
+
+[role="section-narrow"]
+
+=== Transliteration of Land Assignment Report
+
+This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
+
+[verse]
+____
+pr: 6. Merz 1799  
+Cam: N: 53.  
+2 1.  
+Forst-Sachen  
+
+An  
+Vormundschaftliche Cammer  
+Bericht  
+der Aemter Bückeburg und  
+Arensburg.  
+
+Betr.  
+Ausweisung  
+
+In der Anlage remittiren wir die  
+Vorstellung des Brinksitzers Jobst  
+Henr: Krückeberg N 10 zu Beren-  
+busch mit der Anzeige, daß unter  
+den Einwohnern der Dorfschaften  
+Berenbusch, Nordtholtz und Evesen  
+nur allein der sehr wohl begütherte  
+Köter Weiland et. zu Berenbusch  
+sich als unzufrieden über die vor-  
+habende Ausweisung bezeigt hat.  
+indem er eines Theils selbsten  
+diesen Platz zu überkommen wünscht  
+und andern Theils vorgiebt, daß  
+ihm der Weg zur Einfahrt seiner  
+Früchte zu sehr beengt würde.  
+
+Wir werden bey der Ausmeßung  
+dieses näher beurtheilen und  
+dahin seyn, daß ihm wegen der  
+Einfahrt keine gegründete Be-  
+schwerde übrig bleibt. Vorzüglich 
+veranlaßt ihn die wegzu nehmende
+Bepflanzung dieses Platzes mit
+Weiden Bäumen zum geäußerten
+Wiederspruch [Widerspruch] der also, weil der-
+selbe diesen Platz eigenmächtiger
+Weise bepflanzt hat, nicht vor
+der Art ist, daß deshalb der
+gebethenen Ausweisung nicht zu
+deferire stehe mögte.
+L Buckeburg 27ten Febr.
+1799                   H. Habicht.           Stölting
+____
+
+[role="section-narrow"]
+=== Glossary of Terms and Archaic Spellings
+
+*Vormundschaftliche Kammer*:: Literally "Guardianship Chamber", but in the context of early modern German
+principalities like Schaumburg-Lippe, this refers to a fiscal-administrative authority operating under a regency or
+in the absence of a ruling count. It handled official matters such as land sales, rents, taxation, and resource
+management. It did not primarily concern itself with the guardianship of individuals, but rather served as the
+ruling administrative body.
+
+*remittiren*:: An older spelling of *remittieren*, meaning to submit, transmit, or refer officially. In this
+administrative context, it means to formally send a report or petition from a lower authority (like a local Amt) to
+a higher authority (like the Vormundschaftliche Kammer) for decision or approval.
+
+*Betr.*:: Abbreviation for *Betreff*, meaning "subject" or "regarding." Commonly used in official documents to
+indicate the topic or reference line.
+
+*Ausweisung*:: Allotment or designation of land, often used in administrative or land management contexts.
+
+*beurtheilen*:: Archaic spelling of *beurteilen*, meaning "to judge" or "to assess".
+
+*Cammer*:: Archaic form of *Kammer*, meaning "chamber" or "department", often used in historical administrative
+contexts such as *Rentkammer* (revenue chamber).
+
+*Erbtheil*:: Archaic compound of *Erbteil*, meaning "inheritance share". *Theil* is the older spelling of *Teil*
+("part").
+
+*Früchte*:: Literally "fruits", in this context referring to harvested crops or produce.
+
+*Köter*:: Not a given name but a social designation in rural contexts; refers to a cottager or smallholder (German:
+*Kötter*). It was sometimes used before the person's name.
+
+*Platz*:: A plot or parcel of land.
+
+*Rottzins*:: A type of feudal land rent (often a quit-rent) payable by tenants for cleared land (*Rodung* =
+clearing).
+
+*sehn*:: Likely an archaic or regional variant spelling of *sein* ("to be"). In this context, the verb *dahin sein*
+is part of a periphrastic construction implying intent or obligation (e.g., "to make sure" or "to ensure"). It is
+almost certainly a Kurrentschrift “h” in the image, and the meaning is parallel to *sein*, not *sehen* ("to see").
+
+*Theil*:: Archaic form of *Teil*, meaning "part" or "portion". Common in 18th–19th century German.
+
+*Vormundschaftlich(e)*:: Pertaining to guardianship, used in administrative contexts (e.g., *vormundschaftliche
+Kammer* = "guardianship chamber", i.e., a noble fiscal or estate authority acting on behalf of a minor or estate).
+
+*Weg zur Einfahrt*:: The route or access path for bringing in goods (e.g., agricultural produce).
+
+*Bepflanzung*:: Planting or cultivation of vegetation, usually in a specific area. In this context, refers to the
+unauthorized planting of willow trees on the disputed land.
+
+*Weiden Bäume*:: Willow trees. Willow planting may have been used to indicate land use or claim over a piece of
+ground.
+
+*eigenmächtiger Weise*:: Unlawfully or without official permission. Literally, “in an arbitrary or unauthorized
+manner.”
+
+*deferire*:: (Latin) “to defer to” or “to grant.” Used in formal decisions, often meaning “to comply with” or “to
+yield to a request.” Here, the phrase *nicht zu deferire stehe mögte* implies that the authorities found no
+obligation to defer to the objection.
+
+*nicht vor der Art ist*:: A somewhat archaic legal phrase meaning “is not of the kind” or “not of the nature” that
+would justify a specific action (here, denying the land assignment).
+
+*vorzüglich*:: Especially, particularly. Used to emphasize a specific cause or detail (e.g., “vorzüglich veranlaßt”
+= “especially caused by”).
+
+[role="section-narrow"]
+=== Translation of Land Assignment Report, March 6, 1799
+
+[verse]
+____
+[verse]
+____
+Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799  
+Chamber No. 53  
+2 1.  
+Forestry Matters  
+
+To  
+Guardianship Chamber  
+Report  
+of the Offices of Bückeburg and  
+Arensburg.  
+
+Re:  
+Land Assignment  
+
+Attached we remit the petition of the smallholder Jobst  
+Henr[ich] Krückeberg No. 10 in Beren-  
+busch along with the report that among  
+the residents of the villages  
+Berenbusch, Nordholz, and Evesen  
+only the very well-to-do  
+Köter (tenant smallholder) Weiland of Berenbusch  
+has expressed dissatisfaction about the  
+proposed assignment,  
+since on the one hand he himself  
+wishes to obtain this plot,  
+and on the other hand claims that  
+his access route for transporting his  
+harvests would be overly restricted.  
+
+We will assess this more closely  
+during the surveying process and  
+be of the opinion that regarding the  
+access route no legitimate  
+objection remains.  
+
+In particular, what prompted his  
+objection is the planting  
+of this plot with willow trees,  
+which he had undertaken on his own  
+initiative. However, this  
+does not constitute  
+a valid reason to refuse  
+the requested assignment.  
+
+Bückeburg, February 27,  
+1799  
+H. Habicht.     Stölting
+____
+
+
+== Official Response to Petition and Land Assignment Report
+
+The *marginal note* in the image is a response to the remitted xref:image3-land-assignment-report[Land
+Assignment Report], but not a formal reply addressed to Krückeberg. It is an internal instruction,
+filed with the main document for reference and action. It is a reaction from the higher office (the
+Kammer), giving administrative directives:
+
+* Approving the allocation of the parcel (so Krückeberg’s request is likely approved).  Instructing the local
+* officials to investigate other possibly unauthorized garden expansions in Berenbusch and to report back.
+
+It was written in the left margin the Land Assignment Report and encroaches on its text. To aid readability, the
+text of the Land Assigment Report has been erased from the imaage.
+
+image::003-right-page-left-margin-text.png[link=self]
+
+=== Transliteration of Official Response to Petition and Land Assignment Report
+
+[verse]
+____
+Res Cam  
+Der Platz ist also  
+auszuweisen, und da verschiedene  
+Einwohner in Berenbusch ihre  
+Gärten eigenmächtig vergrößert  
+haben sollen; so haben die Beamte  
+darüber  
+nähere  
+Auskunft  
+einzuziehen  
+und darüber  
+zu berichten.  
+
+B. 10.  
+März  
+
+M
+____
+
+=== Translation of Official Response to Petition and Land Assignment Report
+
+[verse, Response from the Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber)]
+____
+The plot is therefore to be allocated, and since various residents in
+Berenbusch are said to have enlarged their gardens on their own authority, the
+officials are to obtain further information about this and report accordingly.
+
+B[ückeburg], 10 March
+M[aas]
+____
