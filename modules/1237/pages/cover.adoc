@@ -1,4 +1,4 @@
-= Cover
+= Dossier Cover
 :page-role: wide
 
 image::cover.png[link=self]
