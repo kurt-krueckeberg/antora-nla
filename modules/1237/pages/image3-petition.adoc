@@ -91,28 +91,6 @@ Hochgeborner Graf:: “High-born Count,” a ceremonial address for a noble coun
 Gnädigst Regierender Graf und Herr:: “Most Gracious Ruling Count and Lord,” another ceremonial closing address.
 
 
-=== Translation of Jobst Heinrich Krückeberg's Petition
-
-[verse]
-____
-I most humbly request
-
-that the corner of land be most graciously sold to me
-for a fair price, and that it therefore
-be inspected as soon as possible and measured
-for this purpose.
-
-With deepest respect, I remain before
-Your Serene Highness
-and
-Your High Comital Grace.
-
-Most Serene Princess!
-Most Gracious Ruling Princess and Lady,
-High-born Count!
-Most Gracious Ruling Count and Lord.
-____
-
 == Endorsement of the Petition 
 
 This brief note appears at the bottom of Jobst Heinrich Krückeberg’s petition
@@ -131,6 +109,12 @@ image::003-left-bot.png[link=self]
 
 === Transliteration and Translation of Endorsement of the Petition
 
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
 Supplic.  
@@ -142,6 +126,7 @@ unterschriebner
 Col. Krückeberg N. 10 zu Berenbusch  
 ____
 
+|
 [verse]
 ____
 Petition.  
@@ -152,4 +137,4 @@ by order.
 signed  
 Col. Krückeberg No. 10 at Berenbusch  
 ____
-
+|===
