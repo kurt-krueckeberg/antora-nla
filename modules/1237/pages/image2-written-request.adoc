@@ -29,7 +29,7 @@ image::002-1-bottom-small-text-2.png[link=self]
 == Transliteration and Translation
 
 [cols="1a,1a"]
-|====
+|===
 |Translation|Transliteration
 
 |
