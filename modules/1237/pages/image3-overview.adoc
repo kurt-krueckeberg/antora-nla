@@ -1,7 +1,11 @@
 = Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
-image::003-right-page.png[link=self]
+[cols="1,1",frame=none,grid=none,options="noheader"]
+|===
+|image::03-left-page.jpg[]
+|image::03-right-page.jpg[]
+|===
 
 [role="section-narrow"]
 == Overview
