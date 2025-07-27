@@ -31,15 +31,12 @@ image::003-right-page-main-text.png[link=self]
 
 image::004.png[link=self]
 
-=== Transliteration and Translation of Land Assignment Report
+[role="section-narrow"]
+
+=== Transliteration of Land Assignment Report
 
 This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
 
-[cols="1a,1a"]
-|===
-|Transliteration|Translation
-
-|
 [verse]
 ____
 pr: 6. Merz 1799  
@@ -89,58 +86,6 @@ deferire stehe mögte.
 L Buckeburg 27ten Febr.
 1799                   H. Habicht.           Stölting
 ____
-|
-[verse]
-____
-Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799  
-Chamber No. 53  
-2 1.  
-Forestry Matters  
-
-To  
-Guardianship Chamber  
-Report  
-of the Offices of Bückeburg and  
-Arensburg.  
-
-Re:  
-Land Assignment  
-
-Attached we remit the petition of the smallholder Jobst  
-Henr[ich] Krückeberg No. 10 in Beren-  
-busch along with the report that among  
-the residents of the villages  
-Berenbusch, Nordholz, and Evesen  
-only the very well-to-do  
-Köter (tenant smallholder) Weiland of Berenbusch  
-has expressed dissatisfaction about the  
-proposed assignment,  
-since on the one hand he himself  
-wishes to obtain this plot,  
-and on the other hand claims that  
-his access route for transporting his  
-harvests would be overly restricted.  
-
-We will assess this more closely  
-during the surveying process and  
-be of the opinion that regarding the  
-access route no legitimate  
-objection remains.  
-
-In particular, what prompted his  
-objection is the planting  
-of this plot with willow trees,  
-which he had undertaken on his own  
-initiative. However, this  
-does not constitute  
-a valid reason to refuse  
-the requested assignment.  
-
-Bückeburg, February 27,  
-1799  
-H. Habicht.     Stölting
-____
-|===
 
 [role="section-narrow"]
 === Glossary of Terms and Archaic Spellings
@@ -207,6 +152,61 @@ would justify a specific action (here, denying the land assignment).
 
 *vorzüglich*:: Especially, particularly. Used to emphasize a specific cause or detail (e.g., “vorzüglich veranlaßt”
 = “especially caused by”).
+
+[role="section-narrow"]
+=== Translation of Land Assignment Report, March 6, 1799
+
+[verse]
+____
+Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799  
+Chamber No. 53  
+2 1.  
+Forestry Matters  
+
+To  
+Guardianship Chamber  
+Report  
+of the Offices of Bückeburg and  
+Arensburg.  
+
+Re:  
+Land Assignment  
+
+Attached we remit the petition of the smallholder Jobst  
+Henr[ich] Krückeberg No. 10 in Beren-  
+busch along with the report that among  
+the residents of the villages  
+Berenbusch, Nordholz, and Evesen  
+only the very well-to-do  
+Köter (tenant smallholder) Weiland of Berenbusch  
+has expressed dissatisfaction about the  
+proposed assignment,  
+since on the one hand he himself  
+wishes to obtain this plot,  
+and on the other hand claims that  
+his access route for transporting his  
+harvests would be overly restricted.  
+
+We will assess this more closely  
+during the surveying process and  
+be of the opinion that regarding the  
+access route no legitimate  
+objection remains.  
+
+In particular, what prompted his  
+objection is the planting  
+of this plot with willow trees,  
+which he had undertaken on his own  
+initiative. However, this  
+does not constitute  
+a valid reason to refuse  
+the requested assignment.  
+
+Bückeburg, February 27,  
+1799  
+H. Habicht.     Stölting
+____
+
 
 == Official Response to Petition and Land Assignment Report
 
