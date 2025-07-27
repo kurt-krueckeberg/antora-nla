@@ -1,8 +1,11 @@
 = TODO
 
-What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
-are written in the same ink as the original text. Do they indicate the corresponding numb er in the Record
-of Proceedings?
+* For the link:file:///home/kurt/nla-documents/public/nla-docs/1.0/1237/image3-overview.html[Page 3 Overview] -
+provide on the the overview of "page 3" also the left page opposite it. Use a 25% scale of "image3-left-page.jpg".
+Provde two images side by side: the righ one will be a scalled down version of 003-right-page.png. 
+* Mention in the overview both the text on page three and the petition on the left opposite page.
 
-* link:https://nla.krueckeberg.org/nla-docs/1.0/1237/image3-4-report-and-response.html -- has "2" enclosed in a square.
-* link:https://nla.krueckeberg.org/nla-docs/1.0/1237/image5-main-txt.html -- has "3" enclosed in a square.
+What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
+are written in the same ink as the original text. Do they indicate the corresponding number in the Record
+of Proceedings? 
+
