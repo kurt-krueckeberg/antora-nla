@@ -158,8 +158,6 @@ would justify a specific action (here, denying the land assignment).
 
 [verse]
 ____
-[verse]
-____
 Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799  
 Chamber No. 53  
 2 1.  
@@ -242,7 +240,7 @@ einzuziehen
 und darüber  
 zu berichten.  
 
-\B. 10.  
+B. 10.  
 März  
 
 M
