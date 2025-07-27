@@ -4,7 +4,7 @@
 In this image, one only sees the report of the proceeding. The text to its right, visible in the
 xref:image2-intro.adoc[complete image] has been removed.
 
-image::002-1-proceedings.png[link=self]
+image::002-forestry-report.png[link=self]
 
 [.lead]
 *Archival Reference*
