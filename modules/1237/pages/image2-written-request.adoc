@@ -1,12 +1,16 @@
 = Written Request
 :page-role: wide
 
+== Salutation
+
 The text below appears to the right of the main text of the forestry report.
 It is written much smaller. It is the formal salutation addressed to reigning
 Fürstin(princess, female ruler) and possibly a Count, who is the recepient of
 written request that appears below the forestry report. 
 
 image::002-2-honorifics.png[link=self]
+
+== Request
 
 The written request itself that is addressed to the Fürstin (and more likely read
 by an governmental official) appears below the forestry report. Based on its content
@@ -23,6 +27,12 @@ by the Amt (office, department).
 image::002-1-bottom-small-text-2.png[link=self]
 
 == Transliteration and Translation
+
+[cols="1a,1a"]
+|====
+|Translation|Transliteration
+
+|
 [verse]
 ____
 Durchlauchtigste Fürstin!
@@ -50,29 +60,54 @@ ergehet daher meine
 Bitte.
 ____
 
+|
+[verse]
+____
+most serene princess!
+
+most gracious ruling princess and lady
+
+highborn count!
+
+most gracious ruling count and lord
+
+close to my garden, on the common land
+by the road, there lies a sloping corner of land
+which is uncultivated and therefore of no use to anyone,
+and which even causes the road to be uneven.
+since this corner adjoins my garden,
+i would like to cultivate it and purchase it.
+
+i therefore respectfully present this petition
+to your serene highness
+and
+your high comital grace.
+____
+|===
+
 == Translation
 
 [verse]
 ____
-Most Serene Princess!
+most serene princess!
 
-Most Gracious Ruling Princess and Lady
+most gracious ruling princess and lady
 
-Highborn Count!
+highborn count!
 
-Most Gracious Ruling Count and Lord
+most gracious ruling count and lord
 
-Close to my garden, on the common land
+close to my garden, on the common land
 by the road, there lies a sloping corner of land
 which is uncultivated and therefore of no use to anyone,
 and which even causes the road to be uneven.
-Since this corner adjoins my garden,
-I would like to cultivate it and purchase it.
+since this corner adjoins my garden,
+i would like to cultivate it and purchase it.
 
-I therefore respectfully present this petition
-to Your Serene Highness
+i therefore respectfully present this petition
+to your serene highness
 and
-Your High Comital Grace.
+your high comital grace.
 ____
 
 == Glossary
