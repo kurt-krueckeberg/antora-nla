@@ -24,7 +24,7 @@ and style, it is almost certainly written by (or on behalf of) Jobst Heinrcih Kr
 Thus, this is clearly a first-person petition rather than administrative note
 by the Amt (office, department).
 
-image::002-1-bottom-small-text-2.png[link=self]
+image::002-1-bottom-small-text.png[link=self]
 
 == Transliteration and Translation
 
