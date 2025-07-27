@@ -1,6 +1,8 @@
 = TODO
 
-The numbers in squares that are visisble of the original document in the upper right corner seem to indicate subsequent
-pages, all part of a report for a given date. These are examples
+What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
+are written in the same ink as the original text. Do they indicate the corresponding numb er in the Record
+of Proceedings?
+
 * link:https://nla.krueckeberg.org/nla-docs/1.0/1237/image3-4-report-and-response.html -- has "2" enclosed in a square.
 * link:https://nla.krueckeberg.org/nla-docs/1.0/1237/image5-main-txt.html -- has "3" enclosed in a square.
