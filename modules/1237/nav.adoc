@@ -3,7 +3,7 @@
 * xref:cover.adoc[]
 * xref:image1.adoc[]
 * xref:image2-intro.adoc[]
-** xref:image2-proceedings.adoc[]
+** xref:image2-forestry-report.adoc[]
 ** xref:image2-honorifics.adoc[]
 ** xref:image2-bottom-text.adoc[]
 * xref:image3-overview.adoc[] 
