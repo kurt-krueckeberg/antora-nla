@@ -45,6 +45,7 @@ Rent Chamber
 ____
 |===
 
+[role="section-narrow"]
 === Glossary of Terms
 
 [glossary]
