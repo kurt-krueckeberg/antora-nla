@@ -1,0 +1,101 @@
+= Written Request
+:page-role: wide
+
+The text below appears to the right of the main text of the forestry report.
+It is written much smaller. It is the formal salutation addressed to reigning
+Fürstin(princess, female ruler) and possibly a Count, who is the recepient of
+written request that appears below the forestry report. 
+
+image::002-2-honorifics.png[link=self]
+
+The written request itself that is addressed to the Fürstin (and more likely read
+by an governmental official) appears below the forestry report. Based on its content
+and style, it is almost certainly written by (or on behalf of) Jobst Heinrcih Krückeberg
+(or dictated by him and written in his name). Notice these expressions:
+
+* “Nahe an *meinem* Garten …” (Close to my garden)
+* “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
+* “… an *mich* zu bringen.” (to acquire it for myself)
+
+Thus, this is clearly a first-person petition rather than administrative note
+by the Amt (office, department).
+
+image::002-1-bottom-small-text-2.png[link=self]
+
+== Transliteration and Translation
+[verse]
+____
+Durchlauchtigste Fürstin!
+
+Gnädigst Regierende Fürstin und Frau
+
+Hochgeborner Graf!
+
+Gnädigst Regierender Graf und Herr
+
+Nahe an meinen Garten bragt auf der Gemein-
+heit beÿ der Straße eine schiebe Ecke Landes footnote:[“Schiebe Ecke” means a wedge-shaped or sloping corner of land.]
+die unbebauet ist und mithin auch niemand
+einen Nutzen verschafft, wodurch über dem noch die
+Straße unegal footnote:[“unegal” means uneven or irregular in shape, possibly referring to the street's alignment.] wird.
+Da dieselbe nun nahe
+an meinen Garten stößt, so wünschte ich diesel-
+be gern urbar footnote:[“Urbar machen” means to cultivate or bring uncultivated land under use.] zu machen und käuflich an mich
+zu bringen.
+
+An Ewr. Durchlauchten footnote:[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
+und
+Ewr. Hochgräflichen Gnaden footnote:[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
+ergehet daher meine
+Bitte.
+____
+
+== Translation
+
+[verse]
+____
+Most Serene Princess!
+
+Most Gracious Ruling Princess and Lady
+
+Highborn Count!
+
+Most Gracious Ruling Count and Lord
+
+Close to my garden, on the common land
+by the road, there lies a sloping corner of land
+which is uncultivated and therefore of no use to anyone,
+and which even causes the road to be uneven.
+Since this corner adjoins my garden,
+I would like to cultivate it and purchase it.
+
+I therefore respectfully present this petition
+to Your Serene Highness
+and
+Your High Comital Grace.
+____
+
+== Glossary
+
+Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
+
+Fürstin:: Princess (female ruler or the consort of a *Fürst*). Rank below a king/queen but sovereign or mediatized territorial ruler within the Holy Roman Empire and successor states.
+
+Gnädigst:: “Most gracious.” Intensified form of *gnädig* (“gracious, merciful”). Very common in formal addresses to princes, counts, and other high nobles; functions as a deferential honorific rather than a literal comment on kindness.
+
+Regierende / Regierender:: “Ruling,” “reigning,” i.e., exercising governmental authority (as opposed to merely titular). Spelling in period documents may vary (*Regierende*, *Regirende*); gender and case endings change with the noun (here: *Fürstin* vs *Graf*).
+
+Frau:: Literally “woman” or “wife,” but in formal address “Lady.” In princely salutations, “und Frau” = “and Lady,” marking respect for her person and/or consort status.
+
+Hochgeborner:: “Highborn.” A noble style traditionally used when addressing counts (*Grafen*) and certain other ranks. Masculine form shown here.
+
+Graf:: Count. A hereditary noble rank; in many German territories an important territorial lord beneath princely rank.
+
+Herr:: “Lord,” “Sir,” depending on context and rank. In high-noble address formulas, “und Herr” reinforces deference to the person’s seigneurial or jurisdictional authority.
+
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
+
+Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+urbar machen:: “To bring under cultivation,” referring to making unused land arable.
+

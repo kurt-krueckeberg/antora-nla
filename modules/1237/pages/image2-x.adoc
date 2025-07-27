@@ -1,5 +1,7 @@
-= Written Reqeust
+= Written Request
 :page-role: wide
+
+image::002-1-bottom-small-text-2.png[link=self]
 
 This text, written in a smaller hand, appears underneath the forestry report.
 Based on its content and style, it is almost certainly written by Herr Krückeberg
