@@ -93,13 +93,13 @@ ____
 | Line
 | Meaning
 
-| `ad nr: Cam: 53. S. S.`
+| *ad nr: Cam: 53. S. S.*
 | Filing reference: This rescript belongs to *Chamber case no. 53*, under the filing or subject category "S. S."
 
-| `Concept Cammer: Rescript`
+| *Concept Cammer: Rescript*
 | This is a *draft decree* (rescript) originating from the *Cammer* (chamber office), likely concerning land, property, or forestry matters.
 
-| `an die Beamten zu Buckeburg`
+| *an die Beamten zu Buckeburg*
 | Addressee: the civil officials stationed in *Bückeburg*, who are responsible for executing or communicating the contents of the rescript.
 |===
 
