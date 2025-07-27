@@ -9,6 +9,27 @@ body.wide .doc
    }
 }
 
+/* When ':page-role: wide' is used, images will have shadwow-border. */
+body.wide .imageblock img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  background: white;
+  padding: 6px;
+  max-width: 100%;
+  height: auto;
+}
+
+/*
+.image-pair img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  background: white;
+  padding: 4px;
+  max-width: 100%;
+  height: auto;
+}
+*/
+
 .literal-narrow {
     max-width: 95ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
@@ -44,16 +65,6 @@ body.wide .doc
     height: auto;
     display: block;
 }
-
-.image-pair img {
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-  background: white;
-  padding: 4px;
-  max-width: 100%;
-  height: auto;
-}
-
 
 /* 
 Note: The Poppins font (and the Comfortaa font) are enabled using the Goolge font API in the
