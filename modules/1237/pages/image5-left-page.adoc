@@ -1,0 +1,7 @@
+= Image 5, Left Page, Under Development
+:page-role: wide
+
+image::05-left-page.png[link=self]
+
+== Transliteration and Translation
+
