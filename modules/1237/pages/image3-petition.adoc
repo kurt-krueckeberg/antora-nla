@@ -23,16 +23,16 @@ image::003-left-main-txt.png[link=self]
 ____
 unterthänigst bitte
 
-Mir jene Ecke gnädigst footnote:gnad[“Most graciously,” a deferential expression used in petitions to noble authorities.] für
-einen billigen Preis footnote:preis[“Reasonable/fair price,” indicating fairness rather than bargaining.] käuflich zu
+Mir jene Ecke gnädigst für
+einen billigen Preis käuflich zu
 überlassen und dieselbe deßhalb
-baldigst footnote:bald[“Baldigst” means “as soon as possible,” a formal superlative of *bald*.] besichtigen und ausmessen footnote:ausm[“Ausmessen” means “to measure or survey,” referring to land boundaries.]
+baldigst besichtigen und ausmessen
 zu lassen.
 
-In tiefster Ehrfurcht verharre ich footnote:ehrf[A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”]
-Ewr. Durchlauchten footnote:durch[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
+In tiefster Ehrfurcht verharre ich
+Ewr. Durchlauchten
 und
-Ewr. Hochgräflichen Gnaden footnote:hochg[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
+Ewr. Hochgräflichen Gnaden
 
 Durchlauchtigste Fürstin!
 Gnädigst Regierende Fürstin und Frau
@@ -43,6 +43,12 @@ ____
 === Glossary of Honorifics and Formal Language
 
 gnädigst:: “Most graciously,” a deferential expression used in petitions to noble authorities.
+
+einen billigen Preis:: a “reasonable/fair price,” indicating fairness rather than bargaining.
+
+ausmessen:: means “to measure or survey,” referring to land boundaries.
+
+In tiefster Ehrfurcht verharre ich::  A formal closing formula meaning “I remain in deepest reverence,” similar to “your humble servant.”
 
 Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
 
