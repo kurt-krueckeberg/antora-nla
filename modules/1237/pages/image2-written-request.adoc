@@ -44,18 +44,18 @@ Hochgeborner Graf!
 Gnädigst Regierender Graf und Herr
 
 Nahe an meinen Garten bragt auf der Gemein-
-heit beÿ der Straße eine schiebe Ecke Landes footnote:[“Schiebe Ecke” means a wedge-shaped or sloping corner of land.]
+heit beÿ der Straße eine schiebe Ecke Landes
 die unbebauet ist und mithin auch niemand
 einen Nutzen verschafft, wodurch über dem noch die
-Straße unegal footnote:[“unegal” means uneven or irregular in shape, possibly referring to the street's alignment.] wird.
+Straße unegal wird.
 Da dieselbe nun nahe
 an meinen Garten stößt, so wünschte ich diesel-
-be gern urbar footnote:[“Urbar machen” means to cultivate or bring uncultivated land under use.] zu machen und käuflich an mich
+be gern urbar zu machen und käuflich an mich
 zu bringen.
 
-An Ewr. Durchlauchten footnote:[Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.]
+An Ewr. Durchlauchten
 und
-Ewr. Hochgräflichen Gnaden footnote:[Abbreviation of *Eurer Hochgräflichen Gnaden*, “Your High Comital Grace,” an honorific address for counts or countesses.]
+Ewr. Hochgräflichen Gnaden
 ergehet daher meine
 Bitte.
 ____
@@ -85,31 +85,6 @@ your high comital grace.
 ____
 |===
 
-== Translation
-
-[verse]
-____
-most serene princess!
-
-most gracious ruling princess and lady
-
-highborn count!
-
-most gracious ruling count and lord
-
-close to my garden, on the common land
-by the road, there lies a sloping corner of land
-which is uncultivated and therefore of no use to anyone,
-and which even causes the road to be uneven.
-since this corner adjoins my garden,
-i would like to cultivate it and purchase it.
-
-i therefore respectfully present this petition
-to your serene highness
-and
-your high comital grace.
-____
-
 == Glossary
 
 Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
@@ -134,3 +109,6 @@ Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific addres
 
 urbar machen:: “To bring under cultivation,” referring to making unused land arable.
 
+Schiebe Ecke::  means a wedge-shaped or sloping corner of land.
+
+unegal:: means uneven or irregular in shape, possibly referring to the street's alignment.
