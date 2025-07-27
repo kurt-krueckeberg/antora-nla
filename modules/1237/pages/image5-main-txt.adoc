@@ -4,13 +4,13 @@
 image::05-right-page.png[link=self]
 
 == Transliteration and Translation
+
 [cols="1a,1a", options="header"]
 |===
 | Transliteration
 | Translation
 
-|
-[verse]
+|[verse]
 ____
 ad nr: Cam: 53. S. S.                     3
 Concept Cammer: Rescript
@@ -29,7 +29,7 @@ an die Beamten zu Buckeburg
                             soll, daß die darauf stehenden
                             Weiden und Pappeln von Seiten
                             Unsers Forstdepartements
-    Espp: Schwarze
+Espp: Schwarze
                             verkauft worden, und der
                             Colon Krückeberg sich ver-
                             bindlich zu machen hat, an
@@ -39,15 +39,14 @@ an die Beamten zu Buckeburg
                             stangen wieder anzupflanzen,
                             Ihr habt daher demselben dieses
                             und daß er für die Quadrat:
-    ‡solchergestalt
-                            Rute des ihm ‡ zu überlaßenden
+‡solchergestalt
+                            Rute des ihm‡ zu überlaßenden
                             Platzes 24. Mariengroschen
                             zuzahlen habe, bekannt zu
                             machen, und wenn er sich
                             hirzu
 ____
-|
-[verse]
+|[verse]
 ____
 To No. Chamber 53. S. S.                     3
 Draft of chamber rescript
@@ -66,7 +65,7 @@ to the officials in Bückeburg
                             that the willows and poplars
                             currently on the site be sold
                             by our forestry department,
- [Espp: Schwarze — likely clerk's name]
+[Espp: Schwarze — likely clerk's name]
                             and that Colon Krückeberg be
                             obligated to undertake, at
                             another place in the forest,
@@ -74,11 +73,10 @@ to the officials in Bückeburg
                             for every poplar or willow tree
                             to be felled.
                             You are therefore to inform him
-                            of this, and that for the square
- ‡in such manner
-                            rod of land to be ‡ transferred
-                            to him, he is to pay
-                            24 Mariengroschen,
+                            of this, and that for each square
+‡under these terms (accordinly)
+                            rod‡ of land to be transferred to him,
+                            he is to pay 24 Mariengroschen,
                             and when he has
                             agreed to this
 ____
