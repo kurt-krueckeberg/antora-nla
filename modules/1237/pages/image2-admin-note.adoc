@@ -1,8 +1,8 @@
 = Adminstrative Note
 :page-role: wide
 
-This handwritten note (that has been rotated horizontally) which appears along the bottom left
-edge of the page:
+This handwritten note appears along the bottom left edge of the page written
+vertically (but has been rotated horizontally below) :
 
 image::002-admin-note.png[link=self]
 
