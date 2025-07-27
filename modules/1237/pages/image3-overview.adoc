@@ -1,7 +1,7 @@
 = Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
-image::003-right-page.png[link=sefl]
+image::003-right-page.png[link=self]
 
 [role="section-narrow"]
 == Overview
