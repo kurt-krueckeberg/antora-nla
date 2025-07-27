@@ -5,3 +5,54 @@ image::05-left-page.png[link=self]
 
 == Transliteration and Translation
 
+[cols="1a,1a", options="header"]
+|===
+| Transliteration
+| Translation
+
+|
+[verse]
+____
+der Colon Krückeberg Nr. 10  
+zu Berenbusch bittet unter-  
+thänigst:  
+ihm die beÿ seinem  
+Garten belegene Ecke  
+gnädigst käuflich zu über-  
+laßen.  
+  
+  
+  
+zur  
+vormundschaftlichen  
+Rentkammer  
+____
+|
+[verse]
+____
+The Colon Krückeberg No. 10  
+in Berenbusch humbly requests:  
+that the corner adjoining  
+his garden  
+be graciously made available  
+for purchase.  
+  
+  
+  
+To the  
+Guardianship  
+Rent Chamber  
+____
+|===
+
+=== Glossary of Terms
+
+[glossary]
+unterthänigst:: Historically spelled with an "h", now written **untertänigst** in modern German. A highly formal, deferential expression meaning *most humbly* or *most submissively*. Common in petitions and official requests to authorities in the 18th–19th centuries.
+
+überlassen:: To cede, assign, or transfer possession of something. In legal usage: to grant or make available, often used for land, rights, or duties.
+
+vormundschaftlich:: Relating to **guardianship** (*Vormundschaft*), especially when dealing with matters of inheritance or state administration of minor wards or protected persons.
+
+Rentkammer:: Literally "Revenue Chamber" or "Finance Chamber" — the administrative office responsible for handling state lands, rents, and finances. In this context, likely a fiscal authority with oversight over land transfers.
+
