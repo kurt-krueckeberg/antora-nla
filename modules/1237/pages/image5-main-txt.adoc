@@ -1,34 +1,145 @@
-....
-ad nr. Cam: 53, S. S.                 3
-Concept Kammer: Rescripts
-an die Beamte zu Buckeburg
+= Image 5 Under Development
 
-                         V. G. G
-                         Wir haben auf Euren unterm
-                         27. Febr: d. J. an Unserstatte-
-                         ten Bericht resolvirt, daß dem
-                         Brücksitzer Krückeberg nr. 10
-                         zu Berenbusch der nachgesuchte
-                         in der Dorfsstraße daselbst
-                         bey seinem Garten belegene Platz zu deßen
-                         Vergrößerung unter der
-                         Bedingung ausgewiesen werden
-                         soll, daß die darauf stehenden
-                         Weiden und Pappeln von Seiten
-                         Unsers Forstdepartements
-                         verkauft worden, und der
-    Espp: Schwarze       Colon Krückeberg sich ver-
-                         bindlich zu machen hat, an
-                         einem andern Platze im Forste
-                         für jede zu fällende Pappel
-                         oder Weidenbaum dreÿ Setz-
-                         stangen wieder anzupflanzen,
-                         Ihr habt daher demselben dieses
-                         und daß er für die Quadrat:
-   ‡solchergestalt       Rute des ihm‡ zu überlaßenden
-                         Platzes 24. Mariengroschen
-                         zuzahlen habe, bekannt zu
-                         machen, und wenn er sich
-                         Hirzu
-....
+image::05-right-page.png[link=self]
+
+== Transliteration and Translation
+[cols="1a,1a", options="header"]
+|===
+| Transliteration
+| Translation
+
+|
+[verse]
+____
+ad nr: Cam: 53. S. S.                     3
+Concept Cammer: Rescript
+an die Beamten zu Buckeburg
+
+                            V. G. G.
+                            Wir haben auf Euren unterm
+                            27. Febr: d. J. an Unserstatt-
+                            ten Bericht resolvirt, daß dem
+                            Brücksitzer Krückeberg Nro. 10
+                            zu Berenbusch der nachgesuchte
+                            in der Dorfsstraße daselbst
+                            bey seinem Garten belegene Platz zu deßen
+                            Vergrößerung unter der
+                            Bedingung ausgewiesen werden
+                            soll, daß die darauf stehenden
+                            Weiden und Pappeln von Seiten
+                            Unsers Forstdepartements
+        Espp: Schwarze
+                            verkauft worden, und der
+                            Colon Krückeberg sich ver-
+                            bindlich zu machen hat, an
+                            einem andern Platz im Forste
+                            für jede zu fällende Pappel
+                            oder Weidenbaum dreÿ Setz-
+                            stangen wieder anzupflanzen,
+                            Ihr habt daher demselben dieses
+                            und daß er für die Quadrat:
+        ‡solchergestalt
+                            Rute des ihm ‡ zu überlaßenden
+                            Platzes 24. Mariengroschen
+                            zuzahlen habe, bekannt zu
+                            machen, und wenn er sich
+                            hirzu
+____
+|
+[verse]
+____
+To No. Cammer 53. S. S.                     3
+Draft chamber rescript
+to the officials at Bückeburg
+
+                            V. G. G.
+                            We have resolved, based on your
+                            report submitted on February 27
+                            of this year, that the
+                            Brücksitzer Krückeberg, No. 10,
+                            at Berenbusch, be assigned the
+                            requested plot located in the village
+                            street there next to his garden
+                            for the purpose of expansion,
+                            under the condition
+                            that the willows and poplars
+                            currently on the site are
+                            sold by our forestry department,
+        Espp: Schwarze
+                            and that Colon Krückeberg be
+                            obligated to commit himself to
+                            replanting three saplings
+                            at another location in the forest
+                            for every poplar or willow tree
+                            that is to be felled.
+                            You are therefore to inform him
+                            of this and that for each square
+        ‡solchergestalt
+                            rod of the land to be ‡ transferred
+                            to him, he is to pay
+                            24 Mariengroschen,
+                            and when he has
+                            agreed to this
+____
+|===
+
+=== Summary of Header Line
+
+[cols="1,3", options="header"]
+|===
+| Line
+| Meaning
+
+| `ad nr: Cam: 53. S. S.`
+| Filing reference: This rescript belongs to *Chamber case no. 53*, under the filing or subject category "S. S."
+
+| `Concept Cammer: Rescript`
+| This is a *draft decree* (rescript) originating from the *Cammer* (chamber office), likely concerning land, property, or forestry matters.
+
+| `an die Beamten zu Buckeburg`
+| Addressee: the civil officials stationed in *Bückeburg*, who are responsible for executing or communicating the contents of the rescript.
+|===
+
+=== Glossary of Terms
+
+ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative referencing. It indicates the document concerns or belongs to a case or entry listed under a specific file number.
+
+Cam:: Abbreviation of *Cammer* (or *Kammer* in modern German), meaning the **chamber**, referring to the *Cammeralbehörde* (chamber office or finance office) in charge of managing land, taxation, forestry, and estate matters. "Cam: 53." indicates this document relates to file number 53 in the chamber's records.
+
+S. S.:: The meaning is uncertain but is almost certainly an administrative abbreviation. Both characters are uppercase and followed by periods. Possibly stands for:
+* *Sub Signatur*, *Supplementum*, or *Special-Sachen* (special matters),
+* or an internal filing code used to denote subcategories within a Cammer file.
+The ambiguity in the style of the first "S" (it differs from the second) is likely due to the handwriting style, not semantic difference.
+
+Concept Cammer: Rescript:: Indicates this is a **conceptual draft (Concept)** of a **rescript** (a formal written reply or decree) issued by the **Cammer** (chamber office). Rescripts were typically responses to petitions or reports sent up from local offices.
+
+an die Beamten zu Buckeburg:: "To the officials in Bückeburg." This line completes the heading: it is a **draft rescript from the Cammer**, addressed **to the civil officials of Bückeburg**. These officials were tasked with carrying out and communicating the decision.
+
+Espp: Schwarze:: A marginal or side notation, identifying the **scribe**, **secretary**, or possibly the **reviewing official**. "Espp:" is most likely an abbreviation of *Especiert* (meaning: "specified by") or a shorthand scribe initial. **Schwarze** is a surname. This note is written at the left margin and indicates authorship, approval, or secretarial involvement.
+
+‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a **discourse marker** that introduces a condition or framework that has just been described. The double dagger (‡) appears both in the margin and in the body of the text:
+* It serves as a **visual reference mark**, directing the reader from a marginal note (or side instruction) into the point in the text where it applies.
+* In this document, it emphasizes the section that contains the **financial obligation** (payment of 24 Mariengroschen per square Rute for the land being assigned).
+
+Quadrat: Rute:: A **square rod** or **square perch**, a historical unit of area (1 Rute ≈ 3.77 meters, so a square Rute ≈ 14.2 m²). The tenant was charged 24 Mariengroschen per Quadrat-Rute of newly assigned garden land.
+
+Colon:: A term for a peasant farmer with hereditary rights to a plot of land (Latin origin: *colonus*). In Schaumburg-Lippe, "Colon" designated a full-status rural landholder, as opposed to lesser holders like a Köter.
+
+Brücksitzer:: A type of rural settler — possibly someone whose house adjoins a bridge (*Brück*) or a minor landholding class.
+
+d. J.:: Abbreviation for *dieses Jahres*, meaning “of this year.” Common dating shorthand.
+
+Unserstatteten:: Archaic spelling for *unserstatteten*, a past participle meaning “submitted to us” (i.e., the report previously sent to the Chamber).
+
+resolvirt:: Archaic spelling of *resolvieren* (resolved, decided).
+
+Setzstangen:: Young saplings or planting poles. The term appears in forestry regulations. Here, Krückeberg is obligated to plant **three new saplings** for each willow or poplar tree removed.
+
+Forstdepartement:: The **forestry department** responsible for managing tree cutting, planting obligations, and land-use rules related to woodland and timber.
+
+Mariengroschen:: A coin denomination used in various North German states in the 18th–19th centuries. Twenty-four Mariengroschen = financial compensation for each Quadrat-Rute assigned to Krückeberg.
+
+überlaßenden:: Archaic form of *überlassenden* (being transferred or granted).
+
+
                          
