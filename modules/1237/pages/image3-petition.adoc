@@ -17,8 +17,13 @@ and estate matters.
 
 image::003-left-main-txt.png[link=self]
 
-=== Transliteration of Jobst Heinrich Krückeberg's Petition
+=== Transliteration and Translation of Jobst Heinrich Krückeberg's Petition
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
 unterthänigst bitte
@@ -39,6 +44,29 @@ Gnädigst Regierende Fürstin und Frau
 Hochgeborner Graf!
 Gnädigst Regierender Graf und Herr
 ____
+
+|
+
+[verse]
+____
+I most humbly request
+
+that the corner of land be most graciously sold to me
+for a fair price, and that it therefore
+be inspected as soon as possible and measured
+for this purpose.
+
+With deepest respect, I remain before
+Your Serene Highness
+and
+Your High Comital Grace.
+
+Most Serene Princess!
+Most Gracious Ruling Princess and Lady,
+High-born Count!
+Most Gracious Ruling Count and Lord.
+____
+|===
 
 === Glossary of Honorifics and Formal Language
 
