@@ -3,7 +3,9 @@
 
 == Overview
 
-The first line of the header *Ref. No.: Chamber 53. S. S.* serves as an *internal filing and
+=== Internal Filing and Reference Marker
+
+At the top of the document is: *Ref. No.: Chamber 53. S. S.*. This serves as an *internal filing and
 reference marker* found at the top of many 18th–19th century German
 administrative documents. It indicates that the current document belongs to
 case **No. 53** in the records of a chamber (*Cammer*) and refers back to
@@ -11,7 +13,7 @@ information already entered or written above (*supra scripta*). In effect, it
 ties the current communication to earlier documentation in the same case.
 
 
-=== Purpose
+==== Its Purpose
 
 This kind of line was commonly used in bureaucratic correspondences to:
 
@@ -19,7 +21,7 @@ This kind of line was commonly used in bureaucratic correspondences to:
 - Identify the administrative body responsible for the decision.
 - Clarify continuity with earlier entries in the same file.
 
-=== Breakdown of Components
+==== Breakdown of Components
 
 [horizontal]
 `ad nr:`:: Latin abbreviation meaning "concerning number" or "regarding record number." It introduces the file or document reference.  
@@ -42,7 +44,7 @@ The full line `Ref. No.: Chamber 53. S. S.` should be understood as:
 
 This notation ensured proper filing and indicated that the response or action recorded here was part of a larger sequence of proceedings.
 
-== Images and Their Text
+== Images and Their Content
 
 The text on the right page of image 5 continues on the left page shown in image6:
 
