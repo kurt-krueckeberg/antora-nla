@@ -1,9 +1,10 @@
-= Image 5 Under Development
+= Image 5 Right Page and Image 6 Left Page (Under Development)
 :page-role: wide
 
-TODO: 
-* What does the text is, a reply, and explain what it is a reply it.
-* The significance of "S.S." -- it is a reply to what they were sent. to what was referenced above.
+*TODO:*
+* Explain what this text is about, that it a reply to what they were sent.
+* Explain how "S.S." tells us it was a reply, along with the fact that it was sent to
+Bückeburg.
 
 The text on the right page of image 5 continues on the left page shown in image6:
 
