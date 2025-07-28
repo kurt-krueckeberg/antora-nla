@@ -5,9 +5,9 @@
 |===
 ^|Column Header Undecided ^|Column Header Undecided
 
-|image::05-left-page.jpg[role=scale-25,link=self]
+|image::05-left-page.png[role=scale-25,link=self]
 
-|image::05-right-page.jpg[role=scale-25,link=self]
+|image::05-right-page.png[role=scale-25,link=self]
 |===
 
 
