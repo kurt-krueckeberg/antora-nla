@@ -16,7 +16,7 @@ image::06-left-page.png[link=self]
 
 == Transliteration and Translation
 
-If we append the text from the left page of image 6 to the text of the right page of image 5, we have:
+The complete text and its translation:
 
 [cols="1a,1a", options="header"]
 |===
