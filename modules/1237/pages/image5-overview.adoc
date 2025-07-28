@@ -1,0 +1,13 @@
+= Image 5, No Title Yet
+:page-role: wide
+
+[%header,cols="1a,1a",frame=none,grid=none]
+|===
+^|Column Header Undecided ^|Column Header Undecided
+
+|image::05-left-page.jpg[role=scale-25,link=self]
+
+|image::05-right-page.jpg[role=scale-25,link=self]
+|===
+
+
