@@ -1,0 +1,84 @@
+# TODO
+
+- Volunteer for Convention
+
+- Append 06-left-page image and text into image5 image and text.
+
+## Understanding the NLA 1236 Headers
+
+Q1: Do all the entries in the Record of Procedings have documents?
+Q2: Do the datees in the Reocrd of Proceeddings correpsond to the dates in the documents, or are the doucment
+date diffrenent suggesting that the documents 
+Q3: etc.
+Q2: What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
+are written in the same ink as the original text. Do they indicate the corresponding number in the Record
+of Proceedings? 
+
+Answer: Here's a plain-language explanation of the three headers and how to understand them:
+
+---
+
+### **Header 1:**
+
+```
+Cam: Nr: 662.
+Res Cam
+zum Forstamts Bericht.
+praes: 30. May 1798.
+B. 14. Jun. 1798
+```
+
+This header refers to a separate case numbered **662** in the records of the **Cammer** (a central administrative or financial office).
+
+* **"Res Cam"** means this is a response from the Cammer.
+* **"zum Forstamts Bericht"** tells us the response was regarding a report submitted by the **Forestry Office**.
+* **"praes: 30. May 1798"** is the date the Forestry Office submitted its report.
+* **"B. 14. Jun. 1798"** shows the Cammer issued its response on June 14, 1798, in Bückeburg.
+
+So this is a dated response to a forestry-related matter and unrelated to the other two headers.
+
+---
+
+### **Header 2:**
+
+```
+pr: 6. Merz 1799
+Cam: N: 53.
+2 1.
+Forst-Sachen
+```
+
+This marks the registration of a new forestry-related case:
+
+* **"pr:"** likely means "protocolliert" (registered) or "presentiert" (presented), with the date: **March 6, 1799**.
+* **"Cam: N: 53"** means this is **case number 53** in the Cammer's internal records.
+* **"2 1"** could be an internal filing code—possibly bundle 2, document 1.
+* **"Forst-Sachen"** simply means “Forestry Matters,” the category of the issue.
+
+This header introduces the case involving **Jobst Heinrich Krückeberg** and his request to expand his property.
+
+---
+
+### **Header 3:**
+
+```
+ad nr: Cam: 53. S. S.
+Concept Cammer: Rescript
+an die Beamten zu Buckeburg
+```
+
+This header is tied to the previous one—it refers to **the same case, number 53**:
+
+* **"ad nr:"** is Latin for “concerning number”—so this means: "Regarding case number Cam: 53".
+* **"S. S."** is Latin for *"supra scripta"*—“as written above” or “see earlier.”
+* **"Concept Cammer: Rescript"** means this is a **draft** of a rescript (official reply or directive) issued by the Cammer.
+* **"an die Beamten zu Bückeburg"** shows that the directive was sent to local officials in Bückeburg.
+
+---
+
+### Summary:
+
+* Header 1 (Cam: 662) is from an earlier, unrelated case in 1798.
+* Headers 2 and 3 (Cam: 53) both concern the **same case** from 1799 about Krückeberg’s petition.
+* They reflect different steps in the case: first the registration of the matter, and then the official response issued to the local Amts.
+
