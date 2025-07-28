@@ -1,7 +1,6 @@
 = Image 6, Left Page
 
 image::06-left-page.png[link=self]
-
 [verse]
 ____
 hiezru verstehen will, werdet
@@ -25,6 +24,6 @@ Emmerwarth     v. Landesberg
 
 
 
-                        Wippermann
-____
 
+Wippermann
+____
