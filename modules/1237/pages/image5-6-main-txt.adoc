@@ -3,7 +3,7 @@
 
 == Overview
 
-The line `Ref. No.: Chamber 53. S. S.` serves as an *internal filing and
+The first line of the header *Ref. No.: Chamber 53. S. S.* serves as an *internal filing and
 reference marker* found at the top of many 18th–19th century German
 administrative documents. It indicates that the current document belongs to
 case **No. 53** in the records of a chamber (*Cammer*) and refers back to
