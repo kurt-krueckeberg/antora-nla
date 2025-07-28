@@ -1,11 +1,35 @@
 = Image 5 Right Page and Image 6 Left Page (Under Development)
 :page-role: wide
 
-*TODO:*
+== Overvoew
 
-* Explain what this text is about, that it a reply to what they were sent.
-* Explain how "S.S." tells us it was a reply, along with the fact that it was sent to
-Bückeburg.
+*TODO:* Explain what this text is about, then include the explnation of the *document
+reference heading*, which is already below:
+
+The first line *"ad nr: Cam: 53. S. S.* serves a a *document reference heading*. It means:
+
+[quote]
+____
+“This document pertains to Record Number 53 filed in the Chamber’s archive
+(Cammer 53), and refers to matters previously recorded above or in associated
+documents.”
+____
+
+The components of the *document reference heading* explained:
+[arabic, start=1]
+. *ad nr:*
+** Is an Latin abbreviation meaning *"to number"*. It means: "Regarding No."
+. *Cam:*
+** Is the abbreviation for *"Cammer"*, meaing *"chamber"*, “This document
+pertains to Record Number 53 filed in the Chamber’s archive (Cammer 53), and
+refers to matters previously recorded above or in associated documents.”
+. *53*
+** This is the *document or file number* within the chamber's archive.
+. *S.S.*
+** Latin for _supra scripta_, meaning "written above" or *"as referenced above"*.
+** It indicates that this record refers back to previously mentioned or filed
+information (possibly another document in the same dossier or a previous
+entry). 
 
 The text on the right page of image 5 continues on the left page shown in image6:
 
@@ -30,7 +54,7 @@ ad nr: Cam: 53. S. S. [Signatum Supra]
 Concept Cammer: Rescript
 an die Beamten zu Buckeburg
 
-                            V. G. G. [Verehrungswürdig Gehorsamst Gegeben]
+                  V. G. G. [Verehrungswürdig Gehorsamst Gegeben]
                   Wir haben auf Euren unterm
                   27. Febr: d. J. an Unserstatt-
                   ten Bericht resolvirt, daß dem
@@ -89,7 +113,7 @@ Ref. No.: Chamber 53. S. S. [supra scripta]
 Draft of Chamber Rescript
 to the Officials at Bückeburg
 
-                                      Very Gracious Lords,
+                  Very Gracious Lords,
                   In response to your report
                   submitted to Our Office on
                   February 27 of this year, We
