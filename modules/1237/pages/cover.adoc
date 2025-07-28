@@ -1,7 +1,7 @@
 = Dossier Cover
 :page-role: wide
 
-image::cover.png[link=self]
+image::1237-cover.png[link=self]
 
 NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
 
@@ -36,6 +36,9 @@ Ger.[?] Amt Bückeburg
 1798-1800
 
                   Amt Bückeburg
+
+
+C. 67
 ____
 
 |
@@ -63,6 +66,9 @@ AB
 1798–1800
 
                    Office of Bückeburg
+
+
+C. 67 [<--- What does this mean?]
 ____
 |===
 
