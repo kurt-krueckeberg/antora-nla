@@ -10,7 +10,7 @@
 * xref:image3-overview.adoc[] 
 ** xref:image3-petition.adoc[]
 ** xref:image3-4-report-and-response.adoc[]
-* Image 5
+* xref:image5-overview.adocp[]
 ** xref:image5-left-page.adoc[]
 ** xref:image5-main-txt.adoc[]
 * *TODO:* Images 6-11
