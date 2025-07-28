@@ -1,7 +1,12 @@
 # TODO
+
 - Volunteer for Convention
 
 - Append 06-left-page image and text into image5 image and text.
+
+## New Cover
+
+Compare cover.adoc and cover-new.adoc, which I transliteration yesterday that includes -- I believe --more terms.
 
 ## NLA 1236 Folder
 
