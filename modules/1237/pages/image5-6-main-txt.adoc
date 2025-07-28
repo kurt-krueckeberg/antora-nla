@@ -1,7 +1,7 @@
 = Image 5 Right Page and Image 6 Left Page (Under Development)
 :page-role: wide
 
-== Overvoew
+== Overview
 
 *TODO:* Explain what this text is about, then include the explnation of the *document
 reference heading*, which is already below:
