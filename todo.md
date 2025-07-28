@@ -15,14 +15,16 @@ are they referenced. Is there an "index"?
 
 ## HOw Documents are Refereinced: Understanding the NLA 1236 Headers
 
-Q1: Do all the entries in the Record of Procedings have documents?
-Q2: Do the datees in the Reocrd of Proceeddings correpsond to the dates in the documents, or are the doucment
-date diffrenent suggesting that the documents 
-Q2: What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
-are written in the same ink as the original text. Do they indicate the corresponding number in the Record
-of Proceedings? 
+[!NOTE]: The cover has in its lower righ corner *C 67*. Many of the documentes in the Acta have B-numbers--`B. 14`, `B. 16`. Where are
+these located??
 
-Answer: Here's a plain-language explanation of the three headers and how to understand them:
+[!NOTE]: There are also headers with numbers in the upper right corner--right?
+
+Question: Understand these numbers and other associated terms--on the cover, in the corners, in the headers.
+
+Does the Record of Proceedings correspond to the documents in any way?
+
+### Here's a plain-language explanation of the three headers and how to understand them:
 
 ---
 
