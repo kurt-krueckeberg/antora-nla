@@ -7,9 +7,9 @@
 
 Jobst Heinrich Krückeberg (left page) ^|Land Assignment Report (right page)
 
-|image::03-left-page.jpg[role=image-pair]
+|image::03-left-page.jpg[role=image-pair,link=self]
 
-|image::03-right-page.jpg[role=image-pair]
+|image::03-right-page.jpg[role=image-pair,link=self]
 |===
 
 [role="section-narrow"]
