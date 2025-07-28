@@ -1,15 +1,18 @@
 # TODO
-
 - Volunteer for Convention
 
 - Append 06-left-page image and text into image5 image and text.
 
-## Understanding the NLA 1236 Headers
+## NLA 1236 Folder
+
+What is the structure of the contents of the 1236 folder. What is documents are in it? What are they about? How
+are they referenced. Is there an "index"? 
+
+## HOw Documents are Refereinced: Understanding the NLA 1236 Headers
 
 Q1: Do all the entries in the Record of Procedings have documents?
 Q2: Do the datees in the Reocrd of Proceeddings correpsond to the dates in the documents, or are the doucment
 date diffrenent suggesting that the documents 
-Q3: etc.
 Q2: What is the meaning/significance of the numbers in squares written in the upper right hand corner? They
 are written in the same ink as the original text. Do they indicate the corresponding number in the Record
 of Proceedings? 
