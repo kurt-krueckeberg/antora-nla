@@ -37,7 +37,7 @@ zur Vergrößerung seines Gartens |||Dec |1
 .Translation
 [width="60%",cols="1,7,2,2,2,1"]
 |===
-|No. |Description of Records |Office |Year |Month |Day
+|No. |Description of document/action |Office |Year |Month |Day
 
 |1. |Petition by the colonist +
 Krückeberg No. 10 at Beren- +
