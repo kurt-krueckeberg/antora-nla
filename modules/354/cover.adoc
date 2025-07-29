@@ -1,0 +1,3 @@
+= Cover
+
+image::cover.png[link=self]
