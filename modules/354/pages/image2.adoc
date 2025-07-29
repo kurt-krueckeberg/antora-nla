@@ -3,10 +3,15 @@
 
 image::002.png[link=self]
 
-== Transliteration
+== Transliteration and Translation
 
-=== Actum d. 24. 9br. 1725.
+=== Actum d. 24. 9br. 1725 or Held on the 24th of November 1725
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
 Erschien H. Reinecke, stellete vor,  
@@ -35,10 +40,7 @@ auf den 15. künftigen
 Monats Xbr. Dec. eod.
 ____
 
-== Translation
-
-=== Actum [Held] on the 24th of November 1725.
-
+|
 [verse]
 ____
 Mr. Reinecke appeared and presented the following:
@@ -61,6 +63,7 @@ and the day for the public auction
 is scheduled for the 15th
 of the upcoming month of December of this year.
 ____
+|===
 
 [role="section-narrow"]
 == Glossary of Terms
