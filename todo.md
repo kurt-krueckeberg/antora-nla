@@ -12,19 +12,20 @@ Just have one table with a "Translation" column.
 
 Compare cover.adoc and cover-new.adoc, which I transliteration yesterday that includes -- I believe --more terms.
 
-## NLA 1236 Folder
+## Indexing System for Documents
+
+[!IMPORTANT]: The numbers in the squares in the top right corner refer to the "Description of document/action" in Image 1.
 
 What is the structure of the contents of the 1236 folder. What is documents are in it? What are they about? How
 are they referenced. Is there an "index"? 
 
-## HOw Documents are Refereinced: Understanding the NLA 1236 Headers
+## How Documents are Refereinced: Understanding the NLA 1236 Headers
 
 [!NOTE]: The cover has in its lower righ corner *C 67*. Many of the documentes in the Acta have B-numbers--`B. 14`, `B. 16`. Where are
 these located??
 
 [!NOTE]: There are also headers with numbers in the upper right corner--right?
 
-The numbers in the squares in the top right corner refer to the "Description of document/action"
 
 Question: Understand these numbers and other associated terms--on the cover, in the corners, in the headers.
 
