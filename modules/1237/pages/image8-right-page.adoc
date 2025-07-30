@@ -7,6 +7,29 @@ image::08-right-page.png[link=self]
 
 == Transliteration and Translation
 
+=== Diagram Text
+
+[cols="1,2,2", options="header"]
+|===
+|Location of Text |Transliteration |Translation
+
+|Left side (angled, upper left)
+|Graben zur Ableitung des Wassers
+|Ditch for water drainage
+
+|Right side (vertical and horizontal)
+|Communic. Weg +
+zum Garten des Col. Krückeberg
+|Communal path +
+to the garden of Colonus Krückeberg
+
+|Bottom center (below the sketch)
+|Plan zur Vergrößerung des Hofraums und Gartens des Colonus Krückeberg
+|Plan for the enlargement of the yard space and garden of Colonus Krückeberg
+|===
+
+=== Main Text
+
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -54,27 +77,6 @@ Bückeburg, the 30th of March 1799.
                      Funck  
                 sworn surveyor
 ____
-|===
-
-== Transliteration and Translation of Diagram Text
-
-[cols="1,2,2", options="header"]
-|===
-|Location of Text |Transliteration |Translation
-
-|Left side (angled, upper left)
-|Graben zur Ableitung des Wassers
-|Ditch for water drainage
-
-|Right side (vertical and horizontal)
-|Communic. Weg +
-zum Garten des Col. Krückeberg
-|Communal path +
-to the garden of Colonus Krückeberg
-
-|Bottom center (below the sketch)
-|Plan zur Vergrößerung des Hofraums und Gartens des Colonus Krückeberg
-|Plan for the enlargement of the yard space and garden of Colonus Krückeberg
 |===
 
 === Glossary of Terms
