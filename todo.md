@@ -4,6 +4,10 @@
 
 - Append 06-left-page image and text into image5 image and text.
 
+## Image 1
+
+Just have one table with a "Translation" column.
+
 ## New Cover
 
 Compare cover.adoc and cover-new.adoc, which I transliteration yesterday that includes -- I believe --more terms.
