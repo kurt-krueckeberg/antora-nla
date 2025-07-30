@@ -1,0 +1,65 @@
+= Image 7, Right Page (Under Development)
+:page-role: wide
+
+This is a brief follow note as can be seen from the
+contextual clues:
+
+* **"Auch wäre an den Inhalt…"**
+  +
+  _"It should also be recalled…"_
+  +
+  This is a common bureaucratic phrasing used to refer back to a previous document or instruction.
+
+* **"des Kam. Rescripts dd 15 April 1799"**
+  +
+  _"of the Chamber rescript dated 15 April 1799"_
+  +
+  An explicit reference to a previously issued decision or directive. This is likely the document being “recalled” in the line above.
+
+* **"wie ad Nro. 317"**
+  +
+  _"as with No. 317"_
+  +
+  A cross-reference to another case or communication, suggesting that the current note should be understood in the same context or handled in the same manner as document No. 317.
+
+* **"ad Nro. 322"**
+  +
+  _"regarding No. 322"_
+  +
+  Indicates that this marginal note or reminder is filed under dossier No. 322 — the same number as the main report seen in the previous image.
+
+image::07-right-page.png[link=self]
+
+== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+
+
+|
+
+|===
+
+
+[verse]
+____
+ad Nro. 322  
+Res Kam.  
+wie ad Nro. 317.  
+
+Auch wäre an den Inhalt  
+des Kam. Rescripts dd  
+15 April 1799 in Betreff  
+der Hecken-[Austrie struck out] und  
+Befriedigungs-Ausrückung  
+der Wald-Angrenzer  
+des Dorfs Berenbusch  
+zu erinnern. B. 27.  
+Octbr 1800  
+
+            M. K.
+____
+
