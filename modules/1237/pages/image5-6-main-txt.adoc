@@ -3,10 +3,10 @@
 
 == Overview
 
-This is the reply from the _______ to the ___________ reference by *ad nr: Cam: 53. S. S.*,
+This is the reply from the `office or dept name goes here` to the `document-name-goes-here` reference by *ad nr: Cam: 53. S. S.*,
 the internal filing and reference marker.
 
-It explains ___________ and states ________________.
+It explains `whatever-it-explains-goes-here` and it states `whatever it statesgoes here`.
 
 === Internal Filing and Reference Marker
 
@@ -16,7 +16,6 @@ administrative documents. It indicates that the current document belongs to
 case **No. 53** in the records of a chamber (*Cammer*) and refers back to
 information already entered or written above (*supra scripta*). In effect, it
 ties the current communication to earlier documentation in the same case.
-
 
 ==== Its Purpose
 
