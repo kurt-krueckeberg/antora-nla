@@ -1,0 +1,48 @@
+= Image 6, Right Page (Under Development)
+:page=role: wide
+
+image::06-right-page.png[link=self]
+
+
+== Transliteration and Translation
+
+....
+Cam: Nr: 322. Forstsachen
+              An
+Vormundschaftliche Kammer
+            Bericht                              
+der Aemter Bückeburg und Arensburg               
+                                                        Betr
+    ad ter                                           Ausweisung
+ Rescr: d 11 Merz
+      1799
+
+                                                  p. 24 8br 1800   
+
+ Indem wir die geometrische Zeichnung
+über die dem Jobst Henrich
+Krückeberg N 10 zu Berenbusch
+zur Vergrößerung seines Gartens
+und Hofraums ad 19 Ruthen 44 Fuß
+dec: und 1 Ruthe 90 Fuß Flächengehalts
+ausgewiesene Plätze unterthänige
+übersenden, so bringen wir in ohnziel-
+gebigen Vorschlag, daß derselbe
+davon und zwar auf Michaeli Di
+I. zum erstenmal alljährl. 2 r. 1 d.
+Rottzinß excl agio zu entrichten.
+angewiesen werden möge.
+H. Buckeburg. 18ten Oct. 1800.
+
+
+
+                     Mabiech  Stöling
+....
+
+
+
+
+
+
+
+....
