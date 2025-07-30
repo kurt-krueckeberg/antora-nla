@@ -8,24 +8,22 @@ image::08-right-page.png[link=self]
 == Transliteration and Translation
 
 === Diagram Text
-
-[cols="1,2,2", options="header"]
+[cols="1,2", options="header"]
 |===
-|Location of Text |Transliteration |Translation
+|Position of Text
+|Transliteration
 
-|Left side (angled, upper left)
-|Graben zur Ableitung des Wassers
-|Ditch for water drainage
+|Left side (angled boundary)
+|Bruns No 8
 
-|Right side (vertical and horizontal)
-|Communic. Weg +
-zum Garten des Col. Krückeberg
-|Communal path +
-to the garden of Colonus Krückeberg
+|Right side (vertical label)
+|Rinsehe No 11
 
-|Bottom center (below the sketch)
-|Plan zur Vergrößerung des Hofraums und Gartens des Colonus Krückeberg
-|Plan for the enlargement of the yard space and garden of Colonus Krückeberg
+|Right side (horizontal, beneath vertical text)
+|7. Fuß Decim: [7 feet, decimal]
+
+|Below entire diagram (horizontal)
+|Dorf Serasse
 |===
 
 === Main Text
