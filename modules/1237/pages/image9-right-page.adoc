@@ -5,6 +5,8 @@ This text is a brief regarding the previous documenmt that was sent and also ref
 
 image::09-right-page.png[link=self]
 
+image::10-left-page-bkgnd-needs-work.png[link=self]
+
 == Transliteration and Translation
 
 [verse]
