@@ -1,0 +1,8 @@
+= Image 9, Right Page (Under Development)
+:page-role: wide
+
+This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
+
+image::09-right-page.png[link=self]
+
+== Transliteration and Translation
