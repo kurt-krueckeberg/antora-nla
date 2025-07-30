@@ -1,4 +1,4 @@
-= Record of Proceedings
+= Description of Documents
 :page-role: wide
 
 image::001.png[link=self]

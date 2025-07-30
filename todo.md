@@ -20,6 +20,8 @@ these located??
 
 [!NOTE]: There are also headers with numbers in the upper right corner--right?
 
+The numbers in the squares in the top right corner refer to the "Description of document/action"
+
 Question: Understand these numbers and other associated terms--on the cover, in the corners, in the headers.
 
 Does the Record of Proceedings correspond to the documents in any way?
