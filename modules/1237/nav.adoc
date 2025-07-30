@@ -15,5 +15,5 @@
 ** xref:image5-6-main-txt.adoc[]
 * xref:image6-right-page.adoc[]
 * xref:image7-right-page.adoc[]
-* *TODO:* Images 6-11
+* *TODO:* Images 8-10
 * xref:image11-12.adoc[]
