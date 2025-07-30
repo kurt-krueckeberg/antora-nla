@@ -1,5 +1,5 @@
 = Image 6, Right Page (Under Development)
-:page=role: wide
+:page-role: wide
 
 image::06-right-page.png[link=self]
 
