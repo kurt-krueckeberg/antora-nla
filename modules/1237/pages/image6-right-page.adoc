@@ -3,11 +3,15 @@
 
 image::06-right-page.png[link=self]
 
-
 == Transliteration and Translation
 
-....
-....
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
 Cam: Nr: 322. Forstsachen  
              An  
 Vormundschaftliche Kammer  
@@ -37,11 +41,44 @@ angewiesen werden möge.
 S. Bückeburg, 18ten Oct. 1800.  
 
                          J. H. Hablick    Stöling
-....
+____
+
+|
+[verse]
+____
+Cammeral No. 322. Forestry Matters  
+             To  
+Guardianship Chamber  
+             Report  
+of the Offices of Bückeburg and Arensburg  
+
+      regarding                    Subject  
+                                   Land Allocation
+Rescript dated 11 March 1799  
+
+                                     p. 24, October 1800  
+
+As we herewith submissively transmit the geometric drawing  
+of the plots assigned to Jobst Henrich  
+Krückeberg, No. 10, in Berenbusch,  
+for the enlargement of his garden  
+and yard, comprising 19 Ruthen 44 feet  
+(decimal) and 1 Ruthe 90 feet in surface area,  
+we respectfully submit, in a non-binding  
+proposal, that he be instructed  
+to pay annually, beginning on the Feast of St. Michael,  
+for the first time, 2 Reichstaler and 1 Groschen  
+in clearance rent, excluding agio.  
+
+City of Bückeburg, 18 October 1800.  
+
+                         J. H. Hablick    Stöling
+____
+|===
 
 
+=== Glossary of Terms
 
-[glossary]
 Cam: Nr.::
   Abbreviation of *Cammeral Nummer* (Chamber Number) — an internal file number for bureaucratic or administrative tracking, often related to fiscal or forestry matters.
 
