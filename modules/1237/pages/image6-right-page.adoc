@@ -7,34 +7,90 @@ image::06-right-page.png[link=self]
 == Transliteration and Translation
 
 ....
-Cam: Nr: 322. Forstsachen
-              An
-Vormundschaftliche Kammer
-            Bericht                              
-der Aemter Bückeburg und Arensburg               
-                                                        Betr
-    ad ter                                           Ausweisung
- Rescr: d 11 Merz
-      1799
-
-                                                  p. 24 8br 1800   
-
- Indem wir die geometrische Zeichnung
-über die dem Jobst Henrich
-Krückeberg N 10 zu Berenbusch
-zur Vergrößerung seines Gartens
-und Hofraums ad 19 Ruthen 44 Fuß
-dec: und 1 Ruthe 90 Fuß Flächengehalts
-ausgewiesene Plätze unterthänige
-übersenden, so bringen wir in ohnziel-
-gebigen Vorschlag, daß derselbe
-davon und zwar auf Michaeli Di
-I. zum erstenmal alljährl. 2 r. 1 d.
-Rottzinß excl agio zu entrichten.
-angewiesen werden möge.
-H. Buckeburg. 18ten Oct. 1800.
-
-
-
-                     Mabiech  Stöling
 ....
+Cam: Nr: 322. Forstsachen  
+             An  
+Vormundschaftliche Kammer  
+             Bericht  
+der Aemter Bückeburg und Arensburg  
+
+      ad ter                       Betr.  
+                                   Ausweisung
+Rescr: d. 11ten Merz 1799  
+
+                                     p. 24 8br 1800  
+
+Indem wir die geometrische Zeichnung  
+über die dem Jobst Henrich  
+Krückeberg No. 10 zu Berenbusch  
+zur Vergrößerung seines Gartens  
+und Hofraums ad 19 Ruthen 44 Fuß  
+dec: und 1 Ruthe 90 Fuß Flächengehalts  
+ausgewiesene Plätze unterthänigst  
+übersenden, so bringen wir in ohnziel-  
+gebigen Vorschlag, daß derselbe  
+davon und zwar auf Michaeli d.  
+I. zum erstenmal alljährl. 2 R. 1 ß  
+Rottzinß excl. agio zu entrichten  
+angewiesen werden möge.  
+
+S. Bückeburg, 18ten Oct. 1800.  
+
+                         J. H. Hablick    Stöling
+....
+
+
+
+[glossary]
+Cam: Nr.::
+  Abbreviation of *Cammeral Nummer* (Chamber Number) — an internal file number for bureaucratic or administrative tracking, often related to fiscal or forestry matters.
+
+Forstsachen::
+  Forestry matters — administrative category concerning land, timber, forest use, or related disputes and policies.
+
+Vormundschaftliche Kammer::
+  Guardianship Chamber — a department responsible for overseeing legal and financial matters involving wards, orphans, or protected individuals.
+
+Betr.::
+  Abbreviation of *Betreff*, meaning “Subject.” Used to label the topic of a report or document.
+
+Ausweisung::
+  Allocation or designation — typically of land or property, especially in relation to rights of use, ownership, or expansion.
+
+Rescript::
+  A formal written decision or decree from a higher authority (often a sovereign or government office), typically in response to a petition.
+
+Ruthe (plural: Ruthen)::
+  Historical unit of length or area used in German-speaking territories. One square Ruthe varied by region but was roughly 3.6 to 4 square meters.
+
+Fuß::
+  Foot — an old unit of measurement (about 30 cm). Used in combination with *Ruthe* to express land dimensions.
+
+Flächengehalt::
+  Surface area or land size — literally “content of area.”
+
+ohnzielgebigen Vorschlag::
+  Non-binding proposal — a suggestion not formally imposed, submitted for consideration without directive force.
+
+Michaeli::
+  Feast of Saint Michael (Michaelmas), celebrated on September 29. A common traditional date in tenancy contracts and agricultural calendars.
+
+Rottzinß::
+  Clearance rent — a fee paid for use of cleared land (from *roden*, “to clear”). Often charged annually for newly allocated or deforested land.
+
+Reichstaler (abbreviated R.)::
+  Silver coin used as currency in many parts of the Holy Roman Empire and German states; one of the standard units of account.
+
+Groschen (abbreviated ß or g)::
+  Small denomination coin, often 1⁄24 or 1⁄30 of a Reichstaler, depending on region and time.
+
+agio::
+  A surcharge or premium, often related to exchange rate adjustments or coin value variation. In this context, excluded from the rent total.
+
+ad ter::
+  Latin shorthand, likely functioning here as “regarding” or “concerning,” pointing to a referenced rescript or decision.
+
+S. Bückeburg::
+  Abbreviation for *Stadt Bückeburg* (City of Bückeburg), used as a closing location designation in official documents.
+
+
