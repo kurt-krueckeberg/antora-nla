@@ -1,8 +1,8 @@
 = Image 7, Right Page (Under Development)
 :page-role: wide
 
-This is a brief follow note as can be seen from the
-contextual clues:
+This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
+This can be seen from the contextual clues:
 
 * **"Auch wäre an den Inhalt…"**
 +
@@ -37,13 +37,6 @@ image::07-right-page.png[link=self]
 |Transliteration|Translation
 
 |
-
-
-|
-
-|===
-
-
 [verse]
 ____
 ad Nro. 322  
@@ -63,3 +56,24 @@ Octbr 1800
             M. K.
 ____
 
+|
+[verse]
+____
+re: No. 322  
+Chamberal Decision  
+as with No. 317.  
+
+It should also be recalled  
+with regard to the contents  
+of the Chamber rescript dated  
+15 April 1799, concerning  
+the hedgerow [Austrei struck out] and  
+the boundary clearing  
+of the forest-adjoining properties  
+of the village of Berenbusch.  
+B. 27  
+October 1800  
+
+            M. K.
+____
+|===
