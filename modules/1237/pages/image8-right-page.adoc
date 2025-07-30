@@ -1,0 +1,113 @@
+= Image 8, Right Page (Under Development)
+:page-role: wide
+
+This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
+
+image::08-right-page.png[link=self]
+
+== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Den Colonus Krückeberg Nro 10. in Beren-
+busch ist zur Vergrösserung seines Hofraums
+und Gartens ein Platz daselbst wie Figur
+a zeiget[,] ausgewiesen und vermessen zu
+
+               19. Ruth: 44 Fuß Decimul
+
+Ferner ist ihm ein Platz, Figur b,. zur Vergrösserung
+seines Hofraums[,] welcher mit der Figur a in
+Verbindung stetht, vermessen zu
+
+               1. Ruth 90 Fuß
+
+Bückeburg d. 30ten Märtz 1799.
+
+                        Funck
+                        beeidigter Landmesser
+____
+
+|
+[verse]
+____
+To Colonus Krückeberg, No. 10, in Beren-  
+busch, a plot has been assigned and measured  
+on the site for the enlargement of his yard  
+and garden, as shown in figure a, measuring  
+
+19 Ruthen, 44 feet, decimal.  
+
+Furthermore, a plot identified as figure b,  
+for the enlargement of his yard, which connects  
+with figure a, has been measured at  
+
+1 Ruthe, 90 feet.  
+
+Bückeburg, the 30th of March 1799.  
+
+                     Funck  
+                sworn surveyor
+____
+|===
+
+== Transliteration and Translation of Diagram Text
+
+[cols="1,2,2", options="header"]
+|===
+|Location of Text |Transliteration |Translation
+
+|Left side (angled, upper left)
+|Graben zur Ableitung des Wassers
+|Ditch for water drainage
+
+|Right side (vertical and horizontal)
+|Communic. Weg +
+zum Garten des Col. Krückeberg
+|Communal path +
+to the garden of Colonus Krückeberg
+
+|Bottom center (below the sketch)
+|Plan zur Vergrößerung des Hofraums und Gartens des Colonus Krückeberg
+|Plan for the enlargement of the yard space and garden of Colonus Krückeberg
+|===
+
+
+image::08-drawing.png[link=self]
+
+=== Glossary of Terms
+
+Colonus::
+  A tenant farmer or hereditary leaseholder. In 18th–19th century German documents, "Colon" or "Colonus" was a formal title, not a personal name.
+
+Ruthe (plural: Ruthen)::
+  A historical German unit of length or area. As a unit of area, 1 square Ruthe varied by region, but was typically between 3.5 and 4 square meters. In this context, it likely refers to square Ruthen.
+
+Fuß::
+  German for “foot” (plural: Füße). A traditional unit of length, slightly shorter than the modern foot — usually around 28–30 cm depending on locale.
+
+decimal::
+  Refers to the **decimalized portion of a Ruthen or Fuß**, used to express fractional values in land measurements. Example: “44 feet decimal” indicates a base unit plus fractional precision.
+
+Funck::
+  The surname of the sworn surveyor who authored and signed the measurement report. Likely a local land surveyor or geometer active in Bückeburg around 1799.
+
+beeidigter Landmesser::
+  Sworn surveyor — an officially appointed and sworn-in land measurer responsible for producing certified land plans and records.
+
+Graben zur Ableitung des Wassers::
+  "Ditch for water drainage" — a feature marked on the sketch, indicating land engineering for managing surface water.
+
+Communic. Weg::
+  Abbreviation for *Communicationsweg*, meaning "communal path" or shared roadway. A route accessible by multiple parties, often between properties.
+
+Plan zur Vergrößerung des Hofraums und Gartens::
+  “Plan for the enlargement of the yard space and garden” — the title under the sketch, summarizing its purpose.
+
+Verbindung::
+  Connection or linkage — used to describe how figure *b* connects to figure *a* in the layout.
