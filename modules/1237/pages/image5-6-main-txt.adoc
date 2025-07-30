@@ -3,10 +3,10 @@
 
 == Overview
 
-This is the reply from the `office or dept name goes here` to the `document-name-goes-here` reference by *ad nr: Cam: 53. S. S.*,
+This is the reply from the _office-or-dept-name-goes-here_ to the _document-name-goes-here_ referenced by *ad nr: Cam: 53. S. S.*,
 the internal filing and reference marker.
 
-It explains `whatever-it-explains-goes-here` and it states `whatever it statesgoes here`.
+It explains _whatever-it-explains-goes-here_ and it states _whatever-it-states-goes-here_.
 
 === Internal Filing and Reference Marker
 
