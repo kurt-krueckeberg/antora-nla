@@ -1,4 +1,4 @@
-= Image 5, No Title Yet
+= Document 3: No Title Yet
 :page-role: wide
 
 [%header,cols="1a,1a",frame=none,grid=none]

@@ -1,4 +1,4 @@
-= Image 6, Right Page (Under Development)
+= Document 4: No Title Yet (Under Development)
 :page-role: wide
 
 image::06-right-page.png[link=self]

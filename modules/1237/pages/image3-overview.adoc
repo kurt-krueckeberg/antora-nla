@@ -1,4 +1,4 @@
-= Land Assignment Report and Its Reaction, 1799
+= Document 2: Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
 [%header,cols="1a,1a",frame=none,grid=none]
