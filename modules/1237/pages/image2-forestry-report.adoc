@@ -6,7 +6,7 @@ are visible in the xref:image2-intro.adoc[complete image] hav been removed.
 
 image::002-forestry-report.png[link=self]
 
-== Explantion of the Document Header
+== Explantion Terms in the Document Header
 
 Cam: Nr: 662:: 
 Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the Kammer (Cammer) — i.e., the fiscal or administrative office.  
