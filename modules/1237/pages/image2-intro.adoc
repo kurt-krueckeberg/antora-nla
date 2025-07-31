@@ -3,7 +3,7 @@
 :page-role: wide
 
 
-image::02-verview.png[link=self]
+image::02-overview.png[link=self]
 
 == Overview
 
