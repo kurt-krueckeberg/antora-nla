@@ -1,0 +1,84 @@
+++++
+<div class="timeline-container">
+  <style>
+    .timeline-container {
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      background: linear-gradient(to bottom right, #f8fbff, #eef4fc);
+      padding: 2em;
+      border-radius: 16px;
+      border-left: 6px solid #3b82f6;
+    }
+
+    .timeline-entry {
+      margin-bottom: 1.5em;
+    }
+
+    .timeline-entry h4 {
+      color: #1e40af;
+      font-size: 1.1em;
+      margin-bottom: 0.2em;
+    }
+
+    .timeline-entry p {
+      margin: 0;
+      color: #1f2937;
+    }
+  </style>
+
+  <div class="timeline-entry">
+    <h4>29 May 1798</h4>
+    <p>Petition of Krückeberg to expand his farmyard and garden (Designatio Actorum No. 1)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>30 May 1798</h4>
+    <p>Petition and attached documents formally presented to the Cammer (praes: entry on Document Nr. 1)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>14 June 1798</h4>
+    <p>Cammer logs the Forestry Office report as Cam: Nr. 662 (B. entry on Document Nr. 1)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>May–June 1798</h4>
+    <p>Forstamt Officer Maas issues report approving the land assignment with tree replacement conditions</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>18 February 1799</h4>
+    <p>Administrative marginal note: file reactivated, Cammer sends matter to the Amt "brevi manu" for report</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>27 February 1799</h4>
+    <p>Report from the Bückeburg Amt (Document Index No. 2)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>11 March 1800</h4>
+    <p>Draft Chamber instructions to the Amt (Document Index No. 3)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>18 October 1800</h4>
+    <p>Follow-up report by the Amt (Document Index No. 4)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>c. October 1800</h4>
+    <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document Index No. 4½)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>27 October 1800</h4>
+    <p>Draft instructions to the Amt and Cammer Treasurer Barkmann (Document Index No. 5)</p>
+  </div>
+
+  <div class="timeline-entry">
+    <h4>1 December 1800</h4>
+    <p>Draft purchase letter (Kaufbrief) finalizing Krückeberg’s land acquisition (Document Index No. 6)</p>
+  </div>
+</div>
+++++
+
