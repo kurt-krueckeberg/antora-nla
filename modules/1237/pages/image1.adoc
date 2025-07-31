@@ -29,19 +29,18 @@ image::001.png[link=self]
 .Transliteration and Translation of Document Index
 [cols="1,7,7,2,2,2,1",options="header"]
 |===
-|Nos
+|Nos +
 (Nos.)
-|Designatio Actorum
+|Designatio Actorum +
 (Document Description)
 |Translation
-(English)
-|Amt
+|Amt +
 (Office)
-|Jahre
+|Jahre +
 (Year)
-|Monat
+|Monat +
 (Month)
-|Tag
+|Tag +
 (Day)
 
 |1.
