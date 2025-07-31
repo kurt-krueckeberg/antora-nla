@@ -4,7 +4,7 @@
 In this image, only the forestry report is present. The text to its right and below it, 
 visible in the xref:image2-intro.adoc[complete image], have been removed.
 
-image::002-forestry-report.png[link=self]
+image::02-forestry-report.png[link=self]
 
 == Explantion Terms in the Document Header
 

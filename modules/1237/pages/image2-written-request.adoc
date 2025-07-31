@@ -16,7 +16,7 @@ and is written much smaller. It is a formal salutation addressed to the reigning
 F√ºrstin (princess, female ruler) and possibly a Count, who is the recepient of
 written request that appears below the forestry report. 
 
-image::002-2-honorifics.png[link=self]
+image::02-2-honorifics.png[link=self]
 
 == Request
 
@@ -31,7 +31,7 @@ and style, it was almost certainly written by or on behalf of Jobst Heinrcih Kr√
 Itis clearly a first-person petition rather than administrative note by the Amt (office,
 department).
 
-image::002-1-bottom-small-text.png[link=self]
+image::02-1-bottom-small-text.png[link=self]
 
 == Transliteration and Translation
 

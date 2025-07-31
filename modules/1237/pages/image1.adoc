@@ -23,7 +23,7 @@ contents of the case file* without having to examine every page in full.
 
 == The Document Index
 
-image::001.png[link=self]
+image::01.png[link=self]
 
 === Transliteration and Translation
 .Transliteration and Translation of Document Index

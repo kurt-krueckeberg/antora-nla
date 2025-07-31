@@ -33,9 +33,9 @@ trees* (_Weiden Bäumen_) on the plot in question—i.e. he had already started 
 constitute a legal claim to the land, and there were *no legitimate grounds* to deny Krückeberg’s requested
 assignment.
 
-image::003-right-page-main-text.png[link=self]
+image::03-right-page-main-text.png[link=self]
 
-image::004.png[link=self]
+image::04.png[link=self]
 
 === Transliteration and Translation of Land Assignment Report
 
@@ -227,7 +227,7 @@ Kammer), giving administrative directives:
 It was written in the left margin the Land Assignment Report and encroaches on its text. To aid readability, the
 text of the Land Assigment Report has been erased from the imaage.
 
-image::003-right-page-left-margin-text.png[link=self]
+image::03-right-page-left-margin-text.png[link=self]
 
 === Transliteration of Official Response to Petition and Land Assignment Report
 

@@ -4,7 +4,7 @@
 This handwritten note appears along the bottom left edge of the page. It was written
 vertically but has been rotated horizontally below to make it easier to read:
 
-image::002-admin-note.png[link=self]
+image::02-admin-note.png[link=self]
 
 was a later archival or administrative note, added after the original Forestry 
 Report (the main body of text). Its purpose was to record that the document was

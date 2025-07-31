@@ -15,7 +15,7 @@ adminstrative offices of Bückeburg and Arenburg) along with their report to the
 Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative authority for land
 and estate matters. 
 
-image::003-left-main-txt.png[link=self]
+image::03-left-main-txt.png[link=self]
 
 === Transliteration and Translation of Jobst Heinrich Krückeberg's Petition
 
@@ -105,7 +105,7 @@ number, serving as a formal signature or attestation. The handwriting and
 format strongly suggest that Krückeberg dictated or authorized the petition
 rather than writing it personally.
 
-image::003-left-bot.png[link=self]
+image::03-left-bot.png[link=self]
 
 === Transliteration and Translation of Endorsement of the Petition
 

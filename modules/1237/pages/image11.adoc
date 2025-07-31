@@ -1,7 +1,7 @@
 = Images 11 and 12
 :page-role: wide
 
-image::0011.png[link=self]
+image::011.png[link=self]
 
 == Transliteration
 
