@@ -112,3 +112,120 @@ NOTE: Not complete
 |Official draft of the purchase contract for Krückeberg’s expansion plot. Marks the near-conclusion of the case file.
 |===
 
+== CSS Version
+
+++++
+<style>
+.vertical-timeline {
+  position: relative;
+  max-width: 700px;
+  margin: 0 auto;
+  padding-left: 20px;
+  border-left: 2px solid #aaa;
+}
+
+.vertical-timeline::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-left: 2px solid #aaa;
+}
+
+.timeline-entry {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+}
+
+.timeline-entry::before {
+  content: '●';
+  position: absolute;
+  left: -11px;
+  color: #2c3e50;
+  font-size: 1rem;
+}
+
+.timeline-date {
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 0.25rem;
+}
+
+.timeline-title {
+  font-style: italic;
+  margin-bottom: 0.25rem;
+}
+
+.timeline-text {
+  color: #444;
+  font-size: 0.95rem;
+}
+</style>
+
+<div class="vertical-timeline">
+
+  <div class="timeline-entry">
+    <div class="timeline-date">29 May 1798</div>
+    <div class="timeline-title">Petition of Colon Krückeberg</div>
+    <div class="timeline-text">Krückeberg submits a request to expand his farmyard and garden.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">30 May 1798</div>
+    <div class="timeline-title">Presented to the Cammer</div>
+    <div class="timeline-text">The petition and supporting documents were formally submitted to the Cammer.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">14 June 1798</div>
+    <div class="timeline-title">Document Logged</div>
+    <div class="timeline-text">The Forstamt’s report is recorded as Cam: Nr. 662 in the Cammer registry.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">18 February 1799</div>
+    <div class="timeline-title">Marginal Note</div>
+    <div class="timeline-text">Cammer sends the matter to the Amt informally to request a report.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">27 February 1799</div>
+    <div class="timeline-title">Amt Report</div>
+    <div class="timeline-text">The Bückeburg Amt provides an official response regarding Krückeberg’s request.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">11 March 1800</div>
+    <div class="timeline-title">Chamber Instruction</div>
+    <div class="timeline-text">The Cammer drafts instructions to the Amt for further action.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">18 October 1800</div>
+    <div class="timeline-title">Follow-up Report</div>
+    <div class="timeline-text">A follow-up by the Amt updates the Cammer on the process.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">Late Oct 1800</div>
+    <div class="timeline-title">Survey by Lieutenant Funck</div>
+    <div class="timeline-text">Plot boundaries are confirmed and a sketch is produced.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">27 October 1800</div>
+    <div class="timeline-title">Instructions to Barkmann</div>
+    <div class="timeline-text">Final preparations for the land transaction and treasury involvement.</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-date">1 December 1800</div>
+    <div class="timeline-title">Draft Purchase Letter</div>
+    <div class="timeline-text">The final draft of the Kaufbrief is prepared for Krückeberg’s new plot.</div>
+  </div>
+
+</div>
+++++
+
