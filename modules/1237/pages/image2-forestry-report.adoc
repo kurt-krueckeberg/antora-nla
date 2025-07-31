@@ -82,24 +82,14 @@ location in the forest, for each poplar to be felled,
 to plant three sapling poles in return.
                                   Maas, forestry official
 ____
-
 |===
 
-
-== Glossary of Terms
+== Definitions
 
 [.glossary]
-Cam:: Abbreviation for *Cammer* (modern *Kammer*), meaning fiscal office or chancellery. Responsible for land, taxation, and administrative matters.
-Nr:: *Nummer* (Number), usually refers to the registry number of the file or document.
-Cam: Nr: 662:: Archival reference number. "Cam:" abbreviates *Cammer* (old spelling of *Kammer*), meaning the fiscal or administrative office. "Nr: 662" is the filing number used internally by that office to track this specific case.
-Res: Cam:: *Rescriptum Cammerale* – a formal response or directive issued by the Cammer (chancellery). Often filed in series.
-praes.:: Abbreviation of *praesentiert* (German) or Latin *praesens*, meaning "presented on [date]".
-B.:: Short for *Bescheid vom* (notice/response dated...), a common filing notation.
 dreÿ:: Archaic form of *drei* (three). The long "ÿ" was often used for stylistic reasons, especially in handwritten formal texts.
 Papplen:: Variant spelling of *Pappeln* (poplars), with double "p" and "l" — not corrected in transcription.
-Nachteil:: Written without “th” in this document, though the older “Nachtheil” is also common.
 Maas:: Likely the surname of the forestry official, signed in an ornate hand at the bottom.
-Forstamts Bericht:: Forestry office report.
 
 == Notes
 
