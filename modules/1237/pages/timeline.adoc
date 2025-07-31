@@ -51,6 +51,10 @@ In the case file, officials of the Amt Bückeburg & Arensburg surveyed land and 
 
 == Timeline
 
+include::partial$timeline.adoc[]
+
+== Expaned Description
+
 NOTE: Not complete
 
 [cols="2,5,6", options="header"]
@@ -112,6 +116,4 @@ NOTE: Not complete
 |Official draft of the purchase contract for Krückeberg’s expansion plot. Marks the near-conclusion of the case file.
 |===
 
-== CSS Version
 
-include::partial$timeline.adoc[]
