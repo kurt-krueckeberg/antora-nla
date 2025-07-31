@@ -1,4 +1,4 @@
-= Description of Documents
+= Document Index
 :page-role: wide
 
 image::001.png[link=self]
