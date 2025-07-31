@@ -113,53 +113,62 @@ NOTE: Not complete
 |===
 
 == CSS Version
-
 ++++
 <style>
-.vertical-timeline {
-  position: relative;
-  max-width: 700px;
-  margin: 0 auto;
-  padding-left: 20px;
-  border-left: 2px solid #aaa;
+body {
+  background-color: #f8f9fa;
 }
 
-.vertical-timeline::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  border-left: 2px solid #aaa;
+.vertical-timeline {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  border-left: 4px solid #3498db;
 }
 
 .timeline-entry {
   position: relative;
-  margin-bottom: 2rem;
-  padding-left: 1.5rem;
+  margin-bottom: 2.5rem;
+  padding-left: 2rem;
 }
 
 .timeline-entry::before {
-  content: '●';
+  content: '';
   position: absolute;
   left: -11px;
-  color: #2c3e50;
-  font-size: 1rem;
+  top: 0.25rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background-color: #3498db;
+  border-radius: 50%;
+  border: 3px solid white;
+  box-shadow: 0 0 0 2px #3498db;
+}
+
+.timeline-card {
+  background: #ffffff;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  border-left: 5px solid #3498db;
 }
 
 .timeline-date {
   font-weight: bold;
   color: #2c3e50;
+  font-size: 1rem;
   margin-bottom: 0.25rem;
 }
 
 .timeline-title {
   font-style: italic;
+  color: #2980b9;
   margin-bottom: 0.25rem;
 }
 
 .timeline-text {
-  color: #444;
+  color: #555;
   font-size: 0.95rem;
 }
 </style>
@@ -167,65 +176,74 @@ NOTE: Not complete
 <div class="vertical-timeline">
 
   <div class="timeline-entry">
-    <div class="timeline-date">29 May 1798</div>
-    <div class="timeline-title">Petition of Colon Krückeberg</div>
-    <div class="timeline-text">Krückeberg submits a request to expand his farmyard and garden.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">29 May 1798</div>
+      <div class="timeline-title">Petition of Colon Krückeberg</div>
+      <div class="timeline-text">Krückeberg submits a request to expand his farmyard and garden.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">30 May 1798</div>
-    <div class="timeline-title">Presented to the Cammer</div>
-    <div class="timeline-text">The petition and supporting documents were formally submitted to the Cammer.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">30 May 1798</div>
+      <div class="timeline-title">Presented to the Cammer</div>
+      <div class="timeline-text">The petition and supporting documents are formally submitted to the Cammer.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">14 June 1798</div>
-    <div class="timeline-title">Document Logged</div>
-    <div class="timeline-text">The Forstamt’s report is recorded as Cam: Nr. 662 in the Cammer registry.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">14 June 1798</div>
+      <div class="timeline-title">Cammer Registry Entry</div>
+      <div class="timeline-text">The Forstamt’s report is recorded as Cam: Nr. 662 in the Cammer’s records.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">18 February 1799</div>
-    <div class="timeline-title">Marginal Note</div>
-    <div class="timeline-text">Cammer sends the matter to the Amt informally to request a report.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">18 February 1799</div>
+      <div class="timeline-title">Marginal Instruction</div>
+      <div class="timeline-text">Cammer sends the matter to the Amt informally for a report — a procedural push to resume the file.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">27 February 1799</div>
-    <div class="timeline-title">Amt Report</div>
-    <div class="timeline-text">The Bückeburg Amt provides an official response regarding Krückeberg’s request.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">27 February 1799</div>
+      <div class="timeline-title">Amt Report</div>
+      <div class="timeline-text">The Amt provides details or confirmation on Krückeberg’s request and proposed land expansion.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">11 March 1800</div>
-    <div class="timeline-title">Chamber Instruction</div>
-    <div class="timeline-text">The Cammer drafts instructions to the Amt for further action.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">11 March 1800</div>
+      <div class="timeline-title">Draft Instructions</div>
+      <div class="timeline-text">The Cammer drafts official instructions to the Amt to continue administrative processing.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">18 October 1800</div>
-    <div class="timeline-title">Follow-up Report</div>
-    <div class="timeline-text">A follow-up by the Amt updates the Cammer on the process.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">18 October 1800</div>
+      <div class="timeline-title">Follow-up by Amt</div>
+      <div class="timeline-text">Further administrative update on the case — likely in response to March instructions.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">Late Oct 1800</div>
-    <div class="timeline-title">Survey by Lieutenant Funck</div>
-    <div class="timeline-text">Plot boundaries are confirmed and a sketch is produced.</div>
+    <div class="timeline-card">
+      <div class="timeline-date">Late October 1800</div>
+      <div class="timeline-title">Surveyor Funck's Report</div>
+      <div class="timeline-text">Confirms plot boundaries and dimensions; supports land assignment process.</div>
+    </div>
   </div>
 
   <div class="timeline-entry">
-    <div class="timeline-date">27 October 1800</div>
-    <div class="timeline-title">Instructions to Barkmann</div>
-    <div class="timeline-text">Final preparations for the land transaction and treasury involvement.</div>
-  </div>
+    <div class="timeline-card">
+      <div class="timeline-date">27 October 1800</div>
+      <div class="timeline-title">Final Instructions</div>
+      <div class="timeline-text">Cammer prepares final financial and administrative steps, including notice to Treasurer Bark
 
-  <div class="timeline-entry">
-    <div class="timeline-date">1 December 1800</div>
-    <div class="timeline-title">Draft Purchase Letter</div>
-    <div class="timeline-text">The final draft of the Kaufbrief is prepared for Krückeberg’s new plot.</div>
-  </div>
-
-</div>
 ++++
 
