@@ -1,14 +1,16 @@
-= May 1798
+= Petition and Forestry Report on Land Request by Krückeberg
+ May 1798
 :page-role: wide
 
 image::002.png[link=self]
 
 == Overview
 
-Page two has multiple sections of text written by different individuals. The large text, the main text, is the recording of the
-proceedings of the Amt. To the right of it, written in a smaller hand, are what look to be expressions of salutation or formal
-address, written as if to choose which to use, address to the Graf (count). Finally below the record of the proceedings are the
-words of Colon Krückeberg.
+Document “Nr: 1” includes two distinct elements:
 
-Each area of text was extracted and a separate image of it created.
+* *A written petition* from Jobst Heinrich Krückeberg (tenant farmer, Nr. 10 in Berenbusch), requesting additional
+* land to enlarge his farmyard and garden.
+
+* *An expert opinion or report*—likely from a Forestry officer (Maas)—attesting that the requested land could be
+* assigned without disadvantage and outlining the condition of planting replacement saplings.
 
