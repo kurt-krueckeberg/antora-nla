@@ -24,6 +24,7 @@ image::002-forestry-report.png[link=self]
 == Explantion of the document header
 
 [cols="1,7a""]
+|===
 |Expression|Explantion
 
 |Cam: Nr: 662|	Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the
@@ -43,6 +44,7 @@ It means this document is classified as a *rescript*, i.e., an official directiv
 
 |praes: 30. May 1798|praesentiert, meaning “presented” or “submitted” on this date
 |===
+
 == Transliteration and Translation 
 
 [cols="a,a"]
