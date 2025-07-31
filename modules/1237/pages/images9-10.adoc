@@ -1,89 +1,138 @@
-= Images 9-10, Right Page (Under Development)
+= Document 5: Cammer Rescript and Collection Order (Land Expansion of Colon Krückeberg Nr. 10)
 :page-role: wide
-
-This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
-
-[NOTE]
-====
-The top of image 10 continues the text from image 9, but the signatures after the first
-paragraph at the top of image 10, which is then immediately followed to the left of the signature
-the new heading words "Concept Cammer" suggests that the remaing text if or might be a new document, which
-is signed at the bottom of image 10.
-====
 
 image::09-right-page.png[link=self]
 
 image::10-left-page.png[link=self]
 
-== Transliteration and Translation
+== Composition of the Document Explained
+
+This document consists of a single unified entry dated 27 October 1800. It begins with a *Cammeral Rescript*
+addressed to the officials in Bückeburg, authorizing the allocation of land to Colon Krückeberg Nr. 10 in
+Berenbusch and approving the associated terms of use and payment. The Rescript is signed by Cammer officials Waag
+and Wintz.
+
+The document continues—without a new document number—on the opposite page with a *Cammer Anweisung* (instruction or
+directive) to the Cammerwontmeister and Rentmeister Stackmann. This directive authorizes him to collect the purchase
+price of 14 Rthlr. 8 mgl. 1 d. for the designated land and to record it in the Cammer accounts. This portion is
+signed by a different set of officials involved in fiscal execution.
+
+There is no indication that this is a separate document: it shares the same date, refers to the same land parcel
+and purchase amount, and carries no new document identifier. Therefore, it is correctly listed in the Document
+Index as a single document (Document No. 5).
+
+=== Individuals Names in the Document
+
+[cols="1,2,4",options="header"]
+|===
+| Name
+| Role
+| Notes
+
+| **Waag**
+| Senior Cammer official
+| Signs the Rescript and the Anweisung; appears in multiple Cammer documents as an authorized issuer.
+
+| **Wintz**
+| Senior Cammer official
+| Co-signer of both the Rescript and the Anweisung.
+
+| **Mgr Danckwerk**
+| *Magister* (likely Cammerwontmeister or legal officer)
+| Named in the heading of the Anweisung. The title "Mgr" (Magister) indicates a university-educated official, likely with legal or fiscal oversight responsibilities.
+
+| **Hackmann**
+| Cammerrentmeister (Cammer Treasurer)
+| Named in the body of the Anweisung as the official instructed to collect and record the purchase payment.
+
+| **Stackmann**
+| Clerk or scribe
+| Appears near the heading of the Anweisung, not in the body or as a signer. Likely involved in drafting or preparing the document, similar to the role of other clerks like Bolte.
+
+| **Bolte**
+| Clerk or expeditor
+| Mentioned in the margin as "Cap: p: Bolte" and "Exp: per Boltesp" in the respective sections. Likely involved in formalizing or transmitting the documents.
+
+| **Mkaas**
+| Possibly a notary or reviewing officer
+| Signs the Anweisung. Name appears with others responsible for official validation.
+
+| **Wipperman**
+| Finalizing scribe or administrative witness
+| Appears at the bottom of the Anweisung, likely responsible for copying or recording the document.
+|===
+
+== Cammer Rescript
 
 [verse]
 ____
-ad nr. D: 322. F. S.                          5     
-Concept Cammer : Rescripts
-an die Beamte zu Buckeburg
-
-                       V. G.G.
-                       Wir laßen Euch auf Euren Bericht
-                       vom 18. d. M. in Ansehung der dem
-                       Colon Kruckeberg Nr: 10 zu Beren-
-                       busch, behuf zur Vergrößerung
-                       seines Hofraums und Gartens zu
-                       respective 19 Nuten 44 Fus dei¬
-                       u: 1 Rüte 90 Fus ausgegaßenen
-                       Plätze, und des davon zu Michaelis
-                       dieses Jahrs zum erstenmahl 
-                       und künftig jährlich mit zweÿy Mg.
-                       1 d. zu entrichtenden Rottzinses
-                       hiedurch ohnverhalten: daß Wir
-                       die Ausweisung dieser Plätze unter
-Cap: p: Bolte.
-                       den Euch durch Unser Rescript vom
-                       11. Merz 1799, eröfneten Bedin-
-                       gungen, sowie auch jenen Ansatz
-                       des Rottzinses genehmiget haben
-                       Ihr habt also dahin zu sehen damit
-                       der Colon Kruckeberg die ihm
-                       von Euch ohne Zweifel bekannt
-                       gemachten Bedingungen genau
-                       erfüllen möge, wie denn derselbe
-                       nunmehr das bestimte Kaufgeld
-                       per 4 Rute mit 2.4. nigl: folglich
-                       überhaupt vierzehn Rthlr
-                       8 mgl: 1 d. an Unsere Lammeroasse
-                       zuzahlen hat. Wir verbleiben,
-                       Buckeburg d 27. October 1800
-                       Anstatt p
-
-                                              A Waag
-Concept Cammer: Anweisung H.
-an den Cammerwontmeister                        Wintz
-Mgr Danckwerk
-Stackmann
-
-                       Der Cammerrentmeister Hackmann
-                       wird hiemit angewiesen, von dem
-                       Colon Kruckeberg Nr: 10, zu Schirn
-                       eichen für die demselben zur Ver-
-                       größerung seines Gartens u. Hof-
-Exp: per Boltesp
-                       raums ausgewiesene Plätze, welche
-                       zusam̅en w 1 Stuten 34 Ins Dec:
-                       das Kaufgeld per Räte mit 20 4 mgl. u
-                       betragen.
-                       also vierzehn Rthlr 8 mg. 1 d. zu
-                       erheben, in der Cammerrechnung
-                       gehöriges Orts zu vereinnahmen,
-                       und solche mit dieser Anweisung
-                       zu rechtfertigen. Bückeburg
-                       den 27. October 1800.
-                       Gräflich : p
-                                              Mkaas
-                       Juris Danckwerk
-                                  Wint
-
-
-
-
-                                        Wipperman
+ad nr. D: 322. F. S.                          5  
+Concept Cammer : Rescripts  
+an die Beamte zu Buckeburg  
+  
+                       V. G. G.  
+                       Wir laßen Euch auf Euren Bericht  
+                       vom 18. d. M. in Ansehung der dem  
+                       Colon Kruckeberg Nr: 10 zu Beren-  
+                       busch, behuf zur Vergrößerung  
+                       seines Hofraums und Gartens zu  
+                       respective 19 Nuten 44 Fus dei¬  
+                       u: 1 Rüte 90 Fus ausgegaßenen  
+                       Plätze, und des davon zu Michaelis  
+                       dieses Jahrs zum erstenmahl  
+                       und künftig jährlich mit zweÿy Mg.  
+                       1 d. zu entrichtenden Rottzinses  
+                       hiedurch ohnverhalten: daß Wir  
+                       die Ausweisung dieser Plätze unter  
+Cap: p: Bolte.  
+                       den Euch durch Unser Rescript vom  
+                       11. Merz 1799, eröfneten Bedin-  
+                       gungen, sowie auch jenen Ansatz  
+                       des Rottzinses genehmiget haben.  
+                       Ihr habt also dahin zu sehen damit  
+                       der Colon Kruckeberg die ihm  
+                       von Euch ohne Zweifel bekannt  
+                       gemachten Bedingungen genau  
+                       erfüllen möge, wie denn derselbe  
+                       nunmehr das bestimte Kaufgeld  
+                       per 4 Rute mit 2.4. nigl: folglich  
+                       überhaupt vierzehn Rthlr  
+                       8 mgl: 1 d. an Unsere Lammeroasse  
+                       zuzahlen hat. Wir verbleiben,  
+                       Buckeburg d 27. October 1800  
+                       Anstatt p  
+                                              A Waag  
 ____
+
+== Cammer Anweisung (Collection Order)
+
+[verse]
+____
+Concept Cammer: Anweisung H.  
+an den Cammerwontmeister  
+Mgr Danckwerk  
+  
+                       Der Cammerrentmeister Hackmann  
+                       wird hiemit angewiesen, von dem  
+                       Colon Kruckeberg Nr: 10, zu Schirn  
+                       eichen für die demselben zur Ver-  
+                       größerung seines Gartens u. Hof-  
+Exp: per Boltesp  
+                       raums ausgewiesene Plätze, welche  
+                       zusam̅en w 1 Stuten 34 Ins Dec:  
+                       das Kaufgeld per Räte mit 20 4 mgl. u  
+                       betragen.  
+                       also vierzehn Rthlr 8 mg. 1 d. zu  
+                       erheben, in der Cammerrechnung  
+                       gehöriges Orts zu vereinnahmen,  
+                       und solche mit dieser Anweisung  
+                       zu rechtfertigen. Bückeburg  
+                       den 27. October 1800.  
+                       Gräflich : p  
+                                              Mkaas  
+                       Juris Danckwerk  
+                                  Wint  
+  
+                                        Wipperman  
+____
+
