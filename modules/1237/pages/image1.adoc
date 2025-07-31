@@ -1,7 +1,31 @@
 = Document Index
 :page-role: wide
 
+[role="section-narrow"]
+== What this table means in the context of the Case File
+
+This table serves as a document index, compiled by the administrative office that created the case file. It
+functions like a modern *table of contents*, summarizing the individual documents included in the file.
+
+Each row in the table corresponds to a specific item (such as a petition, report, or land survey), and the columns
+identify:
+
+* the document number
+* a brief description of the document’s contents or subject
+* the office that authored or handled the document
+* the date it was created (year, month, and day)
+
+The column labeled *Designatio Actorum* — Latin for *description of the acts or documents* — provides a short
+summary of each document's content.
+
+By reading this table, a clerk at the time (or a modern researcher) could quickly understand the structure and
+contents of the case file without having to examine every page in full.
+
+== The Document Index
+
 image::001.png[link=self]
+
+=== Transliteration and Translation
 
 .Transliteration
 [width="60%",cols="1,7,2,2,2,1"]
