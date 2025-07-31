@@ -1,9 +1,7 @@
 = Petition and Forestry Report on Land Request by Krückeberg
  May 1798
-:page-role: wide
 
-
-image::02-overview.png[link=self]
+image::02-overview.png[align=left,link=self]
 
 == Overview
 
