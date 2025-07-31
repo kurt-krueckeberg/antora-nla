@@ -3,7 +3,9 @@
 
 == Overview
 
-Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report:
+Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report.
+The salution of his request is to the right of the text of the Forestry Department. The request itself
+is below the Forestry Department Report.
 
 image:::02-overview.png[align=left,link=self]
 
