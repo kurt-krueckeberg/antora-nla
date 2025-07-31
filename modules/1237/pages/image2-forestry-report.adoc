@@ -45,10 +45,10 @@ It means this document is classified as a *rescript*, i.e., an official directiv
 
 |*Nr: 1*
 |First document in the case file
-|===
 
-//|*praes: 30. May 1798*|praesentiert, meaning “presented” or “submitted” on this date
-//|===
+|*praes: 30. May 1798*
+|praesentiert, meaning “presented” or “submitted” on this date
+|===
 
 == Transliteration and Translation 
 
