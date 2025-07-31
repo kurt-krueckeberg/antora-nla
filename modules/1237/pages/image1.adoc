@@ -111,74 +111,11 @@ zur Vergrößerung seines Gartens
 |1
 |===
 
-.Transliteration
-[width="60%",cols="1,7,2,2,2,1"]
-|===
-|Nos |Designatio Actorum |Amt |Jahre |Monat |Tag
-
-|1. |Vorstellung des Colons +
-Krückeberg No: 10 zu Beren- +
-busch, d.d. |Bburg |1798 |May |29
-
-|2. |Desfallsiger Bericht der +
-Beamten zu Bückeburg, d.d. ||1799 |Febr |27
-
-|3. |Concept Cammer Rescripts +
-an gedachte Beamte, d.d. ||1800 |Mart |11
-
-|4. |Bericht von denselben Beamten ||1800 |Oct |18
-
-|4 ½.|dazu gehöriger Bericht +
-von Lieutenant Funck ||||
-
-|5. |Concept Cammer Rescripts +
-an die Beamten zu Bückeburg +
-desgl. an den Cammerwahr- +
-meister Barkmann, d.d. ||||27
-
-|6. |Concept Kaufbrief der Rentkammer +
-für den Colon Krückeberg No. 10 +
-zu Berenbusch über einen Platz +
-zur Vergrößerung seines Gartens |||Dec |1
-|===
-
-.Translation
-[width="60%",cols="1,7,2,2,2,1"]
-|===
-|No. |Description of document/action |Office |Year |Month |Day
-
-|1. |Petition by the colonist +
-Krückeberg No. 10 at Beren- +
-busch, dated |Bburg +
-[Bückeburg] |1798 |May |29
-
-|2. |Pertinent report by the +
-officials at Bückeburg, dated ||1799 |Feb |27
-
-|3. |Draft of Chancery rescript +
-to the aforementioned officials, dated ||1800 |Mar |11
-
-|4. |Report by the same officials ||1800 |Oct |18
-
-|4½. |Related report +
-by Lieutenant Funck ||||
-
-|5. |Draft of Chancery rescript +
-to the officials at Bückeburg, +
-similarly to the chamber steward +
-Barkmann, dated ||||27
-
-|6. |Draft purchase deed by the fiscal office +
-for the colonist Krückeberg No. 10 +
-at Berenbusch, for a plot +
-to enlarge his garden |||Dec |1
-|=== 
-
 == Glossary of Terms
 
 Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list of proceedings"* or *"index of entries"*.
 
-d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*. This signals that the document itself bears a date.
+d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*. This means the document itself bears a date.
 
 desfallsiger:: Means *"pertinent"* or *"relating to the matter."*  
   Breakdown of the word:  
