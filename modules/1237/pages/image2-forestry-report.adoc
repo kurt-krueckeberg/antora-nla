@@ -27,18 +27,24 @@ image::002-forestry-report.png[link=self]
 |===
 |Term|Explantion
 
-|*Cam: Nr: 662*|Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the
+|*Cam: Nr: 662*
+|Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the
 Kammer (Cammer) — i.e., the fiscal or administrative office.
 
 This document was logged as item *no. 662* in the Cammer’s registry or incoming
 correspondence log. This number was often reused as a reference when citing or
 copying documents elsewhere. 
-|*Res Cam*|"Chamber Rescript"(official directive) or *Directive from the Cammer* (i.e., the fiscal authority’s response or ruling).
+
+|*Res Cam*
+|"Chamber Rescript"(official directive) or *Directive from the Cammer* (i.e., the fiscal authority’s response or ruling).
 
 It means this document is classified as a *rescript*, i.e., an official directive, response, or decision from the Chamber. 
-|*B. 14. Jun. 1798*|*B.* = Berichtet (Reported). Processed or recorded by the office on this date.
 
-|*Nr: 1*|First document in the case file
+|*B. 14. Jun. 1798*
+|*B.* = Berichtet (Reported). Processed or recorded by the office on this date.
+
+|*Nr: 1*
+|First document in the case file
 |===
 
 //|*praes: 30. May 1798*|praesentiert, meaning “presented” or “submitted” on this date
