@@ -2,7 +2,8 @@
  May 1798
 :page-role: wide
 
-image::002.png[link=self]
+
+image::02-verview.png[link=self]
 
 == Overview
 
