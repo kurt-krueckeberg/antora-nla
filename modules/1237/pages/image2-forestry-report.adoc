@@ -29,6 +29,7 @@ image::002-forestry-report.png[link=self]
 
 |Cam: Nr: 662|	Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the
 Kammer (Cammer) — i.e., the fiscal or administrative office.
+
 +
 This document was logged as item *no. 662* in the Cammer’s registry or incoming
 correspondence log. This number was often reused as a reference when citing or
