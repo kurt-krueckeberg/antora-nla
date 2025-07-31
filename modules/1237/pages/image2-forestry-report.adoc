@@ -1,8 +1,8 @@
 = Forestry Office Report
 :page-role: wide
 
-In this image, only the forestry report is present. The text to its right and below it, which
-are visible in the xref:image2-intro.adoc[complete image], have been removed.
+In this image, only the forestry report is present. The text to its right and below it, 
+visible in the xref:image2-intro.adoc[complete image], have been removed.
 
 image::002-forestry-report.png[link=self]
 
