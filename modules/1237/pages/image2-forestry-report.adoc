@@ -23,7 +23,7 @@ image::002-forestry-report.png[link=self]
 
 == Explantion of the document header
 
-[cols="1,7a""]
+[cols="1,7a"]
 |===
 |Expression|Explantion
 
