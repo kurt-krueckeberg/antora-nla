@@ -124,7 +124,15 @@ desfallsiger:: Means *"pertinent"* or *"relating to the matter."*
   - *-ig* – a common adjectival suffix  
   → So *"desfallsiger Bericht"* literally means *"report concerning this case"* or *"pertinent report."*
 
-Cammer:: Old spelling of *Kammer*, meaning "chamber" or "chancellery." Used for financial or administrative offices in German principalities.
+Cammer::
+  Historical term for the administrative and fiscal office of a principality or territory. In this context, the
+Cammer (also spelled Kammer) was responsible for land tenure, taxation, leases, and internal regulation. Often
+translated as *Chamber* or *Fiscal Office* in English.
+
+Cammer Rescript::
+  An official written directive or instruction issued by the Cammer. These were administrative responses,
+approvals, or rulings in legal and land-use matters. Often translated as *Instruction from the Fiscal Office* or
+*Chamber Order*.
 
 Cammerwahrmeister:: Variant of *Kammerwahrmeister*, referring to a chancellery official or steward/clerk. Related to *Kammerwärter*.
 
