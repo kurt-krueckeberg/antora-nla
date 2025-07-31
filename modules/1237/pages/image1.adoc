@@ -47,7 +47,7 @@ image::001.png[link=self]
 |Vorstellung des Colons +
 Krückeberg No: 10 zu Beren- +
 busch, d.d.
-|Petition of Colonus Krückeberg No. 10 in Berenbusch, dated.
+|Petition of tenant farmer Krückeberg No. 10 in Berenbusch, dated.
 |Bburg
 |1798
 |May
@@ -178,7 +178,7 @@ to enlarge his garden |||Dec |1
 
 Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list of proceedings"* or *"index of entries"*.
 
-d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*
+d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*, indicating that the document itself bears a date.
 
 desfallsiger:: Means *"pertinent"* or *"relating to the matter."*  
   Breakdown of the word:  
