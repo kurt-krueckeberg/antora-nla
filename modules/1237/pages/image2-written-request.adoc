@@ -5,7 +5,7 @@
 
 Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report:
 
-image:::02-overview.png[link=self]
+image:::02-overview.png[align=left,link=self]
 
 == Salutation
 
