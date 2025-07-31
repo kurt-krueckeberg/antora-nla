@@ -26,6 +26,91 @@ contents of the case file* without having to examine every page in full.
 image::001.png[link=self]
 
 === Transliteration and Translation
+.Transliteration and Translation of Document Index
+[cols="1,7,7,2,2,2,1",options="header"]
+|===
+|Nos
+(Nos.)
+|Designatio Actorum
+(Document Description)
+|Translation
+(English)
+|Amt
+(Office)
+|Jahre
+(Year)
+|Monat
+(Month)
+|Tag
+(Day)
+
+|1.
+|Vorstellung des Colons +
+Krückeberg No: 10 zu Beren- +
+busch, d.d.
+|Petition of Colonus Krückeberg No. 10 in Berenbusch, dated.
+|Bburg
+|1798
+|May
+|29
+
+|2.
+|Desfallsiger Bericht der +
+Beamten zu Bückeburg, d.d.
+|Report on the matter from the Bückeburg officials, dated.
+|
+|1799
+|Febr
+|27
+
+|3.
+|Concept Cammer Rescripts +
+an gedachte Beamte, d.d.
+|Draft Cammer rescript to the aforementioned officials, dated.
+|
+|1800
+|Mart
+|11
+
+|4.
+|Bericht von denselben Beamten
+|Report from the same officials.
+|
+|1800
+|Oct
+|18
+
+|4 ½.
+|dazu gehöriger Bericht +
+von Lieutenant Funck
+|Related report from Lieutenant Funck.
+|
+|
+|
+|
+
+|5.
+|Concept Cammer Rescripts +
+an die Beamten zu Bückeburg +
+desgl. an den Cammerwahr- +
+meister Barkmann, d.d.
+|Draft Cammer rescripts to the Bückeburg officials, and likewise to Cammer Treasurer Barkmann, dated.
+|
+|
+|
+|27
+
+|6.
+|Concept Kaufbrief der Rentkammer +
+für den Colon Krückeberg No. 10 +
+zu Berenbusch über einen Platz +
+zur Vergrößerung seines Gartens
+|Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the enlargement of his garden.
+|
+|
+|Dec
+|1
+|===
 
 .Transliteration
 [width="60%",cols="1,7,2,2,2,1"]
