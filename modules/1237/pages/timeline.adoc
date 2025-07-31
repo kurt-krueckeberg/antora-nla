@@ -114,4 +114,4 @@ NOTE: Not complete
 
 == CSS Version
 
-include::partial$timeline.html[]
+include::partial$timeline.adoc[]
