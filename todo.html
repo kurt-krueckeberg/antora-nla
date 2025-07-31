@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.23">
+<title>TODO</title>
+<style>
+/* Based on Cerulean from Bootswatch (https://bootswatch.com/cerulean/) */
+
+/* document body (contains all content) */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* document header (contains title etc) */
+#header {
+  width: 100%;
+}
+#header>h1 {
+  border-bottom: 1px solid #ddddd8;
+  padding-bottom: 8px;
+}
+
+/* headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #317eac;
+}
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h4,
+h5,
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 4em;
+/*   font-size: 36px; */
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 12px;
+}
+
+/* plain paragraph text */
+.paragraph {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+p {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+
+/* blockquote text */
+.quoteblock {
+  font-style: italic;
+}
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eeeeee;
+}
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+  margin-bottom: 0;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+  text-align: right;
+}
+.blockquote-reverse footer:before,
+blockquote.pull-right footer:before,
+.blockquote-reverse small:before,
+blockquote.pull-right small:before,
+.blockquote-reverse .small:before,
+blockquote.pull-right .small:before {
+  content: '';
+}
+.blockquote-reverse footer:after,
+blockquote.pull-right footer:after,
+.blockquote-reverse small:after,
+blockquote.pull-right small:after,
+.blockquote-reverse .small:after,
+blockquote.pull-right .small:after {
+  content: '\00A0 \2014';
+}
+
+/* blockquote attribution text */
+.attribution,
+.cite,
+blockquote footer,
+blockquote small,
+blockquote .small {
+  display: block;
+  line-height: 1.42857143;
+  color: #999999;
+}
+.attribution:before,
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+  content: '\2014 \00A0';
+}
+
+/* unordered list */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+}
+
+
+/* links */
+a {
+  color: #2fa4e7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #157ab5;
+  text-decoration: underline;
+}
+a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+/* horizontal rules */
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
+
+/* table */
+table {
+  background-color: transparent;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 21px;
+  border-collapse: collapse;
+}
+table col[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-column;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-cell;
+}
+
+/* table caption */
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #999999;
+  text-align: left;
+}
+
+/* table header row */
+thead {
+  border-bottom: 2px solid #dddddd;
+}
+
+/* table header cell */
+th {
+  text-align: left;
+  padding-left: 8px;
+}
+
+/* table footer */
+tfoot {
+  color: #807F81;
+  border-top: 1px solid #dddddd;
+}
+
+/* table cell */
+td {
+  border-top: 1px solid #dddddd;
+}
+td p {
+  margin: auto;
+  padding: 8px;
+}
+
+/* table body */
+tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+tbody > tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* inline code */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #333333;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+kbd {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #ffffff;
+  background-color: #333333;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+kbd kbd {
+  padding: 0;
+  font-size: 100%;
+  font-weight: bold;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* image */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* footer section */
+#footer {
+  margin-top: 22px;
+  padding: 14px 16px;
+  color: #ffffff;
+  background-color: #2fa4e7;
+}
+
+/* responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+/* table of Contents sidebar */
+#toctitle {
+  display: none;
+}
+
+#toc {
+  margin-top: 20px;
+  background-image: -webkit-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -o-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #2fa4e7), to(#1d9ce5));
+  background-image: linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff54b4eb', endColorstr='#ff1d9ce5', GradientType=0);
+  border-bottom: 1px solid #178acc;
+  -webkit-filter: none;
+          filter: none;
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px;
+}
+
+#toc ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#toc li {
+  display: block;
+}
+
+#toc a {
+  color: #ffffff;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#toc li a:hover {
+  background-color: #178acc;
+  text-decoration: none;
+}
+
+#toc:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media all and (max-width: 600px) {
+table {
+  width: 55vw!important;
+  font-size: 3vw;
+}
+
+</style>
+</head>
+<body class="article">
+<div id="header">
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_todo">TODO</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Volunteer for Convention</p>
+</li>
+<li>
+<p>Append 06-left-page image and text into image5 image and text.</p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_image_1">Image 1</h3>
+<div class="paragraph">
+<p>Just have one table with a &#8220;Translation&#8221; column.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_indexing_system_for_documents">Indexing System for Documents</h3>
+<div class="paragraph">
+<p>[!IMPORTANT]: The numbers in the squares in the top right corner refer
+to the &#8220;Description of document/action&#8221; in Image 1.</p>
+</div>
+<div class="paragraph">
+<p>What is the structure of the contents of the 1236 folder. What is
+documents are in it? What are they about? How are they referenced. Is
+there an &#8220;index&#8221;?</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_how_documents_are_refereinced_understanding_the_nla_1236_headers">How Documents are Refereinced: Understanding the NLA 1236 Headers</h3>
+<div class="paragraph">
+<p>these located??</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_heres_a_plain_language_explanation_of_the_three_headers_and_how_to_understand_them">Here’s a plain-language explanation of the three headers and how to understand them:</h3>
+<div class="sect3">
+<h4 id="_header_1"><strong>Header 1:</strong></h4>
+<div class="literalblock">
+<div class="content">
+<pre>Cam: Nr: 662.
+Res Cam
+zum Forstamts Bericht.
+praes: 30. May 1798.
+B. 14. Jun. 1798</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This header refers to a separate case numbered <strong>662</strong> in the records of
+the <strong>Cammer</strong> (a central administrative or financial office).</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>&#8220;Res Cam&#8221;</strong> means this is a response from the Cammer.</p>
+</li>
+<li>
+<p><strong>&#8220;zum Forstamts Bericht&#8221;</strong> tells us the response was regarding a
+report submitted by the <strong>Forestry Office</strong>.</p>
+</li>
+<li>
+<p><strong>&#8220;praes: 30. May 1798&#8221;</strong> is the date the Forestry Office submitted
+its report.</p>
+</li>
+<li>
+<p><strong>&#8220;B. 14. Jun. 1798&#8221;</strong> shows the Cammer issued its response on June
+14, 1798, in Bückeburg.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>So this is a dated response to a forestry-related matter and unrelated
+to the other two headers.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_header_2"><strong>Header 2:</strong></h4>
+<div class="literalblock">
+<div class="content">
+<pre>pr: 6. Merz 1799
+Cam: N: 53.
+2 1.
+Forst-Sachen</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This marks the registration of a new forestry-related case:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>&#8220;pr:&#8221;</strong> likely means &#8220;protocolliert&#8221; (registered) or
+&#8220;presentiert&#8221; (presented), with the date: <strong>March 6, 1799</strong>.</p>
+</li>
+<li>
+<p><strong>&#8220;Cam: N: 53&#8221;</strong> means this is <strong>case number 53</strong> in the Cammer’s
+internal records.</p>
+</li>
+<li>
+<p><strong>&#8220;2 1&#8221;</strong> could be an internal filing code—possibly bundle 2, document
+1.</p>
+</li>
+<li>
+<p><strong>&#8220;Forst-Sachen&#8221;</strong> simply means &#8220;Forestry Matters,&#8221; the category of
+the issue.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>This header introduces the case involving <strong>Jobst Heinrich Krückeberg</strong>
+and his request to expand his property.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_header_3"><strong>Header 3:</strong></h4>
+<div class="literalblock">
+<div class="content">
+<pre>ad nr: Cam: 53. S. S.
+Concept Cammer: Rescript
+an die Beamten zu Buckeburg</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This header is tied to the previous one—it refers to <strong>the same case,
+number 53</strong>:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>&#8220;ad nr:&#8221;</strong> is Latin for &#8220;concerning number&#8221;—so this means:
+&#8220;Regarding case number Cam: 53&#8221;.</p>
+</li>
+<li>
+<p><strong>&#8220;S. S.&#8221;</strong> is Latin for <em>"`supra scripta`"</em>—&#8220;as written above&#8221; or
+&#8220;see earlier.&#8221;</p>
+</li>
+<li>
+<p><strong>&#8220;Concept Cammer: Rescript&#8221;</strong> means this is a <strong>draft</strong> of a rescript
+(official reply or directive) issued by the Cammer.</p>
+</li>
+<li>
+<p><strong>&#8220;an die Beamten zu Bückeburg&#8221;</strong> shows that the directive was sent to
+local officials in Bückeburg.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_summary">Summary:</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Header 1 (Cam: 662) is from an earlier, unrelated case in 1798.</p>
+</li>
+<li>
+<p>Headers 2 and 3 (Cam: 53) both concern the <strong>same case</strong> from 1799 about
+Krückeberg’s petition.</p>
+</li>
+<li>
+<p>They reflect different steps in the case: first the registration of
+the matter, and then the official response issued to the local Amts.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2025-07-31 16:09:08 -0400
+</div>
+</div>
+</body>
+</html>
