@@ -53,7 +53,7 @@ In the case file, officials of the Amt Bückeburg & Arensburg surveyed land and 
 
 include::partial$timeline.adoc[]
 
-== Expaned Description
+== Expanded Description
 
 NOTE: Not complete
 
