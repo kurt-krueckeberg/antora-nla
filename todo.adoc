@@ -3,7 +3,9 @@
 * Volunteer for Convention
 * Append 06-left-page image and text into image5 image and text.
 
-* Make Document 2 only one page.
+* Break Document 1 into a landing, overview page and two subpages, one for the petition the other for the
+report and a third for the endorsement
+* For Document 2, I'm undecided if the same organization is needed?
 * The so-called left page of Document #3 is likely part of document #2.
 
 == Only Have on AsiiDoc page per Document
