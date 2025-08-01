@@ -2,6 +2,9 @@
 
 Document NLA BU, K 2, A Nr. 1237
 
-The document denotated link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237]
-is composed of 12 TIF images received from the Niedersächishces Landesarchiv, each about 58MG in size. It is
-one of five other documents and other research containted in a downloadable .zip file. 
+"Jobst Heinrich’s Petition to Enlarge Farmyard and Garden: has call number
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237] in the Arcinsys catalog 
+system of the Lower Saxony Archives.
+
+It is a case file composed of a cardboard-like folder containing six documents and a document index.
+Upon payment, I received 12 TIF images of the contents of the case file from the Niedersächishces Landesarchiv.
