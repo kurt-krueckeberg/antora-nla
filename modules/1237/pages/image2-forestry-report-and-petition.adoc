@@ -85,17 +85,12 @@ Nahe an meinen Garten bragt auf der Gemein-
 heit beÿ der Straße eine schiebe Ecke Landes
 die unbebauet ist und mithin auch niemand
 einen Nutzen verschafft, wodurch über dem noch die
-Straße unegal wird.
-Da dieselbe nun nahe
+Straße unegal wird.  Da dieselbe nun nahe
 an meinen Garten stößt, so wünschte ich diesel-
 be gern urbar zu machen und käuflich an mich
-zu bringen.
-
-An Ewr. Durchlauchten
-und
-Ewr. Hochgräflichen Gnaden
-ergehet daher meine
-unterthänigst bitte
+zu bringen. An Ewr. Durchlauchten und Ewr.
+Hochgräflichen Gnaden ergehet daher meine
+unterthänigst bitte:
 
 Mir jene Ecke gnädigst für
 einen billigen Preis käuflich zu
@@ -105,25 +100,17 @@ zu lassen.
 
 In tiefster Ehrfurcht verharre ich
 Ewr. Durchlauchten
-und
+    und
 Ewr. Hochgräflichen Gnaden
-
-Durchlauchtigste Fürstin!
-Gnädigst Regierende Fürstin und Frau
-Hochgeborner Graf!
-Gnädigst Regierender Graf und Herr
 ____
 
 |
 [verse]
 ____
-most serene princess!
-
-most gracious ruling princess and lady
-
-highborn count!
-
-most gracious ruling count and lord
+Most Serene Princess!
+Most Gracious Ruling Princess and Lady
+High-born Count!
+Most Gracious Ruling Count and Lord.
 
 close to my garden, on the common land
 by the road, there lies a sloping corner of land
@@ -145,14 +132,56 @@ be inspected as soon as possible and measured
 for this purpose.
 
 With deepest respect, I remain before
-Your Serene Highness
-and
+Your Serene Highness and
 Your High Comital Grace.
+____
+|===
 
-Most Serene Princess!
-Most Gracious Ruling Princess and Lady,
-High-born Count!
-Most Gracious Ruling Count and Lord.
+== Endorsement of the Petition 
+
+This brief note appears at the bottom of Jobst Heinrich Krückeberg’s petition
+to the authorities. It confirms that the petition was submitted in Bückeburg on
+May 29, 1798, and was written not by Krückeberg himself, but by a scribe or
+clerk named Lindemann, likely employed by the chancery or local administration.
+The phrase "pro St." is shorthand for pro Statu, meaning “by order” or “on
+behalf [of the authority].” It implies that Lindemann drafted the petition
+officially or in accordance with administrative procedure. The note concludes
+with “unterschriebner” (signed) and identifies Krückeberg by name and house
+number, serving as a formal signature or attestation. The handwriting and
+format strongly suggest that Krückeberg dictated or authorized the petition
+rather than writing it personally.
+
+image::03-left-bot.png[link=self]
+
+=== Transliteration and Translation of Endorsement of the Petition
+
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Supplic.  
+Bückeburg d. 29t. Mai 1798.  
+Lindemann geh.  
+pro St.
+
+unterschriebner  
+Col. Krückeberg N. 10 zu Berenbusch  
+____
+
+|
+[verse]
+____
+Petition.  
+Bückeburg, May 29, 1798.  
+Lindemann, written on behalf of  
+by order.
+
+signed  
+Col. Krückeberg No. 10 at Berenbusch  
 ____
 |===
 
