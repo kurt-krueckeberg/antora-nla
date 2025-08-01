@@ -28,7 +28,7 @@ begins below the Forestry Department Report and continues on the backside of the
 
 [cols="1a,1a",frame="none",grid="none"]
 |===
-|Document 1 font side|Document 1 backside
+^|Document 1 Front ^|Document 1 Back
 
 |image::02-overview.png[align=left,link=self]
 
