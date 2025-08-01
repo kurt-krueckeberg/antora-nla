@@ -12,7 +12,7 @@ the Amt to indicate the date the document was formally forwarded or submitted to
 
 The Cammer (also located in Bückeburg) officially registered the document on 14 June 1798 (*B. 14. Jun. 1798*),
 assigning it the internal reference number *“Cam: Nr: 662”* and marking it as *“Res Cam”*, meaning it was formally
-filed and entered into the chamber’s registry for further handling.
+filed and entered into the chamber’s registry for further handling. 
 
 These labels were written in the upper-left corner by the Cammer as part of its document tracking process.
 The one-day discrepancy between 29 May (when the petition was composed or recorded at the Amt) and 30 May (when it
