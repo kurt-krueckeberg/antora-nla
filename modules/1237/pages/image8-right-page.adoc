@@ -1,8 +1,8 @@
 = Document 4½: Under Development
 :page-role: wide
 
-The document is igned by Lieutenant Funck, a "beeidigter Landmesser" (sworn land surveyor). As a technical specialist, Funck was not part of the
-administrative offices (Amt) that issued Document 4. His report was therefore logged as an independent piece of correspondence, even though it
+Document #4½ is signed by Lieutenant Funck, a "beeidigter Landmesser" (sworn land surveyor). As a technical specialist, Funck was not part of the
+administrative offices (Amt) that issued Document #4. His report was therefore logged as an independent piece of correspondence, even though it
 accompanied document #4.
 
 image::08-right-page.png[link=self]
@@ -78,6 +78,21 @@ Bückeburg, the 30th of March 1799.
                 sworn surveyor
 ____
 |===
+
+The phrase "we make the proposal, without further negotiation, that he be
+assigned this land..." should be interpreted as:
+
+[quote]
+____
+"We propose — without entering into any further negotiation or discussion
+(particularly with Jobst Heinrich Krückeberg) — that the land be formally
+assigned to him..."
+____
+
+This reflects that the offices of Bückeburg and Arensburg were putting forward
+a definitive recommendation or decision to the Kammer (Chamber), expecting it
+to be accepted and implemented without need for further consultation with the
+petitioner.
 
 === Glossary of Terms
 
