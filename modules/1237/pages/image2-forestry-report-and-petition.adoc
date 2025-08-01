@@ -20,32 +20,105 @@ The one-day discrepancy between 29 May (when the petition was composed or record
 was formally forwarded to the Cammer) reflects the administrative sequence of submission and transfer—not
 necessarily when it was received or reviewed by the Cammer.
 
+== Jobst Heinrich's Request
+
+Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report.
+The salution of his request is to the right of the text of the Forestry Department. The request itself
+is below the Forestry Department Report.
+
+image:::02-overview.png[align=left,link=self]
+
+=== Salutation
+
+The text below appears to the right of the main text of the forestry report
+and is written much smaller. It is a formal salutation addressed to the reigning
+Fürstin (princess, female ruler) and possibly a Count, who is the recepient of
+written request that appears below the forestry report. 
+
+image::02-2-honorifics.png[link=self]
+
+=== Request
+
+The request itself appears below the forestry report. Based on its content
+and style, it was almost certainly written by or on behalf of Jobst Heinrcih Krückeberg
+(or dictated by him and written in his name). Notice these expressions:
+
+* “Nahe an *meinem* Garten …” (Close to my garden)
+* “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
+* “… an *mich* zu bringen.” (to acquire it for myself)
+
+Itis clearly a first-person petition rather than administrative note by the Amt (office,
+department).
+
+image::02-1-bottom-small-text.png[link=self]
+
+== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|Translation|Transliteration
+
+|
+[verse]
+____
+Durchlauchtigste Fürstin!
+
+Gnädigst Regierende Fürstin und Frau
+
+Hochgeborner Graf!
+
+Gnädigst Regierender Graf und Herr
+
+Nahe an meinen Garten bragt auf der Gemein-
+heit beÿ der Straße eine schiebe Ecke Landes
+die unbebauet ist und mithin auch niemand
+einen Nutzen verschafft, wodurch über dem noch die
+Straße unegal wird.
+Da dieselbe nun nahe
+an meinen Garten stößt, so wünschte ich diesel-
+be gern urbar zu machen und käuflich an mich
+zu bringen.
+
+An Ewr. Durchlauchten
+und
+Ewr. Hochgräflichen Gnaden
+ergehet daher meine
+Bitte.
+____
+
+|
+[verse]
+____
+most serene princess!
+
+most gracious ruling princess and lady
+
+highborn count!
+
+most gracious ruling count and lord
+
+close to my garden, on the common land
+by the road, there lies a sloping corner of land
+which is uncultivated and therefore of no use to anyone,
+and which even causes the road to be uneven.
+since this corner adjoins my garden,
+i would like to cultivate it and purchase it.
+
+i therefore respectfully present this petition
+to your serene highness
+and
+your high comital grace.
+____
+|===
+
+== Forestry Report
+
 NOTE: In this image, only the forestry report is present. The petition text to its right and below it, visible in the
 xref:image2-intro.adoc[complete image], has been removed.
 
 image::02-forestry-report.png[link=self]
 
-== Explantion Terms in the Document Header
-
-Cam: Nr: 662:: 
-Chamber’s registry number (file no. 662). This is a *registration number* within the files or registry of the Kammer (Cammer) — i.e., the fiscal or administrative office.  
-This document was logged as item *no. 662* in the Cammer’s registry or incoming correspondence log. This number was often reused as a reference when citing or copying documents elsewhere.
-
-Res Cam:: 
-"Chamber Rescript" (official directive) or *Directive from the Cammer* (i.e., the fiscal authority’s response or ruling).  
-It means this document is classified as a *rescript*, i.e., an official directive, response, or decision from the Chamber.
-
-B. 14. Jun. 1798:: 
-*B.* = *Berichtet* ("Reported"). Indicates the document was processed or recorded by the office on this date.
-
-Nr: 1:: 
-First document in the case file.
-
-praes: 30. May 1798:: 
-Short for *praesentiert*, meaning “presented” or “submitted” on this date.
-
-
-== Transliteration and Translation 
+=== Transliteration and Translation 
 
 [cols="a,a"]
 |===
@@ -107,6 +180,36 @@ ____
 |===
 
 == Glossary of Terms
+
+=== Glossary of Terms in Petition
+
+Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
+
+Fürstin:: Princess (female ruler or the consort of a *Fürst*). Rank below a king/queen but sovereign or mediatized territorial ruler within the Holy Roman Empire and successor states.
+
+Gnädigst:: “Most gracious.” Intensified form of *gnädig* (“gracious, merciful”). Very common in formal addresses to princes, counts, and other high nobles; functions as a deferential honorific rather than a literal comment on kindness.
+
+Regierende / Regierender:: “Ruling,” “reigning,” i.e., exercising governmental authority (as opposed to merely titular). Spelling in period documents may vary (*Regierende*, *Regirende*); gender and case endings change with the noun (here: *Fürstin* vs *Graf*).
+
+Frau:: Literally “woman” or “wife,” but in formal address “Lady.” In princely salutations, “und Frau” = “and Lady,” marking respect for her person and/or consort status.
+
+Hochgeborner:: “Highborn.” A noble style traditionally used when addressing counts (*Grafen*) and certain other ranks. Masculine form shown here.
+
+Graf:: Count. A hereditary noble rank; in many German territories an important territorial lord beneath princely rank.
+
+Herr:: “Lord,” “Sir,” depending on context and rank. In high-noble address formulas, “und Herr” reinforces deference to the person’s seigneurial or jurisdictional authority.
+
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
+
+Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+urbar machen:: “To bring under cultivation,” referring to making unused land arable.
+
+Schiebe Ecke::  means a wedge-shaped or sloping corner of land.
+
+unegal:: means uneven or irregular in shape, possibly referring to the street's alignment.
+
+=== Terms in Forestry Report
 
 Res Cam:: Abbreviation for "Rescriptum Cammerae" (Latin), meaning “Filed by the Cammer” or “Registered by the Chamber.”
 Papplen:: Variant spelling of *Pappeln* (poplars), with double "p" and "l" — not corrected in transcription.

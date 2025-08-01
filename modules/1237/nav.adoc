@@ -5,7 +5,6 @@
 * xref:image1.adoc[]
 * xref:image2-intro.adoc[]
 ** xref:image2-forestry-report-and-petition.adoc[]
-//** xref:image2-honorifics.adoc[]
 ** xref:image2-written-request.adoc[]
 ** xref:image2-admin-note.adoc[]
 * xref:image3-overview.adoc[] 
