@@ -32,7 +32,7 @@ begins below the Forestry Department Report and continues on the backside of the
 
 |image::02-overview.png[align=left,link=self]
 
-|image::03-left-page.png[algin=left,link=self]
+|image::03-left-page.jpg[algin=left,link=self]
 |===
 
 === Salutation
