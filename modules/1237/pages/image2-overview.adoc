@@ -19,7 +19,14 @@ The one-day discrepancy between 29 May (when the petition was composed or record
 was formally forwarded to the Cammer) reflects the administrative sequence of submission and transfer—not
 necessarily when it was received or reviewed by the Cammer.
 
-== Jobst Heinrich's Request
+== Document Components
+
+The larger text is the Forestry Office assesstment regarding the land Jobst Heinrich Krückeberg has
+request to purchase. The text written vertically along the lower left edge is an administrative note.
+The smaller text to the right and below the Forestry Office report is Jobst Heinrich's written petition
+composed by the clerk Lindemann.
+ 
+=== Jobst Heinrich's Request
 
 Jobst Heinrich's request is the smaller text found on the Forestry Department's Report. The salution of his request
 is addressed to the ruling nobility of Schaumbug-Lippe and appears to the right of the text by the Forestry Department.
