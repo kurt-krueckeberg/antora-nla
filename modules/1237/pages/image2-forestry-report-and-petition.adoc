@@ -1,15 +1,14 @@
 = Document 1: Petition and Forestry Office Assessment Regarding Land Expansion (29–30 May 1798) 
 :page-role: wide
 
-Jobst Heinrich Krückeberg likely submitted his petition in person to the Amt (local office) in Bückeburg on or
+Jobst Heinrich Krückeberg likely submitted his request in person to the Amt (local office) in Bückeburg on or
 before 29 May 1798. We know this because the xref:image1.adoc[Document Index] records May 29, 1798, as the date of
 the "Petition of tenant farmer Krückeberg No. 10 in Berenbusch".
 
-It is very likely that someone in the Amt formally composed or transcribed Jobst Heinrich Krückeberg’s petition
-onto official paper, and that Jobst Heinrich did not write it himself. The Amt also compiled a brief Forestry Report
-onto the same official paper and forwarded the document to the Cammer (central fiscal authority). The phrase
-*"praes: 30. May 1798"* (short for praesentiert, presented) was written by the Amt to indicate the date the
-document was formally forwarded or submitted to the Cammer.
+A clerk named Lindemann formally composed or transcribed Jobst Heinrich Krückeberg’s petition onto official paper.
+The Amt also compiled a brief Forestry Report onto the same official paper and forwarded the document to the Cammer
+(central fiscal authority). The phrase *"praes: 30. May 1798"* (short for praesentiert, presented) was written by
+the Amt to indicate the date the document was formally forwarded or submitted to the Cammer.
 
 The Cammer (also located in Bückeburg) officially registered the document on 14 June 1798 (*B. 14. Jun. 1798*),
 assigning it the internal reference number *“Cam: Nr: 662”* and marking it as *“Res Cam”*, meaning it was formally
