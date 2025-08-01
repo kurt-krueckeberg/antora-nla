@@ -2,7 +2,7 @@
 :page-role: wide
 
 Jobst Heinrich Krückeberg likely submitted his petition in person to the Amt (local office) in Bückeburg on or
-before 29 May 1798. We know this because the xref:image1.doc[Document Index] records May 29, 1798, as the date of
+before 29 May 1798. We know this because the xref:image1.adoc[Document Index] records May 29, 1798, as the date of
 the "Petition of tenant farmer Krückeberg No. 10 in Berenbusch".
 
 It is very likely that someone in the Amt formally composed or transcribed Jobst Heinrich Krückeberg’s petition
