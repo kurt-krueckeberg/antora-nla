@@ -1,49 +1,20 @@
 = Document 2: Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
-[%header,cols="1a,1a",frame=none,grid=none]
-|===
-^|Accompanying Petition of +
-
-Jobst Heinrich Krückeberg (left page) ^|Land Assignment Report (right page)
-
-|image::03-left-page.jpg[role=image-pair,link=self]
-
-|image::03-right-page.jpg[role=image-pair,link=self]
-|===
+image::03-left-page.jpg[title="Land Assignment Report",link=self]
 
 [role="section-narrow"]
-== Overview
+== The Land Assignment Report
 
-The petition of Jobst Heinrich Krückeberg appears on the left page of image 3. It accompanied
-the Land Assignment Report shown on the right page.
-
-=== Petition of Jobst Heinrich Krückeberg
-
-Jobst Heinrich Krückeberg's petition requests:
-
-* To purchase the corner of land for a fair price.
-
-* For the land to be inspected and measured. 
-
-* Concludes with a formulaic expression of respect to the ruling authorities (*Ewr. Durchlauchten* und *Ewr.
-* Hochgräflichen Gnaden*).
-
-The personal petiton of Jobst Heinrich Krückeberg was sent by the *Ämter Bückeburg und Arensburg* (local
-adminstrative offices of Bückeburg and Arenburg) along with their Land Assignment report to the *Gräflich
-vormundschaftliche Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative
-authority for land and estate matters.
-
-=== The Land Assignment Report
-
-On the right page, the "main text", the larger text on the page, is the *The Land Assignment Report* issued by the
+The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the
 *Ämter Bückeburg und Arensburg* (local adminstrative offices of Bückeburg and Arenburg). They are reporting to the
 *Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber), which was the higher fiscal and administrative
 authority for land and estate matters. 
 
 The report describes:
 
-* The request from *Jobst Heinrich Krückeberg*, a _Brinksitzer_ (smallholder) residing at No. 10 in Berenbusch, to obtain a piece of land to enlarge his garden and farmyard.
+* The request from *Jobst Heinrich Krückeberg*, a _Brinksitzer_ (smallholder) residing at No. 10 in Berenbusch, to
+obtain a piece of land to enlarge his garden and farmyard.
 
 * A local objection raised by a *Köter* (an older term for a small cottager with minimal land rights; see sidebar)
 named *Weiland*, also from Berenbusch, who:

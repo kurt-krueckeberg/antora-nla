@@ -3,6 +3,9 @@
 * Volunteer for Convention
 * Append 06-left-page image and text into image5 image and text.
 
+* Make Document 2 only one page.
+* The so-called left page of Document #3 is likely part of document #2.
+
 == Only Have on AsiiDoc page per Document
 
 Only Have on AsiiDoc page per Document. Just make the documents longer. Use scaled "overview" images at the
