@@ -218,7 +218,7 @@ ____
 
 == Glossary of Terms
 
-=== Glossary of Terms in Forestry Report
+=== Terms in Forestry Report
 
 Res Cam.:: Abbreviation for *Rescriptum Cammerale* or *Resolution Cammeralis*, meaning “Chamber Resolution” or “Chancellery Response.” A common header or reference for official documents in 18th–19th century administrative usage.
 Brevi manu:: Latin phrase meaning “by hand” or “summarily.” In bureaucratic contexts, it indicated that a document was physically delivered, often without formal correspondence.
@@ -228,8 +228,7 @@ B. 18°:: Abbreviation for *Beilage 18*, meaning “Appendix” or “Enclosure 
 Febr:: Abbreviation for *Februar* (February).
 Maas:: Likely the surname or signature of the person submitting or certifying the note.
 
-
-=== Glossary of Terms in Petition
+=== Terms in Petition
 
 Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
 
