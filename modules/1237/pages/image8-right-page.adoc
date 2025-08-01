@@ -5,8 +5,8 @@ Document 4½ is signed by Lieutenant Funck, a "beeidigter Landmesser" (sworn lan
 administrative offices (Amt) that issued Document 4. His report was therefore xref:image1.adoc[logged] as an independent piece of correspondence,
 even though it accompanied xref:image6-right-page.adoc[document 4].
 
-NOTE: The surveyor's document and drawing was completee over a year before it was enclosed in xref:image6-right-page.adoc[document 4], which is
-dated October 18, 1800. 
+NOTE: The surveyor completed his drawing over a year before it was enclosed in xref:image6-right-page.adoc[document 4]. His drawing is
+date March 30, 1799, but document 4 is dated October 18, 1800.
 
 image::08-right-page.png[link=self]
 
