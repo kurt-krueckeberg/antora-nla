@@ -37,10 +37,10 @@ it concludes.
 
 === Salutation
 
-The text below appears to the right of the main text of the forestry report
-and is written much smaller. It is a formal salutation addressed to the reigning
-Fürstin (princess, female ruler) and possibly a Count, who is the recepient of
-written request that appears below the forestry report. 
+The text below (in grayscale mode) appears to the right of the main text of the forestry report
+and is written much smaller. It is a formal salutation addressed to the reigning Fürstin (princess,
+female ruler) and possibly a Count, who is the recepient of written request that appears below the
+forestry report. 
 
 image::02-2-honorifics.png[link=self]
 
@@ -52,8 +52,14 @@ The request itself appears below the forestry report. Notice these expressions:
 * “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
 * “… an *mich* zu bringen.” (to acquire it for myself)
 
-Itis clearly a first-person petition rather than a administrative note by the Amt (office,
+It is clearly a first-person petition rather than a administrative note by the Amt (office,
 department).
+
+The petition requests:
+
+* To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
+* For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
+* Concludes with a formulaic expression of respect to the ruling authorities (Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden).
 
 The body of the petition begins on the first page of document 1, but it continues on its backside:
 
@@ -296,17 +302,13 @@ Maas:: Likely the surname or signature of the person submitting or certifying th
 
 === Terms in Petition
 
-Durchlauchtigste:: Superlative ceremonial title: *“Most Serene”* (literally “most transparent/illustrious,” from *durchleuchten* = to shine through). Used for high-ranking princes/princesses of the Empire. Feminine superlative form here (ending *-ste*).
+Durchlauchtigste Fürstin:: “Most Serene Princess,” a formal closing salutation to a ruling princess.
 
-Fürstin:: Princess (female ruler or the consort of a *Fürst*). Rank below a king/queen but sovereign or mediatized territorial ruler within the Holy Roman Empire and successor states.
+Gnädigst Regierende Fürstin und Frau:: “Most Gracious Ruling Princess and Lady,” another closing title.
 
-Gnädigst:: “Most gracious.” Intensified form of *gnädig* (“gracious, merciful”). Very common in formal addresses to princes, counts, and other high nobles; functions as a deferential honorific rather than a literal comment on kindness.
+Hochgeborner Graf:: “High-born Count,” a ceremonial address for a noble count.
 
-Regierende / Regierender:: “Ruling,” “reigning,” i.e., exercising governmental authority (as opposed to merely titular). Spelling in period documents may vary (*Regierende*, *Regirende*); gender and case endings change with the noun (here: *Fürstin* vs *Graf*).
-
-Frau:: Literally “woman” or “wife,” but in formal address “Lady.” In princely salutations, “und Frau” = “and Lady,” marking respect for her person and/or consort status.
-
-Hochgeborner:: “Highborn.” A noble style traditionally used when addressing counts (*Grafen*) and certain other ranks. Masculine form shown here.
+Gnädigst Regierender Graf und Herr:: “Most Gracious Ruling Count and Lord,” another ceremonial closing address.
 
 Graf:: Count. A hereditary noble rank; in many German territories an important territorial lord beneath princely rank.
 
