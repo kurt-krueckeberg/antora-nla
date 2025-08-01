@@ -60,9 +60,9 @@ department).
 
 The body of the petition begins on the first page of document 1, but it continues on its backside:
 
-image::02-1-bottom-small-text.png[title="first part of petition body",link=self]
+image::02-1-bottom-small-text.png[title="first part of petition body on front side of document #1",link=self]
 
-image::03-left-main-txt.png[title="send half of petition body",link=self]
+image::03-left-main-txt.png[title="second half of petition body on the backside of document #1",link=self]
 
 == Transliteration and Translation
 
