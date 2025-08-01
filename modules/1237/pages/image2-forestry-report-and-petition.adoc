@@ -181,8 +181,53 @@ ____
 
 == Adminstrative Note
 
+This handwritten note appears along the bottom left edge of the page. It was written
+vertically but has been rotated horizontally below to make it easier to read:
+
+image::02-admin-note.png[link=self]
+
+It was a later archival or administrative note whose purpose was to record that
+the document was physically handed over to the relevant office for inclusion in
+Beilage 18 ("Appendix 18") of some official report. It served as a sort of disposition
+record — an internal note for filing and tracking.
+
+=== Translation and Translation
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+| 
+[verse]
+____
+Res Cam. Brevi manu dem  
+Amts zum Berichte. B. 18°  
+
+Febr 1799    Maas
+____
+
+|
+[verse]
+____
+Res Cam. Delivered by hand  
+to the office for the report. Encl. 18  
+
+Febr 1799    Maas
+____
+|===
 
 == Glossary of Terms
+
+=== Glossary of Terms in Forestry Report
+
+Res Cam.:: Abbreviation for *Rescriptum Cammerale* or *Resolution Cammeralis*, meaning “Chamber Resolution” or “Chancellery Response.” A common header or reference for official documents in 18th–19th century administrative usage.
+Brevi manu:: Latin phrase meaning “by hand” or “summarily.” In bureaucratic contexts, it indicated that a document was physically delivered, often without formal correspondence.
+dem Amts:: Dative case of *das Amt*, meaning “to the office” or “to the authorities.”
+zum Berichte:: “For the report.” Indicates the document was submitted to be included in or referenced in an official report.
+B. 18°:: Abbreviation for *Beilage 18*, meaning “Appendix” or “Enclosure 18.” The ° symbol is a historical shorthand often used for ordinal or enumerative reference.
+Febr:: Abbreviation for *Februar* (February).
+Maas:: Likely the surname or signature of the person submitting or certifying the note.
+
 
 === Glossary of Terms in Petition
 
