@@ -1,4 +1,5 @@
 = Jobst Heinrich Krückeberg's Petition
+:page-role: wide
 
 == Salutation
 
