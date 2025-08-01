@@ -24,9 +24,16 @@ necessarily when it was received or reviewed by the Cammer.
 
 Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report.
 The salution of his request is to the right of the text of the Forestry Department. The request itself
-is below the Forestry Department Report.
+begins below the Forestry Department Report and continues on the backside of the page where it concludes.
 
-image:::02-overview.png[align=left,link=self]
+[cols="1a,1a"]
+|===
+|Document 1 font side|Document 1 backside
+
+|image::02-overview.png[align=left,link=self]
+
+|image::03-left-page.png[algin=left,link=self]
+|===
 
 === Salutation
 
