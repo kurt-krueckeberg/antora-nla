@@ -6,7 +6,7 @@ vertically but has been rotated horizontally below to make it easier to read:
 
 image::02-admin-note.png[link=self]
 
-was a later archival or administrative note, added after the original Forestry 
+It was a later archival or administrative note, added after the original Forestry 
 Report (the main body of text). Its purpose was to record that the document was
 physically handed over to the relevant office for inclusion in Beilage 18
 ("Appendix 18") of some official report. It served as a sort of disposition
