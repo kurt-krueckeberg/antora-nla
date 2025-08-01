@@ -1,0 +1,173 @@
+= Jobst Heinrich Krückeberg's Petition
+
+== Salutation
+
+The text below (in grayscale mode) appears to the right of the main text of the forestry report
+and is written much smaller. It is a formal salutation addressed to the reigning Fürstin (princess,
+female ruler) and possibly a Count, who is the recepient of written request that appears below the
+forestry report. 
+
+image::02-2-honorifics.png[link=self]
+
+== Petition Body
+
+The request itself appears below the forestry report. Notice these expressions:
+
+* “Nahe an *meinem* Garten …” (Close to my garden)
+* “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
+* “… an *mich* zu bringen.” (to acquire it for myself)
+
+It is clearly a first-person petition rather than a administrative note by the Amt (office,
+department).
+
+The petition requests:
+
+* To purchase (käuflich zu überlassen) the corner of land (jene Ecke) for a fair price (einen billigen Preis).
+* For the land to be inspected (baldigst besichtigen) and measured (ausmessen).
+* Concludes with a formulaic expression of respect to the ruling authorities (Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden).
+
+The body of the petition begins on the first page of document 1, but it continues on its backside:
+
+image::02-1-bottom-small-text.png[title="first part of petition body on front side of document #1",link=self]
+
+image::03-left-main-txt.png[title="second half of petition body on the backside of document #1",link=self]
+
+=== Transliteration and Translation of Petition
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Durchlauchtigste Fürstin!
+
+Gnädigst Regierende Fürstin und Frau
+
+Hochgeborner Graf!
+
+Gnädigst Regierender Graf und Herr
+
+Nahe an meinen Garten bragt auf der Gemein-
+heit beÿ der Straße eine schiebe Ecke Landes
+die unbebauet ist und mithin auch niemand
+einen Nutzen verschafft, wodurch über dem noch die
+Straße unegal wird.  Da dieselbe nun nahe
+an meinen Garten stößt, so wünschte ich diesel-
+be gern urbar zu machen und käuflich an mich
+zu bringen. An Ewr. Durchlauchten und Ewr.
+Hochgräflichen Gnaden ergehet daher meine
+unterthänigst bitte:
+
+Mir jene Ecke gnädigst für
+einen billigen Preis käuflich zu
+überlassen und dieselbe deßhalb
+baldigst besichtigen und ausmessen
+zu lassen.
+
+In tiefster Ehrfurcht verharre ich
+Ewr. Durchlauchten
+    und
+Ewr. Hochgräflichen Gnaden
+____
+
+|
+[verse]
+____
+Most Serene Princess!
+Most Gracious Ruling Princess and Lady
+High-born Count!
+Most Gracious Ruling Count and Lord.
+
+Close to my garden, on the common land by the
+road, there lies a sloping corner of land
+which is uncultivated and therefore of no use to
+anyone, and which even causes the road to be uneven.
+Since this corner adjoins my garden, I would like
+to cultivate it and purchase it.
+
+I therefore respectfully present this petition
+to your serene highness and your high comital grace.
+
+I most humbly request that the corner of land
+be most graciously sold to me for a fair price,
+and that it therefore be inspected as soon as
+possible and measured for this purpose.
+
+With deepest respect, I remain before
+Your Serene Highness and
+Your High Comital Grace.
+____
+|===
+
+== Endorsement of the Petition 
+
+This brief note appears at the bottom of Jobst Heinrich Krückeberg’s petition
+to the authorities. It confirms that the petition was submitted in Bückeburg on
+May 29, 1798, and was written not by Krückeberg himself, but by a scribe or
+clerk named Lindemann, likely employed by the chancery or local administration.
+The phrase "pro St." is shorthand for pro Statu, meaning “by order” or “on
+behalf [of the authority].” It implies that Lindemann drafted the petition
+officially or in accordance with administrative procedure. The note concludes
+with “unterschriebner” (signed) and identifies Krückeberg by name and house
+number, serving as a formal signature or attestation. The handwriting and
+format strongly suggest that Krückeberg dictated or authorized the petition
+rather than writing it personally.
+
+image::03-left-bot.png[link=self]
+
+=== Transliteration and Translation of Endorsement of the Petition
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Supplic.  
+Bückeburg d. 29t. Mai 1798.  
+Lindemann geh.  
+pro St.
+
+unterschriebner  
+Col. Krückeberg N. 10 zu Berenbusch  
+____
+
+|
+[verse]
+____
+Petition.  
+Bückeburg, May 29, 1798.  
+Lindemann, written on behalf of  
+by order.
+
+signed  
+Col. Krückeberg No. 10 at Berenbusch  
+____
+|===
+
+== Glossary of Terms
+
+Durchlauchtigste Fürstin:: “Most Serene Princess,” a formal closing salutation to a ruling princess.
+
+Gnädigst Regierende Fürstin und Frau:: “Most Gracious Ruling Princess and Lady,” another closing title.
+
+Hochgeborner Graf:: “High-born Count,” a ceremonial address for a noble count.
+
+Gnädigst Regierender Graf und Herr:: “Most Gracious Ruling Count and Lord,” another ceremonial closing address.
+
+Graf:: Count. A hereditary noble rank; in many German territories an important territorial lord beneath princely rank.
+
+Herr:: “Lord,” “Sir,” depending on context and rank. In high-noble address formulas, “und Herr” reinforces deference to the person’s seigneurial or jurisdictional authority.
+
+Ewr. Durchlauchten:: Abbreviation of *Eurer Durchlaucht*, meaning “Your Serene Highness,” a title for princes or princesses.
+
+Ewr. Hochgräflichen Gnaden:: “Your High Comital Grace,” an honorific address for counts or countesses.
+
+urbar machen:: “To bring under cultivation,” referring to making unused land arable.
+
+Schiebe Ecke::  means a wedge-shaped or sloping corner of land.
+
+unegal:: means uneven or irregular in shape, possibly referring to the street's alignment.

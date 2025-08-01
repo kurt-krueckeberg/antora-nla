@@ -1,0 +1,77 @@
+= Forestry Office Assessment Regarding Land Expansion
+:page-role: wide
+
+== Forestry Report
+
+NOTE: In this image only the forestry report is visisble. The petition text to its right and below it has been erased to
+make clear which text is the forestry report.
+
+image::02-forestry-report.png[link=self]
+
+=== Transliteration and Translation of Forestry Report
+
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Cam: Nr: 662.                                    Nr: 1.
+Res Cam
+
+zum Forstamts Bericht.                   praes: 30. May 1798.
+B. 14. Jun. 1798
+            MK
+
+Der verlangte Platz liegt
+in der Dorf Straße von
+Berenbusch, ist
+ein kleiner
+Winkel, der ohne
+allen Nachteil
+ausgewiesen
+werden kann. — Die darauf stehenden
+Pappelen wären dann von Seiten der Forst
+zu verkaufen, und der Krückeberg hätte sich
+verbindlich zu machen an einem anderen
+Platze im Förste für jeden zu fällende Pappel
+dreÿ Stetz-Stangen wieder zu pflanzen,
+                                  Maas forstenste
+____
+
+|
+[verse]
+____
+Chamber Registry No. 662
+Document No. 1
+Filed by the Cammer (“Res Cam”)
+Regarding: Forestry Office Report
+Presented to the Cammer: 30 May 1798
+Recorded by the Office: 14 June 1798
+Initials: MK
+
+The requested plot lies
+in the village street of
+Berenbusch, and is
+a small
+corner that may be
+granted without causing
+any disadvantage.
+— The poplars standing
+there are to be sold by the forestry office,
+and Krückeberg is to be
+obligated to replant, in another
+location in the forest, three saplings 
+for each poplar that is felled.
+
+                   Maas, Forestry Officier
+____
+|===
+
+== Glossary of Terms
+
+Res Cam:: Abbreviation for "Rescriptum Cammerae" (Latin), meaning “Filed by the Cammer” or “Registered by the Chamber.”
+Papplen:: Variant spelling of *Pappeln* (poplars), with double "p" and "l" — not corrected in transcription.
+Maas:: Likely the surname of the forestry official, signed in an ornate hand at the bottom.
+
