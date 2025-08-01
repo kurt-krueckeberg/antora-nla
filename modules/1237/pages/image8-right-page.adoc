@@ -114,14 +114,5 @@ Funck::
 beeidigter Landmesser::
   Sworn surveyor — an officially appointed and sworn-in land measurer responsible for producing certified land plans and records.
 
-Graben zur Ableitung des Wassers::
-  "Ditch for water drainage" — a feature marked on the sketch, indicating land engineering for managing surface water.
-
-Communic. Weg::
-  Abbreviation for *Communicationsweg*, meaning "communal path" or shared roadway. A route accessible by multiple parties, often between properties.
-
-Plan zur Vergrößerung des Hofraums und Gartens::
-  “Plan for the enlargement of the yard space and garden” — the title under the sketch, summarizing its purpose.
-
 Verbindung::
   Connection or linkage — used to describe how figure *b* connects to figure *a* in the layout.
