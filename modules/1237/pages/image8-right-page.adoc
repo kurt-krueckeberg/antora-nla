@@ -1,7 +1,9 @@
 = Document 4½: Under Development
 :page-role: wide
 
-This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
+The document is igned by Lieutenant Funck, a "beeidigter Landmesser" (sworn land surveyor). As a technical specialist, Funck was not part of the
+administrative offices (Amt) that issued Document 4. His report was therefore logged as an independent piece of correspondence, even though it
+accompanied document #4.
 
 image::08-right-page.png[link=self]
 
