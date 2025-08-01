@@ -8,8 +8,8 @@ image::02-overview.png[align=left,link=self]
 Document “Nr: 1” includes two distinct elements:
 
 * *A written petition* from Jobst Heinrich Krückeberg (tenant farmer, Nr. 10 in Berenbusch), requesting additional
-* land to enlarge his farmyard and garden.
+land to enlarge his farmyard and garden.
 
 * *An expert opinion or report*—likely from a Forestry officer (Maas)—attesting that the requested land could be
-* assigned without disadvantage and outlining the condition of planting replacement saplings.
+assigned without disadvantage and outlining the condition of planting replacement saplings.
 
