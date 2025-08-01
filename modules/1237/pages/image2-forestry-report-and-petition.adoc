@@ -64,11 +64,11 @@ image::02-1-bottom-small-text.png[title="first part of petition body on front si
 
 image::03-left-main-txt.png[title="second half of petition body on the backside of document #1",link=self]
 
-== Transliteration and Translation
+== Transliteration and Translation of Petition
 
 [cols="1a,1a"]
 |===
-|Translation|Transliteration
+|Transliteration|Translation
 
 |
 [verse]
