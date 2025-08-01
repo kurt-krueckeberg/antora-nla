@@ -1,7 +1,7 @@
-= Documents
+= Niedersächisches Landesarchiv Bückeburg Dossiers
 :page-role: wide
 
-.Unterlagen (Documents)
+.Dossiers
 [cols="2,6,6,2"]
 |===
 |Identifier|Denotation|Translation|Life Span
