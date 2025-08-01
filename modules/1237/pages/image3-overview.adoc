@@ -1,7 +1,7 @@
 = Document 2: Land Assignment Report and Its Reaction, 1799
 :page-role: wide
 
-image::03-right-page.jpg[title="Land Assignment Report",link=self]
+image::03-right-page.jpg[algin="left",title="Land Assignment Report",link=self]
 
 [role="section-narrow"]
 == The Land Assignment Report
