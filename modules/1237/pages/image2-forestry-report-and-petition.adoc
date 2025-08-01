@@ -50,7 +50,11 @@ and style, it was almost certainly written by or on behalf of Jobst Heinrcih Kr√
 Itis clearly a first-person petition rather than administrative note by the Amt (office,
 department).
 
-image::02-1-bottom-small-text.png[link=self]
+The body of the petition begins on the first page of document 1, but it continues on its backside:
+
+image::02-1-bottom-small-text.png[title="first part of petition body",link=self]
+
+image::03-left-main-txt.png[title="send half of petition body",link=self]
 
 == Transliteration and Translation
 
