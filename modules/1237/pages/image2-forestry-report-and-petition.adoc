@@ -21,8 +21,8 @@ necessarily when it was received or reviewed by the Cammer.
 
 == Jobst Heinrich's Request
 
-Jobst Heinrich's written request is the smaller text found on the Forestry Department's Report.
-The salution of his request addressed to the nobility is to the right of the text of the Forestry Department.
+Jobst Heinrich's request is the smaller text found on the Forestry Department's Report. The salution of his request
+is addressed to the ruling nobility of Schaumbug-Lippe and appears to the right of the text by the Forestry Department.
 The request itself begins below the Forestry Department Report and continues on the backside of the page where
 it concludes.
 
@@ -44,7 +44,7 @@ written request that appears below the forestry report.
 
 image::02-2-honorifics.png[link=self]
 
-=== Request
+=== Petition
 
 The request itself appears below the forestry report. Based on its content
 and style, it was almost certainly written by or on behalf of Jobst Heinrcih Krückeberg
@@ -63,7 +63,7 @@ image::02-1-bottom-small-text.png[title="first part of petition body on front si
 
 image::03-left-main-txt.png[title="second half of petition body on the backside of document #1",link=self]
 
-== Transliteration and Translation of Petition
+=== Transliteration and Translation of Petition
 
 [cols="1a,1a"]
 |===
@@ -154,7 +154,6 @@ image::03-left-bot.png[link=self]
 
 === Transliteration and Translation of Endorsement of the Petition
 
-
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -191,7 +190,7 @@ make clear which text is the forestry report.
 
 image::02-forestry-report.png[link=self]
 
-=== Transliteration and Translation 
+=== Transliteration and Translation of Forestry Report
 
 [cols="a,a"]
 |===
@@ -264,7 +263,7 @@ the document was physically handed over to the relevant office for inclusion in
 Beilage 18 ("Appendix 18") of some official report. It served as a sort of disposition
 record — an internal note for filing and tracking.
 
-=== Translation and Translation
+=== Translation and Translation of Administrative Note
 
 [cols="1a,1a"]
 |===
