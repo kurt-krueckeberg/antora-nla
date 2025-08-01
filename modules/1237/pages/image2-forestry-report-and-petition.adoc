@@ -113,8 +113,8 @@ ____
 
 == Forestry Report
 
-NOTE: In this image, only the forestry report is present. The petition text to its right and below it, visible in the
-xref:image2-intro.adoc[complete image], has been removed.
+NOTE: In this image only the forestry report is visisble. The petition text to its right and below it has been erased to
+make clear which text is the forestry report.
 
 image::02-forestry-report.png[link=self]
 
