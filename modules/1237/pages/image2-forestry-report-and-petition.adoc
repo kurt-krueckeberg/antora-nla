@@ -44,17 +44,15 @@ written request that appears below the forestry report.
 
 image::02-2-honorifics.png[link=self]
 
-=== Petition
+=== Petition Body
 
-The request itself appears below the forestry report. Based on its content
-and style, it was almost certainly written by or on behalf of Jobst Heinrcih Krückeberg
-(or dictated by him and written in his name). Notice these expressions:
+The request itself appears below the forestry report. Notice these expressions:
 
 * “Nahe an *meinem* Garten …” (Close to my garden)
 * “… so wünschte *ich* dieselbe gern urbar zu machen …” (I would like to bring it under cultivation)
 * “… an *mich* zu bringen.” (to acquire it for myself)
 
-Itis clearly a first-person petition rather than administrative note by the Amt (office,
+Itis clearly a first-person petition rather than a administrative note by the Amt (office,
 department).
 
 The body of the petition begins on the first page of document 1, but it continues on its backside:
