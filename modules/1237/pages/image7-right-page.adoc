@@ -1,7 +1,7 @@
 = Image 7, Right Page (Under Development)
 :page-role: wide
 
-This text is a brief regarding the previous documenmt that was sent and also referencing yet another document.
+This text is a brief note regarding the previous documenmt that was sent and also referencing yet another document.
 This can be seen from the contextual clues:
 
 * **"Auch wäre an den Inhalt…"**
