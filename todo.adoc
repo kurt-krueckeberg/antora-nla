@@ -3,16 +3,10 @@
 * Volunteer for Convention
 * Append 06-left-page image and text into image5 image and text.
 
-* Break Document 1 into a landing, overview page and two subpages, one for the petition the other for the
-report and a third for the endorsement
+* Break Document 1 into a landing index page and two subpages: one for the petition and its endorsement, the other for the
+report.
 * For Document 2, I'm undecided if the same organization is needed?
-* The so-called left page of Document #3 is likely part of document #2.
-
-== Only Have on AsiiDoc page per Document
-
-Only Have on AsiiDoc page per Document. Just make the documents longer. Use scaled "overview" images at the
-top of the page if there are multiple blocks or sections of text. Give an overview of these. Then logically,
-in an easy-to-follow manner display each and gives its transliteration and paralell translation.
+* In Document #2, the so-called left page of Document #3 is likely part of document #2.
 
 == Indexing System for Documents
 
