@@ -1,5 +1,4 @@
 = Image 5 Right Page and Image 6 Left Page (Under Development)
-:page-role: wide
 
 == Overview
 
