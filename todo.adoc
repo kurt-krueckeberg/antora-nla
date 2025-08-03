@@ -3,6 +3,7 @@
 == Relationship Between Document 2 and the Note on Its Reverse
 
 The brief note on the reverse side of the sheet containing Document 2 almost certainly belongs with Document 2 and not with Document 3.
+IMPORTANT: It DOES NOT appear on the reverse side of Document 2. It appears on the reserve side of a blank page.
 
 === Reasons for Attribution to Document 2
 
