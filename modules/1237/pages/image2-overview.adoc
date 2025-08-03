@@ -1,5 +1,5 @@
 = Document 1: Petition and Forestry Office Assessment Regarding Land Expansion (29–30 May 1798) 
-:page-role: wide
+
 
 Jobst Heinrich Krückeberg likely submitted his request in person to the Amt (local office) in Bückeburg on or
 before 29 May 1798. We know this because the xref:image1.adoc[Document Index] records May 29, 1798, as the date of

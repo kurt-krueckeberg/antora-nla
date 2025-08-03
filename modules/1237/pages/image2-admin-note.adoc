@@ -1,5 +1,5 @@
 = Adminstrative Note
-:page-role: wide
+
 
 This handwritten note appears along the bottom left edge of the page. It was written
 vertically but has been rotated horizontally below to make it easier to read:
