@@ -1,5 +1,10 @@
-= Image 5, Left Page, Under Development
+= Cover Note: Summary of Krückeberg's Petition to the Vormundschaftliche Kammer 
 :page-role: wide
+
+This appears to be a brief routing note that summarizes Jobst Heinrich Krückeberg’s petition to acquire land
+adjacent to his garden. It likely served as a forwarding cover when the document was submitted to the
+Vormundschaftliche Kammer, the princely fiscal authority responsible for managing domains, finances, and
+inheritance matters in Schaumburg-Lippe.
 
 image::05-left-page.png[link=self]
 
