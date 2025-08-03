@@ -1,9 +1,7 @@
 = Document 2: Land Assignment Report and Its Offical Response, 1799
-:page-role: wide
 
-image::03-right-page.jpg[align="left",title="Land Assignment Report",link=self]
+image::03-right-page.jpg[title="Land Assignment Report",link=self]
 
-[role="section-narrow"]
 == The Land Assignment Report
 
 The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the
