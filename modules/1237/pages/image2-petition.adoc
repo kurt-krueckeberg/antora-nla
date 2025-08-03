@@ -31,7 +31,7 @@ The body of the petition begins on the first page of document 1, but it continue
 
 image::02-bottom-petition.png[title="first part of petition body on front side of document #1",link=self]
 
-image::03-left-main-txt.png[title="second half of petition body on the backside of document #1",link=self]
+image::03-left-main.png[title="second half of petition body on the backside of document #1",link=self]
 
 === Transliteration and Translation of Petition
 
