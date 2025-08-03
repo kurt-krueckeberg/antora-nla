@@ -1,6 +1,8 @@
 = TODO
 
-* Make document 2 one page. Somehow get the image shadow-border to be visible
+* Make document 2 one page.
+* Somehow get the image shadow-border to be visible even when ":page-role: wide" is not used
+* determine a wider ":page-role:" width for some of the pages
 
 == Other Activities
 
