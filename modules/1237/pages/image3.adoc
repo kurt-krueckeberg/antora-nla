@@ -1,7 +1,0 @@
-= Image 4
-
-image::04-left-page.png[link=self]
-
-== Transliteration and Translation
-
-
