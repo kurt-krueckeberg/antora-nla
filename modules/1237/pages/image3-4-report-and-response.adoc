@@ -35,7 +35,7 @@ assignment.
 
 image::03-right-page-main-text.png[link=self]
 
-image::04.png[link=self]
+image::04-left-page.png[link=self]
 
 === Transliteration and Translation of Land Assignment Report
 
