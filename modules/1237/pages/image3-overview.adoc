@@ -1,4 +1,4 @@
-= Document 2: Land Assignment Report and Its Reaction, 1799
+= Document 2: Land Assignment Report and Its Offical Response, 1799
 :page-role: wide
 
 image::03-right-page.jpg[align="left",title="Land Assignment Report",link=self]
@@ -17,29 +17,9 @@ The report describes:
 obtain a piece of land to enlarge his garden and farmyard.
 
 * A local objection raised by a *Köter* (an older term for a small cottager with minimal land rights; see sidebar)
-named *Weiland*, also from Berenbusch, who:
-** Expressed dissatisfaction with the planned assignment.
-** Claimed he himself wanted to acquire the same plot.
-** Argued the land reassignment would restrict his access for transporting crops.
+named *Weiland*, also from Berenbusch. 
 
-* An assurance from the local authorities (the Ämter Bückeburg and Arensburg) that this access issue would be
-examined more closely during the land survey (_Ausmeßung_), but initial assessment suggested the objection had no
-valid basis.
-
-* _Additional finding_: The actual cause of Weiland’s objection seemed to be that he had *illegally planted willow
-trees* (_Weiden Bäumen_) on the plot in question—i.e. he had already started using it without authorization.
-
-* Final judgment: Since the planting had been done *without permission* (_eigenmächtiger Weise_), this act did not
-constitute a legal claim to the land, and there were *no legitimate grounds* to deny Krückeberg’s requested
-assignment.
-
-.Köter Explained
-****
-*Köter* was term used historically in rural northern Germany to describe a small-scale peasant or cottager (in German:
-*Kätner* or *Kothsasse*), typically someone who owned a small house (*Kate*) with a modest plot of land but was not a
-full farmer (*Vollbauer*). Köter were usually lower in the village social hierarchy and often worked as day laborers or
-craftsmen in addition to small-scale agriculture. The term does **not** indicate a given name.
-****
+=== Its Official Response
 
 The *marginal note*, the darker, somewhat smaller text on the left, is a response to the remitted report, but not a
 formal reply addressed to Krückeberg. It is an internal instruction, filed with the main document for reference and action.
