@@ -1,6 +1,6 @@
 = TODO
 
-IMPORTANT: The content shown It DOES NOT appear on the reverse side of Document 2. It appears on the reserve side of a blank page.
+* Make document 2 one page. Somehow get the image shadow-border to be visible
 
 == Other Activities
 
