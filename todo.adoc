@@ -1,31 +1,6 @@
 = TODO
 
-== Relationship Between Document 2 and the Note on Its Reverse
-
-The brief note on the reverse side of the sheet containing Document 2 almost certainly belongs with Document 2 and not with Document 3.
-IMPORTANT: It DOES NOT appear on the reverse side of Document 2. It appears on the reserve side of a blank page.
-
-=== Reasons for Attribution to Document 2
-
-1. Physical Continuity::
-   The note appears on the back (verso) of the same sheet that contains the main text of Document 2. In archival practice of the period, such back-side annotations were commonly used to summarize or route the document.
-
-2. Content Alignment::
-   The note reiterates the substance of Jobst Heinrich Krückeberg’s petition (“der Colon Krückeberg Nr. 10 … bittet unterthänigst …”), which is also the central topic of Document 2. It does not introduce a new subject or address a different matter.
-
-3. Routing Function::
-   The note concludes with “zur vormundschaftlichen Rentkammer”, indicating it served as a forwarding or routing instruction. This was a typical use of the back side of a document in administrative procedures of the era.
-
-4. Absence of Separate Filing Indicators::
-   The note has no new date, no distinct document number, no formal address or salutation—elements which would typically signify the start of a new document.
-
-=== Conclusion
-
-The note on the reverse side of Document 2 should be treated as part of Document 2. It likely served as a routing or summary annotation for internal use.
-
-You may label it for presentation purposes as:
-
-> Note on reverse side of Document 2 — routing summary
+IMPORTANT: The content shown It DOES NOT appear on the reverse side of Document 2. It appears on the reserve side of a blank page.
 
 == Other Activities
 
