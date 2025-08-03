@@ -8,7 +8,7 @@ and is written much smaller. It is a formal salutation addressed to the reigning
 female ruler) and possibly a Count, who is the recepient of written request that appears below the
 forestry report. 
 
-image::02-2-honorifics.png[link=self]
+image::02-top-petition.png[link=self]
 
 == Petition Body
 
