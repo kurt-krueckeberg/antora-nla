@@ -9,6 +9,7 @@
 ** xref:image2-admin-note.adoc[]
 * xref:image3-overview.adoc[] 
 ** xref:image3-4-report-and-response.adoc[]
+** xref:image3-left-margin-txt.adoc[]
 * xref:image5-left-page.adoc[]
 * xref:image5-overview.adoc[]
 ** xref:image5-6-main-txt.adoc[]

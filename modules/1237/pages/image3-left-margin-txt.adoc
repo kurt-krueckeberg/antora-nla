@@ -1,0 +1,58 @@
+= Margin Note: Instruction from the Cammer regarding unauthorized garden expansions
+:page-role: wide
+
+image::03-right-page-left-margin-text.png[align=left,link=self]
+
+== Commentary
+
+This margin note—dated 10 March 1799 and marked “Res Cam” (Rescript from the Cammer)—is a directive likely written
+in response to the Amtsbericht (Report of the Local Offices) dated 27 February 1799. In that report, the local
+authorities acknowledged that a resident named Weiland had raised concerns over a parcel of land being allocated to
+Jobst Heinrich Krückeberg. The Cammer now issues a follow-up instruction indicating that the parcel in question
+(“der Platz”) has been allocated (“ausgewiesen”), but that other residents of Berenbusch may have previously
+expanded their gardens without authorization. The Cammer instructs the local officials (“die Beamten”) to gather
+more specific information about this situation and report back.
+
+This margin note helps us understand that the Cammer was monitoring patterns of land use and was concerned not only
+with this individual petition but with broader trends of unauthorized property expansion.
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Res Cam Der Platz ist also
+ausgeweisen und da verschiedene
+Eiwohner in Berenbusch ihre
+Gärten eigenmächtig vergrößert
+haben sollen; so haben dioe Beamte
+darüber
+nähere
+Ausknuft
+einzuziehen
+und darüber
+zu berichten
+B 10.
+Martz
+M.
+____
+
+|
+[verse]
+____
+Chamber Rescript: The parcel has therefore
+been allocated, and since various
+residents in Berenbusch are said
+to have enlarged their gardens without authorization,
+the local officials shall
+gather more
+detailed
+information
+and report
+on it.
+Bückeburg, 10 March
+M.
+____
+|===
