@@ -1,6 +1,12 @@
 = Document 3: No Title Yet
 :page-role: wide
 
-image::05-right-page.png[role=scale-25,link=self]
+
+[cols="1,1",frame="none",grid="none",options="noheader"]
+|===
+|image::05-right-page.png[scale=25,link=self]
+
+|image::06-left-page.png[scale=25,link=self]
+|===
 
 
