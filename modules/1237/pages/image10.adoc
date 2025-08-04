@@ -1,0 +1,85 @@
+= Document 5: Cammer Collection Order (Octoboer 27, 1800)
+:page-role: wide
+
+image::10-left-page.png[link=self]
+
+== Cammer Anweisung (Collection Order)
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Concept Cammer: Anweisung H.  
+an den Cammerwontmeister  
+Mgr Danckwerk  
+  
+Der Cammerrentmeister Hackmann  
+wird hiemit angewiesen, von dem  
+Colon Kruckeberg Nr: 10, zu Schirn  
+eichen für die demselben zur Ver-  
+größerung seines Gartens u. Hof-  
+
+Exp: per Boltesp  
+
+raums ausgewiesene Plätze, welche  
+zusam̅en 21 Ruten 34 Fus Dec:  
+das Kaufgeld per Räte mit 20 4 mgl. u  
+betragen.  
+also vierzehn Rthlr 8 mg. 1 d. zu  
+erheben, in der Cammerrechnung  
+gehöriges Orts zu vereinnahmen,  
+und solche mit dieser Anweisung  
+zu rechtfertigen. Bückeburg  
+den 27. October 1800.  
+Gräflich : p  
+                       Mkaas  
+Juris Danckwerk  
+           Wint  
+  
+                       Wipperman  
+____
+
+|
+[verse]
+____
+(Cammer directive for collecting the purchase payment)
+
+Cammer Directive: Instruction H.
+to the Chamber Steward
+Mgr. Danckwerk
+
+The Chamber Treasurer Hackmann
+is hereby instructed to collect from
+Colon Kruckeberg No. 10, in Schirneichen,
+for the plots assigned to him for the
+enlargement of his garden and farmyard—
+
+(Expedited by Bolte)
+
+—plots which together measure
+21 rods and 34 feet (decimal),
+a purchase price calculated at
+20 groschen and 4 pfennigs per rod,
+amounting to a total of
+14 Reichsthaler, 8 groschen, 1 pfennig.
+
+This amount is to be collected,
+recorded in the appropriate place
+in the chamber’s accounting records,
+and this directive is to serve as
+the official justification.
+
+Bückeburg,
+27 October 1800
+
+By order of the Count:
+         Mkaas
+Juris Danckwerk
+    Wint
+
+        Wipperman
+____
+|===
