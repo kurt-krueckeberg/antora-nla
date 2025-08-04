@@ -20,7 +20,8 @@ by the Vormundliche Cammer.
 
 === Introductary Header and Topic
 
-The large text before the main text is the introductary header, which is follow by and indicator of the subject matter
+The large text before the main text is the introductary header, which is follow by and indicator of the subject matter. It
+was written by the Amt in Bückeburg.
 
 [cols="1a,1a"]
 |===
