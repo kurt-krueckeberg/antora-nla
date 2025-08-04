@@ -1,8 +1,13 @@
 = Full Document View
 :page-role: wide
 
-[cols="1a,1a",options="noheader"]
+== Document Header
+
+.Document 2 header
+[cols="1a,1a"]
 |===
+|Transliteration|Translation
+
 |
 ....
 Cam: Nr: 662.                       Nr: 1.
@@ -22,4 +27,144 @@ B[ückeburg] 14. Jun. 1798
        MK[initials of Cammer official]
 ....
 |===
+
+== Transliteration and Translation of Land Assignment Report
+
+This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Cam: N: 53.                pr: 6. Merz 1799           2   
+Forst-Sachen  
+
+An Vormundschaftliche Cammer Bericht  
+der Aemter Bückeburg und Arensburg.  
+
+Betr.  
+Ausweisung  
+
+In der Anlage remittiren wir die  
+Vorstellung des Brinksitzers Jobst  
+Henr: Krückeberg N 10 zu Beren-  
+busch mit der Anzeige, daß unter  
+den Einwohnern der Dorfschaften  
+Berenbusch, Nordtholtz und Evesen  
+nur allein der sehr wohl begütherte  
+Köter Weiland et. zu Berenbusch  
+sich als unzufrieden über die vor-  
+habende Ausweisung bezeigt hat.  
+indem er eines Theils selbsten  
+diesen Platz zu überkommen wünscht  
+und andern Theils vorgiebt, daß  
+ihm der Weg zur Einfahrt seiner  
+Früchte zu sehr beengt würde.  
+
+Wir werden bey der Ausmeßung  
+dieses näher beurtheilen und  
+dahin seyn, daß ihm wegen der  
+Einfahrt keine gegründete Be-  
+schwerde übrig bleibt. Vorzüglich 
+veranlaßt ihn die wegzu nehmende
+Bepflanzung dieses Platzes mit
+Weiden Bäumen zum geäußerten
+Wiederspruch [Widerspruch] der also, weil der-
+selbe diesen Platz eigenmächtiger
+Weise bepflanzt hat, nicht vor
+der Art ist, daß deshalb der
+gebethenen Ausweisung nicht zu
+deferire stehe mögte.
+L Buckeburg 27ten Febr.
+1799                   H. Habicht.           Stölting
+____
+|
+[verse]
+____
+Chamber No. 53                fowarded March 6, 1799
+Forestry Matters  
+
+Report to the Guardianship Chamber from the Offices of Bückeburg and Arensburg
+
+Re: Land Assignment  
+
+Attached we remit the petition of the smallholder Jobst  
+Henr[ich] Krückeberg No. 10 in Beren-  
+busch along with the report that among  
+the residents of the villages  
+Berenbusch, Nordholz, and Evesen  
+only the very well-to-do  
+Köter (tenant smallholder) Weiland of Berenbusch  
+has expressed dissatisfaction about the  
+proposed assignment,  
+since on the one hand he himself  
+wishes to obtain this plot,  
+and on the other hand claims that  
+his access route for transporting his  
+harvests would be overly restricted.  
+
+We will assess this more closely  
+during the surveying process and  
+be of the opinion that regarding the  
+access route no legitimate  
+objection remains.  
+
+In particular, what prompted his  
+objection is the planting  
+of this plot with willow trees,  
+which he had undertaken on his own  
+initiative. However, this  
+does not constitute  
+a valid reason to refuse  
+the requested assignment.  
+
+Bückeburg, February 27,  
+1799  
+H. Habicht.     Stölting
+____
+|===
+
+== Transliteration of Official Response to Petition and Land Assignment Report
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Res Cam  
+Der Platz ist also  
+auszuweisen, und da verschiedene  
+Einwohner in Berenbusch ihre  
+Gärten eigenmächtig vergrößert  
+haben sollen; so haben die Beamte  
+darüber  
+nähere  
+Auskunft  
+einzuziehen  
+und darüber  
+zu berichten.  
+
+B. 10.  
+März  
+
+M
+____
+
+|
+[verse, Response from the Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber)]
+____
+The plot is therefore to be allocated, and since various residents in
+Berenbusch are said to have enlarged their gardens on their own authority, the
+officials are to obtain further information about this and report accordingly.
+
+B[ückeburg], 10 March
+M[aas]
+____
+|===
+
 
