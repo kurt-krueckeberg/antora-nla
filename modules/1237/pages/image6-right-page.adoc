@@ -36,10 +36,8 @@ image::06-right-page.png[link=self]
 [verse]
 ____
 Cam: Nr: 322. Forstsachen  
-             An                                   4
-Vormundschaftliche Kammer  
-             Bericht  
-der Aemter Bückeburg und Arensburg  
+
+An Vormundschaftliche Kammer Bericht der Aemter Bückeburg und Arensburg  
 
       ad ter                       Betr.  
  Rescr: d. 11ten Merz 1799         Ausweisung
@@ -71,10 +69,7 @@ ____
 ____
 Cammeral No. 322. Forestry Matters  
 
-To Guardianship Chamber  
-
-Report of the Offices of Bückeburg and Arensburg  
-
+To the Guardianship Chamber: Report from the Offices of Bückeburg and Arensburg
 regarding Directive dated 11 March 1799      
 
 Subject  
