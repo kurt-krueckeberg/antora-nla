@@ -51,3 +51,8 @@ part of a Cammer-issued rescript or relates to one.
 +
 In this context, it functions as a *classification or routing label* used by Cammer officials to group and identify
 documents belonging to or awaiting rescript-related processing.
+* *“zum Forstamts Bericht”* literally means:
+*“[belongs] with the Forestry Office report”* or *“regarding the Forestry Office report.”* 
+* *"B. 14. Jun. 1798"* - *“B.” = “Bückeburg”*, the seat of the Cammer. Thus: *“Recorded in Bückeburg on 14 June
+1798”*.
+* *"MK"* - These are likely the initials of the individual in the Cammer who wrote the left hand text.
