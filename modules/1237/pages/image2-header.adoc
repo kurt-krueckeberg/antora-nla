@@ -2,7 +2,7 @@
 
 image::02-header.png[link=self]
 
-[cols="1a,1a"]
+[cols="1a,1a,1a,1a"]
 |===
 |Transliteration +
 left side|Transliteration +
