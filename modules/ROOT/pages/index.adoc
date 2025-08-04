@@ -42,9 +42,9 @@ These are the case files examined on this website:
 |Konkurs des Jobst Krückeberg [in Bückeburg]
 |Bankruptcy of Jobst Krückeberg [in Bückeburg]
 |1725 - 1725
-
-|NLA BU, L 20, C Nr. 98
-|Testament der Witwe Hauptmännin Krückeberg
-|Will of the widow, Captain’s wife Krückeberg
-|1793 - 1793
 |===
+//|NLA BU, L 20, C Nr. 98
+//|Testament der Witwe Hauptmännin Krückeberg
+//|Will of the widow, Captain’s wife Krückeberg
+//|1793 - 1793
+//|===
