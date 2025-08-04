@@ -7,7 +7,7 @@ image::02-header.png[link=self]
 
 [verse]
 ____
-Cam: Nr: 662.                    Nr: 1.
+Cam: Nr: 662.                       Nr: 1.
 
 Res Cam
 zum Forstamts Bericht.           praes: 30. May 1798. 
@@ -18,7 +18,7 @@ ____
 
 [verse]
 ____
-Cam: No. 662                                     No. 1.
+Cam: No. 662                                        No. 1.
 Resc[riptum] Cam[merale]
 
 regarding the Forestry Office report             forwarded: 30. May 1798.
