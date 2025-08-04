@@ -6,10 +6,11 @@ Jobst Heinrich Krückeberg::
  A tenant farmer dwelling at No. 10 Berenbusch, living near a forest, who wants to enlarge his farmyard and garden.
 
 Amt::  
-The *Amt* was the *local or regional administrative office* responsible for executing the instructions of the Cammer.  
-It handled *field investigations, reports, local enforcement, and petitions*, and submitted findings to the Cammer.  
-The Amt had no final authority but provided the *practical groundwork* for the Cammer’s decisions.  
-In the case file, officials of the Amt Bückeburg & Arensburg surveyed land and submitted reports on Krückeberg's request.
+The *Amt* is where Jobst Heinrich made is request. The *Amt* was the *local or regional administrative office*
+responsible for executing the instructions of the Cammer. It handled *field investigations, reports, local
+enforcement, and petitions*, and submitted findings to the Cammer. The Amt had no final authority but provided the
+*practical groundwork* for the Cammer’s decisions.  In the case file, officials of the Amt Bückeburg & Arensburg
+surveyed land and submitted reports on Krückeberg's request.
 
 Cammer (Kammer)::  
 The *Cammer* was the central governmental authority responsible for *fiscal administration, land management, taxation, forestry, and state property*.  
