@@ -3,25 +3,28 @@
 
 image::02-header.png[link=self]
 
-[cols="1,1"]
-|===
-|Transliteration|Translation 
+== Transliteration and Translation 
 
-l|
+[verse]
+____
 Cam: Nr: 662.                    Nr: 1.
 
 Res Cam
 zum Forstamts Bericht.           praes: 30. May 1798. 
 B. 14. Jun. 1798
             MK
-l|
+____
+
+
+[verse]
+____
 Cam: No. 662                                     No. 1.
 Resc[riptum] Cam[merale]
 
 regarding the Forestry Office report             forwarded: 30. May 1798.
 B[ückeburg] 14. Jun. 1798
        MK[initials of Cammer official]
-|===
+____
 
 The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
 They wrote the text the appears on the right side of the header.
