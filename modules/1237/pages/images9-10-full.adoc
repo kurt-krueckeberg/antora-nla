@@ -1,4 +1,4 @@
-= Document 5: Cammer Directive and Collection Order (Octoboer 27, 1800)
+= Full Document View 
 :page-role: wide
 
 == Cammer Rescript
