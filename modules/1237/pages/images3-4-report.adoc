@@ -48,9 +48,8 @@ This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
 |
 [verse]
 ____
-Cam: N: 53.  pr: 6. Merz 1799       2
+Cam: N: 53.  pr: 6. Merz 1799           2   
 
-2 1.  
 Forst-Sachen  
 
 An  
@@ -99,8 +98,8 @@ ____
 [verse]
 ____
 Land Assignment Report for Jobst Heinrich Krückeberg, March 6, 1799  
-Chamber No. 53  
-2 1.  
+Chamber No. 53                         2
+
 Forestry Matters  
 
 To  
