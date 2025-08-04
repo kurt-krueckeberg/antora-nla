@@ -1,0 +1,17 @@
+= Header of Document 1
+
+image::02-header[link=self]
+
+The text in the upper right was written by the Amt, the local governmental administrative office in Bückeburg:
+
+* *"Nr:1"* in the upper left desiginates it as doucment number 1.
+* *"praes: 30. May 1798."* -- "praes:" is short for praesentiert (presented). This was the date is was forwaard
+to the *Vormundlichte Cammer*, the guardianship chamber, a higher, state-level authority.
++
+In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche Cammer* typically functioned as a
+kind of higher-level civil authority—combining:
++
+** estate management
+** guardianship over minors and wards of the state
+** fiscal oversight
+** and responsibility for legal and property matters not handled by local Aemter.

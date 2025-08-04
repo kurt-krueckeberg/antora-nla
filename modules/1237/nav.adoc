@@ -5,7 +5,8 @@
 * xref:image1.adoc[]
 * xref:image2-overview.adoc[]
 ** xref:image2-full.adoc[Full Document View]
-** Breakdown: Petition, Forestry, Note
+** Breakdown: Header, Petition, Forestry, Note
+*** xref:image2-header.adoc[]
 *** xref:image2-petition.adoc[]
 *** xref:image2-forestry-assessment.adoc[]
 *** xref:image2-admin-note.adoc[]
