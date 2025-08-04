@@ -32,7 +32,7 @@
 
   <div class="timeline-entry">
     <h4>30 May 1798</h4>
-    <p>Petition and attached documents formally presented to the Cammer (praes: entry on Document Nr. 1)</p>
+    <p>Petition and attached documents formally presented (submitted, forwarded) to the Cammer (praes: entry on Document Nr. 1)</p>
   </div>
 
   <div class="timeline-entry">
