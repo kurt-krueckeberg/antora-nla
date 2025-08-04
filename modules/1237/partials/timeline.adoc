@@ -27,7 +27,7 @@
 
   <div class="timeline-entry">
     <h4>29 May 1798</h4>
-    <p>Petition of Krückeberg to expand his farmyard and garden (Designatio Actorum No. 1)</p>
+    <p>Jobst Heinrcih Krückeberg requests to expand his farmyard and garden.</p>
   </div>
 
   <div class="timeline-entry">
