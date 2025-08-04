@@ -1,6 +1,6 @@
 = Header of Document 1
 
-image::02-header[link=self]
+image::02-header.png[link=self]
 
 The text in the upper right was written by the Amt, the local governmental administrative office in Bückeburg:
 
