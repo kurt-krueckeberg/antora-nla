@@ -24,9 +24,9 @@
 ** xref:image5-6-main-txt.adoc[]
 * xref:image6-right-page.adoc[]
 * xref:image7-right-page.adoc[]
-* xref:image8-right-page.adoc[
+* xref:image8-right-page.adoc[]
 * TODO: Image 9-10 Overview]
 ** xref:images9-10-full.adoc[]
-** Breakdown: Header, 1^st^ Directive, 2^nd^ Direction
+** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
 ** xref:images9-10.adoc[]
 * xref:image11-12.adoc[]
