@@ -1,11 +1,29 @@
-= Header of Document 1
+= Header of Document 1 Explained
 
 image::02-header.png[link=self]
 
-The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
-The wrote the text the appears on the left side of the header:
+[cols="1a"]
+|===
+|Transliteration
 
-* *"Nr:1"* in the upper left desiginates it as doucment number 1.
+|
+[verse]
+____
+Cam: Nr: 662.                                    Nr: 1.
+Res Cam
+
+zum Forstamts Bericht.                   praes: 30. May 1798.
+B. 14. Jun. 1798
+            MK
+____
+|===
+
+The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
+They wrote the text the appears on the right side of the header.
+
+== Right Side Text
+
+* *"Nr:1"* in the upper right desiginates it as doucment number 1.
 * *"praes: 30. May 1798."* -- "praes:" is short for praesentiert (presented). May 30, 1798, was the date document 1
 was forwaard to the *Vormundlichte Cammer*, the guardianship chamber, a higher, state-level authority.
 +
@@ -16,3 +34,7 @@ kind of higher-level civil authority—combining:
 ** guardianship over minors and wards of the state
 ** fiscal oversight
 ** and responsibility for legal and property matters not handled by local Aemter.
+
+== Left Side Text
+
+
