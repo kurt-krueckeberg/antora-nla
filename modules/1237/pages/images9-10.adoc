@@ -146,6 +146,11 @@ ____
 
 == Cammer Anweisung (Collection Order)
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [verse]
 ____
 Concept Cammer: Anweisung H.  
@@ -178,3 +183,44 @@ Juris Danckwerk
                        Wipperman  
 ____
 
+|
+[verse]
+____
+(Cammer Instruction to the Chamber Treasurer)
+
+Concept Cammer: Instruction H.
+to the Chamber Steward
+Mgr Danckwerk
+
+The Chamber Treasurer Hackmann
+is hereby instructed to collect from
+Colon Kruckeberg, No. 10 in Schirn-
+eichen, for the plots of land assigned
+to him for the enlargement of his
+garden and farmyard—
+
+Exp[edition] by Boltesp
+
+—plots which together measure
+1 Stuten 34 Inches Decimal*,
+the purchase price at the rate of
+20 Groschen 4 Pfennigs per Rute,
+amounting to a total of
+fourteen Reichsthaler, 8 Groschen, 1 Pfennig—
+to be collected, entered in the
+chamber's accounts in the appropriate place,
+and justified with this directive.
+
+Bückeburg,
+27 October 1800.
+
+By order of the Count:
+          Mkaas
+Juris Danckwerk
+    Wint
+
+         Wipperman
+
+
+____
+|===
