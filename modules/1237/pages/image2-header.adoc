@@ -2,8 +2,9 @@
 :page-role: wide
 
 The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
-They wrote the text the appears on the right side of the header. It was forwarded to the *Vormundliche Cammer*, the 
-guardianship chamber (aslo in Bückeberg) a state-level authority.
+They wrote the text that appears on the right side of the header. It was forwarded to the *Vormundliche Cammer*, the 
+guardianship chamber (aslo in Bückeberg) a state-level authority, who wrote the text that appears on the left side of
+the header.
 
 image::02-header.png[link=self]
 
