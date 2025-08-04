@@ -1,6 +1,6 @@
 = Document 2: Land Assignment Report and Its Offical Response, 1799
 
-image::03-right-page.jpg[title="Land Assignment Report",link=self]
+image::03-right-page.png[scale=25,title="Land Assignment Report",link=self]
 
 == The Land Assignment Report
 
