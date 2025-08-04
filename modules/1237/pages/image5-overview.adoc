@@ -1,6 +1,9 @@
 = Document 3: No Title Yet
 :page-role: wide
 
+Document 3 is the Marhc 11, 1799, response from the Vormundliche Cammer (Guardianship Chamber) to the civil servants in Bückeburg, replying
+to their February 27^th^ report.
+
 
 [cols="1a,1a",frame="none",grid="none",options="noheader"]
 |===
