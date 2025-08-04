@@ -1,9 +1,7 @@
 = TODO
 
-* Create separate glossaries for the now separate pages of document 2.
-* Create image3-full.adoc, the complete document 2.
-* Make sure all imnages have drop shadow border.
-* Change the CSS for 'page-role' for the "Full Document View"?
+* Finish this document on my own, organize it on my own.s
+* Make sure the glossaries are right for each page.
 
 == Other Activities
 
