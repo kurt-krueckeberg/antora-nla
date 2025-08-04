@@ -1,7 +1,7 @@
 = TODO
 
-* Determine if I need to rework image2-overview.adoc, based on the suggestions in page-design.adoc.
-* Change the CSS for 'page-role' for the "Full Document View".
+* Create separate glossaries for the now separate pages of document 2.
+* Change the CSS for 'page-role' for the "Full Document View"?
 
 == Other Activities
 
