@@ -11,11 +11,11 @@ the case file, including the original incoming documents from the Amt, the Camme
 material. The Vormundschaftliche Cammer (guardianship Chamber) was the higher, state-level, decision-making body.
 In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche Cammer* typically functioned as a
 kind of higher-level civil authority—combining:
-+
-** estate management
-** guardianship over minors and wards of the state
-** fiscal oversight
-** and responsibility for legal and property matters not handled by local offices (Ämter).
+
+* estate management
+* guardianship over minors and wards of the state
+* fiscal oversight
+* and responsibility for legal and property matters not handled by local offices (Ämter).
 
 Each row in the table corresponds to a specific item (such as a petition, report, or land survey), and the columns
 identify:
