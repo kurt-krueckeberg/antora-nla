@@ -32,12 +32,13 @@
 
   <div class="timeline-entry">
     <h4>30 May 1798</h4>
-    <p>Petition and attached documents formally presented (submitted, forwarded) to the Cammer (praes: entry on Document Nr. 1)</p>
+    <p>Petition and attached documents formally presented (submitted, forwarded) by local-government officials to the
+decision-making, state-level Cammer. Both are in Bückeburg.</p>
   </div>
 
   <div class="timeline-entry">
     <h4>14 June 1798</h4>
-    <p>Cammer logs the Forestry Office report as Cam: Nr. 662 (B. entry on Document Nr. 1)</p>
+    <p>Cammer logs the Forestry Office report, document §1, as Cam: Nr. 662.</p>
   </div>
 
   <div class="timeline-entry">
@@ -52,17 +53,17 @@
 
   <div class="timeline-entry">
     <h4>27 February 1799</h4>
-    <p>Report from the Bückeburg Amt (Document Index No. 2)</p>
+    <p>Report from the Bückeburg Amt (Document No. 2)</p>
   </div>
 
   <div class="timeline-entry">
     <h4>11 March 1800</h4>
-    <p>Draft Chamber instructions to the Amt (Document Index No. 3)</p>
+    <p>Draft Chamber instructions to the Amt (Document No. 3)</p>
   </div>
 
   <div class="timeline-entry">
     <h4>18 October 1800</h4>
-    <p>Follow-up report by the Amt (Document Index No. 4)</p>
+    <p>Follow-up report by the Amt (Document No. 4)</p>
   </div>
 
   <div class="timeline-entry">
