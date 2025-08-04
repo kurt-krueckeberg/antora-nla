@@ -1,3 +1,5 @@
+= Full Document View
+:page-role: wide
 
 == Jobst Heinrich Krückeberg's Petition
 
