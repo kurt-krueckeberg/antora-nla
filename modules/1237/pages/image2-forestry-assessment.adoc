@@ -1,5 +1,5 @@
 = Forestry Office Assessment Regarding Land Expansion
-
+:page-role: wide
 
 == Forestry Report
 
