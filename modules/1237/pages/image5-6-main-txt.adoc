@@ -1,6 +1,14 @@
 = Image 5 Right Page and Image 6 Left Page (Under Development)
 :page-role: wide
 
+TODO: Reorganize Document #3. Also add somewhere, here, or another page, the meaning of "pr:" and "preas:" with
+this explanation:
+
+So the term “praes.” or “pr.” always means “presented”, but the writer and context determine whose perspective that refers to:
+
+* From the Amt’s perspective: "We present it to the Cammer."
+* From the Cammer’s perspective: "We received and presented it to the council/judges/decision-makers."
+
 == Overview
 
 This is the reply from the Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg. It references a previous (*"S.S"*,
