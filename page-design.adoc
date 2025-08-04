@@ -2,11 +2,18 @@ Suggested nagivation for document 1:
 
 * xref:image2-overview.adoc[Document 1 Overview]
 ** xref:image2-full.adoc[Full Document View]
-** xref:image2-structure.adoc[Breakdown: Petition, Forestry, Note]
+** Breakdown: Petition, Forestry, Note
 *** xref:image2-petition.adoc[]
 *** xref:image2-forestry-assessment.adoc[]
 *** xref:image2-admin-note.adoc[]
 
+In image2-overview.adoc I would have:
+
+* A narrative explanation of the document’s function and content
+
+* A visual guide with side-by-side scaled images
+
+* A jumping-off point to the more detailed breakdown pages
 
 For the Full Document View, I recommend a lean reader-first page:
 

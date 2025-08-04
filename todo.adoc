@@ -1,8 +1,6 @@
 = TODO
 
-* Make document 2 one page.
-* Somehow get the image shadow-border to be visible even when ":page-role: wide" is not used
-* determine a wider ":page-role:" width for some of the pages
+* Determine if I need to rework image2-overview.adoc, based on the suggestions in page-design.adoc.
 
 == Other Activities
 
