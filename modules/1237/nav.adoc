@@ -14,6 +14,7 @@
 //** xref:image2-forestry-assessment.adoc[]
 //** xref:image2-admin-note.adoc[]
 * xref:image3-overview.adoc[] 
+** xref:image3-header.adoc[]
 ** xref:images3-4-report.adoc[]
 ** xref:image3-official-reaction.adoc[]
 * xref:image5-left-page.adoc[]
