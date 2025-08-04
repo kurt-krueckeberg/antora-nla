@@ -1,15 +1,13 @@
 = Case File Cover
 :page-role: wide
 
-This is the cardboard-like folder containg six documents and document index of the case file concerning:
+This is the cardboard-like folder containg the six documents and document index of the case file concerning:
 
 [quote]
-the plots assigned to Colon (tenant farmer) Krückeberg, No. 10, in Berenbusch,  
+The plots assigned to Colon (tenant farmer) Krückeberg, No. 10, in Berenbusch,  
 for the enlargement of his yard space and garden.
 
 image::1237-cover.png[link=self]
-
-NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
 
 [cols="1a,1a"]
 |===
