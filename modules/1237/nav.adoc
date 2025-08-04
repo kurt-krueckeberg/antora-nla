@@ -21,6 +21,7 @@
 *** xref:image3-official-reaction.adoc[]
 * xref:image5-left-page.adoc[]
 * xref:image5-overview.adoc[]
+** *TODO: Header*
 ** xref:image5-6-main-txt.adoc[]
 * xref:image6-right-page.adoc[]
 * xref:image7-right-page.adoc[]
@@ -28,7 +29,7 @@
 * xref:images9-10-overview.adoc[]
 ** xref:images9-10-full.adoc[]
 ** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
-*** TODO: Header
+*** *TODO: Header*
 *** xref:image9.adoc[]
 *** xref:image10.adoc[]
 * xref:image11-12.adoc[]
