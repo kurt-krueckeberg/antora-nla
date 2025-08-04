@@ -15,8 +15,6 @@ It is the smaller text seen on the first page. It continues onto the backside of
 |image::03-left-page.jpg[algin=left,link=self]
 |===
 
-=== Transliteration and Translation of Petition
-
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -86,7 +84,7 @@ ____
 
 == Transliteration and Translation of Endorsement of the Petition
 
-This appears at the bottom of the backside of the page below the 2^nd^ half of 
+This text appears at the bottom of the backside of the page below the 2^nd^ half of 
 the petition.
 
 [cols="1a,1a"]
@@ -120,7 +118,7 @@ ____
 
 == Forestry Office Assessment Regarding Land Expansion
 
-This is the large text in the image.
+The Forestry report is the large text in the image.
 
 [cols="a,a"]
 |===
@@ -181,10 +179,9 @@ for each poplar that is felled.
 ____
 |===
 
-
 == Adminstrative Note
 
-This text is written vertical along the left edge below the Land Assessment.
+The note is written vertical along the left edge below the Land Assessment.
 
 [cols="1a,1a"]
 |===
