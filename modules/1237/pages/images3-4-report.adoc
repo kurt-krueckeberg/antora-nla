@@ -136,61 +136,6 @@ H. Habicht.     Stölting
 ____
 |===
 
-== Official Response to Petition and Land Assignment Report
-
-The *marginal note* in the image is a response to the remitted xref:image3-land-assignment-report[Land
-Assignment Report], but not a formal reply addressed to Krückeberg. It is an internal instruction,
-filed with the main document for reference and action. It is a reaction from the higher office (the
-Kammer), giving administrative directives:
-
-* Approving the allocation of the parcel (so Krückeberg’s request is likely approved).  Instructing the local
-* officials to investigate other possibly unauthorized garden expansions in Berenbusch and to report back.
-
-It was written in the left margin the Land Assignment Report and encroaches on its text. To aid readability, the
-text of the Land Assigment Report has been erased from the imaage.
-
-image::03-right-page-left-margin-text.png[link=self]
-
-=== Transliteration of Official Response to Petition and Land Assignment Report
-
-[cols="1a,1a"]
-|===
-|Transliteration|Translation
-
-|
-[verse]
-____
-Res Cam  
-Der Platz ist also  
-auszuweisen, und da verschiedene  
-Einwohner in Berenbusch ihre  
-Gärten eigenmächtig vergrößert  
-haben sollen; so haben die Beamte  
-darüber  
-nähere  
-Auskunft  
-einzuziehen  
-und darüber  
-zu berichten.  
-
-B. 10.  
-März  
-
-M
-____
-
-|
-[verse, Response from the Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber)]
-____
-The plot is therefore to be allocated, and since various residents in
-Berenbusch are said to have enlarged their gardens on their own authority, the
-officials are to obtain further information about this and report accordingly.
-
-B[ückeburg], 10 March
-M[aas]
-____
-|===
-
 [role="section-narrow"]
 === Glossary of Terms and Archaic Spellings
 
