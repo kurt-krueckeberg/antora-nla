@@ -3,9 +3,9 @@
 
 == Salutation
 
-The text below (in grayscale mode) appears to the right of the main text of the forestry report
+The text below (shown in grayscale mode) appears to the right of the main text of the forestry report
 and is written much smaller. It is a formal salutation addressed to the reigning Fürstin (princess,
-female ruler) and possibly a Count, who is the recepient of written request that appears below the
+female ruler) and Count (Graf), who are the recepients of written request that appears below the
 forestry report. 
 
 image::02-top-petition.png[link=self]
