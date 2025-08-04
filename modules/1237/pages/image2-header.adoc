@@ -2,7 +2,8 @@
 
 image::02-header.png[link=self]
 
-The text in the upper right was written by the Amt, the local governmental administrative office in Bückeburg:
+The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
+The wrote the text the appears on the left side of the header:
 
 * *"Nr:1"* in the upper left desiginates it as doucment number 1.
 * *"praes: 30. May 1798."* -- "praes:" is short for praesentiert (presented). This was the date is was forwaard
