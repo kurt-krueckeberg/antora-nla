@@ -1,4 +1,5 @@
 = Header of Document 1 Explained
+:page-role: wide
 
 image::02-header.png[link=self]
 
