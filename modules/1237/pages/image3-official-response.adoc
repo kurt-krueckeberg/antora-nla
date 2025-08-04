@@ -13,7 +13,7 @@ text of the Land Assigment Report has been erased from the imaage.
 
 image::03-right-page-left-margin-text.png[link=self]
 
-=== Transliteration of Official Response to Petition and Land Assignment Report
+== Transliteration of Official Response to Petition and Land Assignment Report
 
 [cols="1a,1a"]
 |===
@@ -54,7 +54,7 @@ ____
 |===
 
 [role="section-narrow"]
-=== Glossary of Terms and Archaic Spellings
+== Glossary of Terms and Archaic Spellings
 
 *Vormundschaftliche Kammer*:: Literally "Guardianship Chamber", but in the context of early modern German
 principalities like Schaumburg-Lippe, this refers to a fiscal-administrative authority operating under a regency or
