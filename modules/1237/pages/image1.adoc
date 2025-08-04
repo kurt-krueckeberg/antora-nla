@@ -4,8 +4,18 @@
 [role="section-narrow"]
 == What this table means in the context of the Case File
 
-This table serves as a *document index*, compiled by the administrative office that created the case file. It
-functions like a modern *table of contents*, summarizing the individual documents included in the file.
+The Vormundschaftliche Cammer (or its successor office) maintained and archived the case file, including the original incoming documents from the Amt, the Cammer’s own responses, and any appended material.
+
+This table serves as a *document index*, compiled by the Vormundschaftliche Cammer, which maintained and archived
+the case file, including the original incoming documents from the Amt, the Cammer’s own responses, and any appended
+material. The Vormundschaftliche Cammer (guardianship Chamber) was the higher, state-level, decision-making body.
+In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche Cammer* typically functioned as a
+kind of higher-level civil authority—combining:
++
+** estate management
+** guardianship over minors and wards of the state
+** fiscal oversight
+** and responsibility for legal and property matters not handled by local offices (Ämter).
 
 Each row in the table corresponds to a specific item (such as a petition, report, or land survey), and the columns
 identify:
