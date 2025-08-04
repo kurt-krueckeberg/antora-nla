@@ -1,7 +1,7 @@
 = Case File Cover
 :page-role: wide
 
-This is the cardboard-like folder for the file concerning: *The plots assigned to Colon (tenant farmer) Krückeberg, No. 10, in Berenbusch,  
+This is the cardboard-like folder of the case file concerning: *The plots assigned to Colon (tenant farmer) Krückeberg, No. 10, in Berenbusch,  
 for the enlargement of his yard space and garden*.
 
 image::1237-cover.png[link=self]
