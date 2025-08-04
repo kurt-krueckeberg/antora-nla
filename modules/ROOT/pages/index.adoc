@@ -1,5 +1,4 @@
 = Niedersächisches Landesarchiv Bückeburg Dossiers
-:page-role: wide
 
 This site documents the transcription, translation, and historical analysis of archival case files related to the
 Krückeberg family of Berenbusch, Schaumburg-Lippe. The materials span from the early 18th century—including a 1725
