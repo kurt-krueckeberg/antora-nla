@@ -82,13 +82,8 @@ Your High Comital Grace.
 ____
 |===
 
-== Endorsement of the Petition 
 
-The petition's scribe wrote this note: 
-
-image::03-left-bot.png[link=self]
-
-=== Transliteration and Translation of Endorsement of the Petition
+== Transliteration and Translation of Endorsement of the Petition
 
 [cols="1a,1a"]
 |===
@@ -119,15 +114,7 @@ Col. Krückeberg No. 10 at Berenbusch
 ____
 |===
 
-
 == Forestry Office Assessment Regarding Land Expansion
-
-NOTE: In this image only the forestry report is visisble. The petition text to its right and below it has been erased to
-make clear which text is the forestry report.
-
-image::02-forestry-report.png[link=self]
-
-=== Transliteration and Translation of Forestry Report
 
 [cols="a,a"]
 |===
@@ -191,15 +178,6 @@ ____
 
 == Adminstrative Note
 
-
-This handwritten note appears along the bottom left edge of the page. It was written
-vertically but has been rotated horizontally below to make it easier to read:
-
-image::02-admin-note.png[link=self]
-
-
-=== Translation and Translation
-
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -222,7 +200,3 @@ to the office for the report. Encl. 18
 Febr 1799    Maas
 ____
 |===
-
-
-=== Glossary of Terms
-
