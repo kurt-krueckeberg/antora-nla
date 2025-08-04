@@ -4,7 +4,11 @@ image::02-header.png[link=self]
 
 [cols="1a,1a"]
 |===
-|Transliteration|
+|Transliteration +
+left side|Transliteration +
+right side|Translation +
+left side|Translation +
+right side
 
 <|
 [verse]
@@ -15,6 +19,26 @@ Res Cam
 zum Forstamts Bericht.
 B. 14. Jun. 1798
             MK
+____
+
+>|
+[verse]
+____
+No. 1.
+
+
+forwarded: 30. May 1798.
+____
+
+<|
+[verse]
+____
+Cam: No. 662
+Resc[riptum] Cam[merale]
+
+regarding the Forestry Office report
+B[ückeburg] 14. Jun. 1798
+       MK[initials of Cammer official]
 ____
 
 >|
