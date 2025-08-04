@@ -84,8 +84,10 @@ Your High Comital Grace.
 ____
 |===
 
-
 == Transliteration and Translation of Endorsement of the Petition
+
+This appears at the bottom of the backside of the page below the 2^nd^ half of 
+the petition.
 
 [cols="1a,1a"]
 |===
@@ -117,6 +119,8 @@ ____
 |===
 
 == Forestry Office Assessment Regarding Land Expansion
+
+This is the large text in the image.
 
 [cols="a,a"]
 |===
@@ -179,6 +183,8 @@ ____
 
 
 == Adminstrative Note
+
+This text is written vertical along the left edge below the Land Assessment.
 
 [cols="1a,1a"]
 |===
