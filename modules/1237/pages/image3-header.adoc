@@ -1,4 +1,4 @@
-= Header of Document 2 Explained
+= Header
 :page-role: wide
 
 image::03-header.png[link=self]

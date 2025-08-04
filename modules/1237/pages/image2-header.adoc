@@ -1,4 +1,4 @@
-= Header of Document 1 Explained
+= Header
 :page-role: wide
 
 The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
