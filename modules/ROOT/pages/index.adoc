@@ -1,7 +1,30 @@
 = Niedersächisches Landesarchiv Bückeburg Dossiers
 :page-role: wide
 
-.Dossiers
+This site documents the transcription, translation, and historical analysis of archival case files related to the
+Krückeberg family of Berenbusch, Schaumburg-Lippe. The materials span from the early 18th century—including a 1725
+bankruptcy case—to the late 18th century, with a 1798–1800 petition for land expansion.
+
+The purpose of this project is to:
+
+* Preserve and make accessible rare handwritten documents housed in the Niedersächsisches Landesarchiv in
+Bückeburg.
+
+* Provide line-by-line transliterations and English translations of administrative and legal texts written in
+Kurrentschrift.
+
+* Offer context, commentary, and glossary entries to help genealogists, historians, and interested laypeople
+understand the workings of local governance, inheritance law, and rural life in Schaumburg-Lippe.
+
+* Present each case file with modern tools (AsciiDoc + Antora), allowing structured exploration of individual
+documents, their historical metadata, and accompanying annotations.
+
+This project is part of a long-term genealogical and historical investigation by descendants of the Krückeberg
+family.
+
+These are the case files examined on this website:
+
+.Case Files/Dossiers
 [cols="2,6,6,2"]
 |===
 |Identifier|Denotation|Translation|Life Span
