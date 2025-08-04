@@ -1,6 +1,10 @@
 = Header of Document 1 Explained
 :page-role: wide
 
+The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
+They wrote the text the appears on the right side of the header. It was forwarded to the *Vormundliche Cammer*, the 
+guardianship chamber (aslo in Bückeberg) a state-level authority.
+
 image::02-header.png[link=self]
 
 == Transliteration and Translation 
@@ -24,9 +28,6 @@ B[ückeburg] 14. Jun. 1798
        MK[initials of Cammer official]
 ....
 
-The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
-They wrote the text the appears on the right side of the header.
-
 == Right Side Text
 
 * *"Nr:1"* in the upper right desiginates it as doucment number 1.
@@ -43,4 +44,10 @@ kind of higher-level civil authority—combining:
 
 == Left Side Text
 
-
+* *"Res Cam"* - is short for *“Rescriptum Cammerale”* or *“Rescript Cammer[al]”* . It refers to a *rescript* (a
+formal written response or decree) from the *Cammer* (the ruling fiscal or administrative body — in this case, the
+Vormundschaftliche Kammer in Bückeburg). This label likely anticipates that the document either is or will be
+part of a Cammer-issued rescript or relates to one.
++
+In this context, it functions as a *classification or routing label* used by Cammer officials to group and identify
+documents belonging to or awaiting rescript-related processing.
