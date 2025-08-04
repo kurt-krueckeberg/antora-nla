@@ -2,53 +2,29 @@
 
 image::02-header.png[link=self]
 
-[cols="1a,1a,1a,1a",grid="none",framer="none"]
+[cols="1l,1l"]
 |===
-|Transliteration +
-left side|Transliteration +
-right side|Translation +
-left side|Translation +
-right side
+|Transliteration|Translation 
 
-<|
-[verse]
-____
-Cam: Nr: 662.
+|
+....
+Cam: Nr: 662.                    Nr: 1.
+
 Res Cam
-
-zum Forstamts Bericht.
+zum Forstamts Bericht.           praes: 30. May 1798. 
 B. 14. Jun. 1798
             MK
-____
+....
 
->|
-[verse]
-____
-No. 1.
-
-
-forwarded: 30. May 1798.
-____
-
-<|
-[verse]
-____
-Cam: No. 662
+|
+....
+Cam: No. 662                                     No. 1.
 Resc[riptum] Cam[merale]
 
-regarding the Forestry Office report
+regarding the Forestry Office report             forwarded: 30. May 1798.
 B[ückeburg] 14. Jun. 1798
        MK[initials of Cammer official]
-____
-
->|
-[verse]
-____
-Nr: 1.
-
-
-praes: 30. May 1798.
-____
+....
 |===
 
 The Petition and Forestry Assessment were drawn up by the local governmental administrative office (Amt) in Bückeburg. 
