@@ -1,6 +1,10 @@
 = Case File Cover
 :page-role: wide
 
+This is the cardboard-like case file that holds six documents and a document index of the
+> plots assigned to Colon (tenant farmer) Krückeberg, No. 10, in Berenbusch,  
+for the enlargement of his yard space and garden.
+
 image::1237-cover.png[link=self]
 
 NOTE: *"Ger."* appears to be the intended abbreviation for *“Gericht”*; a stray dot may falsely suggest an “i”.
