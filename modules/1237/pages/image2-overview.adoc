@@ -39,6 +39,6 @@ it concludes.
 
 |image::02.png[align=left,sclae=25,link=self]
 
-|image::03-left-page.jpg[algin=left,link=self]
+|image::03-left-page.png[algin=left,scale=25,link=self]
 |===
 
