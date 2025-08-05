@@ -9,7 +9,7 @@
 *** xref:doc-1-header.adoc[]
 *** xref:image2-petition.adoc[]
 *** xref:doc-1-forestry-assessment.adoc[]
-*** xref:image2-admin-note.adoc[]
+*** xref:doc-1-admin-note.adoc[]
 //** xref:image2-petition.adoc[]
 //** xref:image2-forestry-assessment.adoc[]
 //** xref:image2-admin-note.adoc[]

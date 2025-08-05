@@ -1,7 +1,6 @@
 = TODO
 
-1. For doc-1-full.adoc the header is all left-aligned because a [verse] block was used. Switch the header portion
-(of the forestry report) to a literal block and use verse block for the forestry report.
+1. Add more detail to doc-1-forestry-assessment.adoc. Take it from the Narraitive Overview.
 
 * Finish this document on my own, organize it on my own.s
 * Make sure the glossaries are right for each page.
