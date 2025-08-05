@@ -4,10 +4,10 @@
 [role="section-narrow"]
 == What this table means in the context of the Case File
 
-This table serves as a *document index* or table or contents. It compiled by the Vormundschaftliche Cammer, which
+This table serves as a *document index* or table or contents. It was compiled by the Vormundschaftliche Cammer, which
 maintained and archived the case file, including the original incoming documents from the Amt, the Cammer’s own
 responses, and any appended material. The Vormundschaftliche Cammer (guardianship Chamber) was the higher,
-state-level, decision-making body.  In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche
+state-level, decision-making body. In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche
 Cammer* typically functioned as a kind of higher-level civil authority—combining:
 
 * estate management
