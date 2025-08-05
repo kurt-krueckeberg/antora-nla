@@ -122,9 +122,9 @@ image::03-left-bot.png[link=self]
 
 === Transliteration and Translation of Endorsement of the Petition
 
-[cols="1a,1a",frame="none",grid="none"]
+[cols="1a,1a,1a,1a",frame="none"]
 |===
-||||
+|Left-side transliterated|Right-side transliterated|Left-side tranbslated|Right-side translated
 
 |
 ....
