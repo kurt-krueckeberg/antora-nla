@@ -3,7 +3,7 @@
 * xref:cover.adoc[]
 * xref:timeline.adoc[]
 * xref:image1.adoc[]
-* xref:image2-overview.adoc[]
+* xref:doc-1-overview.adoc[]
 ** xref:image2-full.adoc[Full Document View]
 ** Breakdown: Header, Petition, Forestry, Note
 *** xref:image2-header.adoc[]
