@@ -3,7 +3,7 @@
 
 == Document Header
 
-The document header portion is shown first:
+The document header has a left-side and right-side section:
 
 [caption="Document header: "]
 .added by the Vormundliche Cammer to Document 1.
