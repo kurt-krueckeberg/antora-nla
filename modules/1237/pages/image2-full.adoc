@@ -10,7 +10,7 @@ It is the smaller text seen on the first page. It continues onto the backside of
 |===
 ^|Document 1 Front ^|Document 1 Back
 
-|image::02-overview.png[align=left,link=self]
+|image::02.png[align=left,scale=25,link=self]
 
 |image::03-left-page.png[algin=left,scale=25,link=self]
 |===
