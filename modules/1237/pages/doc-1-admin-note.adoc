@@ -44,5 +44,5 @@ dem Amts:: Dative case of *das Amt*, meaning “to the office” or “to the au
 zum Berichte:: “For the report.” Indicates the document was submitted to be included in or referenced in an official report.
 B. 18°:: Abbreviation for *Beilage 18*, meaning “Appendix” or “Enclosure 18.” The ° symbol is a historical shorthand often used for ordinal or enumerative reference.
 Febr:: Abbreviation for *Februar* (February).
-Maas:: Likely the surname or signature of the person submitting or certifying the note.
+MKaas:: Likely the first initial and surname or signature of the person submitting or certifying the note.
 
