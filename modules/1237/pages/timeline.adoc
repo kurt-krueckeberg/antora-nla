@@ -16,7 +16,7 @@ Graf::
 Graf is German for Count, thus the Count of Schaumburg-Lippe
 
 Lieutenant Funck::
-A *sworn land surveyor* who will measure two parcels of ground and who suryer drawing and report will supplement
+A *sworn land surveyor* who will measure two parcels of ground and who drawing and report will supplement
 document #4.
 
 Amt::  
