@@ -56,6 +56,11 @@
   </div>
 
   <div class="timeline-entry">
+    <h4>30 March 1799</h4>
+    <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document Index No. 4½)</p>
+  </div>
+
+  <div class="timeline-entry">
     <h4>11 March 1800</h4>
     <p>Draft Chamber instructions to the Amt (Document No. 3)</p>
   </div>
@@ -64,12 +69,6 @@
     <h4>18 October 1800</h4>
     <p>Follow-up report by the Amt (Document No. 4)</p>
   </div>
-
-  <div class="timeline-entry">
-    <h4>c. October 1800</h4>
-    <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document Index No. 4½)</p>
-  </div>
-
   <div class="timeline-entry">
     <h4>27 October 1800</h4>
     <p>Draft instructions to the Amt and Cammer Treasurer Barkmann (Document Index No. 5)</p>
