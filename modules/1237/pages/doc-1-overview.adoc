@@ -1,5 +1,17 @@
 = Document 1: Petition and Forestry Office Assessment Regarding Land Expansion (29–30 May 1798) 
 
+The small handwritten text in the left and right images is the petition written on behalf of Jobst Heinrich
+Krückeberg. The larger text is the Forestry deparment assessment of the impact of the petition.
+
+[cols="1a,1a",frame="none",grid="none"]
+|===
+^|Document 1 Front ^|Document 1 Back
+
+|image::02.png[align=left,sclae=25,link=self]
+
+|image::03-left-page.png[algin=left,scale=25,link=self]
+|===
+
 == Document 1: Narrative Overview
 
 === 1. The Petition is Initiated at the Amt (≤ 29 May 1798)
@@ -66,14 +78,3 @@ This Latin-German phrase roughly means:
 > “By order of the Cammer, hand-delivered to the Amt for a report.”
 
 This suggests that the Cammer returned the entire case file, including the petition and forestry report, to the Amt — possibly to inform Krückeberg or to request a response or implementation.
-
-
-[cols="1a,1a",frame="none",grid="none"]
-|===
-^|Document 1 Front ^|Document 1 Back
-
-|image::02.png[align=left,sclae=25,link=self]
-
-|image::03-left-page.png[algin=left,scale=25,link=self]
-|===
-
