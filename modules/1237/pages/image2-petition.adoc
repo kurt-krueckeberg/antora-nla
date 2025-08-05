@@ -127,28 +127,22 @@ image::03-left-bot.png[link=self]
 |Transliteration|Translation
 
 |
-[verse]
-____
+....
 Supplic.  
-Bückeburg d. 29t. Mai 1798.  
-Lindemann geh.  
-pro St.
-
-unterschriebner  
-Col. Krückeberg N. 10 zu Berenbusch  
-____
+Bückeburg d. 29t. Mai 1798.       
+                                       unterschriebner  
+Lindemann geh.                         Col. Krückeberg N. 10 zu Berenbusch  
+pro St[atuent].
+....
 
 |
-[verse]
-____
+....
 Petition.  
-Bückeburg, May 29, 1798.  
-Lindemann, written on behalf of  
+Bückeburg, May 29, 1798.              
+                                           signed  
+Lindemann, written on behalf of            Col. Krückeberg No. 10 at Berenbusch
 by order.
-
-signed  
-Col. Krückeberg No. 10 at Berenbusch  
-____
+....                                   
 |===
 
 == Glossary of Terms
