@@ -43,7 +43,7 @@
   <div class="timeline-entry">
     <h4>14 June 1798</h4>
     <p>"MKaas" of the Forstamt (Forestry Office) writes a favorable forestry assessment at the Cammer's request.</p>
-  </div
+  </div>
 
   <div class="timeline-entry">
     <h4>18 February 1799</h4>
