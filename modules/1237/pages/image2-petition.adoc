@@ -1,6 +1,8 @@
 = Jobst Heinrich Krückeberg's Petition
 :page-role: wide
 
+image::03-left-page.png[link=self]
+
 == Salutation
 
 The text below (shown in grayscale mode) appears to the right of the main text of the forestry report
