@@ -5,23 +5,6 @@ image::03-header.png[link=self]
 
 == Transliteration and Translation 
 
-== Text Written by the Vormundliche Kammer
-
-* *"2"* in the upper right (with a box drawn around it) desiginates it as doucment number 2.
-
-* *"pr: 6 Merz 1799"* -- *"pr:"* is short for praesentiert (presented). On March 6, 1799, document 2
-was presented before the *Vormundlichte Cammer*, the guardianship chamber, the higher, state-level
-authority that makes binding decisions.
-
-* *"Cam: Nr:53"* -- or *"Cam[mer] No. 53"* in the upper left is an internal archiving, filing and retreival number assignment to document 2
-by the Vormundliche Cammer.
-** *"Forst-Sachen"* -- indicates the topic of the document: it concerned forestry matters.
-
-=== Header
-
-The large text before the main text is the introductary header, which is follow by and indicator of the subject matter. It
-was written by the Amt in Bückeburg.
-
 .Document 2 header
 [cols="1a,1a"]
 |===
@@ -39,4 +22,15 @@ Forest-Matters
 ....
 |===
 
+=== Text Written by the Vormundliche Kammer
+
+* *"2"* in the upper right (with a box drawn around it) desiginates it as doucment number 2.
+
+* *"pr: 6 Merz 1799"* -- *"pr:"* is short for praesentiert (presented). On March 6, 1799, document 2
+was presented before the *Vormundlichte Cammer*, the guardianship chamber, the higher, state-level
+authority that makes binding decisions.
+
+* *"Cam: Nr:53"* -- or *"Cam[mer] No. 53"* in the upper left is an internal archiving, filing and retreival number assignment to document 2
+by the Vormundliche Cammer.
+** *"Forst-Sachen"* -- indicates the topic of the document: it concerned forestry matters.
 
