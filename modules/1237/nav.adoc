@@ -14,7 +14,7 @@
 //** xref:image2-forestry-assessment.adoc[]
 //** xref:image2-admin-note.adoc[]
 * xref:image3-overview.adoc[] 
-** xref:image3-full.adoc[]
+** xref:doc-2-full.adoc[]
 ** Breadown: Header, Report, Reaction
 *** xref:doc-2-header.adoc[]
 *** xref:images3-4-report.adoc[]
