@@ -12,7 +12,7 @@ It is the smaller text seen on the first page. It continues onto the backside of
 
 |image::02-overview.png[align=left,link=self]
 
-|image::03-left-page.jpg[algin=left,link=self]
+|image::03-left-page.png[algin=left,scale=25,link=self]
 |===
 
 [cols="1a,1a"]
