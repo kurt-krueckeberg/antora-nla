@@ -119,7 +119,7 @@ The Forestry report, which the Cammer would have requested after reviewing the p
 The document header portion is shown first:
 
 [caption="Document header: "]
-.added by the Vormundliche Cammer
+.added by the Vormundliche Cammer to Document 1.
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -153,13 +153,6 @@ B[ückeburg] 14. Jun. 1798
 |
 [verse]
 ____
-Cam: Nr: 662.                                    Nr: 1.
-Res Cam
-
-zum Forstamts Bericht.                   praes: 30. May 1798.
-B. 14. Jun. 1798
-            MK
-
 Der verlangte Platz liegt
 in der Dorf Straße von
 Berenbusch, ist
@@ -179,14 +172,6 @@ ____
 |
 [verse]
 ____
-Chamber Registry No. 662
-Document No. 1
-Filed by the Cammer (“Res Cam”)
-Regarding: Forestry Office Report
-Presented to the Cammer: 30 May 1798
-Recorded by the Office: 14 June 1798
-Initials: MK
-
 The requested plot lies
 in the village street of
 Berenbusch, and is
