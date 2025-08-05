@@ -10,21 +10,13 @@
 
 |
 ....
-Cam: Nr: 662.                       Nr: 1.
-
-Res Cam
-zum Forstamts Bericht.              praes: 30. May 1798. 
-B. 14. Jun. 1798
-            MK
+Cam:Nr:53            pr:6 Merz 1799               2 [within a drawn square]
+Forst-Sachen
 ....
 |
 ....
-Cam: No. 662                                        No. 1.
-Resc[riptum] Cam[merale]
-
-regarding the Forestry Office report                forwarded: 30. May 1798.
-B[ückeburg] 14. Jun. 1798
-       MK[initials of Cammer official]
+Chamber No. 53          pr[esented] 6 March 1799               2 [within a drawn square]
+Forest-Matters
 ....
 |===
 
@@ -84,7 +76,7 @@ ____
 |
 [verse]
 ____
-Chamber No. 53                fowarded March 6, 1799
+Chamber No. 53                presented March 6, 1799
 Forestry Matters  
 
 Report to the Guardianship Chamber from the Offices of Bückeburg and Arensburg
