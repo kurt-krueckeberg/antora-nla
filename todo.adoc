@@ -3,6 +3,7 @@
 * Finish this document on my own, organize it on my own.s
 * Make sure the glossaries are right for each page.
 * https://docs.antora.org/assembler/latest/ shows how to setup PDF generation
+* Jobst Heinrich Krückeberg was granted a deed to the land he was allocated and allowed to purchase.
 
 == Other Activities
 
