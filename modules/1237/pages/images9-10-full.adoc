@@ -97,7 +97,7 @@ Captain: p. Bolte
    We remain, Bückeburg, 27 October 1800 on
    behalf of the Cammer
                                A. Waag
-  ____
+____
 |===
 
 == Cammer Anweisung (Collection Order)
@@ -179,4 +179,5 @@ Juris Danckwerk
 
         Wipperman
 ____
+
 |===
