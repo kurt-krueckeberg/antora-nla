@@ -54,6 +54,7 @@ formal written response or decree) from the *Cammer* (the ruling fiscal or admin
 Vormundschaftliche Kammer in Bückeburg. 
 +
 In Document 1, “Res Cam” likely does not mean that this specific document is the Cammer's directive. Instead, it means:
+--
 [quote]
 ____
 This petition has been received and filed by the Vormundschaftliche Cammer, which will evaluate the case and issue
