@@ -8,8 +8,8 @@ Kammer), giving administrative directives:
 * Approving the allocation of the parcel (so Krückeberg’s request is likely approved).  Instructing the local
 * officials to investigate other possibly unauthorized garden expansions in Berenbusch and to report back.
 
-It was written in the left margin the Land Assignment Report and encroaches on its text. To aid readability, the
-text of the Land Assigment Report has been erased from the imaage.
+It was written vertically in the left margin the Land Assignment report and encroaches on its text. To aid
+readability, the text of the Land Assigment Report has been erased from the image below:
 
 image::03-right-page-left-margin-text.png[link=self]
 
