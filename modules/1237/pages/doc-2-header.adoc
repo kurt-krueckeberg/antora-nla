@@ -5,11 +5,9 @@ image::03-header.png[link=self]
 
 == Transliteration and Translation 
 
-=== Text on the Right Written by the Bückeburg Amt
+== Text Written by the Vormundliche Kammer
 
 * *"2"* in the upper right (with a box drawn around it) desiginates it as doucment number 2.
-
-=== Text on the Left Written by the Vormundliche Kammer
 
 * *"pr: 6 Merz 1799"* -- *"pr:"* is short for praesentiert (presented). On March 6, 1799, document 2
 was presented before the *Vormundlichte Cammer*, the guardianship chamber, the higher, state-level
@@ -19,27 +17,26 @@ authority that makes binding decisions.
 by the Vormundliche Cammer.
 ** *"Forst-Sachen"* -- indicates the topic of the document: it concerned forestry matters.
 
-=== Introductary Header and Topic
+=== Header
 
 The large text before the main text is the introductary header, which is follow by and indicator of the subject matter. It
 was written by the Amt in Bückeburg.
 
+.Document 2 header
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
-An Vormundschaftliche Cammer Bericht  
-der Aemter Bückeburg und Arensburg.  
-                                            Betr.  
-                                            Ausweisung 
-____
+....
+Cam:Nr:53            pr:6 Merz 1799               2 [within a drawn square]
+Forst-Sachen
+....
 |
-[verse]
-____
-Report to the Guardianship Chamber from the Offices of Bückeburg and Arensburg
-                                            Re: Land Assignment
-____
+....
+Chamber No. 53          pr[esented] 6 March 1799               2 [within a drawn square]
+Forest-Matters
+....
 |===
+
+
