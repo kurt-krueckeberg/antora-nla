@@ -26,8 +26,8 @@ identify:
 The column labeled *"Designatio Actorum"* — Latin for *description of the acts or documents* — provides a short
 summary of each document's content.
 
-By reading this table, a clerk at the time (or a modern researcher) could quickly understand the *structure and
-contents of the case file* without having to examine every page in full.
+By reading this table, a clerk at the time could quickly understand the *structure and contents of the case file* without
+having to examine every page in full.
 
 == The Document Index
 
@@ -121,32 +121,33 @@ zur Vergrößerung seines Gartens
 
 == Glossary of Terms
 
-Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list of proceedings"* or *"index of entries"*.
+Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list
+of proceedings"* or *"index of entries"*.
 
 d.d.:: *De dato*, Latin for *"of the date"* or *"dated."*. This means the document itself bears a date.
 
-desfallsiger:: Means *"pertinent"* or *"relating to the matter."*  
-  Breakdown of the word:  
-  desfallsig = an adjective formed from:  
+desfallsiger:: Means *"pertinent"* or *"relating to the matter."*  Breakdown of the word:  desfallsig = an
+adjective formed from:  
   - *des Falles* – *"of the case"* (genitive of *der Fall*)  
-  - *-ig* – a common adjectival suffix  
-  → So *"desfallsiger Bericht"* literally means *"report concerning this case"* or *"pertinent report."*
+  - *-ig* – a common adjectival suffix  → So *"desfallsiger Bericht"* literally means *"report concerning this
+    case"* or *"pertinent report."*
 
-Cammer::
-  Historical term for the administrative and fiscal office of a principality or territory. In this context, the
-Cammer (also spelled Kammer) was responsible for land tenure, taxation, leases, and internal regulation. Often
+Cammer:: Historical term for the administrative and fiscal office of a principality or territory. In this context,
+the Cammer (also spelled Kammer) was responsible for land tenure, taxation, leases, and internal regulation. Often
 translated as *Chamber* or *Fiscal Office* in English.
 
-Cammer Rescript::
-  An official written directive or instruction issued by the Cammer. These were administrative responses,
-approvals, or rulings in legal and land-use matters. Often translated as *Instruction from the Fiscal Office* or
-*Chamber Order*.
+Cammer Rescript:: An official written directive or instruction issued by the Cammer. These were administrative
+responses, approvals, or rulings in legal and land-use matters. Often translated as *Instruction from the Fiscal
+Office* or *Chamber Order*.
 
-Cammerwahrmeister:: Variant of *Kammerwahrmeister*, referring to a chancellery official or steward/clerk. Related to *Kammerwärter*.
+Cammerwahrmeister:: Variant of *Kammerwahrmeister*, referring to a chancellery official or steward/clerk. Related
+to *Kammerwärter*.
 
-gedacht:: While it normally means *"thought,"* *"intended,"* or *"meant,"* in older German official usage it meant *"aforementioned"* or *"the said."*
+gedacht:: While it normally means *"thought,"* *"intended,"* or *"meant,"* in older German official usage it meant
+*"aforementioned"* or *"the said."*
 
-Funck:: A historically attested surname. While the image might suggest *Funiz*, that form is not a known or valid name.
+Funck:: A historically attested surname. While the image might suggest *Funiz*, that form is not a known or valid
+name.
 
 desgl.:: Abbreviation for *desgleichen*, meaning *"likewise"* or *"similarly."*
 
