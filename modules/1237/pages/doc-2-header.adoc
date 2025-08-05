@@ -32,5 +32,5 @@ authority that makes binding decisions.
 
 * *"Cam: Nr:53"* -- or *"Cam[mer] No. 53"* in the upper left is an internal archiving, filing and retreival number assignment to document 2
 by the Vormundliche Cammer.
-** *"Forst-Sachen"* -- indicates the topic of the document: it concerned forestry matters.
+* *"Forst-Sachen"* -- indicates the topic of the document: it concerned forestry matters.
 
