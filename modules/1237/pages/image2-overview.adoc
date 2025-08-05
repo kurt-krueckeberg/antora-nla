@@ -37,7 +37,7 @@ it concludes.
 |===
 ^|Document 1 Front ^|Document 1 Back
 
-|image::02-overview.png[align=left,link=self]
+|image::02.png[align=left,sclae=25,link=self]
 
 |image::03-left-page.jpg[algin=left,link=self]
 |===
