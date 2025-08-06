@@ -2,7 +2,7 @@
 //NLA BU, K 2, A Nr. 1237
 * xref:cover.adoc[]
 * xref:timeline.adoc[]
-* xref:image1.adoc[]
+* xref:doc-index.adoc[]
 * xref:doc1-overview.adoc[]
 ** xref:doc1-full.adoc[]
 ** Breakdown: Header, Petition, Forestry, Note
