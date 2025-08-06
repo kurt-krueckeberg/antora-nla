@@ -1,7 +1,7 @@
 = Official Reaction to Petition and Land Assignment Report
 :page-role: wide
 
-The *marginal note* in the image is a response to the remitted xref:image3-land-assignment-report[Land
+The *marginal note* in the image is a response to the remitted xref:doc2-report.adoc[Land
 Assignment Report], but not a formal reply addressed to Krückeberg. It is an internal instruction,
 filed with the main document for reference and action. It is a reaction from the higher office (the
 Kammer), giving administrative directives:
