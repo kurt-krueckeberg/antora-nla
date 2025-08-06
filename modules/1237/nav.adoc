@@ -21,7 +21,7 @@
 *** xref:image3-official-reaction.adoc[]
 * xref:image5-left-page.adoc[]
 * xref:image5-overview.adoc[]
-** *TODO: Header*
+** xref:doc2-header.adoc[]
 ** xref:image5-6-main-txt.adoc[]
 * xref:image6-right-page.adoc[]
 * xref:image7-right-page.adoc[]
