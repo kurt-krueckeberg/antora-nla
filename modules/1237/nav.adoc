@@ -13,7 +13,7 @@
 //** xref:image2-petition.adoc[]
 //** xref:image2-forestry-assessment.adoc[]
 //** xref:image2-admin-note.adoc[]
-* xref:image3-overview.adoc[] 
+* xref:doc2-overview.adoc[] 
 ** xref:doc2-full.adoc[]
 ** Breadown: Header, Report, Reaction
 *** xref:doc2-header.adoc[]
@@ -22,7 +22,7 @@
 * xref:image5-left-page.adoc[]
 * xref:image5-overview.adoc[]
 ** xref:doc3-header.adoc[]
-** xref:image5-6-main-txt.adoc[]
+** xref:doc3.adoc[]
 * xref:image6-right-page.adoc[]
 * xref:image7-right-page.adoc[]
 * xref:image8-right-page.adoc[]

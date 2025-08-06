@@ -2,6 +2,7 @@
 
 1. Add more detail to doc-1-forestry-assessment.adoc. Take it from the Narraitive Overview.
 2. Double check image3-official-reaction that the text is accurate. Turn the overview into a narrative.
+3. See the "TODO" section in timeline.adoc.
 
 * Make sure the glossaries are right for each page.
 * https://docs.antora.org/assembler/latest/ shows how to setup PDF generation

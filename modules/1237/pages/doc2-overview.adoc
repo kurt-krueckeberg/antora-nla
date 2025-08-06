@@ -1,0 +1,49 @@
+= Document 2: Land Assignment Report and Its Offical Response (Feb. 27, 1799)
+
+[cols="1a,1a",options="noheader"]
+|===
+|image::03-right-page.png[scale=25,title="Land Assignment Report",link=self]
+
+|image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
+|===
+
+== The Land Assignment Report
+
+Document 2 is a formal report submitted jointly by the local administrative offices (Ämter) of Bückeburg and
+Arensburg to the Vormundschaftliche Cammer. It serves as the official response to a petition originally submitted
+by tenant farmer Jobst Heinrich Krückeberg, Nr. 10 in Berenbusch, who had requested permission to purchase adjacent
+land to enlarge his garden and farmyard.
+
+The petition (Document 1) was initially submitted to the Cammer at the end of May 1798, then supplemented with a
+Forestry Office assessment in June 1798. After reviewing these materials, the Cammer issued a directive that the
+Aemter provide a formal statement addressing the petition’s implications and any local concerns.
+
+Document 2 is the result of that directive. It begins with a brief cover report to the Cammer, identifying the
+matter as a forestry-related case and referencing the attached petition (remitted "in der Anlage"). The Aemter
+report that among the residents of Berenbusch, Nordholz, and Evesen, only one objection had been raised—by a
+wealthy "Köter" (smallholder) in Berenbusch name *Weiland*. This man objected both because he wished to obtain the
+land himself and because he feared it might obstruct his access route for transporting crops.
+
+The tone of the report emphasizes that this is a solitary objection and implies that no significant opposition
+exists among the broader population. The Aemter thus present the Krückeberg petition as reasonable and largely
+uncontroversial at the local level.
+
+This document plays a pivotal role in confirming that the proposed land assignment was acceptable to local
+authorities and residents. It also reinforces the practice of thorough administrative review in Schaumburg-Lippe:
+one in which petitions moved through multiple layers of evaluation—local, forestry, and state-level—before any
+final resolution was issued.
+
+
+=== Cammer's Official Response
+
+The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the *Ämter Bückeburg
+und Arensburg* (local adminstrative offices of Bückeburg and Arenburg).
+
+The *marginal note*, the darker, somewhat smaller text on the left, is a response to the remitted report, but not a
+formal reply addressed to Krückeberg. It is an internal instruction, filed with the main document for reference and
+action.  It is a reaction from the higher office (the Kammer), giving administrative directives:
+
+* Approving the allocation of the parcel (so Krückeberg’s request is likely approved).
+
+* Instructing the local officials to investigate other possibly unauthorized garden expansions in Berenbusch and to report back.
+
