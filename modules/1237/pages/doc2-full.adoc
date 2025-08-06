@@ -22,7 +22,9 @@ Forest-Matters
 
 == Land Assignment Report
 
-This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
+The local government offices for Bückeburg and Arnesberg prepared Document 2 in March 1799 to inform the Cammer
+that they had reviewed the forestry report that the Cammmer had written onto Document 1, the Petition, and sent
+back to the Ämter (plural of offices).
 
 [cols="1a,1a"]
 |===
@@ -120,6 +122,8 @@ ____
 |===
 
 == Official Reaction to Petition and Land Assignment Report
+
+This reaction is written onto the left side of Document 2 to give feedback.
 
 [cols="1a,1a"]
 |===
