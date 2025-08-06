@@ -12,12 +12,12 @@ image::03-header.png[link=self]
 
 |
 ....
-Cam:Nr:53            pr:6 Merz 1799               2[on far right]
+Cam:Nr:53            pr:6 Merz 1799
 Forst-Sachen
 ....
 |
 ....
-Chamber No. 53          pr[esented] 6 March 1799  2[on far right]
+Chamber No. 53          pr[esented] 6 March 1799
 Forest-Matters
 ....
 |===
