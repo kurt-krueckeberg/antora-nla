@@ -1,3 +1,0 @@
-1. Make Document #2 one page.
-2. For each document, decide who is the creator and who is the recipient
-3. Note the header tracking information that get added upon receipt--or inserted when create, if possible.

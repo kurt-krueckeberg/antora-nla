@@ -1,8 +1,9 @@
 = TODO
 
 1. Add more detail to doc-1-forestry-assessment.adoc taken from doc1-overview.adoc, its narraitive overview.
-2. Double check that image3-official-reaction is accurate. Turn the overview into a narrative.
-3. See the "TODO" section I added (From chatgpt). It is not yet part of timeline.adoc.
+2. See the "TODO" section I added (From chatgpt). It is not yet part of timeline.adoc.
+3. Start on doc3 overview and finish doc3.
+4. Then doc4, doc5, doc6--also adding each time to the time line.
 
 * Make sure the glossaries are right for each page.
 * https://docs.antora.org/assembler/latest/ shows how to setup PDF generation
