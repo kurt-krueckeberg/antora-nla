@@ -1,4 +1,4 @@
-= Image 5 Right Page and Image 6 Left Page (Under Development)
+= Document 3 Text 
 :page-role: wide
 
 **TODO:** Reorganize Document #3. Also add somewhere, here, or another page, the meaning of "pr:" and "preas:" with
