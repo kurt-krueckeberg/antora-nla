@@ -25,27 +25,33 @@ family.
 These are the case files examined on this website:
 
 .Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
-[cols="2,6,6,2"]
+[cols="2,8a,2"]
 |===
-|Identifier|Denotation|Translation|Life Span
+|Identifier|Denotation +
+(Translation)|Life Span
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237]
 |Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
-|The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his farmyard and garden.*
+
+The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his farmyard and garden
 |1798 - 1800
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4988863[NLA BU, K 2, A Nr. 689]
 |Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.
-|A capital loan of 200 Reichstaler currency lent from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch.|1841 - 1845
+
+A capital loan of 200 Reichstaler currency lent from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch.
+|1841 - 1845
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v7832436[NLA BU, L 122, F Nr. 354]
 |Konkurs des Jobst Krückeberg [in Bückeburg]
-|Bankruptcy of Jobst Krückeberg [in Bückeburg]
+
+Bankruptcy of Jobst Krückeberg [in Bückeburg]
 |1725 - 1725
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697[NLA BU K 2 A Nr. 1291]
 |Ausweisung vom Forstgrunde 1. an den Colon Krückeberg Nr. 10 in Berenbusch, 2. an den Einlieger Vogt und Brüggemann zur Errichtung der Neubauerstätten Nr. 13 und Nr. 14 in Nordholz
-|Designation of the forest land 1. to the Colon Krückeberg No. 10 in Berenbusch, 2. to the tenants Vogt and Brüggemann for the construction of the new farmsteads No. 13 and No. 14 in Nordholz
+
+Designation of the forest land 1. to the Colon Krückeberg No. 10 in Berenbusch, 2. to the tenants Vogt and Brüggemann for the construction of the new farmsteads No. 13 and No. 14 in Nordholz
 |1817 - 1818
 |===
 //|NLA BU, L 20, C Nr. 98
