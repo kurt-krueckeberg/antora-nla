@@ -18,7 +18,7 @@
 ** Breadown: Header, Report, Reaction
 *** xref:doc2-header.adoc[]
 *** xref:doc2-report.adoc[]
-*** xref:image3-official-reaction.adoc[]
+*** xref:doc2-official-reaction.adoc[]
 * xref:image5-left-page.adoc[]
 * xref:image5-overview.adoc[]
 ** xref:doc3-header.adoc[]
