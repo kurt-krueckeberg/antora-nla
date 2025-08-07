@@ -31,9 +31,7 @@ office
 
 At the top of the document is: *ad nr. No.: Chamber 53. S. S.*. 
 
-*Its Purpose*
-
-This kind of line was commonly used in bureaucratic correspondences to:
+*What is its purpose?* This kind of line was commonly used in bureaucratic correspondences to:
 
 * Track and organize official documents.
 * Identify the administrative body responsible for the decision.
@@ -53,13 +51,9 @@ the document.  **Translation**: *Chamber*
 this document refers to something recorded earlier in the same case or dossier.  **Translation**: *as referenced
 above*
 
-*Final Interpretation*
-
-The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
+*Final Interpretation:*  The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
 
 > "This document pertains to the previous materieal in the case file denoated by "Chamber 53". 
-
-We know that document 
 
 This notation ensured proper filing and indicated that the response or action recorded here was part of a larger sequence of proceedings.
 ====
