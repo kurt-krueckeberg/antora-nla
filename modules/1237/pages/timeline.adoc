@@ -20,17 +20,19 @@ A *sworn land surveyor* who will measure two parcels of ground and who drawing a
 document #4.
 
 Amt::  
-The *Amt* is where Jobst Heinrich made is request. The *Amt* was the *local or regional administrative office*
-responsible for executing the instructions of the Cammer. It handled *field investigations, reports, local
-enforcement, and petitions*, and submitted findings to the Cammer. The Amt had no final authority but provided the
-*practical groundwork* for the Cammer’s decisions.  In the case file, officials of the Amt Bückeburg & Arensburg
-surveyed land and submitted reports on Krückeberg's request.
+Amt = office. The *Amt* was the *local or
+regional administrative office* responsible for executing the instructions of the Vormundlichte  Cammer
+("gardianship" Chamber). It handled *field investigations, reports, local enforcement, and petitions*, and
+submitted findings to the Cammer. The Amt had no final authority but provided the *practical groundwork* for the
+Cammer’s decisions.  In the case file, officials of the Amt Bückeburg & Arensburg surveyed land and submitted
+reports on Krückeberg's request.
 
 Cammer (Kammer)::  
-The *Cammer* was the central governmental authority responsible for *fiscal administration, land management, taxation, forestry, and state property*.  
-It operated at the principality level and issued binding *Rescripte* (official decisions).  
-Its seat was typically in Bückeburg and it oversaw the activities of regional offices (Ämter).  
-In the case file concerning Jobst Heinrich Krückeberg, the Cammer was the body that made the *final decisions* on land grants.
+The *Cammer* was the central governmental authority responsible for *fiscal administration, land management,
+taxation, forestry, and state property*.  It operated at the principality level and issued binding *Rescripte*
+(official decisions).  Its seat was typically in Bückeburg and it oversaw the activities of regional offices
+(Ämter).  In the case file concerning Jobst Heinrich Krückeberg, the Cammer was the body that made the *final
+decisions* on land grants.
 
 == Comparison: Amt versus Cammer
 
@@ -60,59 +62,6 @@ In the case file concerning Jobst Heinrich Krückeberg, the Cammer was the body 
 |===
 
 == Timeline
-TODO: These are the latest addtions/thoughts:
-
-STARTS HERE ==>
-
-=== Document 1: Step-by-Step Evolution and Workflow
-
-==== ✅ Confirmed Sequence of Events
-
-1. **29 May 1798 – Petition Written by the Amt**
-+
-Jobst Heinrich Krückeberg appears at the Amt in Bückeburg. Lindemann, an official there, transcribes Krückeberg’s
-request to purchase adjacent plots of land for garden and farmyard expansion. This handwritten petition forms the
-original basis of Document 1.
-
-2. **30 May 1798 – Petition Presented to the Vormundschaftliche Cammer**
-+
-The petition is submitted to the Cammer. The header "praes: 30 May 1798" is entered on the document, indicating the
-date of presentation to the Cammer. This marks the beginning of Cammer-level processing.
-
-3. **14 June 1798 – Forestry Office Assessment Added**
-+
-The Cammer consults the Forestry Office for an evaluation of the land request. The forestry official MKaas writes
-an assessment directly onto the petition. This assessment is dated "B. 14. Jun. 1798" and signed "MKaas Forstamt."
-It becomes the large body of text on the left side of Document 1.
-
-4. **18 February 1799 – Document Hand-Delivered Back to the Amt**
-+
-A marginal note, written vertically on the petition page, reads:
-+
-[verse]
-____
-Res Cam. Brevi manu dem  
-Amts zum Berichte. B. 18  
-Febr 1799   MKaas  
-____
-+
-This indicates that the Cammer’s directive (Res Cam.) was physically returned ("brevi manu") to the Amt to obtain
-their formal written report.
-
-5. **After 18 Feb 1799 – Amt Bückeburg and Arensburg Compose Document 2**
-+
-In response to the Cammer’s directive, the two Aemter draft Document 2. This document includes:
-+
-* A cover report addressed to the Cammer
-* A statement that the original petition is enclosed again
-* A summary of public opinion—only one objection is raised (by the Köter Weiland in Berenbusch)
-
-==== 🧩 Conclusion
-
-Document 1 evolved from a single petition into a composite case document containing both the petition and the
-official assessment. It was sent back and forth between the Amt and the Cammer, gaining administrative annotations
-and directives along the way. This explains the layered handwriting and content from multiple officials.
-<== ENDS HERE
 
 include::partial$timeline.adoc[]
 
