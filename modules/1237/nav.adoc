@@ -25,7 +25,7 @@
 ** Breakdown: Header, Cammer Directive
 *** xref:doc3-header.adoc[]
 *** xref:doc3.adoc[]
-* xref:image6-right-page.adoc[]
+* xref:doc4.adoc[]
 * xref:image7-right-page.adoc[]
 * xref:image8-right-page.adoc[]
 * xref:images9-10-overview.adoc[]
