@@ -79,7 +79,7 @@ their formal written report.</p>
     <h4>27 February 1799</h4>
     <p>In response to the Cammer’s directive, the two Ämter (offices) draft Document 2. This document includes:</p>
     <ul>
-       <li>A statement that the original petition is enclosed again>/li>
+       <li>A statement that the original petition is enclosed again</li>
        <li>A lang assignement report: a summary of public opinion—only one objection is raised (by the Köter
 Weiland in Berenbusch)</li>
   </div>
