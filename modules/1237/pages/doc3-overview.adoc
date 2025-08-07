@@ -4,6 +4,16 @@
 Document 3 is the March 11, 1799, response from the Vormundliche Cammer (Guardianship Chamber) to the civil servants in Bückeburg, replying
 to their February 27^th^ report.
 
+- It references "Cam:53" Use the meaning of the header to explain that the Cammer is now in decision-making mode.
+They initially did a Forestry Assessment, which the sent to the Amt, who reply about its impact on the locals. They
+have reviewed wha the Amts said and now instruct the Aemter that:
+
+* pt. 1
+* pt. 2
+* etc.
+
+Mention who the individuals in these reports are. MKaas's signature appears again.
+
 
 [cols="1a,1a",frame="none",grid="none",options="noheader"]
 |===
