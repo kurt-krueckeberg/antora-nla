@@ -7,7 +7,9 @@
 |image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 |===
 
-== Recapitulation: Cammer had sent Forestry Office Assessment to Ämter (February 18, 1799)
+== Document 2: Narrative Overview
+
+=== 1. Recapitulation: Cammer had sent Forestry Office Assessment to Ämter (February 18, 1799)
 
 After the Cammer reviewed Krückeberg's petition (Document 1), on May 30, 1799, they commissioned a Forestry Office
 assessment, which was drafted onto Document 1 on February 27, 1799. It concluded the enlargement of Krückeberg's
@@ -17,7 +19,7 @@ office, and Krückeberg would be obligated to replant three saplings in another 
 But it was not until February 18, 1799, though, that the Cammer returned Document 1 to the Ämter (offices) of
 Bückeburg and Arensberg.
 
-== The Land Assignment Report (27 Feb 1799)
+=== 2. The Land Assignment Report (27 Feb 1799)
 
 With the new guidance from the Cammer, the Ämter prepared Document 2, on March, 1799, to inform the Cammer that they had
 reviewed the forestry report, and to report that locally only one Berenbusch resident named Weiland raised objections —
@@ -26,7 +28,7 @@ which the Ämter dismissed as without merit.
 The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the *Ämter Bückeburg
 und Arensburg* (local adminstrative offices of Bückeburg and Arenburg).
 
-=== Cammer's Reactiion (10 Mar 1799)
+=== 3. Cammer's Reaction (10 Mar 1799)
 
 The *marginal note*, the darker, somewhat smaller text on the left side, is the Cammer's response to the remitted
 report, but not a formal reply addressed to Krückeberg. It is an internal instruction, filed with the main document
