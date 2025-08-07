@@ -1,43 +1,6 @@
 = Vormundliche Cammer Directive
 :page-role: wide
 
-Document 3 is the March 11. 1799, official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and
-Arensburg. The header references (*"S.S"* in upper left, meaing *referenced above*) the document denoted by *"Cam:53"*,
-which is Document 2.
-
-.Internal Filing and Reference Marker
-****
-[NOTE]
-====
-What is the purpose of *ad nr. No.: Chamber 53. S. S.* inm the top left of the document. This kind of line was commonly
-used in bureaucratic correspondences to:
-
-* Track and organize official documents.
-* Identify the administrative body responsible for the decision.
-* Clarify continuity with earlier entries in the same file.
-
-*Breakdown of Components*
-
-`ad nr:`:: Latin abbreviation meaning "concerning number" or "regarding record number." It introduces the file or
-document reference.  **Translation**: *Ref. No.*
-
-`Cam:`:: Short for *Cammer* (modern: *Kammer*), referring to the administrative or fiscal chamber responsible for
-the document.  **Translation**: *Chamber*
-
-`53`:: The record or case number within the chamber's archive.  **Translation**: *53*
-
-`S. S.`:: Latin abbreviation for *supra scripta*, meaning "written above" or "as referenced above." It signals that
-this document refers to something recorded earlier in the same case or dossier.  **Translation**: *as referenced
-above*
-
-*Final Interpretation:*  The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
-
-> "This document pertains to the previous materieal in the case file denoated by "Chamber 53". 
-
-This notation ensured proper filing and indicated that the response or action recorded here was part of a larger sequence of proceedings.
-====
-****
-
 == Images and Their Content
 
 The text on the right page of image 5 continues on the left page shown in image6:
@@ -158,25 +121,6 @@ to the officials in Bückeburg
 
                   Wippermann
 ____
-|===
-
-
-[role="section-narrow"]
-=== Summary of Header Line
-
-[cols="1,3", options="header"]
-|===
-| Line
-| Meaning
-
-| *ad nr: Cam: 53. S. S.*
-| Filing reference: This rescript belongs to *Chamber case no. 53*, under the filing or subject category "S. S."
-
-| *Concept Cammer: Rescript*
-| This is a *draft decree* (rescript) originating from the *Cammer* (chamber office), likely concerning land, property, or forestry matters.
-
-| *an die Beamten zu Buckeburg*
-| Addressee: the civil officials stationed in *Bückeburg*, who are responsible for executing or communicating the contents of the rescript.
 |===
 
 [role="section-narrow"]
