@@ -32,6 +32,16 @@
       font-style: italic;
       color: #374151;
     }
+
+    .timeline-entry ul {
+      margin: 0.5em 0 0.5em 1em;
+      padding-left: 1em;
+      color: #1f2937;
+    }
+
+    .timeline-entry li {
+      margin-bottom: 0.3em;
+    }
   </style>
   <div class="timeline-entry">
     <h4>29 May 1798</h4>
@@ -67,7 +77,11 @@ their formal written report.</p>
 
   <div class="timeline-entry">
     <h4>27 February 1799</h4>
-    <p>Report from the Bückeburg Amt (Document No. 2)</p>
+    <p>In response to the Cammer’s directive, the two Ämter (offices) draft Document 2. This document includes:</p>
+    <ul>
+       <li>A statement that the original petition is enclosed again>/li>
+       <li>A lang assignement report: a summary of public opinion—only one objection is raised (by the Köter
+Weiland in Berenbusch)</li>
   </div>
 
   <div class="timeline-entry">
