@@ -1,4 +1,4 @@
-= Document 5: Cammer Directive (Octoboer 27, 1800)
+= Document 5: Cammer Directive (October 27, 1800)
 :page-role: wide
 
 image::09-right-page.png[link=self]
