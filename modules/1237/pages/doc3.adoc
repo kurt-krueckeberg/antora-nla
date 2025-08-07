@@ -1,30 +1,35 @@
 = Document 3 Text 
 :page-role: wide
 
-== Overview
+== Narrative Overview
 
-After first reviewing Documenmt 2 on March 6, 1799, the Cammer noted on Document 2 their intention to approve
+=== Recapitulation: Cammer Reaction to Document 2 (10 March 1799)
+
+After first reviewing Documenmt 2 on March 6, 1799, the Cammer noted, on March 10, 1799, their intention to approve
 Jobst Heinrich's request and to allocated land for him to purchase.
 
-This is the official reply from the Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg. The 
-header references (*"S.S"*, meaing *referenced above*) the document denoted by *"Cam:53"*(in the header). This
-is Document 2.
+=== Offical Directive (11 March 1799) from Cammer to Ämter
+
+On March 11. 1799, the official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg was
+written. The header references (*"S.S"* in upper left, meaing *referenced above*) the document denoted by *"Cam:53"*,
+which is Document 2.
 
 The Cammer states:
 
-* They will allocate the land Krückeberg, no. 10 Berenbusch, provide he agrees to:
-** he plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
+* They will allocate the land Krückeberg, no. 10 Berenbusch, provided he agrees to:
+** plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
 office
-** he pays 24 Mariengroschen per square rod for the plot.
-* If Krückeberg agrees to these conditions, the Amt is:
+** pay 24 Mariengroschen per square rod for the plot.
+* If Krückeberg agrees to these conditions, the Amt is to:
 ** have the plot surveyed by a sworn surveyor
 ** and report its size back to the Cammer.
 
-=== Internal Filing and Reference Marker
+.Internal Filing and Reference Marker
+****
 
 At the top of the document is: *ad nr. No.: Chamber 53. S. S.*. 
 
-==== Its Purpose
+== Its Purpose
 
 This kind of line was commonly used in bureaucratic correspondences to:
 
@@ -32,7 +37,7 @@ This kind of line was commonly used in bureaucratic correspondences to:
 - Identify the administrative body responsible for the decision.
 - Clarify continuity with earlier entries in the same file.
 
-==== Breakdown of Components
+=== Breakdown of Components
 
 `ad nr:`:: Latin abbreviation meaning "concerning number" or "regarding record number." It introduces the file or
 document reference.  **Translation**: *Ref. No.*
@@ -55,6 +60,7 @@ The full line `Ref. No.: Chamber 53. recorded previously.` should be understood 
 We know that document 
 
 This notation ensured proper filing and indicated that the response or action recorded here was part of a larger sequence of proceedings.
+****
 
 == Images and Their Content
 

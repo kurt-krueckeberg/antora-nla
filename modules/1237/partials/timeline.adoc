@@ -100,7 +100,7 @@ Weiland in Berenbusch)</li>
 
   <div class="timeline-entry">
     <h4>30 March 1799</h4>
-    <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document Index No. 4½)</p>
+    <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document No. 4½)</p>
   </div>
 
   <div class="timeline-entry">
