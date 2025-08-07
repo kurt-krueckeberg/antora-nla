@@ -33,7 +33,7 @@
 * xref:reminder-note.adoc[]
 * xref:doc4-pt-five.adoc[]
 * xref:images9-10-overview.adoc[]
-** xref:images9-10-full.adoc[]
+** xref:doc5-full.adoc[]
 ** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
 *** *TODO: Header*
 *** xref:image9.adoc[]
