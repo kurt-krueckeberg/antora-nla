@@ -57,8 +57,8 @@
     <h4>18 February 1799</h4>
     <p>A marginal note, written vertically on the petition page, reads:</p>
 <blockquote>
-Res Cam. Brevi manu dem  
-Amts zum Berichte. B. 18  
+Res Cam. Brevi manu dem<br />
+Amts zum Berichte. B. 18<br />  
 Febr 1799   MKaas  
 </blockquote>
 <p>This indicates that the Cammer’s directive (Res Cam.) was physically returned ("brevi manu") to the Amt to obtain
