@@ -28,10 +28,8 @@ office
 ****
 [NOTE]
 ====
-
-At the top of the document is: *ad nr. No.: Chamber 53. S. S.*. 
-
-*What is its purpose?* This kind of line was commonly used in bureaucratic correspondences to:
+What is the purpose of *ad nr. No.: Chamber 53. S. S.* inm the top left of the document. This kind of line was commonly
+used in bureaucratic correspondences to:
 
 * Track and organize official documents.
 * Identify the administrative body responsible for the decision.
