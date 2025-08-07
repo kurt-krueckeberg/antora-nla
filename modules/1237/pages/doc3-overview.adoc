@@ -1,5 +1,4 @@
 = Document 3: Chamber's Reply Concerning Krückeberg Request (March 11, 1799)
-:page-role: wide
 
 [cols="1a,1a",frame="none",grid="none",options="noheader"]
 |===
