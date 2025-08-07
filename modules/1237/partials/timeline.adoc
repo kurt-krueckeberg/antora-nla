@@ -27,27 +27,34 @@
 
   <div class="timeline-entry">
     <h4>29 May 1798</h4>
-    <p>On or before May 29, 1798, Jobst Heinrcih Krückeberg appears before the Amt in Bückeburg.</p>
-  </div>
-
-  <div class="timeline-entry">
-    <h4>29 May 1798</h4>
-    <p>Lindemann (Amt official) writes the petition on Krückeberg's behalf.</p>
+    <p>Jobst Heinrich Krückeberg appears at the Amt in Bückeburg. Lindemann, an official there, transcribes Krückeberg’s
+       request to purchase adjacent plots of land for garden and farmyard expansion. This handwritten petition forms the
+       original basis of Document 1.</p>
   </div>
 
   <div class="timeline-entry">
     <h4>30 May 1798</h4>
-    <p>The petition is presented (praes.) to the Vormundschaftliche Cammer.</p>
+    <p>The petition is presented (praes.) to the Vormundschaftliche Cammer. The header "praes: 30 May 1798" is entered on
+       the document, indicating the date of presentation to the Cammer. This marks the beginning of Cammer-level processing.</p>
   </div>
 
   <div class="timeline-entry">
     <h4>14 June 1798</h4>
-    <p>"MKaas" of the Forstamt (Forestry Office) writes a favorable forestry assessment at the Cammer's request.</p>
+    <p>The Cammer consults the Forestry Office for an evaluation of the land request. The forestry official MKaas writes
+       an assessment directly onto the petition. This assessment is dated "B. 14. Jun. 1798" and signed "MKaas Forstamt."
+       It becomes the large body of text on the left side of Document 1.</p>
   </div>
 
   <div class="timeline-entry">
     <h4>18 February 1799</h4>
-    <p>MKaas adds an administrative note: document was hand-delivered (brevi manu) to the Amt for further processing.</p>
+    <p>A marginal note, written vertically on the petition page, reads:</p>
+<blockquote>
+Res Cam. Brevi manu dem  
+Amts zum Berichte. B. 18  
+Febr 1799   MKaas  
+</blockquote>
+<p>This indicates that the Cammer’s directive (Res Cam.) was physically returned ("brevi manu") to the Amt to obtain
+their formal written report.</p>
   </div>
 
   <div class="timeline-entry">
