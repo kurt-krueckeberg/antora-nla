@@ -28,7 +28,7 @@ image::08-right-page.png[link=self]
 |7. Fuß Decim: [7 feet, decimal]
 
 |Below entire diagram (horizontal)
-|Dorf Serasse
+|Dorf Strasse (village street or drive)
 |===
 
 === Main Text
