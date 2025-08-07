@@ -30,7 +30,7 @@ image::05-right-header.png[link=self]
 ****
 [NOTE]
 ====
-What is the purpose of *ad nr. No.: Chamber 53. S. S.* inm the top left of the document. This kind of line was commonly
+What is the purpose of *ad nr. No.: Chamber 53. S. S.* inm the top left of the document? This kind of line was commonly
 used in bureaucratic correspondences to:
 
 * Track and organize official documents.
