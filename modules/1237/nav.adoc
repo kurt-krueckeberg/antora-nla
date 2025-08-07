@@ -20,7 +20,7 @@
 *** xref:doc2-report.adoc[]
 *** xref:doc2-official-reaction.adoc[]
 * xref:image5-left-page.adoc[]
-* xref:image5-overview.adoc[]
+* xref:doc3-overview.adoc[]
 ** xref:doc3-header.adoc[]
 ** xref:doc3.adoc[]
 * xref:image6-right-page.adoc[]
