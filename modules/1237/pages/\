@@ -1,0 +1,41 @@
+.xref:index.adoc[]
+//NLA BU, K 2, A Nr. 1237
+* xref:cover.adoc[]
+* xref:timeline.adoc[]
+* xref:doc-index.adoc[]
+* xref:doc1-overview.adoc[]
+** xref:doc1-full.adoc[]
+** Breakdown: Header, Petition, Forestry, Note
+*** xref:doc1-header.adoc[]
+*** xref:doc1-petition.adoc[]
+*** xref:doc1-forestry-assessment.adoc[]
+*** xref:doc1-admin-note.adoc[]
+//** xref:image2-petition.adoc[]
+//** xref:image2-forestry-assessment.adoc[]
+//** xref:image2-admin-note.adoc[]
+* xref:doc2-overview.adoc[] 
+** xref:doc2-full.adoc[]
+** Breadown: Header, Report, Reaction
+*** xref:doc2-header.adoc[]
+*** xref:doc2-report.adoc[]
+*** xref:doc2-official-reaction.adoc[]
+* xref:image5-left-page.adoc[]
+* xref:doc3-overview.adoc[]
+** xref:doc3-full.adoc[]
+** Breakdown: Header, Cammer Directive
+*** xref:doc3-header.adoc[]
+*** xref:doc3.adoc[]
+* xref:doc4.adoc[]
+** TODO: Full Document View
+**  Breakdown: Header, Parcels Proposed by Ämter
+*** xref:doc4-header.adoc[]
+*** TODO: Submission of Geometric Drawings
+* xref:reminder-note.adoc[]
+* xref:doc4-pt-five.adoc[]
+* xref:doc5-overview.adoc[]
+** xref:doc5-full.adoc[]
+** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
+*** *TODO: Header*
+*** xref:image9.adoc[]
+*** xref:image10.adoc[]
+* xref:doc6.adoc[]
