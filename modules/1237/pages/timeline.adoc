@@ -3,7 +3,8 @@
 == The Actors
 
 Jobst Heinrich Krückeberg::
- A tenant farmer dwelling at No. 10 Berenbusch, living near a forest, who wants to enlarge his farmyard and garden.
+A tenant farmer dwelling at No. 10 Berenbusch, living near a forest and the "street" of Berenbusch,
+who wants to enlarge his farmyard and garden.
 
 Weiland of Berenbusch::
 Who expresses dissatisfaction with the planned assignment, claimed he himself wanted to acquire the same plot, and
