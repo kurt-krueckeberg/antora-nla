@@ -6,7 +6,7 @@ administrative offices (Amt) that issued Document 4. His report was therefore xr
 even though it accompanied xref:doc4.adoc[document 4].
 
 NOTE: The surveyor completed his drawing over a year before it was enclosed in xref:doc4.adoc[document 4]. His drawing is
-date March 30, 1799, but document 4 is dated over a year later, October 18, 1800.
+date March 30, 1799, but Document 4, which is supplemented, is dated over a year later, October 18, 1800.
 
 image::08-right-page.png[link=self]
 
