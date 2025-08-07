@@ -7,24 +7,28 @@
 |image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 |===
 
-== The Land Assignment Report
+== Recapitulation: Cammer sends Forestry Office Assessment to Ämter (February 18, 1799)
 
 After the Cammer reviewed Krückeberg's petition (Document 1), on May 30, 1799, they commissioned a Forestry Office
 assessment, which was drafted onto Document 1. It concluded the enlargement of Krückeberg's garden and farmyard
 would have no detimental impact. Some poplars would need to be removed and sold by the forestry office, and
 Krückeberg would be obligated to replant three saplings in another area of the forest as replacements.
 
-But it was not until February, 1799, though, that the Cammer returned Document 1 to the Ämter(plural of Amt). With the
-new guidance from the Cammer, the Ämter prepared Document 2 in March 1799 to inform the Cammer that they had
+But it was not until February 18, 1799, though, that the Cammer returned Document 1 to the Ämter (offices) of
+Bückeburg and Arensberg.
+
+== The Land Assignment Report (27 Feb 1799)
+
+With the new guidance from the Cammer, the Ämter prepared Document 2, on March, 1799, to inform the Cammer that they had
 reviewed the forestry report, and that locally only one Berenbusch resident named Weiland raised objections —
 which the Ämter dismissed as without merit.
-
-=== Cammer's Official Response
 
 The "main text", the larger text on the page, is the *The Land Assignment Report* issued by the *Ämter Bückeburg
 und Arensburg* (local adminstrative offices of Bückeburg and Arenburg).
 
-The *marginal note*, the darker, somewhat smaller text on the left, is the Cammer'ss response to the remitted
+=== Cammer's Reactiion (10 Mar 1799)
+
+The *marginal note*, the darker, somewhat smaller text on the left, is the Cammer's response to the remitted
 report, but not a formal reply addressed to Krückeberg. It is an internal instruction, filed with the main document
 for reference and action.  It is a reaction from the higher office (the Kammer), giving administrative directives:
 
