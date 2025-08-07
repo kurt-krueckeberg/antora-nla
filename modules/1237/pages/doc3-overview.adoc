@@ -3,9 +3,9 @@
 
 [cols="1a,1a",frame="none",grid="none",options="noheader"]
 |===
-|image::05-right-page.png[scale=15,link=self]
+|image::05-right-page.png[scale=10,link=self]
 
-|image::06-left-page.png[scale=20,link=self]
+|image::06-left-page.png[scale=15,link=self]
 |===
 
 == Narrative Overview
