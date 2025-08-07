@@ -1,19 +1,24 @@
 = Document 3 Text 
 :page-role: wide
 
-**TODO:** Reorganize Document #3. Also add somewhere, here, or another page, the meaning of "pr:" and "preas:" with
-this explanation:
-
-So the term “praes.” or “pr.” always means “presented”, but the writer and context determine whose perspective that refers to:
-
-* From the Amt’s perspective: "We present it to the Cammer."
-* From the Cammer’s perspective: "We received and presented it to the council/judges/decision-makers."
-
 == Overview
 
-This is the reply from the Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg. It references a previous (*"S.S"*,
-meaing *referenced above*) document (denoted by *"Cam:53"*), which is document #2. This is the reply from the
-state-level Chamber to the local officials, who had sent document #2 to the Cammer.
+After first reviewing Documenmt 2 on March 6, 1799, the Cammer noted on Document 2 their intention to approve
+Jobst Heinrich's request and to allocated land for him to purchase.
+
+This is the official reply from the Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg. The 
+header references (*"S.S"*, meaing *referenced above*) the document denoted by *"Cam:53"*(in the header). This
+is Document 2.
+
+The Cammer states:
+
+* They will allocate the land Krückeberg, no. 10 Berenbusch, provide he agrees to:
+** he plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
+office
+** he pays 24 Mariengroschen per square rod for the plot.
+* If Krückeberg agrees to these conditions, the Amt is:
+** have the plot surveyed by a sworn surveyor
+** and report its size back to the Cammer.
 
 === Internal Filing and Reference Marker
 
