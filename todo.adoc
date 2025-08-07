@@ -1,11 +1,15 @@
 = TODO
 
-1. Add more detail to doc-1-forestry-assessment.adoc. Take it from doc1-overview.adoc's narraitive overview.
-2. For document 3 describe the names in the left margin and the signatories. Mention MKaas signed the 
-2. See the "TODO" section I added (From chatgpt). It is not yet part of timeline.adoc.
-3. Finish doc3-overview
-4. Update the timeline. I added a TODO block to it. Mkae sure it has doc2 events. And after completing doc3-overview, add doc3 events
-4. Then after finishing doc4, doc5, doc6, add their events to the time line.
+[arabic,start=1]
+. Add more detail to doc-1-forestry-assessment.adoc. Take it from doc1-overview.adoc's narraitive overview.
+. For document 3 describe the names in the left margin and the signatories. Mention MKaas signed the 
+** Forestry Office assessment on document 1
+** The Cammer reaction to document 2.
+. Note other signatories to documents 3, 4, 5, and 6.
+. See the "TODO" section I added (From chatgpt). It is not yet part of timeline.adoc.
+. Finish doc3-overview
+. Update the timeline. I added a TODO block to it. Mkae sure it has doc2 events. And after completing doc3-overview, add doc3 events
+. Then after finishing doc4, doc5, doc6, add their events to the time line.
 
 * Make sure the glossaries are right for each page.
 * https://docs.antora.org/assembler/latest/ shows how to setup PDF generation
