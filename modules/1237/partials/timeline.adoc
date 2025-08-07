@@ -85,6 +85,20 @@ Weiland in Berenbusch)</li>
   </div>
 
   <div class="timeline-entry">
+    <h4>6 March 1799</h4>
+    <p>Document 2 is presented to the Cammer for review. "pr:6 Merz 1799", presented March 6, 1799, is written at
+      the top center of Document 2.</p>
+    </div>
+
+  <div class="timeline-entry">
+    <h4>10 March 1799</h4>
+    <p>The Cammer's reaction is noted on Document 2:</p>
+    <ul>
+      <li>they will allocte the land to Krückeberg, and</li>
+      <li>they instruct the Amt to investiage individuals who have enlarge their gardens withbout apporval.</li>
+    </div>
+
+  <div class="timeline-entry">
     <h4>30 March 1799</h4>
     <p>Surveyor Lieutenant Funck confirms boundaries and plot dimensions (Document Index No. 4½)</p>
   </div>
