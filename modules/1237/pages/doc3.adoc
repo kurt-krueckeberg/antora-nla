@@ -26,18 +26,20 @@ office
 
 .Internal Filing and Reference Marker
 ****
+[NOTE]
+====
 
 At the top of the document is: *ad nr. No.: Chamber 53. S. S.*. 
 
-== Its Purpose
+*Its Purpose*
 
 This kind of line was commonly used in bureaucratic correspondences to:
 
-- Track and organize official documents.
-- Identify the administrative body responsible for the decision.
-- Clarify continuity with earlier entries in the same file.
+* Track and organize official documents.
+* Identify the administrative body responsible for the decision.
+* Clarify continuity with earlier entries in the same file.
 
-=== Breakdown of Components
+*Breakdown of Components*
 
 `ad nr:`:: Latin abbreviation meaning "concerning number" or "regarding record number." It introduces the file or
 document reference.  **Translation**: *Ref. No.*
@@ -51,7 +53,7 @@ the document.  **Translation**: *Chamber*
 this document refers to something recorded earlier in the same case or dossier.  **Translation**: *as referenced
 above*
 
-=== Final Interpretation
+*Final Interpretation*
 
 The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
 
@@ -60,6 +62,7 @@ The full line `Ref. No.: Chamber 53. recorded previously.` should be understood 
 We know that document 
 
 This notation ensured proper filing and indicated that the response or action recorded here was part of a larger sequence of proceedings.
+====
 ****
 
 == Images and Their Content
