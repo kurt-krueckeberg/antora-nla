@@ -1,28 +1,9 @@
 = Document 3 Text 
 :page-role: wide
 
-== Narrative Overview
-
-=== Recapitulation: Cammer Reaction to Document 2 (10 March 1799)
-
-After first reviewing Documenmt 2 on March 6, 1799, the Cammer noted, on March 10, 1799, their intention to approve
-Jobst Heinrich's request and to allocated land for him to purchase.
-
-=== Offical Directive (11 March 1799) from Cammer to Ämter
-
-On March 11. 1799, the official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and Arensburg was
-written. The header references (*"S.S"* in upper left, meaing *referenced above*) the document denoted by *"Cam:53"*,
+Document 3 is the March 11. 1799, official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and
+Arensburg. The header references (*"S.S"* in upper left, meaing *referenced above*) the document denoted by *"Cam:53"*,
 which is Document 2.
-
-The Cammer states:
-
-* They will allocate the land Krückeberg, no. 10 Berenbusch, provided he agrees to:
-** plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
-office
-** pay 24 Mariengroschen per square rod for the plot.
-* If Krückeberg agrees to these conditions, the Amt is to:
-** have the plot surveyed by a sworn surveyor
-** and report its size back to the Cammer.
 
 .Internal Filing and Reference Marker
 ****
