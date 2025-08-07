@@ -37,7 +37,7 @@ used in bureaucratic correspondences to:
 * Identify the administrative body responsible for the decision.
 * Clarify continuity with earlier entries in the same file.
 
-*Breakdown of Components*
+*Breakdown of Components:*
 
 `ad nr:`:: Latin abbreviation meaning "concerning number" or "regarding record number." It introduces the file or
 document reference.  **Translation**: *Ref. No.*
@@ -51,7 +51,7 @@ the document.  **Translation**: *Chamber*
 this document refers to something recorded earlier in the same case or dossier.  **Translation**: *as referenced
 above*
 
-*Final Interpretation:*  The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
+*Final Interpretation:* The full line `Ref. No.: Chamber 53. recorded previously.` should be understood as:
 
 > "This document pertains to the previous materieal in the case file denoated by "Chamber 53". 
 
