@@ -10,7 +10,8 @@ body.wide .doc
 }
 
 /* When ':page-role: wide' is used, images will have shadwow-border. */
-body.wide .imageblock img {
+/* body.wide .imageblock img {*/
+body.article .imageblock img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   background: white;
