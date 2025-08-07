@@ -1,4 +1,4 @@
-= Document 3 Text 
+= Vormundliche Cammer Directive
 :page-role: wide
 
 Document 3 is the March 11. 1799, official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and
