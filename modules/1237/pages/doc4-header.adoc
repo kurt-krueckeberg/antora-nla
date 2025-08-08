@@ -36,6 +36,13 @@ Chamber no. 322. Forest Matters
    Rescr:no. 11 March               Ausweisung 
               1799                                  
                   
-                               p. 24 8br 1800  
+                               p. 24 October 1800  
 ....
+|===
+
+[cols="1,4"]
+|===
+|Line|Meaning
+
+|p. 24 October 1800|p  = präsentiert = presented (for view by the Kammer)
 |===
