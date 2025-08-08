@@ -6,7 +6,7 @@
 The document header has a left-side and right-side section:
 
 [caption="Document header: "]
-.added by the Vormundliche Cammer to Document 1.
+.added by the Vormundschaftliche Cammer to Document 1.
 [cols="1a,1a"]
 |===
 |Transliteration|Translation

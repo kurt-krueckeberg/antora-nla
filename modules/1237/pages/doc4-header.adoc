@@ -1,3 +1,19 @@
 = Document 4 Header
 
 image::06-right-pg-header.png[scale=25,link=self]
+
+
+....
+Cam:Nr:322. Forstsachen
+
+                   An
+      Vormundschaftliche Kammer
+                   Bericht              
+      der Aemter Bückeburg und Arnesburg
+
+        ad ter                     Betr.     
+   Re[s]cr:no 11 Merz          Ausweisung 
+              1799                                  
+                  
+                               p. 24 8br 1800  
+....

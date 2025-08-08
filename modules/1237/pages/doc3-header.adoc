@@ -3,7 +3,7 @@
 
 == Document 3 Header 
 
-Document 3 is the March 11. 1799, official reply of Vormundliche Cammer to the Ämter (offices) of Bückeburg and
+Document 3 is the March 11. 1799, official reply of Vormundschaftliche Cammer to the Ämter (offices) of Bückeburg and
 Arensburg. The header references (*"S.S"* in upper left, meaing *referenced above*) the document denoted by *"Cam:53"*,
 which is Document 2.
 
@@ -82,10 +82,10 @@ to the officials in Bückeburg
 ____
 |===
 
-=== Text Written by the Vormundliche Kammer
+=== Text Written by the Vormundschaftliche Kammer
 
 * *"3"* in the upper right (with a box drawn around it) desiginates it as doucment number 3.
 
 * *"Cam: Nr:53"* -- or *"Cam[mer] No. 53"* in the upper left is an internal archiving, filing and retreival number assignment to document 2
-by the Vormundliche Cammer.
+by the Vormundschaftliche Cammer.
 

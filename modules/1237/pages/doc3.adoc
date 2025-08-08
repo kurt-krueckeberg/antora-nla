@@ -1,4 +1,4 @@
-= Vormundliche Cammer Directive
+= Vormundschaftliche Cammer Directive
 :page-role: wide
 
 == Images and Their Content
