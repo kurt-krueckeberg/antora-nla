@@ -1,1 +1,3 @@
 = Document 4 Header
+
+image::06-right-pg-header.png[scale=25,link=self]
