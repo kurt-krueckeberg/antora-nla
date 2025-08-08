@@ -2,7 +2,11 @@
 
 image::06-right-pg-header.png[scale=25,link=self]
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
 
+|
 ....
 Cam:Nr:322. Forstsachen
 
@@ -18,6 +22,7 @@ Cam:Nr:322. Forstsachen
                                p. 24 8br 1800  
 ....
 
+|
 ....
 Chamber no. 322. Forest Matters
 
@@ -32,3 +37,4 @@ Chamber no. 322. Forest Matters
                   
                                p. 24 8br 1800  
 ....
+|===
