@@ -12,8 +12,9 @@ image::10-left-page.png[link=self]
 |Transliteration|Translation
 
 |
-....
-ad nr. D: 322. F. S.                          5  
+[verse]
+____
+ad nr. D: 322. S. S.   
 Concept Cammer : Rescripts  
 an die Beamte zu Buckeburg  
   
@@ -55,10 +56,11 @@ Exp: p[er]: Bolte.
                            Mkaas
                        Wint
 [Mgr?] Danckwerk 
-....
+____
 
 |
-....
+[verse]
+____
 Regarding No. D: 322, as noted above
 Draft: Cammer directive
 To the officials in Bückeburg
@@ -104,7 +106,7 @@ Dispatched by: Bolte.
                                   Mkaas
                                 Wint
 [Mgr?] Danckwerk
-....
+____
 |===
 
 [[rescript2]]
@@ -115,7 +117,8 @@ Dispatched by: Bolte.
 |Transliteration|Translation
 
 |
-....
+[verrse]
+____
 Concept Cammer: Anweisung H.  
 an den Cammerrentmeister
 Stackmann
@@ -147,10 +150,11 @@ Exp: per Boltesp
 
      ---------  
      Wipperman  
-....
+____
 
 |
-....
+[verse]
+____
 Concept Cammer: Directive
 to the Chamber Rentmaster
 Stackmann
@@ -174,7 +178,7 @@ Juris Danckwerk
 Wint
 
 Wippermann
-....
+____
 |===
 
 [NOTE]
