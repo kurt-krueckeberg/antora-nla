@@ -1,0 +1,18 @@
+= Document 4½: Surveyor's Drawing of Two Parcels (March 30, 1799)
+
+Why does the survey predate the main report by over a year?
+
+The Lieutenant Funck survey drawing (30 March 1799) almost certainly predates the bureaucratic decision process.
+Here’s a likely reconstruction:
+
+[arabic,start=1]
+. *March 1799* – Funck produces the survey and measurement for the proposed land allocation.
+. The survey is probably submitted informally or to a lower-level office (Forstamt / local Amt) and used as reference
+during negotiations, inspections, and back-and-forth between offices.
+. *Many months pass* while the Cammer and the Amt correspond with each other, possibly because other matters delayed
+the approval (including the legal terms for payment and rent).
+. *18 October 1800* – The officials produce Document 4 (“Bericht von denselben Beamten”), the formal _official
+report_ to
+the Cammer — now attaching Funck’s old survey as supporting material.
+. When the file is assembled for archiving, the clerk indexes Document 4, then inserts the earlier survey drawing
+right after it, labeling it “4½” to preserve the logical grouping in the file, even though the date is earlier.
