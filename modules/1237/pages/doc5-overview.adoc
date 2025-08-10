@@ -8,6 +8,7 @@
 |image::10-left-page.png[scale=25,link=self]
 |===
 
+[role="section-narrow"]
 == 18 October 1800 – Local Officials' Report
 
 The Ämter Bückeburg and Arensburg submitted a report to the Vormundschaftliche Cammer regarding the proposed
@@ -26,6 +27,7 @@ revenue office.
 
 The local officials were instructed to ensure Krückeberg fulfilled all stated conditions.
 
+[role="section-narrow"]
 == 27 October 1800 – Rescript 2: Directive to Collect Purchase Price
 In a second Rescript on the same day, addressed to **Cammer Rentmaster Stackmann**, the Cammer ordered:
 * Collection of the purchase price from Krückeberg for the newly assigned plots, calculated at 24 Mariengroschen
@@ -35,6 +37,7 @@ per rod (total 14 Reichsthaler, 8 Mariengroschen, 1 Pfennig).
 
 The marginal note *Exp: per Bolte* records that the order was dispatched by the official Bolte.
 
+[role="section-narrow"]
 == Significance
 
 These two Rescripts represent the **final administrative stage** of the case:
@@ -43,7 +46,9 @@ These two Rescripts represent the **final administrative stage** of the case:
 
 With these actions, the land enlargement for Krückeberg moved from **proposal to final execution**.
 
+**TODO: FIX**
 
+[role="section-narrow"]
 === Individual's Names in the Document <-- TODO: Correct!!!!!!
 
 [cols="1,2,4",options="header"]
