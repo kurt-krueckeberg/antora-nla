@@ -151,36 +151,29 @@ Exp: per Boltesp
 
 |
 ....
-Concept Cammer: Directive H.  
+Concept Cammer: Directive
 to the Chamber Rentmaster
-Stackmann  
-  
-     The Chamber Rentmaster Stackmann  
-     is hereby instructed, from the  
-     tenant farmer Krückeberg, No. 10, at Schir-
-     neichen, for the plots assigned to him for
-     the enlargement of his garden and farm-  
+Stackmann
 
-Dispatched by Bolte      
+The Chamber Rentmaster, Stackmann, is hereby instructed to collect from tenant farmer Krückeberg, No. 10, at
+Stirneichen, the purchase price for the plots assigned to him for enlarging his garden and farmyard.
 
-     yard, which together measure 21 rods 34 feet
-     decimal, to collect the purchase price, at
-     the rate per rod of 20 ggr 4 pf, amounting to
-     fourteen thalers 8 ggr 1 pf, to record the
-     same in the Chamber accounts under the
-     appropriate heading, and to account for it
-     with this directive.  
-     Bückeburg,  
-     27 October 1800.  
-     By order of the Count
+These plots together measure 21 rods and 34 feet (decimal). The purchase price is to be calculated at 24
+Mariengroschen per rod, amounting to a total of 14 Reichsthaler, 8 Mariengroschen, and 1 Pfennig.
 
-                            Mkaas  
-     Juris Danckwerk  
-     Wint  
-  
+This sum is to be entered in the Chamber accounts under the appropriate heading and accounted for with this
+directive.
 
-     ---------  
-     Wipperman  
+(Dispatched by Bolte.)
+
+Bückeburg, 27 October 1800
+For the Count
+
+Mkaas
+Juris Danckwerk
+Wint
+
+Wippermann
 ....
 |===
 
