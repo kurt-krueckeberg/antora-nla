@@ -1,4 +1,4 @@
-= Document 5: Cammer Directive (October 27, 1800)
+= Full Document View 
 :page-role: wide
 
 [cols="1a,1a",frame=none,grid=none]
