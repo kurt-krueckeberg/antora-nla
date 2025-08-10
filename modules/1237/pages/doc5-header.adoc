@@ -1,7 +1,19 @@
 = Document 5 Header
 :page-role: wide
 
+The header of Document 5 tells us it is the Vormundschaftliche Cammer's official reply to Document 4, which 
+contained the submission of the geometric drawings of the parcels to be prospectively allocated to Jobst
+Heinrich Krückeberg along with the Ämters recommendation that Jobst Heinrich "be assigned this land."
+
 image::doc5-header.png[scale=25,link=self]
+
+When Document 4 was sent to the Cammer, they xref:doc4-header.adoc[registered it] as "Cam: Nr. 322 Forstsachen (
+Cammer No. 322 Forestry Matters)." When they sent Docment 5, their official reply, they linked it back to
+Document 4 by writing "ad mr. D: 322. S.S. (Regarding case D:322, as above)" in the upper left corner. 
+
+The *"Cam: Nr:"* form is used when the Cammer registers a new case in its subject index. The *"ad nr. … S.S."*
+form is used when the Cammer or one of its offices sends or drafts a follow-up, which needs to be placed under
+the same file number but is not the initiating document.
 
 [cols="1a,1a"]
 |===
@@ -9,13 +21,30 @@ image::doc5-header.png[scale=25,link=self]
 
 |
 ....
-ad nr. D: 322. [F/S]. S.                          5
-Draft: Cammer Directive
-to the Officials in Bückeburg
+ad nr. D: 322. [S?]. S.                          5
+Concept Cammer : Rescripts  
+an die Beamte zu Buckeburg  
 ....
 
 |
 ....
+To (or concerning) case D:322, as above.
+Draft: Cammer Directive
+to the Officials in Bückeburg
 ....
 |===
 
+== Breakdown of Header Terms
+
+* *ad nr.* — “to (or concerning) number …” — This is a _cross-reference marker_, showing that this document is to be
+linked with a previously registered file number.
+* *D:* — The letter “D” is almost certainly an internal series letter (likely for a particular sub-register or dossier
+classification in the Cammer’s system — e.g., D for “Domänen- und Forstsachen” or a particular section of the
+Vormundschaftliche Cammer’s registry).
+* 322 — This is the _shared registry number_	 for the case file.
+* *S.S. — In Cammer documents, this often means _supra scripta_ (Latin: “written above”), indicating “as previously
+recorded / as above” — pointing to the main file entry where the matter was first logged.
+
+Putting this all together, "ad nr. D: 322 S.S." means something like: “To (or concerning) case D:322, as above.” It
+signals to the reader that this document continues the businsess of the existing case file document 322 in the "D"
+series.
