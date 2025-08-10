@@ -4,7 +4,7 @@
 image::09-right-page.png[link=self]
 image::10-left-page.png[link=self]
 
-[[[rescript1]]]
+[[rescript1]]
 == Approval of Land Assignment – Krückeberg, Berenbusch
 
 [cols="1a,1a",options="header",frame=none,grid=none]
@@ -107,7 +107,7 @@ Dispatched by: Bolte.
 ....
 |===
 
-[[[rescript2]]]
+[[rescript2]]
 == Execution of Purchase Contracts – Krückeberg, Berenbusch
 
 [cols="1a,1a",options="header",frame=none,grid=none]
