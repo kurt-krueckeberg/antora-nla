@@ -116,7 +116,7 @@ ____
 |Transliteration|Translation
 
 |
-[verrse]
+[verse]
 ____
 Concept Cammer: Anweisung H.  
 an den Cammerrentmeister
