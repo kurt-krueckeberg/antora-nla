@@ -36,7 +36,7 @@
 ** xref:doc5-full.adoc[]
 ** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
 *** xref:doc5-header.adoc[]
-*** xref:doc5-rescripts#rescript1.adoc[]
-*** xref:doc5-rescripts#rescript2.adoc[]
+*** xref:doc5-rescripts#rescript1.adoc[Rescript 1 - Approval]
+*** xref:doc5-rescripts#rescript2.adoc[Rescript 2 - Contracts]
 //*** xref:doc5-collection-order.adoc[]
 * xref:doc6.adoc[]
