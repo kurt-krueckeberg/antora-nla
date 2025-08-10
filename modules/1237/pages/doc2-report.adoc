@@ -34,7 +34,7 @@ image::04-left-page.png[link=self]
 
 This is the report that accompanied the petition of Jobst Heinrich Krückeberg.
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

@@ -7,7 +7,7 @@ The document header has a left-side and right-side section:
 
 [caption="Document header: "]
 .added by the Vormundschaftliche Cammer to Document 1.
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
@@ -38,7 +38,7 @@ B[ückeburg] 14. Jun. 1798
 The petition begins on the first page of document #1 and continues on its backside.
 It is the smaller text seen in both images.
 
-[cols="1a,1a",frame="none",grid="none"]
+[cols="1a,1a",options="header",frame="none",grid="none"]
 |===
 ^|Document 1 Front ^|Document 1 Back
 
@@ -49,7 +49,7 @@ It is the smaller text seen in both images.
 
 == Petition
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame="none",grid="none"]
 |===
 |Transliteration|Translation
 
@@ -121,7 +121,7 @@ ____
 The scribe's authenticatioin appears at the bottom of the backside of the page below the 2^nd^ half of 
 the petition.
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame="none",grid="none"]
 |===
 |Transliteration|Translation
 

@@ -13,7 +13,7 @@ image::06-left-page.png[link=self]
 
 The complete text and its translation:
 
-[cols="1a,1a", options="header"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 | Transliteration
 | Translation

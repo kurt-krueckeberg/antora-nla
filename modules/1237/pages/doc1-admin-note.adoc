@@ -14,7 +14,7 @@ record — an internal note for filing and tracking.
 
 == Translation and Translation
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

@@ -1,6 +1,6 @@
 = Document 2: Land Assignment Report and Its Offical Response (Feb. 27, 1799)
 
-[cols="1a,1a",options="noheader"]
+[cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::03-right-page.png[scale=25,title="Land Assignment Report",link=self]
 

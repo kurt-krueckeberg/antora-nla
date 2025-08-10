@@ -17,7 +17,7 @@ image::03-right-page-left-margin-text.png[link=self]
 
 == Transliteration of Official Reaction to Petition and Land Assignment Report
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

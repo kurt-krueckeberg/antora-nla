@@ -4,7 +4,7 @@
 == Document Header
 
 .Document 2 header
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
@@ -26,7 +26,7 @@ The local government offices for Bückeburg and Arnesberg prepared Document 2 in
 that they had reviewed the forestry report that the Cammmer had written onto Document 1, the Petition, and sent
 back to the Ämter (plural of offices).
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
@@ -125,7 +125,7 @@ ____
 
 This reaction is written onto the left side of Document 2 to give feedback.
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

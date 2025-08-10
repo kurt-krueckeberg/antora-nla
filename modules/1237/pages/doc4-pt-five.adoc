@@ -13,6 +13,7 @@ image::08-right-page.png[link=self]
 == Transliteration and Translation
 
 === Diagram Text
+
 [cols="1,2", options="header"]
 |===
 |Position of Text
@@ -33,7 +34,7 @@ image::08-right-page.png[link=self]
 
 === Main Text
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

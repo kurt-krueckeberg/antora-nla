@@ -62,7 +62,7 @@ This notation ensured proper filing and indicated that the response or action re
 == Transliteration and Translation 
 
 .Document 2 header
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

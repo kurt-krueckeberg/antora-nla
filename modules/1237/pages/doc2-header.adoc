@@ -6,7 +6,7 @@ image::03-header.png[link=self]
 == Transliteration and Translation 
 
 .Document 2 header
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

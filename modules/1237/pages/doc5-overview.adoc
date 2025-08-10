@@ -1,7 +1,7 @@
 = Document 5: Cammer Directive and Collection Order (Octoboer 27, 1800)
 :page-role: wide
 
-[cols="1a,1a",options="noheader",frame="none",grid="none"]
+[cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::09-right-page.png[scale=25,link=self]
 

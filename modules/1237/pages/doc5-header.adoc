@@ -15,7 +15,7 @@ The *"Cam: Nr:"* form is used when the Cammer registers a new case in its subjec
 form is used when the Cammer or one of its offices sends or drafts a follow-up, which needs to be placed under
 the same file number but is not the initiating document.
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

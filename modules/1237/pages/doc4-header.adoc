@@ -3,7 +3,7 @@
 
 image::06-right-pg-header.png[scale=25,link=self]
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
