@@ -40,3 +40,5 @@
 *** xref:doc5-rescripts.adoc#rescript2[Rescript 2 - Contracts]
 //*** xref:doc5-collection-order.adoc[]
 * xref:doc6.adoc[]
+** xref:doc6-full.adoc[]
+** Breakdown: Header, Final Decision
