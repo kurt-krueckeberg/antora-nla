@@ -10,7 +10,7 @@ image::02-forestry-report.png[link=self]
 
 === Transliteration and Translation of Forestry Report
 
-[cols="a,a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 

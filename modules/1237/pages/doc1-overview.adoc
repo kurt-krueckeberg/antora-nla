@@ -3,7 +3,7 @@
 The small handwritten text in the left and right images is the petition written on behalf of Jobst Heinrich
 Krückeberg. The larger text is the Forestry deparment assessment of the impact of the petition.
 
-[cols="1a,1a",frame="none",grid="none"]
+[cols="1a,1a",options="header",frame="none",grid="none"]
 |===
 ^|Document 1 Front ^|Document 1 Back
 
