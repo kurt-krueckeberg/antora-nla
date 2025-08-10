@@ -4,6 +4,7 @@
 image::09-right-page.png[link=self]
 image::10-left-page.png[link=self]
 
+[[rescript1]]
 == Approval of Land Assignment – Krückeberg, Berenbusch
 
 [cols="1a,1a",options="header",frame=none,grid=none]
@@ -108,6 +109,7 @@ Mgr Danckwerk
 ....
 |===
 
+[[rescript2]]
 == Execution of Purchase Contracts – Krückeberg, Berenbusch
 
 [cols="1a,1a",options="header",frame=none,grid=none]
