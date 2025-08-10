@@ -36,6 +36,6 @@
 ** xref:doc5-full.adoc[]
 ** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
 *** xref:doc5-header.adoc[]
-*** xref:doc5-cammer-directive.adoc[]
+*** xref:doc5-rescript1.adoc[]
 *** xref:doc5-collection-order.adoc[]
 * xref:doc6.adoc[]
