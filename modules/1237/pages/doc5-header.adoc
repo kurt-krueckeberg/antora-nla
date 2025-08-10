@@ -17,6 +17,8 @@ The *"Cam: Nr:"* form is used when the Cammer registers a new case in its subjec
 form is used when the Cammer or one of its offices sends or drafts a follow-up, which needs to be placed under
 the same file number but is not the initiating document.
 
+== Transaliteration and Translatioon
+
 [cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
@@ -36,6 +38,7 @@ to the Officials in Bückeburg
 ....
 |===
 
+[role="section-narrow"]
 == Breakdown of Header Terms
 
 * *ad nr.* — “to (or concerning) number …” — This is a _cross-reference marker_, showing that this document is to be
