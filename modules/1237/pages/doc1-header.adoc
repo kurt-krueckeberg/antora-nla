@@ -9,7 +9,7 @@ image::02-header.png[link=self]
 
 == Transliteration and Translation 
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
