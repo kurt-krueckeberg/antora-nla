@@ -6,7 +6,7 @@ image::10-left-page.png[link=self]
 
 == Cammer Rescript
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
@@ -92,8 +92,8 @@ Cap: per Bolte.
                 
                 He is now required to pay the set purchase price at
                 a rate of 2 Reichsthaler and 4 Mariengroschen per rod,
-                totaling an amount of 14 Reichsthaler, 8 Mariengroschen,
-                and 1 Pfennig. This payment is to be made to Our revenue
+                totaling 14 Reichsthaler, 8 Mariengroschen,
+                and 1 Pfennig. This payment must be made to Our revenue
                 office.
                 
                 We remain,
