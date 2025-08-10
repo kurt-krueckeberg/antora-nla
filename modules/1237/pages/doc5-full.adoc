@@ -1,17 +1,6 @@
 = Full Document View 
 :page-role: wide
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|First Page|Backside of 1^st^ Page
-
-|
-image::09-right-page.png[scale=25,link=self]
-
-|
-image::10-left-page.png[scale=25,link=self]
-|===
-
 
 [[rescript1]]
 == Approval of Land Assignment – Krückeberg, Berenbusch
