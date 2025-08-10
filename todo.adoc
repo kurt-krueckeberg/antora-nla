@@ -3,6 +3,7 @@
 [arabic,start=1]
 . Add more detail to doc-1-forestry-assessment.adoc. Take it from doc1-overview.adoc's narraitive overview.
 . Do document 4 Narrative Overview
+. Do the Narrative overview for Document 5
 . For document 3 describe the names in the left margin and the signatories. Mention MKaas signed the 
 ** Forestry Office assessment on document 1
 ** The Cammer reaction to document 2.
