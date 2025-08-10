@@ -12,7 +12,7 @@ image::10-left-page.png[link=self]
 |
 ....
 Concept Cammer: Anweisung H.  
-an den Cammerrentmeister  Mgr Danckwerk  
+an den Cammerrentmeister
 Stackmann
   
                          Der Cammerrentmeister Stackmann  
@@ -44,7 +44,7 @@ Exp: per Boltesp         raums ausgewiesene Plätze, welche
 |
 ....
 Concept Cammer: Directive H.  
-to the Chamber Rentmaster  Mr. Danckwerk  
+to the Chamber Rentmaster
 Stackmann  
   
                          The Chamber Rentmaster Stackmann  
