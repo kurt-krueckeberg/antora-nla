@@ -24,17 +24,9 @@ img.scale-25 {
   width: 25%;
   height: auto;
 }
-/*
-.image-pair img {
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-  background: white;
-  padding: 4px;
-  max-width: 100%;
-  height: auto;
-}
-*/
 
+
+/* Making sections narrower */
 .literal-narrow {
     max-width: 95ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
