@@ -18,18 +18,6 @@ Lieutenant Funck::
 A *sworn land surveyor* who will measure two parcels of ground and who drawing and report will supplement
 document #4.
 
-MKaas::
-"M. Kaas" is from the Forestry Department. His signature appears on Document 1, Document 5 and Document 6.
-
-?1::
-todo
-
-?2::
-todo
-
-?3::
-todo
-
 Amt::  
 Amt = office. Plural: Ämter or Aemter. The *Amt* was the *local or
 regional administrative office* responsible for executing the instructions of the Vormundschaftlichte  Cammer
