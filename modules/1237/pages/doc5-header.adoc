@@ -1,1 +1,21 @@
 = Document 5 Header
+:page-role: wide
+
+image::doc5-header.png[scale=25,link=self]
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+....
+ad nr. D: 322. [F/S]. S.                          5
+Concept Cammer : Rescripts
+an die Beamte zu Buckeburg
+....
+
+|
+....
+....
+|===
+
