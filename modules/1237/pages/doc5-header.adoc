@@ -1,7 +1,7 @@
 = Document 5 Header
 :page-role: wide
 
-The header of Document 5 tells us it is the Vormundschaftliche Cammer's official reply to Document 4, which 
+Document 5's header tells us it is the Vormundschaftliche Cammer's official reply to Document 4, which 
 contained the submission of the geometric drawings of the parcels to be prospectively allocated to Jobst
 Heinrich Krückeberg along with the Ämters recommendation that Jobst Heinrich "be assigned this land."
 
