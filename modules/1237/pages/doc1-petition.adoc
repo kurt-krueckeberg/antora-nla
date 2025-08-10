@@ -37,7 +37,7 @@ image::03-left-main.png[title="second half of petition body on the backside of d
 
 === Transliteration and Translation of Petition
 
-[cols="1a,1a"]
+[cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
