@@ -17,39 +17,39 @@ ad nr. D: 322. F. S.                          5
 Concept Cammer : Rescripts  
 an die Beamte zu Buckeburg  
   
-                    V. G. G.  
-                    Wir laßen Euch auf Euren Bericht  
-                    vom 18. d. M. in Ansehung der dem  
-                    Colon Kruckeberg Nr: 10 zu Beren-  
-                    busch, behuf zur Vergrößerung  
-                    seines Hofraums und Gartens zu  
-                    respective 19 Nuten 44 Fus dei¬  
-                    u: 1 Rüte 90 Fus ausgegaßenen  
-                    Plätze, und des davon zu Michaelis  
-                    dieses Jahrs zum erstenmahl  
-                    und künftig jährlich mit zweÿy Mg.  
-                    1 d. zu entrichtenden Rottzinses  
-                    hiedurch ohnverhalten: daß Wir  
-                    die Ausweisung dieser Plätze unter  
+                V. G. G.  
+                Wir laßen Euch auf Euren Bericht  
+                vom 18. d. M. in Ansehung der dem  
+                Colon Kruckeberg Nr: 10 zu Beren-  
+                busch, behuf zur Vergrößerung  
+                seines Hofraums und Gartens zu  
+                respective 19 Nuten 44 Fus dei¬  
+                u: 1 Rüte 90 Fus ausgegaßenen  
+                Plätze, und des davon zu Michaelis  
+                dieses Jahrs zum erstenmahl  
+                und künftig jährlich mit zweÿy Mg.  
+                1 d. zu entrichtenden Rottzinses  
+                hiedurch ohnverhalten: daß Wir  
+                die Ausweisung dieser Plätze unter  
 
-Cap: p: Bolte.  
+Exp: p[er]: Bolte.  
 
-                    den Euch durch Unser Rescript vom  
-                    11. Merz 1799, eröfneten Bedin-  
-                    gungen, sowie auch jenen Ansatz  
-                    des Rottzinses genehmiget haben.  
-                    Ihr habt also dahin zu sehen damit  
-                    der Colon Kruckeberg die ihm  
-                    von Euch ohne Zweifel bekannt  
-                    gemachten Bedingungen genau  
-                    erfüllen möge, wie denn derselbe  
-                    nunmehr das bestimte Kaufgeld  
-                    per 4 Rute mit 2.4. nigl: folglich  
-                    überhaupt vierzehn Rthlr  
-                    8 mgl: 1 d. an Unsere Lammeroasse  
-                    zuzahlen hat. Wir verbleiben,  
-                    Buckeburg d 27. October 1800  
-                    Anstatt p[er]  
+                den Euch durch Unser Rescript vom  
+                11. Merz 1799, eröfneten Bedin-  
+                gungen, sowie auch jenen Ansatz  
+                des Rottzinses genehmiget haben.  
+                Ihr habt also dahin zu sehen damit  
+                der Colon Kruckeberg die ihm  
+                von Euch ohne Zweifel bekannt  
+                gemachten Bedingungen genau  
+                erfüllen möge, wie denn derselbe  
+                nunmehr das bestimte Kaufgeld  
+                per 4 Rute mit 2.4. nigl: folglich  
+                überhaupt vierzehn Rthlr  
+                8 mgl: 1 d. an Unsere Lammeroasse  
+                zuzahlen hat. Wir verbleiben,  
+                Buckeburg d 27. October 1800  
+                Anstatt p[er]  
                         
 
                                           Mkaas
@@ -79,7 +79,7 @@ To the officials in Bückeburg
                 
                 We hereby confirm without reservation:
                 
-Cap: per Bolte. 
+Dispatched by: Bolte.
 
                 That we approve the assignment of this land to
                 him under the same terms and conditions already
@@ -104,8 +104,6 @@ Cap: per Bolte.
                                                Mkaas
                                              Wint
 Mgr Danckwerk
-
-
 ....
 |===
 
@@ -122,24 +120,27 @@ Concept Cammer: Anweisung H.
 an den Cammerrentmeister
 Stackmann
   
-                         Der Cammerrentmeister Stackmann  
-                         wird hiemit angewiesen, von dem  
-                         Colon Krückeberg Nr: 10, zu Schirn- 
-                         eichen für die demselben zur Ver-  
-                         größerung seines Gartens u. Hof-  
-Exp: per Boltesp         raums ausgewiesene Plätze, welche         
-                         zusam̅en 21 Ruten 34 Fus Dec:  
-                         betragen, das Kaufgeld per Rute mit 20 4 mgl. u  
-                         also vierzehn Rthlr 8 mgl. 1 d. zu  
-                         erheben, in der Cammerrechnung  
-                         gehöriges Orts zu vereinnahmen,  
-                         und solche mit dieser Anweisung  
-                         zu rechtfertigen. Bückeburg  
-                         den 27. October 1800.  
-                         Gräflich : p  
-                                                Mkaas  
-                         Juris Danckwerk  
-                         Wint  
+                Der Cammerrentmeister Stackmann  
+                wird hiemit angewiesen, von dem  
+                Colon Krückeberg Nr: 10, zu Schirn- 
+                eichen für die demselben zur Ver-  
+                größerung seines Gartens u. Hof-  
+
+Exp: per Boltesp
+
+                raums ausgewiesene Plätze, welche         
+                zusam̅en 21 Ruten 34 Fus Dec:  
+                betragen, das Kaufgeld per Rute mit 20 4 mgl. u  
+                also vierzehn Rthlr 8 mgl. 1 d. zu  
+                erheben, in der Cammerrechnung  
+                gehöriges Orts zu vereinnahmen,  
+                und solche mit dieser Anweisung  
+                zu rechtfertigen. Bückeburg  
+                den 27. October 1800.  
+                Gräflich : p  
+                                       Mkaas  
+                Juris Danckwerk  
+                Wint  
                          
 
 
@@ -154,31 +155,32 @@ Concept Cammer: Directive H.
 to the Chamber Rentmaster
 Stackmann  
   
-                         The Chamber Rentmaster Stackmann  
-                         is hereby instructed, from the  
-                         tenant farmer Krückeberg, No. 10, at Schirneichen,  
-                         for the plots assigned to him for the en-  
-                         largement of his garden and farm-  
-Exp: per Boltesp         yard, which together measure 21 rods 34 feet decimal,  
-                         to collect the purchase price, at the rate per rod of 20 ggr 4 pf,  
-                         amounting to fourteen thalers 8 ggr 1 pf,  
-                         to record the same in the Chamber accounts  
-                         under the appropriate heading,  
-                         and to account for it with this directive.  
-                         Bückeburg,  
-                         27 October 1800.  
-                         By order of the Count: p  
+               The Chamber Rentmaster Stackmann  
+               is hereby instructed, from the  
+               tenant farmer Krückeberg, No. 10, at Schir-
+               neichen, for the plots assigned to him for
+               the enlargement of his garden and farm-  
 
-                                                Mkaas  
-                         Juris Danckwerk  
-                         Wint  
+Dispatched by Bolte      
+
+               yard, which together measure 21 rods 34 feet
+               decimal, to collect the purchase price, at
+               the rate per rod of 20 ggr 4 pf, amounting to
+               fourteen thalers 8 ggr 1 pf, to record the
+               same in the Chamber accounts under the
+               appropriate heading, and to account for it
+               with this directive.  
+               Bückeburg,  
+               27 October 1800.  
+               By order of the Count: p  
+
+                                      Mkaas  
+               Juris Danckwerk  
+               Wint  
   
 
-                         ---------  
-                         Wipperman  
-
-
-
+               ---------  
+               Wipperman  
 ....
 |===
 
