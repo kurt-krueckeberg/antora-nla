@@ -55,7 +55,7 @@ Anstatt p[er]
 
                         Mkaas
                     Wint
-[Mgr?] Danckwerk 
+[J??] Danckwerk 
 ____
 
 |
@@ -105,7 +105,7 @@ On behalf of the Count
           
                                Mkaas
                              Wint
-[Mgr?] Danckwerk
+[J??] Danckwerk
 ____
 |===
 
@@ -142,7 +142,7 @@ zu rechtfertigen. Bückeburg
 den 27. October 1800.  
 Gräflich : p  
                        Mkaas  
-[???] Danckwerk  
+[J??] Danckwerk  
 Wint  
          
 
@@ -179,7 +179,7 @@ Bückeburg, 27 October 1800
 For the Count
 
 Mkaas
-[???] Danckwerk
+[J??] Danckwerk
 Wint
 
 
