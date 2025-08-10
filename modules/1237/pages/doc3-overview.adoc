@@ -7,6 +7,7 @@
 |image::06-left-page.png[scale=15,link=self]
 |===
 
+[role="section-narrow"]
 == Narrative Overview
 
 === Recapitulation: Cammer Reaction to Document 2 (10 March 1799)
