@@ -31,7 +31,8 @@
 *** xref:doc4-header.adoc[]
 *** TODO: Submission of Geometric Drawings
 * xref:reminder-note.adoc[]
-* xref:doc4-pt-five.adoc[]
+* xref:doc4pt5-overview.adoc[]
+** xref:doc4pt5.adoc[]
 * xref:doc5-overview.adoc[]
 ** xref:doc5-full.adoc[]
 ** Breakdown: Header, 1^st^ Directive, 2^nd^ Directive
