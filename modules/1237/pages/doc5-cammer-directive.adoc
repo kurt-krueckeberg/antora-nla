@@ -51,10 +51,10 @@ Cap: p: Bolte.
   Anstatt p  
                         
 
-  Mkaas
-  Wint
-  Mgr Danckwerk [appears close the the
-  header of the 2nd Rescript]
+                            Mkaas
+                         Wint
+Mgr Danckwerk [appears close the the
+header of the 2nd Rescript]
 ____
 
 |
@@ -86,7 +86,11 @@ an amount of 14 Reichsthaler, 8 Mariengroschen, and 1 Pfennig. This payment is t
 We remain,
 Bückeburg, 27 October 1800
 on behalf of the Cammer
-       A. Waag
+
+                Mkaas
+              Wint
+Mgr Danckwerk [appears close the the
+header of the 2nd Rescript]
 ____
 |===
 
