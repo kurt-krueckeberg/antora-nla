@@ -1,7 +1,7 @@
 = Document 6: Header
 :page-role: wide
 
-image::011-header.png[align=left,link=self]
+image::11-header.png[align=left,link=self]
 
 == Transliteration and Translation
 
