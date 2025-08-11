@@ -1,7 +1,8 @@
 = Document 1: Petition and Forestry Office Assessment Regarding Land Expansion (29–30 May 1798) 
 
-The small handwritten text in the left and right images is the petition written on behalf of Jobst Heinrich
-Krückeberg. The larger text is the Forestry deparment assessment of the impact of the petition.
+The small handwritten text in the left and right images is the petition  written on behalf of Jobst Heinrich
+Krückeberg for enlarging his farmyard and garden. The larger text is the Forestry Office assessment of the impact
+of the request.
 
 [cols="1a,1a",options="header",frame="none",grid="none"]
 |===
