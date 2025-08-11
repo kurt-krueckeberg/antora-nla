@@ -1,0 +1,33 @@
+= Document 6: Final Decision
+:page-role: wide
+
+image::011-header.png[align=left,link=self]
+
+
+== Transliteration and Translation
+
+[cols="1a,2a"]
+|===
+|Translation|Translation
+
+|
+[verse]
+____
+Concept Cammeral-Kaufbriefs                                            6.  
+für den Colon Kruckeberg  
+Nr: 10 zu Berenbusch über  
+einen Platz zur Vergrößerung  
+seines Gartens.
+____
+
+|
+[verse]
+____
+Draft of the Chamber Contract
+for the colonist Krückeberg
+No. 10 in Berenbusch
+concerning a parcel for the enlargement
+of his garden.
+____
+|===
+

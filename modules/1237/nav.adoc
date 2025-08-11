@@ -44,3 +44,5 @@
 * xref:doc6.adoc[]
 ** xref:doc6-full.adoc[]
 ** Breakdown: Header, Final Decision
+*** xref:doc6-header.adoc[]
+*** xref:doc6.adoc[]
