@@ -3,6 +3,7 @@
 [arabic,start=1]
 . Review with ChatGPT: doc5.adoc#rescrit2
 . Update the CSS timeline.
+. Fix Glossaries
 . Ask ChatGPT to help explain the gap between document 41/2 and document 4.
 . Add more detail to doc-1-forestry-assessment.adoc. Take it from doc1-overview.adoc's narraitive overview.
 . For document 3 describe the names in the left margin and the signatories. Mention MKaas signed the 
