@@ -1,6 +1,11 @@
 = Official Reaction to Petition and Land Assignment Report
 :page-role: wide
 
+image::03-right-page-left-margin-text.png[link=self]
+
+[role="section-narrow"]
+== Explanation
+ 
 The *marginal note* in the image is a response to the remitted xref:doc2-report.adoc[Land
 Assignment Report], but not a formal reply addressed to Krückeberg. It is an internal instruction,
 filed with the main document for reference and action. It is a reaction from the higher office (the
@@ -12,8 +17,6 @@ to report back.
 
 It was written vertically in the left margin the Land Assignment report and encroaches on its text. To aid
 readability, the text of the Land Assigment Report has been erased from the image below:
-
-image::03-right-page-left-margin-text.png[link=self]
 
 == Transliteration of Official Reaction to Petition and Land Assignment Report
 
