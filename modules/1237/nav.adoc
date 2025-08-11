@@ -27,7 +27,6 @@
 *** xref:doc3-header.adoc[]
 *** xref:doc3.adoc[]
 * xref:doc4-overview.adoc[]
-** TODO: Full Document View
 **  Breakdown: Header, Parcels Proposed by Ämter
 *** xref:doc4-header.adoc[]
 *** xref:doc4.adoc[]
