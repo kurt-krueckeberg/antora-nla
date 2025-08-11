@@ -3,6 +3,7 @@
 
 image::08-right-page.png[link=self]
 
+[role="section-narrow"]
 == Explanation 
 
 Document 4½ is signed by Lieutenant Funck, a "beeidigter Landmesser" (sworn land surveyor). As a technical
