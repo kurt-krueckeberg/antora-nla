@@ -13,7 +13,7 @@ image::011-header.png[align=left,link=self]
 |
 [verse]
 ____
-Concept Cammeral-Kaufbriefs                                            6.  
+Concept Cammeral-Kaufbriefs
 für den Colon Kruckeberg  
 Nr: 10 zu Berenbusch über  
 einen Platz zur Vergrößerung  
