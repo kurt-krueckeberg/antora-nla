@@ -1,4 +1,4 @@
-= Document 4 Header
+= Header
 :page-role: wide
 
 image::06-right-pg-header.png[scale=25,link=self]
