@@ -1,0 +1,28 @@
+= Document 3: Overview
+
+== Narrative Overview
+
+=== Recapitulation: Cammer Reaction to Document 2 (10 March 1799)
+
+After first reviewing Document 2 on March 6, 1799, the Cammer noted, on March 10, 1799, their intention to approve
+Jobst Heinrich Krückeberg's request and to assign land to him for purchase, pending formal conditions.
+
+=== Official Directive (11 March 1799) from Cammer to Ämter
+
+On March 11, 1799, the official reply of the Vormundschaftliche Cammer to the Ämter (offices) of Bückeburg and
+Arensburg was written. The header references (*"S.S"* in the upper left, meaning *supra scripta* — “as noted
+above”*) the case file denoted by *"Cam:53"*, which is Document 2.
+
+In this rescript, the Cammer grants **conditional approval** for the allocation of the requested plot to
+Krückeberg, No. 10, Berenbusch, under the following terms:
+
+* The willows and poplars on the plot are to be sold by the forestry department.
+* Krückeberg must plant three saplings at another designated forest location for each willow or poplar removed.
+* He must pay 24 Mariengroschen per square rod for the plot.
+
+If Krückeberg agrees to these terms, the Amt is instructed to:
+
+* Have the plot surveyed by a sworn surveyor in the presence of Forester Talkmann.
+* Ensure that access for Colon Weiland, No. 1, is maintained.
+* Report the final measured size back to the Cammer.
+
