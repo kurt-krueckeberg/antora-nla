@@ -1,4 +1,4 @@
-= Document 6: Final Decision
+= Header
 :page-role: wide
 
 image::011-header.png[align=left,link=self]
