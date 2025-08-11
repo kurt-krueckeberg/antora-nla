@@ -82,21 +82,21 @@ Wippermann
 ____
 |
 [verse]
-____
-Regarding No. 53 from the Chamber (as noted above)
+___
+Regarding No. 53 from the Chamber (supra scripta — as noted above)
 Draft of Chamber Directive
 to the officials in Bückeburg
 
-Very Gracious Lords, In response to
-your report submitted to Our Office
+Most Honored Lords, In response to
+your report submitted to our attention
 on February 27 of this year, We have
 resolved that the smallholder Krückeberg No.
 10 in Berenbusch shall be allocated the
 requested plot of land located in [or adjacent
-to] the village street there, next to his
+to] the village street there, adjacent to his
 garden, for the purpose of expansion,
 under the condition that the willows
-and poplars standing on it, having been
+and poplars standing on it, which are to be
 sold by Our Forestry Department
 
 [signed] Schwarze
@@ -112,14 +112,15 @@ per square rod for the plot to be transferred to him‡.
 
 If he agrees to this, then you shall, in
 the presence of the forester Talkmann,
-and with consideration for the access
-road needed by the colonist Weiland, No.
+and taking into account the driveway/access
+for the colonist Weiland, No.
 1 in Berenbusch, have the plot surveyed
 by a sworn surveyor, and report its size
-in square rods to us. We remain
-favorably disposed toward you.
-Bückeburg, March 11, 1799.  In place of
-"per procurationem"
+in square rods to us. 
+
+We remain favorably disposed toward you.
+Bückeburg, March 11, 1799.
+In place of "per procurationem" 
 
 Hering         Riehe         Mkaas
 Emmerwarth     v. Landesberg
@@ -130,6 +131,9 @@ Emmerwarth     v. Landesberg
 Wippermann
 ____
 |===
+
+*In place of "per procurationem"* means: signed on behalf of the authority by delegated officials, in lieu of the
+principal's own signature.
 
 [role="section-narrow"]
 === Glossary of Terms
@@ -145,8 +149,6 @@ The ambiguity in the style of the first "S" (it differs from the second) is like
 
 Concept Cammer: Rescript:: Indicates this is a **conceptual draft (Concept)** of a **rescript** (a formal written reply or decree) issued by the **Cammer** (chamber office). Rescripts were typically responses to petitions or reports sent up from local offices.
 
-an die Beamten zu Buckeburg:: "To the officials in Bückeburg." This line completes the heading: it is a **draft rescript from the Cammer**, addressed **to the civil officials of Bückeburg**. These officials were tasked with carrying out and communicating the decision.
-
 Espp: Schwarze:: A marginal or side notation, identifying the **scribe**, **secretary**, or possibly the **reviewing official**. "Espp:" is most likely an abbreviation of *Especiert* (meaning: "specified by") or a shorthand scribe initial. **Schwarze** is a surname. This note is written at the left margin and indicates authorship, approval, or secretarial involvement.
 
 ‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a **discourse marker** that introduces a condition or framework that has just been described. The double dagger (‡) appears both in the margin and in the body of the text:
@@ -159,8 +161,6 @@ Colon:: A term for a peasant farmer with hereditary rights to a plot of land (La
 
 Brücksitzer:: A type of rural settler — possibly someone whose house adjoins a bridge (*Brück*) or a minor landholding class.
 
-d. J.:: Abbreviation for *dieses Jahres*, meaning “of this year.” Common dating shorthand.
-
 Unserstatteten:: Archaic spelling for *unserstatteten*, a past participle meaning “submitted to us” (i.e., the report previously sent to the Chamber).
 
 resolvirt:: Archaic spelling of *resolvieren* (resolved, decided).
@@ -172,6 +172,3 @@ Forstdepartement:: The **forestry department** responsible for managing tree cut
 Mariengroschen:: A coin denomination used in various North German states in the 18th–19th centuries. Twenty-four Mariengroschen = financial compensation for each Quadrat-Rute assigned to Krückeberg.
 
 überlaßenden:: Archaic form of *überlassenden* (being transferred or granted).
-
-
-                         
