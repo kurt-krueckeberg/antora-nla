@@ -43,7 +43,7 @@ M
 ____
 
 |
-[verse, Response from the Gräflich vormundschaftliche Cammer* (Countly Guardianship Chamber)]
+[verse]
 ____
 The plot is therefore to be allocated,
 and since various residents in Berenbusch
