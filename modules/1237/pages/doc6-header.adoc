@@ -3,34 +3,6 @@
 
 image::011-header.png[align=left,link=self]
 
-In this context, "Concept" (German: Concept or Conceptus in older administrative usage) does not mean “idea” in the
-modern sense.
-
-Here it means:
-
-[quote]
-____
-draft or copy prepared for internal records, usually a fair copy or clean copy made in the office before the final
-signed version is issued.
-____
-
-In 18th–19th century German bureaucratic practice — especially in the Schaumburg-Lippe Cammer and _Amt_ records —
-_Concept_ was used as a header for:
-
-* The *office draft* of an outgoing document (often kept in the file for reference).
-
-* Sometimes an *exact copy* of what was sent, written at the same time as the original.
-
-* Distinct from _Original_ (the one with official seals sent to the recipient) and _Expedition_ (dispatch record).
-
-So *"Concept Cammeral:Kaufbriefs"* means:
-
-[quote]
-____
-Draft of the Chamber’s purchase deed — i.e., the internal file copy of the official _Kaufbrief_ issued to formalize
-the land purchase.
-____
-
 == Transliteration and Translation
 
 [cols="1a,2a"]
@@ -40,7 +12,7 @@ ____
 |
 [verse]
 ____
-Draft of the Chamber's purchase deed
+Concept Cammeral: Kaufbriefs
 für den Colon Kruckeberg  
 Nr: 10 zu Berenbusch über  
 einen Platz zur Vergrößerung  
@@ -50,7 +22,7 @@ ____
 |
 [verse]
 ____
-Draft Chamber Purchase Deed
+Chamber Deed of Sale [issued in place of a formal purchase deed]
 for the Tenant Farmer Krückeberg
 No. 10 in Berenbusch
 concerning a plot for the enlargement
@@ -58,7 +30,13 @@ of his garden.
 ____
 |===
 
-== Glossary
+=== Explanatory Notes
 
-*Kaufbrief*:: A purchase document or contract, confirming the official transfer of property.
+In this context, "Concept" (German: Concept or Conceptus in older administrative usage) does not mean “idea” in the
+modern sense.
 
+*Concept*:: File-series label on the office copy; here the text is the **operative deed** (issued “in place of a
+formal Kaufbrief” with seal/signatures).
+*Cammeral*:: Of the Chamber (Vormundschaftliche Rentkammer).
+*Kaufbrief*:: Purchase deed
+*Colon*:: Tenant farmer / hereditary holder.
