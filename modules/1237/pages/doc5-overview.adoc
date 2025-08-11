@@ -52,7 +52,7 @@ With these actions, the land enlargement for Krückeberg moved from **proposal t
 **TODO: FIX**
 
 //[role="section-narrow"]
-=== Individual's Names in the Document <-- TODO: Correct!!!!!!
+=== Individual's Names in the Document 
 
 [cols="1,2,4",options="header"]
 |===
@@ -68,24 +68,20 @@ With these actions, the land enlargement for Krückeberg moved from **proposal t
 | Senior Cammer official
 | Co-signer of both the Rescript and the Anweisung.
 
-| **Mgr Danckwerk** <--- "Mgr" WRONG
-| *Magister* (likely Cammerwontmeister or legal officer) <--- WRONG: wont should be 'rent'.
-| Named in the heading of the Anweisung. The title "Mgr" (Magister) indicates a university-educated official, likely with legal or fiscal oversight responsibilities.
+| **J?? Danckwerk** 
+| Senior Cammer official
+| Co-signer of both the Rescript and the Anweisung.
 
 | **Stackmann**
 | Cammerrentmeister (Cammer Treasurer)
 | Named in the body of the Anweisung as the official instructed to collect and record the purchase payment.
-
-| **Stackmann**
-| Clerk or scribe
-| Appears near the heading of the Anweisung, not in the body or as a signer. Likely involved in drafting or preparing the document, similar to the role of other clerks like Bolte.
 
 | **Bolte**
 | Clerk or expeditor
 | Mentioned in the margin as "Cap: p: Bolte" and "Exp: per Boltesp" in the respective sections. Likely involved in formalizing or transmitting the documents.
 
 | **Mkaas**
-| Possibly a notary or reviewing officer
+| Forestry Amt official
 | Signs the Anweisung. Name appears with others responsible for official validation.
 
 | **Wipperman**
