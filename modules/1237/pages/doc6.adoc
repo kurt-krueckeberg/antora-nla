@@ -18,7 +18,7 @@ image::012.png[align=left,title='Decision on Jobst Heinrich Krückeberg's Petiti
 |
 [verse]
 ____
- Concept Cammeral-Kaufbriefs                                            6.  
+Concept Cammeral:Kaufbriefs
 für den Colon Kruckeberg  
 Nr: 10 zu Berenbusch über  
 einen Platz zur Vergrößerung  
@@ -83,7 +83,7 @@ ____
 |
 [verse]
 ____
-Draft of the Chamber Contract
+Draft of the Chamber's purchase deed
 for the colonist Krückeberg
 No. 10 in Berenbusch
 concerning a parcel for the enlargement
