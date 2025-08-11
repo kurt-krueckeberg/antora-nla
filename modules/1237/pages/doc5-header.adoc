@@ -1,9 +1,8 @@
 = Header
-:page-role: wide
 
 image::doc5-header.png[scale=25,link=self]
 
-[role="section-narrow"]
+//[role="section-narrow"]
 == Header Explained
 Document 5's header tells us it is the Vormundschaftliche Cammer's official reply to Document 4, which 
 contained the submission of the geometric drawings of the parcels to be prospectively allocated to Jobst
@@ -38,7 +37,7 @@ to the Officials in Bückeburg
 ....
 |===
 
-[role="section-narrow"]
+//[role="section-narrow"]
 == Breakdown of Header Terms
 
 * *ad nr.* — “to (or concerning) number …” — This is a _cross-reference marker_, showing that this document is to be
