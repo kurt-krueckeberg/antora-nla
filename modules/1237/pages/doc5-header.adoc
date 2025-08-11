@@ -1,4 +1,4 @@
-= Document 5 Header
+= Header
 :page-role: wide
 
 image::doc5-header.png[scale=25,link=self]
