@@ -138,37 +138,52 @@ principal's own signature.
 [role="section-narrow"]
 === Glossary of Terms
 
-ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative referencing. It indicates the document concerns or belongs to a case or entry listed under a specific file number.
+ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative
+referencing. It indicates the document concerns or belongs to a case or entry listed under a specific file number.
 
-Cam:: Abbreviation of *Cammer* (or *Kammer* in modern German), meaning the **chamber**, referring to the *Cammeralbehörde* (chamber office or finance office) in charge of managing land, taxation, forestry, and estate matters. "Cam: 53." indicates this document relates to file number 53 in the chamber's records.
+Cam:: Abbreviation of *Cammer* (or *Kammer* in modern German), meaning the **chamber**, referring to the
+*Cammeralbehörde* (chamber office or finance office) in charge of managing land, taxation, forestry, and estate
+matters. "Cam: 53." indicates this document relates to file number 53 in the chamber's records.
 
-S. S.:: The meaning is uncertain but is almost certainly an administrative abbreviation. Both characters are uppercase and followed by periods. Possibly stands for:
-* *Sub Signatur*, *Supplementum*, or *Special-Sachen* (special matters),
-* or an internal filing code used to denote subcategories within a Cammer file.
-The ambiguity in the style of the first "S" (it differs from the second) is likely due to the handwriting style, not semantic difference.
+S. S.:: * *Sub Signatur*, *Supplementum*, or *Special-Sachen* (special matters), or an internal filing code used to denote
 
-Concept Cammer: Rescript:: Indicates this is a **conceptual draft (Concept)** of a **rescript** (a formal written reply or decree) issued by the **Cammer** (chamber office). Rescripts were typically responses to petitions or reports sent up from local offices.
+Concept Cammer: Rescript:: Indicates this is a **conceptual draft (Concept)** of a **rescript** (a formal written
+reply or decree) issued by the **Cammer** (chamber office). Rescripts were typically responses to petitions or
+reports sent up from local offices.
 
-Espp: Schwarze:: A marginal or side notation, identifying the **scribe**, **secretary**, or possibly the **reviewing official**. "Espp:" is most likely an abbreviation of *Especiert* (meaning: "specified by") or a shorthand scribe initial. **Schwarze** is a surname. This note is written at the left margin and indicates authorship, approval, or secretarial involvement.
+Espp: Schwarze:: A marginal or side notation, identifying the **scribe**, **secretary**, or possibly the
+**reviewing official**. "Espp:" is most likely an abbreviation of *Especiert* (meaning: "specified by") or a
+shorthand scribe initial. **Schwarze** is a surname. This note is written at the left margin and indicates
+authorship, approval, or secretarial involvement.
 
-‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a **discourse marker** that introduces a condition or framework that has just been described. The double dagger (‡) appears both in the margin and in the body of the text:
-* It serves as a **visual reference mark**, directing the reader from a marginal note (or side instruction) into the point in the text where it applies.
-* In this document, it emphasizes the section that contains the **financial obligation** (payment of 24 Mariengroschen per square Rute for the land being assigned).
+‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a **discourse
+marker** that introduces a condition or framework that has just been described. The double dagger (‡) appears both
+in the margin and in the body of the text:
+* It serves as a **visual reference mark**, directing the reader from a marginal note (or side instruction) into
+* the point in the text where it applies.  In this document, it emphasizes the section that contains the
+* **financial obligation** (payment of 24 Mariengroschen per square Rute for the land being assigned).
 
-Quadrat: Rute:: A **square rod** or **square perch**, a historical unit of area (1 Rute ≈ 3.77 meters, so a square Rute ≈ 14.2 m²). The tenant was charged 24 Mariengroschen per Quadrat-Rute of newly assigned garden land.
+Quadrat: Rute:: A **square rod** or **square perch**, a historical unit of area (1 Rute ≈ 3.77 meters, so a square
+Rute ≈ 14.2 m²). The tenant was charged 24 Mariengroschen per Quadrat-Rute of newly assigned garden land.
 
-Colon:: A term for a peasant farmer with hereditary rights to a plot of land (Latin origin: *colonus*). In Schaumburg-Lippe, "Colon" designated a full-status rural landholder, as opposed to lesser holders like a Köter.
+Colon:: A term for a peasant farmer with hereditary rights to a plot of land (Latin origin: *colonus*). In
+Schaumburg-Lippe, "Colon" designated a full-status rural landholder, as opposed to lesser holders like a Köter.
 
-Brücksitzer:: A type of rural settler — possibly someone whose house adjoins a bridge (*Brück*) or a minor landholding class.
+Brücksitzer:: A type of rural settler — possibly someone whose house adjoins a bridge (*Brück*) or a minor
+landholding class.
 
-Unserstatteten:: Archaic spelling for *unserstatteten*, a past participle meaning “submitted to us” (i.e., the report previously sent to the Chamber).
+Unserstatteten:: Archaic spelling for *unserstatteten*, a past participle meaning “submitted to us” (i.e., the
+report previously sent to the Chamber).
 
 resolvirt:: Archaic spelling of *resolvieren* (resolved, decided).
 
-Setzstangen:: Young saplings or planting poles. The term appears in forestry regulations. Here, Krückeberg is obligated to plant **three new saplings** for each willow or poplar tree removed.
+Setzstangen:: Young saplings or planting poles. The term appears in forestry regulations. Here, Krückeberg is
+obligated to plant **three new saplings** for each willow or poplar tree removed.
 
-Forstdepartement:: The **forestry department** responsible for managing tree cutting, planting obligations, and land-use rules related to woodland and timber.
+Forstdepartement:: The **forestry department** responsible for managing tree cutting, planting obligations, and
+land-use rules related to woodland and timber.
 
-Mariengroschen:: A coin denomination used in various North German states in the 18th–19th centuries. Twenty-four Mariengroschen = financial compensation for each Quadrat-Rute assigned to Krückeberg.
+Mariengroschen:: A coin denomination used in various North German states in the 18th–19th centuries. Twenty-four
+Mariengroschen = financial compensation for each Quadrat-Rute assigned to Krückeberg.
 
 überlaßenden:: Archaic form of *überlassenden* (being transferred or granted).
