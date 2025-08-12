@@ -1,4 +1,4 @@
-= Geometric Drawing of Two Parcels (March 30, 1799)
+= Geometric Drawing of Two Parcels
 :page-role: wide
 
 image::08-right-page.png[link=self]
