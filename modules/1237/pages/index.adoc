@@ -1,10 +1,32 @@
 = Jobst Heinrich's Petition to Enlarge Farmyard and Garden 
 
-Document NLA BU, K 2, A Nr. 1237
-
 The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is call number
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237] in the Arcinsys catalog 
-system of the Lower Saxony Archives.
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237] in the
+Arcinsys catalog system of the Lower Saxony Archives.
 
-The case file is folder with a cover on it containing six documents and a document index. 
-The Niedersächishces Landesarchiv provided it as a zip file composed twelve TIF images.
+== Case Overview — Krückeberg Land Purchase, Berenbusch (1798–1800)
+
+In May of 1798, Jobst Heinrich Krückeberg, no. 10 Berenbusch, a smallholder farmer (*Colon*) in the village of
+Berenbusch, petitioned the local authorities for permission to purchase small plots of land next to his home to
+enlarge both his garden and his farmyard.
+
+Over the next two years, his request moved slowly through the layers of Schaumburg-Lippe’s local government. First,
+the *Amt* in Bückeburg recorded his petition and passed it to the *Vormundschaftliche Cammer* (Guardianship
+Chamber), the central decision-making office, also in Bückeburg. The Cammer sought the opinion of the Forestry
+Office, which confirmed that the land could be released if Krückeberg agreed to plant replacement trees for any
+felled poplars or willows.
+
+By early 1799, the Cammer had decided in principle to grant the request, but only on certain conditions — payment
+of a set purchase price per square rod, replacement-planting obligations, and an annual land tax (*Rottzins*). The
+local authorities were instructed to survey the land and report its size.
+
+The official survey measured two small adjoining parcels on the village street: one for garden expansion, the other
+for extending the farmyard. Through the remainder of 1799 and 1800, the details were finalized — reports filed,
+conditions reaffirmed, and orders issued to the Cammer’s treasurer to collect the payment.
+
+Finally, on *December 1, 1800*, the Cammer issued the formal *Kaufbrief* (deed of sale), transferring ownership of
+the plots to Krückeberg and his heirs, guaranteeing their protection against any future claims.
+
+What began as a simple request in 1798 thus became a two-year administrative process involving six official
+documents, multiple offices, and careful adherence to the bureaucratic formalities of the time.
+
