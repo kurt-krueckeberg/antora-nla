@@ -1,3 +1,4 @@
+++++
 <div class="timeline-container">
   <style>
     .timeline-container {
@@ -117,4 +118,4 @@
     <p>Chamber purchase deed issued in lieu of a sealed deed, transferring title to Krückeberg and his heirs (Document 6).</p>
   </div>
 </div>
-
+++++
