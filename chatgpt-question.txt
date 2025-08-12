@@ -1,5 +1,0 @@
-Documents 1 and 2 were written by the Amt and sent to the Cammer. Document 3 was written by the Cammer to the Amt. Document 4 was written by the Amt to the Cammer. We cannot tell from the ink alone who wrote which parts of the header, the text at the top of the document before the main body of the document. But we can compare these four documents and look at how they are number and whether "pr" or "praes" or "p"--all followed by a date--appear. Below is an AsciiDoc table that summarizes what I found:
-
-1. Document 1 has "Nr:1" written in the upper right corner, and immediately below it, also on the right-hand side, is: "praes: 30 May 1798".
-Document 1 is dated
-2. Document 2 has "1" written in the upper right corner with a square drawn around it. In the upper middle of the document is "pr: 6 Merz 1799"
