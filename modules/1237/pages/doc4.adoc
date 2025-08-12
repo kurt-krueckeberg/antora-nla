@@ -96,7 +96,7 @@ From Bückeburg, 18 October 1800.
 ____
 |===
 
-
+[role="section-narrow"]
 === Glossary of Terms
 
 Cam: Nr.:: Abbreviation of *Cammeral Nummer* (Chamber Number) — an internal file number for bureaucratic or
