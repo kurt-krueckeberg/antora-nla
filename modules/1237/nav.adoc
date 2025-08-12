@@ -35,6 +35,6 @@
 ** xref:doc5-rescripts.adoc#rescript1[Terms Confirmed]
 ** xref:doc5-rescripts.adoc#rescript2[Payment Ordered]
 //*** xref:doc5-collection-order.adoc[]
-* xref:doc6.adoc[]
+* xref:doc6-overview.adoc[]
 ** xref:doc6-header.adoc[]
 ** xref:doc6.adoc[]

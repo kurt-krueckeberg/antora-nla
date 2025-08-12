@@ -1,31 +1,29 @@
-= Document 6: Overview
+= Document 6: Deed Issue (Dec 1, 1800)
 
 image::11.png[scale=25,link=self]
 
-== Transfer of Ownership – Krückeberg, Berenbusch (December 1800)
+== Narrative Overview — Document 6
 
-Document 6 is the formal *Cammeral Purchase Deed* (*Cammeral:Kaufbrief*) issued by the Vormundschaftliche
-Rentkammer in Bückeburg to **Jobst Heinrich Krückeberg**, tenant farmer of holding No. 10 in Berenbusch.  
+=== Final Transfer of Ownership (December 1800)
 
-It finalizes a process that began with his petition for additional land (Document 1, dated 1799) and proceeded
-through approval and assignment stages (Documents 4 and 5, both dated October 1800).  
+Document 6, titled *Concept Cammeral:Kaufbriefs*, is the final instrument in the case.  
+It serves *in place of a formal, sealed deed of sale* (*Kaufbrief*) and officially transfers ownership of the purchased parcels to **Jobst Heinrich Krückeberg, No. 10 in Berenbusch**, and his heirs.
 
-The deed confirms the lawful transfer of **two plots** — one adjoining his garden and the other his farmyard —
-which had been **surveyed on 30 March 1799** by an official land surveyor. The measurements were:  
+Following Krückeberg’s petition (Document 1) and the subsequent approvals and conditions set forth in earlier Rescripts and reports (Documents 2–5), the **Comital Guardianship Treasury Office** (*Gräflich vormundschaftliche Rentkammer*) confirms:
 
-* Garden enlargement: *19 rods 44 feet*  Farmyard enlargement: *1 rod 90 feet*  
+* Two parcels on the village street were *formally assigned and sold* to Krückeberg for the *enlargement of his
+garden and courtyard*.
+* The parcels had been measured by a sworn land surveyor:
+** Garden expansion — *19 rods 44 feet (decimal)*
+** Courtyard area — *1 rod 90 feet (decimal)*
+* The purchase price, calculated at *24 Mariengroschen per square rod*, was paid in full:
+** *14 Reichsthaler, 8 Mariengroschen, 1 Pfennig* to the Comital Treasury.
+* Krückeberg assumes responsibility for *annual ground rent (Rottzins)*, contributions, and both ordinary and
+extraordinary levies, to be entered in the *Amt* Bückeburg’s accounts on schedule.
+* The document assures Krückeberg and his heirs that their possession of the parcels will be *legally protected
+against all parties*.
 
-These plots had been provisionally allocated in earlier Cammer correspondence and were approved in Rescript No.
-D:322 of **27 October 1800** (Document 5).  
-
-The deed states that Krückeberg has **paid the agreed purchase price** of *14 Reichsthaler, 8 Mariengroschen, and 1
-Pfennig* to the comital treasury, calculated at *24 Mariengroschen per square rod*.  
-
-It also specifies his ongoing obligations: to pay the assessed *Rottzins* (ground rent) starting from **Michaelmas,
-29 September 1800**, as well as all ordinary and extraordinary dues, to be rendered annually to the Bückeburg Amt.  
-
-Issued in **December 1800**, the document serves *in place of a formal notarized purchase deed*, bearing the
-**printed comital Rentkammer seal** and the **customary signatures of the Director and Councillors** of the
-Vormundschaftliche Rentkammer. It guarantees that Krückeberg and his heirs will be protected in their ownership and
-enjoyment of the land in perpetuity.
+The document is dated *Bückeburg, December 1800*, and issued under the *impressed comital guardianship treasury
+seal* with signatures of the appointed directors and councillors: **Gladbeck, von Landesberg, Maas, Windt, and
+Wippermann**.  It was dispatched by **Beÿer**.
 
