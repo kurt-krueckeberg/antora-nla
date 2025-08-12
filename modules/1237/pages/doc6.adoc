@@ -143,6 +143,7 @@ Wippermann
 ____
 |===
 
+[role="section-narrow"]
 == Glossary of Terms
 
 *Colon*:: A farmer or settler holding land, often hereditary, under a manorial or feudal system.
