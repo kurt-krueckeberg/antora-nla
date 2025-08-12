@@ -157,7 +157,7 @@ Col. Krückeberg No. 10 at Berenbusch===
 ....
 |===
 
-
+[role="section-narrow"]
 == Glossary of Terms
 
 Durchlauchtigste Fürstin:: “Most Serene Princess,” a formal closing salutation to a ruling princess.
