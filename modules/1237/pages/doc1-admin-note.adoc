@@ -30,20 +30,23 @@ ____
 [verse]
 ____
 Resolution of the Cammer. Delivered by hand  
-to the Amt (office) for [the purpose of] reporting.
-B[ückeburg] 18 Febr 1799    MKaas
+to the Amt [local governmental office] for reporting.
+B[ückeburg] 18 Febr 1799 MKaas
 ____
 |===
 
 
 === Glossary of Terms
 
-Res Cam.:: Abbreviation for *Rescriptum Cammerale* or *Resolution Cammeralis*, meaning “Chamber Resolution” or “Chancellery Response.” A common header or reference for official documents in 18th–19th century administrative usage.
-Brevi manu:: Latin phrase meaning “by hand” or “summarily.” In bureaucratic contexts, it indicated that a document was physically delivered, often without formal correspondence.
+Res Cam.:: Abbreviation for *Rescriptum Cammerale* or *Resolution Cammeralis*, meaning “Chamber Resolution” or
+“Chancellery Response.” A common header or reference for official documents in 18th–19th century administrative
+usage.
+Brevi manu:: Latin phrase meaning “by hand” or “directly by hand.” In bureaucratic contexts, it indicated that a
+document was physically delivered, often without formal correspondence.
 dem Amts:: Dative case of *das Amt*, meaning “to the office” or “to the authorities.”
-zum Berichte:: “For the report.” Indicates the document was submitted to be included in or referenced in an official report.
-B. 18°:: Abbreviation for *Beilage 18*, meaning “Appendix” or “Enclosure 18.” The ° symbol is a historical shorthand often used for ordinal or enumerative reference.
-Febr:: Abbreviation for *Februar* (February).
-MKaas:: "M" is likely the first initial and "Kaas" the surname of the Forestry Office official, whose wrote the
-Forestry Office assessment. His signature also appears on other Cammer (Chamber) documents.
+zum Berichte:: “For the report.” Indicates the document was submitted to be included in or referenced in an
+official report.  B. 18°:: Abbreviation for *Beilage 18*, meaning “Appendix” or “Enclosure 18.” The ° symbol is a
+historical shorthand often used for ordinal or enumerative reference.  Febr:: Abbreviation for *Februar*
+(February).  MKaas:: "M" is likely the first initial and "Kaas" the surname of the Forestry Office official, whose
+wrote the Forestry Office assessment. His signature also appears on other Cammer (Chamber) documents.
 
