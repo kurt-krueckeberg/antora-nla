@@ -115,7 +115,7 @@ ____
 |
 [verse]
 ____
-Concept Cammer: Anweisung H.  
+Concept Cammer: Anweisung  
 an den Cammerrentmeister
 Stackmann
   
@@ -149,9 +149,8 @@ ____
 |
 [verse]
 ____
-Concept Cammer: Directive
-to the Chamber Rentmaster
-Stackmann
+Draft: Chamber Directive
+to the Chamber Rentmaster Stackmann
 
 The Chamber Rentmaster, Stackmann, is hereby
 instructed to collect from tenant farmer
@@ -186,8 +185,8 @@ ____
 
 [NOTE]
 ====
-*Stirneichen* — The term appears here after “Nr: 10” in reference to Colon Krückeberg’s property.  He lived in
-Berenbusch not "Stirneichen", which oes not correspond to any known village (*Ort*) in the region per *Meyers Orts-
+*Stirneichen* — The term appears here after *“Nr: 10”* in reference to Colon Krückeberg’s property.  He lived in
+Berenbusch not "Stirneichen", which does not correspond to any known village (*Ort*) in the region per *Meyers Orts-
 und Verkehrslexikon* (1912). It may represent a misrecorded place name or possibly a *Flurname* (traditional field
 name) used locally in the late 18th–early 19th century.  Its exact reference remains uncertain.
 ====
