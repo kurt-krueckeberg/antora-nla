@@ -1,9 +1,9 @@
 = Header
 :page-role: wide
 
-The petition was drawn up by the local governmental administrative office (Amt) in Bückeburg.  It was forwarded to
-the *Vormundschaftliche Cammer*, the guardianship chamber (aslo in Bückeberg) a state-level authority, who are
-responsible for  the text that appears in the header.
+The petition was drawn up by the local governmental administrative office (Amt) in Bückeburg and then sent to
+the *Vormundschaftliche Cammer*, the guardianship chamber (also in Bückeberg), a state-level authority, who 
+added all the text that appears in the header.
 
 image::02-header.png[link=self]
 
