@@ -10,4 +10,5 @@ asciidoc:
 nav:
   - modules/ROOT/nav-top.adoc
   - modules/1237/nav.adoc
+  - modules/689/nav.adoc
   - modules/354/nav.adoc
