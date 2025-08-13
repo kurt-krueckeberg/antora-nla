@@ -14,7 +14,8 @@ image::03-l-original.png[link=self]
 |Transliteration|Translation
 
 |
-....
+[verse]
+____
 NC. 438i                         
                          pr. inlen 2 Art. 1841
 
@@ -74,10 +75,11 @@ d. 2ten. Okt. 1841.
                            Nr 10 in Berenbusch.
 Cond. GWFuchs.
 Nro g d.
-....
+____
 
 |
-....
+[verse]
+____
 No. C. 438i
               presented in incoming [matters] 2 Oct 1841
 
@@ -131,5 +133,5 @@ Bückeburg
                               No. 10 in Berenbusch
 Cond. G. W. Fuchs
 Nro g d.
-....
+____
 |===
