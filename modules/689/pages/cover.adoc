@@ -1,5 +1,7 @@
-= Cover
+= Cover (under deveopment)
 
+
+image::cover-orig.png[link=self]
 
 ....
 Activ                               Rep. II        
@@ -22,18 +24,6 @@ B. [Jur/?m] Amte Bückeburg
                          Kammerkasse dargeliehenes
                          Capital von 2 rch Courant-
                          betez
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 B32.

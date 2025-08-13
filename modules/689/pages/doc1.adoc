@@ -5,20 +5,20 @@ image::02-r.png[link=self]
 image::03-l-orignal.png[link=self]
 
 ....
-Nb. 438i                         
-                         pr. inlern 2 Art. 1841
+NC. 438i                         
+                         pr. inlen 2 Art. 1841
 
 
 
-l               Durchlauchtigster Fürst,
+                Durchlauchtigster Fürst,
                 Gnädigst regierender Fürst
                 und Herr!             
 
 Rl.
- b.m. zum Amtsbericht
- B. 4 Oct 41
+b.m. zum Amtsbericht
+B. 4 Oct 41
   
- Samg
+Samg
 
       Mein verstorbener Vater und nach dessen Tode
 auch meine Mutter, die das Handwerk meines Va-
@@ -37,11 +37,10 @@ meiner
 
 Nrpr: 127.
 
-meiner Ställe haften zwar schon 700 Rthl consentirter
+meiner Stätte haften zwar schon 700 Rthl consentirter
 Schulden, allein ich kann mir nicht anders helfen, so
-ungere ich auch noch meine Zinsen last vergrößere.
+ungern ich auch noch meine Zinsen last vergrößern.
 Ew. Durchlaucht muß ich daher unterthänigst
-
 bitten:
 
 mir gnädigst den Consens zu einem
@@ -64,5 +63,62 @@ Buckeburg
 d. 2ten. Okt. 1841.
                            Nr 10 in Berenbusch.
 Cond. GWFuchs.
+Nro g d.
+....
+
+
+....
+No. C. 438i
+                              presented in incoming [matters] 2 Oct 1841
+
+To His Serene Highness,
+most gracious ruling Prince
+and Lord!
+
+[Referred to] the office report
+B[ückeburg], 4 Oct 1841
+
+Samg
+
+      My late father, and after his death also my mother,
+who continued my father’s trade as a shoemaker, have
+incurred with the merchants and tanner firm Hempel
+Sons in Minden a considerable leather debt, which,
+with interest, has now been claimed from me in court,
+and on account of which, as the enclosed decision of
+the Amt shows, I am threatened with distraint
+[the legal seizure of property to compel payment].
+It is impossible for me to pay this entire sum from
+my own available means, and I know no other way
+to help myself than through a new loan of 150
+Reichstaler, and obtaining the privilege of being able
+to repay the remainder in annual installments of
+5 Reichstaler. On my
+
+No. pr: 127.
+
+property there already rest 700 Reichstaler of secured
+debts, yet I can find no other remedy, however
+reluctantly I may still increase my interest burden.
+I must therefore most humbly
+
+request:
+
+that Your Serene Highness graciously grant me
+consent to a new loan of 150 Reichstaler,
+and then decree that I may repay the
+remainder of the unconsented Hempel claim
+in annual installments of 5 Reichstaler.
+
+Dying in the deepest reverence,
+
+Your Serene Highness’s
+
+                              most humble servant,
+Bückeburg
+                              Colon Krückeberg
+2 October 1841
+                              No. 10 in Berenbusch
+Cond. G. W. Fuchs
 Nro g d.
 ....
