@@ -9,6 +9,11 @@ image::03-l-original.png[link=self]
 
 == Transliteration and Translation
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 ....
 NC. 438i                         
                          pr. inlen 2 Art. 1841
@@ -71,10 +76,10 @@ Cond. GWFuchs.
 Nro g d.
 ....
 
-
+|
 ....
 No. C. 438i
-                              presented in incoming [matters] 2 Oct 1841
+              presented in incoming [matters] 2 Oct 1841
 
 To His Serene Highness,
 most gracious ruling Prince
@@ -127,3 +132,4 @@ Bückeburg
 Cond. G. W. Fuchs
 Nro g d.
 ....
+|===
