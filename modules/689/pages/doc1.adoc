@@ -2,7 +2,7 @@
 
 image::02-r.png[link=self]
 
-image::03-l-orignal.png[link=self]
+image::03-l-original.png[link=self]
 
 ....
 NC. 438i                         
