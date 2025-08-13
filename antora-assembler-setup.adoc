@@ -1,0 +1,4 @@
+This shows how to setup PDF generation:
+
+* https://docs.antora.org/assembler/latest/ 
+

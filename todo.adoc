@@ -1,21 +1,10 @@
 = TODO
 
-* https://docs.antora.org/assembler/latest/ shows how to setup PDF generation
+== 689
 
-== Other Activities
+* image 02-r.png is not really image #2!!!!!!!!!!!!!!!!!!
 
-* Volunteer for Convention
-* Append 06-left-page image and text into image5 image and text.
-* Break Document 1 into a landing index page and two subpages: one for the petition and its endorsement, the other for the
-report.
-* Make Document 2 one page--but only after determing if:
-** the left page of Document #3 is likely part of document #2.
-* Decide on titles for documents #5 and #6.
-
-
-== Searching for Jobst Heinrich Krückeberg's Deed
-
-Jobst Heinrich Krückeberg was granted a deed to the land he was allocated and allowed to purchase. How to search:
+Somehow the 
 
 === Step-by-Step Search Strategy on Arcinsys
 
