@@ -1,5 +1,6 @@
 .xref:index.adoc[]
 //NLA BU, K 2, A Nr. 689
 * xref:cover.adoc[]
+* xref:doc-index.adoc[]
 * xref:doc1.adoc[]
 * xref:doc1-1i.adoc[]
