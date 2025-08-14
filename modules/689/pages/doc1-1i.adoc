@@ -1,0 +1,129 @@
+= Document 1i
+image::03-r.png[link=self]
+:page-role: wide
+
+//image::03-r-original.png[link=self]
+image::03-r.png[link=self]
+image::04-l.png[link=self]
+
+== Transliteration and Translation
+
+
+
+[cols="1a,1a"]
+|====
+|Transliteration|Translation
+
+|
+....
+              1i
+
+
+
+Actum Bückeburg am Amte
+den 10ten Juli 1841
+
+In Sachen
+
+der Hempel Söhne in Minden, Kläger,
+          wider
+den Colon Krückeberg No. 10 in Beren-
+busch, Beklagten
+                 [?]ote Capital und
+                 Zinsen.
+
+Advocat Meÿer, Anwalt der
+Kläger bat gehorsamst, da
+der beklagte Krückeberg noch
+nicht, wie ihm durch Decret
+vom 29ten Mai 6ten Juni v. J.
+aufgegeben, die qu: 133 Rthlr
+7 g nebst 5 p.c. Zinsen vom 9ten
+April 1833 bezahlt habe,
+nunmehro die angehrohte
+Execution, unter Andro-
+hung der Auspfandung
+zu erkennen ref: exp: contum:
+infidem
+       F. Sander
+
+
+Decretum
+
+
+Vorstehender Recess wird dem Verklag-
+ten in Abschrift mitgeheilt und
+nunmehr die Execution erkannt und
+den Amtsdiener Möller aufgegeben,
+den Verklagten auf das Capital
+zu 133 Rthlr 7 mgl und Zinsen vom 9ten April
+1833 zu 5 Procent zu 4 mgl Gebühr
+in exequiren und ihm anzudeuten,
+daß[,] wenn die Execution frucht-
+los bleibe und binnen 14 Tagen
+keine Zahlung erfolgen würde,
+auf ferneres Ansuchen der Klä-
+ger sofort die Auspfandung
+erkannt und vollzogen werde.
+
+Decr: Bückeburg 13t Juli 1841.
+F[rstlich Schaumburg Upp. Amt.
+
+Haadr   Yöcker [or Jöcker]
+....
+
+|
+....
+Order
+
+Bückeburg, Amt Office
+10 July 1841
+
+In the matter of
+
+Hempel Söhne of Minden, Plaintiffs,
+          versus
+Colon Krückeberg, No. 10 in Berenbusch, Defendant,
+                 Remaining principal and
+                 interest.
+
+Advocate Meÿer, attorney for the
+plaintiffs, respectfully requests that,
+since the defendant Krückeberg has still
+not, as ordered by decree of 29 May and
+6 June of this year, paid the sum of
+133 Reichsthaler [Rthlr struck through] 7 Mariengroschen
+together with 5 percent interest from
+9 April 1833, the threatened
+execution be carried out,
+under threat of distraint
+(the legal seizure of property to compel payment).
+
+To be decided – referred, expedited, for default:
+in good faith.
+       F. Sander
+
+
+Decree
+
+The above decision is to be communicated
+to the defendant in copy, and execution is
+now ordered. The court officer Möller is
+directed to execute against the defendant
+for the principal sum of 133 Reichsthaler
+[Rthlr struck through] 7 Mariengroschen and interest
+from 9 April 1833 at 5 percent, with a
+fee of 4 Mariengroschen, and to inform him
+that if the execution proves unsuccessful
+and if no payment is made within
+14 days, then upon further request by
+the plaintiffs, distraint
+(the legal seizure of property to compel payment)
+will be ordered and carried out immediately.
+
+Decree: Bückeburg, 13 July 1841
+Fürstlich Schaumburg-Lippe Amt
+
+Haadr         Yöcker
+....
+|===
