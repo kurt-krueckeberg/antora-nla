@@ -1,10 +1,11 @@
 = Document Index 
+:page-role: wide
 
 image::01-r.png[link=self]
 
 == Under Development
 
-[cols="1a,1a"]
+[%header,cols="1,8,3,2,2,2,1"]
 |===
 |No|Acten Designation||Ort|Jahr|Mon|Z.
 
@@ -41,7 +42,6 @@ l|Cgt KRes. an dasselben
 |3
 l|Vors. des Colons Krückeberg
 l|gegen Ver
-|e
 |e
 |e
 |Nov
