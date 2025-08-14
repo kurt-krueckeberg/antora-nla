@@ -1,5 +1,4 @@
 = Document 1i
-image::03-r.png[link=self]
 :page-role: wide
 
 //image::03-r-original.png[link=self]
@@ -11,7 +10,7 @@ image::04-l.png[link=self]
 
 
 [cols="1a,1a"]
-|====
+|===
 |Transliteration|Translation
 
 |
