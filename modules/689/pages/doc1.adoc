@@ -1,4 +1,4 @@
-= Document 1
+= Document 1: Krückeberg's Statement and Request
 :page-role: wide
 
 == Under Development

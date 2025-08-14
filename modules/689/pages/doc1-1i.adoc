@@ -1,4 +1,4 @@
-= Document 1i
+= Document 1i: Order Against Krückeberg
 :page-role: wide
 
 //image::03-r-original.png[link=self]
