@@ -1,4 +1,4 @@
-= Document 1
+
 :page-role: wide
 
 == Under Development
@@ -120,7 +120,7 @@ and then decree that I may repay the
 remainder of the unconsented Hempel claim
 in annual installments of 5 Reichstaler.
 
-Dying in the deepest reverence,
+Remaing in the deepest reverence,
 
 Your Serene Highness’s
 
