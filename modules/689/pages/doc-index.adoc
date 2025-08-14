@@ -11,11 +11,11 @@ image::01-r.png[link=self]
 
 
 |1.
-l|Vorstellung des Col. Krückeberg
-No 10 in Berenbesch
+|Vorstellung des Col. Krückeberg +
+No 10 in Berenbesch +
 Anb
-l|Bewilligung
-eines darlehes
+|Bewilligung +
+eines darlehes +
 ad 200 r.
 |Bbg.
 |1841
@@ -23,15 +23,15 @@ ad 200 r.
 |2.
 
 |2.
-l|Berichts Amts Bückeburg
-l|Cour. aus
+|Berichts Amts Bückeburg
+|Cour. aus
 |e
 |e
 |e
 |7
 
 |e
-l|Cgt KRes. an dasselben
+|Cgt KRes. an dasselben
 |Kammerbase
 |e
 |e
@@ -40,8 +40,8 @@ l|Cgt KRes. an dasselben
 
 
 |3
-l|Vors. des Colons Krückeberg
-l|gegen Ver
+|Vors. des Colons Krückeberg
+|gegen Ver
 |e
 |e
 |Nov
