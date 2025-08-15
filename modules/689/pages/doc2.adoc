@@ -173,7 +173,7 @@ ____
 
 == Glossary
 
-N. C.:: Rent Chamber registry/file number (likely *Numero Cammeral(e)* = “Chamber no.”). Used to track the case in the Rentkammer register.
+*N. C.*:: Rent Chamber registry/file number (likely *Numero Cammeral(e)* = “Chamber no.”). Used to track the case in the Rentkammer register.
 
 pr. in Cam:: *praesentiert in Cammer* — “presented in the Chamber.” A filing/receipt date line in the header.
 
