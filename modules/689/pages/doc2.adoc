@@ -175,59 +175,59 @@ ____
 
 *N. C.*:: Rent Chamber registry/file number (likely *Numero Cammeral(e)* = “Chamber no.”). Used to track the case in the Rentkammer register.
 
-pr. in Cam:: *praesentiert in Cammer* — “presented in the Chamber.” A filing/receipt date line in the header.
+*pr. in Cam*:: *praesentiert in Cammer* — “presented in the Chamber.” A filing/receipt date line in the header.
 
-Num Pr.:: Protocol number of the outgoing report from the Amt (Amt’s register no.; *Numerus Protocolli*).
+*Num Pr.*:: Protocol number of the outgoing report from the Amt (Amt’s register no.; *Numerus Protocolli*).
 
-ad:: Latin “with reference to / regarding.” Points to another file number (e.g., *ad N. C. 438i*).
+*ad*:: Latin “with reference to / regarding.” Points to another file number (e.g., *ad N. C. 438i*).
 
-An — Fürstliche Rentkammer — Bericht — vom Amte Bückeburg:: Address line: “To the Princely Rent Chamber — Report — from the Amt (office) of Bückeburg.”
+*An — Fürstliche Rentkammer — Bericht — vom Amte Bückeburg*:: Address line: “To the Princely Rent Chamber — Report — from the Amt (office) of Bückeburg.”
 
-B. (before a date in the margin):: Abbrev. for **Bückeburg** (place of issuance of the marginal rescript/date).
+*B. (before a date in the margin)*:: Abbrev. for **Bückeburg** (place of issuance of the marginal rescript/date).
 
-Res., rescrib.:: *Rescriptum / rescribatur* — marginal order/instruction (“rescript”). Here: an order to the Amt on how to proceed.
+*Res., rescrib.*:: *Rescriptum / rescribatur* — marginal order/instruction (“rescript”). Here: an order to the Amt on how to proceed.
 
-Betr.:: *Betreff* — “subject.”
+*Betr.*:: *Betreff* — “subject.”
 
-p. (before a person’s name):: *Petent* (the petitioner/supplicant in the matter).
+*p. (before a person’s name)*:: *Petent* (the petitioner/supplicant in the matter).
 
-Colon:: Status/title of a farmholder on a “Stätte” (hereditary/tenure farm within a colonization estate). Not “colonel.”
+*Colon*:: Status/title of a farmholder on a “Stätte” (hereditary/tenure farm within a colonization estate). Not “colonel.”
 
-Stätte:: The homestead/holding (the farm property unit), not just any “place.”
+*Stätte*:: The homestead/holding (the farm property unit), not just any “place.”
 
-Morgen / Ruthen:: Historical land measures (regionally variable). Morgen ≈ 0.25–0.36 ha depending on locality; *Ruthe/Ruthe(n)* is a subunit.
+*Morgen / Ruthen*:: Historical land measures (regionally variable). Morgen ≈ 0.25–0.36 ha depending on locality; *Ruthe/Ruthe(n)* is a subunit.
 
-r / rt / rthl.:: **Reichsthaler** (currency). Spelled variously in the manuscript (rt., rthl., r.).
+*r / rt / rthl.*:: **Reichsthaler** (currency). Spelled variously in the manuscript (rt., rthl., r.).
 
-mg:: **Mariengroschen** (small coin unit).
+*mg*:: **Mariengroschen** (small coin unit).
 
-appellatorio / supplicatorio:: Latin adverbs marking procedural stages: in appellate session / upon supplication (special petitionary procedure).
+*appellatorio / supplicatorio*:: Latin adverbs marking procedural stages: in appellate session / upon supplication (special petitionary procedure).
 
-unvorgreiflich(es Dafürhalten):: “without prejudice; provisional view/opinion.” Standard hedge in official writing of the period.
+*unvorgreiflich(es Dafürhalten)*:: “without prejudice; provisional view/opinion.” Standard hedge in official writing of the period.
 
-Terminszahlungen:: Court-scheduled installment payments (payments set by term).
+*Terminszahlungen*:: Court-scheduled installment payments (payments set by term).
 
-Auspfandung:: Distraint/seizure (execution on property).
+*Auspfandung*:: Distraint/seizure (execution on property).
 
-sistirt:: Stayed/suspended (execution or proceedings temporarily put on hold).
+*sistirt*:: Stayed/suspended (execution or proceedings temporarily put on hold).
 
-assecurirt:: 19th-cent. spelling of **assekuriert** (“insured”). In context: “the farm buildings are insured for 525 rthl.”
+*assecurirt*:: 19th-cent. spelling of **assekuriert** (“insured”). In context: “the farm buildings are insured for 525 rthl.”
 
-Centumacialkosten:: Percentage-based (ad valorem) court costs/fees (literally “hundred-rate” costs).
+*Centumacialkosten*:: Percentage-based (ad valorem) court costs/fees (literally “hundred-rate” costs).
 
-contrahire:: (ein Anlehen) contrahiren — to enter into/contract (a loan).
+*contrahire*:: (ein Anlehen) contrahiren — to enter into/contract (a loan).
 
-N. (as in N. 10):: **Numero/Nummer** — “No.” (farm/holding number within the locality).
+*N. (as in N. 10)*:: **Numero/Nummer** — “No.” (farm/holding number within the locality).
 
-v.M. (e.g., „unter 8 v.M.“):: **vorigen Monats** — “on the 8th of the previous month.” Common date shorthand in decisions or orders.
+*v.M. (e.g., „unter 8 v.M.“)*:: **vorigen Monats** — “on the 8th of the previous month.” Common date shorthand in decisions or orders.
 
-Supplicant / Supplicanten:: Petitioner; person submitting the plea/petition.
+*Supplicant / Supplicanten*:: Petitioner; person submitting the plea/petition.
 
-Anlehen / Anlehens (gen.):: Loan / of a loan.
+*Anlehen / Anlehens (gen.)*:: Loan / of a loan.
 
-erscheint (vs. scheint):: “appears/it appears” — the more idiomatic bureaucratic verb here (*Im Übrigen erscheint es uns …*).
+*erscheint (vs. scheint)*:: “appears/it appears” — the more idiomatic bureaucratic verb here (*Im Übrigen erscheint es uns …*).
 
-Krückeberg (with u-bow):: The “u-Bogen” over **u** is the small curved mark indicating **u** (not **n**); helps distinguish in Kurrent script.
+*Krückeberg (with u-bow)*:: The “u-Bogen” over **u** is the small curved mark indicating **u** (not **n**); helps distinguish in Kurrent script.
 
-Stätte … assecurirt … haften:: Standard collateral description: the holding (Stätte), insured value (assecurirt), and debts that “attach” (haften) to the holding.
+*Stätte … assecurirt … haften*:: Standard collateral description: the holding (Stätte), insured value (assecurirt), and debts that “attach” (haften) to the holding.
 
