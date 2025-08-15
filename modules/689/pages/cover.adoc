@@ -4,11 +4,11 @@
 image::cover-orig.png[link=self]
 
 ....
-Activ                               Rep. II        
+Activa                               Rep. II        
 [three struck-
 through
 lines]
-B. [Jur/?m] Amte Bückeburg
+B. [Jm] Amte Bückeburg
 
 
 
@@ -23,7 +23,9 @@ B. [Jur/?m] Amte Bückeburg
                          No 10 in Berenbusch aus
                          Kammerkasse dargeliehenes
                          Capital von 2 rch Courant-
-                         betez
+                         betez.
+
+
 
 
 B32.
