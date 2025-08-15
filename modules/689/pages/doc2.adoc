@@ -236,9 +236,5 @@ ____
 
 *Anlehen / Anlehens (gen.)*:: Loan / of a loan.
 
-*erscheint (vs. scheint)*:: “appears/it appears” — the more idiomatic bureaucratic verb here (*Im Übrigen erscheint es uns …*).
-
-*Krückeberg (with u-bow)*:: The “u-Bogen” over **u** is the small curved mark indicating **u** (not **n**); helps distinguish in Kurrent script.
-
 *Stätte … assecurirt … haften*:: Standard collateral description: the holding (Stätte), insured value (assecurirt), and debts that “attach” (haften) to the holding.
 
