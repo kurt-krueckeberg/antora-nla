@@ -4,3 +4,4 @@
 * xref:doc-index.adoc[]
 * xref:doc1.adoc[]
 * xref:doc1-1i.adoc[]
+* xref:doc2.adoc[]
