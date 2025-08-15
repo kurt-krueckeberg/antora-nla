@@ -3,6 +3,8 @@
 
 
 image::04-r.png[link=self]
+image::05-l.png[link=self]
+image::05-r.png[link=self]
 
 
 ....
@@ -42,8 +44,6 @@ N. C. 438[i/1]                      Gesuch des Colons Krückeberg N. 10
            p. Kruckeberg auf Anordung von Termins
            zahlungen hinsichtlikch eines Theiles der von
            Hempel Söhne ausgeklagten Forderung an
-
-           2n page begins:
            Anspruch machen könnte, und haben wir die feste
            Überzeugung, daß sich Hämpel Söhne, welche in
            dem seit den 30ten Juli 1836 gegen Krecke
@@ -70,8 +70,6 @@ N. C. 438[i/1]                      Gesuch des Colons Krückeberg N. 10
            Stätte 700 r.
            Für ein Anlehen von 190 rt wurde dem
            nach 
-
-           page three begins:
 
 St. 3 gl                 N. C. 4487.
 6. 1                     N.P. 1274.
