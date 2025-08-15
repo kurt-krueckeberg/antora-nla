@@ -8,12 +8,12 @@ image::05-r.png[link=self]
 
 
 ....
-[S/N]. C. 4487                                         pr. in Cam 11 OCt 1841
+N. C. 4487                                         pr. in Cam 11 Oct 1841
 
 
 
                            An
-                        Fürstliche REntkammer
+                        Fürstliche Rentkammer
                            Bericht 
      D.                  vom Amte Bückeburg
 
@@ -21,38 +21,40 @@ image::05-r.png[link=self]
 
 Num Pr. 1274             
   ad                     
-N. C. 438[i/1]                      Gesuch des Colons Krückeberg N. 10        
+N. C. 438i                          Gesuch des Colons Krückeberg N. 10        
                                     in Berenbusch um Anlehnswesens   
                                     Betr:
 
-           Auf die anbei zurücker folgende Bittschrift des Colons
+           Auf die anbei zurückerfolgende Bittschrift des Colons
            Kruckeberg N. 10 in Berenbusch verfehlen wir
-           nicht, Nachfolgendes zu berichten.
+           nicht Nachfolgendes zu berichten.
 
-           Es hat seine Richtigkeit, dass Humpel Söhne in
-           Minden ggegen den Supplicanten die Summe von
+           Es hat seine Richtigkeit, dass Hempel Söhne in
+           Minden gegen den Supplicanten die Summe von
            133 r 7 mg nebst Zinsen zu 5% vom Jahre 1833
-           an, welche Schuld vom Seinem Eltern annoch her-
-           ruhrtr, ausgeklagt haben, und ist auf den
+           an welche Schuld von seinen Eltern annoch her-
+           rührt, ausgeklagt haben, und ist auf den
            Antrag der Kläger gegen den p. Krückeberg
-           auf die genannte Summe und auf 27 mg Centu.
+           auf die genannte Summe und auf 27 mg Centu-
            macialkosten bereits unter 8 v.M die Auspfan-
            dung erkannt worden.
 
-           Nach unserem unserem unvergreiflichen Dafürhaltens
-           ist kein Rechtsgrun vorhanden, in Folge dessen
-           p. Kruckeberg auf Anordung von Termins
-           zahlungen hinsichtlikch eines Theiles der von
-           Hempel Söhne ausgeklagten Forderung an
+           Nach unserem unvorgreiflichen Dafürhalten
+           ist kein Rechtsgrund vorhanden, in Folge dessen
+           p. Kruckeberg auf Anordung von Termins-
+           zahlungen hinsichtlich eines Theiles der von
+           Hempel Söhne ausgeklagten Forderung 
+
            Anspruch machen könnte, und haben wir die feste
-           Überzeugung, daß sich Hämpel Söhne, welche in
-           dem seit den 30ten Juli 1836 gegen Krecke
+           Überzeugung, daß sich Hempel Söhne, welche in
+           dem seit den 30ten Juli 1836 gegen Krücke-
            berg anhängigen, zwei Mal in appellatorio
            und ein Mal in Supplicatorio verhandelten
-           Rechtsstreite bedeutende Kosten gehabt haben
+           Rechtsstreite bedeutende Kosten gehabt haben,
            in keiner Weise dazu verstehen werden, dem
-           Actum Krückeberg theilweise eine terminliche
+           Colon Krückeberg theilweise eine terminliche
            Abtragung zu gestatten.
+
            Im Übrigen erscheint es uns nothwendig, daß
            der genannte Colon Krückeberg ein Anlehen
            contrahire, um seine Schuld abtragen zu
@@ -60,20 +62,24 @@ N. C. 438[i/1]                      Gesuch des Colons Krückeberg N. 10
            vom 190 rt bedürfen, waren nach Abtragung
            der Schuld nur ein kleiner Rest übrig bleiben
            wird, welchen er zur Deckung der auf seiner
-           Seite erwachsenen Proceßkosten mit vor
+           Seite erwachsenen Proceßkosten mit ver-
            wenden mag.
-           Die zur Stätte des Calms Krückeberg N 10.
+
+           Die zur Stätte des Colons Krückeberg N 10.
            in Berenbusch gehörigen Landereien sind 10
            Morgen 30 Ruthen groß und sind die Hofs-
            gebäude zu 525 rt asseiurirt. An unseren-
            tirten Schulden haften auf der genannten
            Stätte 700 r.
-           Für ein Anlehen von 190 rt wurde dem
-           nach die Stätte das p Krinkaborg nach Hinreichende
-           Sicherheit gewähren.
+
+           Für ein Anlehen von 190 rt würde dem
+           nach
+
+Resume->   die Stätte das p Krinkaborg nach Hinreichende
+page 3     Sicherheit gewähren.
            Aus Grund des vorgetragenen stellen wir den
            unterthänigsten Antrag: den Colon Krückeberg
-           durch uns auf seine Vorstellung dahin beschei¬
+           durch uns auf seine Vorstellung dahin beschei-
            den lassen zu wollen, daß sein Gesuch, einen
            Theil der Forderung der Hämpel Söhne
            in Minden terminlich abtragen zu dürfen.
@@ -85,7 +91,7 @@ N. C. 438[i/1]                      Gesuch des Colons Krückeberg N. 10
            Auspfandung einstweilen sistirt haben
            Bückeburg den 7t October 1841.
 
-           Haucka N Neuhsel, Yöcker[Jücker]
+           Haucka N Neuhsel, Yöcker[Jöcker]
 
            Rl. rescrib: Das Amt habe
            wie angetragen den
