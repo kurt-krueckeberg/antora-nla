@@ -10,101 +10,19 @@ image::01-r.png[link=self]
 No   Acten  Designation        Ort Jahr Mon Z.
 
 
-1.  Vorstellung des Col. Krückeberg  Bewilligung                      October
-No 10 in Berenbesch                  eines darlehes  Bbg.      1841             2
-Anb                                  ad 200 rP                 
-2.  Berichts Amts Bückeburg          Cour. aus       e            e        e    7  
-    Cpt. KRes. an dacstelbe          Kammerkasse     e            e        e   14
-3. Vorst. des Colons Krückeberg      gegen Ver       e            e      Nov   11    
-e  Vorsrng des GKR odReiR            pfaudung        e            e        e   15   
-e Cpt KRes. an Krückeberg            seiner Sammt
-                                     lichebn Lau     Berenbusch   e        e    21
-4. Vorst. des [e/p] Krückeberg       dereien
-e  Cpt. KRes. an Of. Creuziner       item            Bbg          e        e    25   
-
-
-|3
-|Vors. des Colons Krückeberg
-|gegen Ver
-|e
-|e
-|Nov
-|11
-|===
-
-
-. 1841
-Anb.
-Bericht Amts Bückeberg
-Cour. aus
-7.
-gst. K. Res. an dasselbe —
-14
-Kammerkesse
-Vorst. des Colons Krückeberg
-Nov. 11
-gegen Ver¬
-Vortrag des GHR. odReik
-pfandre
-e
-"
-15.
--
-seiner sämmt¬
-Ist. Res. an p Krückeberg
-"
-lichen Län¬
-21
-Berenbsch
-Vorst. des l. Kruckeberg
-dereien
-Blig
-Cpt. K Res. an Of. Creuzinger
-" 25.
-item
-Gesuch um
-
-|5
-|Bericht des Of. Creuzinger
-|
-|Verbaut sein
-Dezbr 10
-Baum
-Anl. Situations-Risk der
-ner Länderei,
-en auf der
-Söhren Weide
-Söhren
-16
-1.
-Bby.
-6, Vortrag des GKK. ödKeik
-Weide
-Höchstes Rescr. Ser. Reg. ~
-19
-betß.
-P. V. des H. odReck u Höchstes
-“
-“ 23
-Rescr. Sr. Durchlaucht
-e
-Cpt. KRes. aus Amt Bückeburg
-,,24.
-1842
-"
-2
-Jan
-Bericht Amts Bäckeberg
-" 20.
-" Cst. KRes. an dasselbe.
-desgl. an den KKm. Berger
-Febr
-Bericht Amts Bückeberg
-Obligation
-Obligation über aus Fürstl.
-10,
-Kammerkasse geliehene
-200 rd Courant
-N.
-2.
-....
+1. Vorstellung des Col. Krückeberg   Bewilligung                       October
+   No 10 in Berenbesch               eines dasselbe  Bbg.       1841             2
+   Anb                               ad 200 rP                 
+2. Berichts Amts Bückeburg           Cour. aus        e            e        e    7  
+    Cpt. KRes. an dacstelbe          Kammerkasse      e            e        e   14
+3. Vorst. des Colons Krückeberg      gegen Ver        e            e      Nov   11    
+e  Vortrag des GKR odReik            pfaudung         e            e        e   15   
+e Cpt KRes. an Krückeberg            seiner Sammt    
+                                     lichebn Lau      Berenbusch   e        e    21
+4. Vorst. des [e/p] Krückeberg       dereien         
+e  Cpt. KRes. an Of. Creuzinger      item             Bbg          e        e    25   
+                                     Gesuch um 
+5. Bericht des Of. Creuzinger        Verkauf sein
+   Anb. Situations. Riß der          ner Länderei   
+	   Söhren Weide              an auf der
+                                     Söhren           Bbg.
