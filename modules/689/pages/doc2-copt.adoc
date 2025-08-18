@@ -3,6 +3,7 @@
 
 image::06-l.png[link=self]
 
+[role="section-narrow"]
 == Transliteration and Translation
 
 ....
