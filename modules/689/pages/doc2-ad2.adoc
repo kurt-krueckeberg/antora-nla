@@ -1,0 +1,17 @@
+= Document 2: Ad 2
+:page-role: wide
+
+image::08-l.png[link=self]
+
+[role="section-narrow"]
+== Transliteration and Translation
+
+....
+An
+Fürstliche Rentkammer.
+des Kolon Krucheberg
+Nro 10 in Berenbusch
+unterthänigstes Gesuch
+um Anlehns den-
+sens pp
+....
