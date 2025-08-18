@@ -7,11 +7,13 @@ image::06-l.png[link=self]
 == Transliteration and Translation
 
 ....
-[4/St.]3 gb                        N.C. 4487
-----------                         N.P. 1274
-6.1                         
+N. 3/6                             N.C. 4487
+C. 1/                              N.P. 1274
+------
+= 4/6.
+                
 
-Capt                                Gesuch des Colons Krücke
+Copt                                Gesuch des Colons Krücke
 aus Amt Becknberg.                  berg N. 10 in Bernn      
                                     busch, um Anlehns-
                                     consens betr:
