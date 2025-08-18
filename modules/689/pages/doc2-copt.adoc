@@ -6,61 +6,51 @@ image::06-l.png[link=self]
 [role="section-narrow"]
 == Transliteration and Translation
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 ....
 N. 3/6                             N.C. 4487
 C. 1/                              N.P. 1274
 ------
 = 4/6.
-                
-
-Copt                                Gesuch des Colons Krücke
-aus Amt Buckeburg.                  berg N. 10 in Bernn      
-                                    busch, um Anlehns-
-                                    consens betr:
 
 
+Copt aus Amt Buckeburg.
 
-                                 Das Amt wird auf den
-                                 obigen Gegenstand betreffen
-                                 de Bericht vom 7. d. M.
-                                 beauftragt, wie angetra-
-                                 gen den Krückeburg zu
-                                 bescheiden.
-                                 Bbg. 14. Oct. 1841.
-                                 F. p.
+Gesuch des Colons Krückeberg N. 10 in Berenbusch, um
+Anlehnsconsens 
+betr:
 
-                                 Fm        L
 
+
+Das Amt wird auf den obigen Gegenstand betreffen
+de Bericht vom 7. d. M. beauftragt, wie angetra-
+gen den Krückeburg zu bescheiden.
+Bbg. 14. Oct. 1841.
+F. p.
+
+Fm        L
 ....
 
+|
 ....
+Copy from the Bückeburg Office.
 
-N. 3/6
-C. 1/
------
-= 4/6.
+Petition of the farmer Krückeberg No. 10 in Berenbusch, 
+concerning the approval of a loan.
 
-Cop. aus Amt Bückeburg.           N.C. 4487.
-                                  N.P. 1274.
+The Office is instructed, based on the report of the 7th
+of this month regarding the matter above, to respond to
+Krückeberg as requested.
 
-Capt                              Gesuch des Colons Krücke
-aus Amt Becknberg.                berg N. 10 in Bernn      
-                                  busch, um Anlehns-
-                                  consens betr:
+Bückeburg, 14 October 1841.
 
+By proxy (per procura)
 
 
-                                 Das Amt wird auf den
-                                 obigen Gegenstand betreffen
-                                 de Bericht vom 7. d. M.
-                                 beauftragt, wie angetra-
-                                 gen den Krückeburg zu
-                                 bescheiden.
-                                 Bbg. 14. Oct. 1841.
-                                 F. p.
-
-                                 Fm        L
-
-
-
+Fm        L
 ....
+|===
