@@ -25,25 +25,25 @@ ad 200 r.
 |2.
 |Berichts Amts Bückeburg
 |Cour. aus
-|e
-|e
-|e
+|"
+|"
+|"
 |7
 
-|e
-|Cgt KRes. an dasselbe
+|"
+|Gg KRes. an dasselbe
 |Kammerkasse
-|e
-|e
-|e
+|"
+|"
+|"
 |14
 
 
 |3
-|Vors. des Colons Krückeberg
-|gegen Ver
-|e
-|e
+|Vorst. des Colons Krückeberg
+|gegen Ver-
+|"
+|"
 |Nov
 |11
 |===
