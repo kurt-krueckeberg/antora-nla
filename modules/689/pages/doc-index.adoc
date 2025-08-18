@@ -41,7 +41,8 @@ ad 200 r.
 
 |3
 |Vorst. des Colons Krückeberg
-|gegen Ver-
+.2+|gegen Ver- +
+pfändugn
 |"
 |"
 |Nov
