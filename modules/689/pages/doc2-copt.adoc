@@ -1,3 +1,10 @@
+= Document 2: Copt
+:page-role: wide
+
+image::06-l.png[link=self]
+
+== Transliteration and Translation
+
 ....
 [4/St.]3 gb                        N.C. 4487
 ----------                         N.P. 1274
