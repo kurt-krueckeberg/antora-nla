@@ -2,8 +2,9 @@
 
 == 689
 
-Work on the document index, both the literal version an the table version. 
-Submit the literal version to chatgpt for review.
+Convert the literal document index into an AsciiDoc table. The literal version aligns those
+entries that have dates. Lines of text without dates belong to the line above them that has
+a date. Then submit the final AsciiDoc table along with the image to Chatgpt. 
 
 == How Documents are Referenced: Understanding the NLA 1236 Headers
 
