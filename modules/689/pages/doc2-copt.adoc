@@ -10,7 +10,8 @@ image::06-l.png[link=self]
 |Transliteration|Translation
 
 |
-....
+[verse]
+____
 N. 3/6                             N.C. 4487
 C. 1/                              N.P. 1274
 ------
@@ -32,7 +33,7 @@ Bbg. 14. Oct. 1841.
 F. p.
 
 Fm        L
-....
+____
 
 |
 ....
