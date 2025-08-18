@@ -5,7 +5,6 @@ image::01-r.png[link=self]
 
 == Under Development
 
-
 ....
 No   Acten  Designation        Ort Jahr Mon Z.
 
@@ -41,17 +40,4 @@ No   Acten  Designation        Ort Jahr Mon Z.
 10. Obligation über aus Fürstl.       Obligation.
     Kammerkasse geliehene
     200 rd Courant
-
-
-
-
-
-
-
-
-
-
-
-
-
 ....
