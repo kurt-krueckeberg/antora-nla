@@ -2,6 +2,13 @@
 
 image::07-l.png[link=self]
 
+== Transliterawtion and Translation
+
+These look like Amt-level service/processing fees, not fees charged by the Rentkammer itself. The slip is signed by
+Möller, Amtsdiener and refers to the insinuation (formal service) of the “gleichlautendes Gegenbescheid” on 27 July
+1841. The row labels (likely Decr., Exp., Not.) are standard fee-book abbreviations for
+decree/dispatch/notification at the Amt. They’re the costs of preparing and serving that notice, typically
+chargeable to the party.
 
 ....
 Colon Krückeberg N 10 in
