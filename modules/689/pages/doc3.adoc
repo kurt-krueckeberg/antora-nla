@@ -3,21 +3,23 @@
 
 image::08-r.png[link=self]
 
+image::09-l.png[link=self]
 
-Nl. 5038
-pr. in Ann 12 Nov. 41
-3.
-D
-1.
-3.
-V.
-s¬
-SCH:
+
+[verse]
+____
+NC. 5038
+pr. in Cam 12 Nov. 41
+
+
 Durchlauchtigster Fürst,
 Gnädigst regierender Fürst
 rok
 und Herr!
-Kl. Seite 3.
+
+Rc. [L/F]eiks 3.
+
+
 Zur völligen Bezahlung der Schuld an die Hempel Söhne
 in Minden ist mir den Consens auf ein Anlehn von 200 rt
 ertheilt, wie mir das Amt bekannt gemacht hat, und ich habe
@@ -33,4 +35,28 @@ Wenn ich auch nur auf ein Jahr dieses Anlehn erhalte,
 so habe ich doch dann Muße, mich nach dem Umlehn ge-
 hörig umzusehen, und werde es bis dahin wohl das
 Geld an einer andern Stelle geliehen erhalten
-könner
+können, denn Sicherheit biethet meine Stätte mit den von
+meinem Vater von der gnädigsten Herrschaft in den
+Jahren 1814 und 1818 angekauften Länderinn noch genug¬
+som där.
+
+Ew. Durchlaucht bitte ich daher so dringend als unter-
+thänigst:
+
+mir das benöthigte Darlehn von 200 rt aus
+der Kammerbasse gegen gerichtliche Obliga-
+tion gnädigst zu bewilligen.
+
+In tiefster Ehrfurcht ersterbend
+Erw. Durchlaucht
+
+Bückeburg
+Den 11. Nov. 1841.
+Conc. GW Frechs.
+progg.
+
+
+unterthänigster,
+Colen Krückeberg
+No 10 in Berenbusch.
+____
