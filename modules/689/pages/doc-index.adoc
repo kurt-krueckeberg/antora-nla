@@ -5,7 +5,7 @@ image::01-r.png[link=self]
 
 == Under Development
 
-[%header,cols="1,7,5,3,2,2,1",grid=none,frame=none]
+[%header,cols="1,7,5,3,2,2,1"]
 |===
 |No| Acten Designation||Ort|Jahr|Mon| Z.
 
