@@ -14,7 +14,8 @@ image::04-l.png[link=self]
 |Transliteration|Translation
 
 |
-....
+[verse]
+____
               1i
 
 
@@ -69,10 +70,11 @@ Decr: Bückeburg 13t Juli 1841.
 F[rstlich Schaumburg Upp. Amt.
 
 Haadr   Yöcker [or Jöcker]
-....
+____
 
 |
-....
+[verse]
+____
 Order
 
 Bückeburg, Amt Office
@@ -123,6 +125,6 @@ will be ordered and carried out immediately.
 Decree: Bückeburg, 13 July 1841
 Fürstlich Schaumburg-Lippe Amt
 
-Haadr         Yöcker
-....
+Haadr   Yöcker [or Jöcker]
+____
 |===
