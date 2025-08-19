@@ -5,18 +5,17 @@ image::01-r.png[link=self]
 
 == Under Development
 
-[%header,cols="1,8,3,2,2,2,1"]
+[%header,cols="1,7,5,3,2,2,1",grid=none,frame=none]
 |===
-|No|Acten Designation||Ort|Jahr|Mon|Z.
+|No| Acten Designation||Ort|Jahr|Mon| Z.
 
 
-|1.
-|Vorstellung des Col. Krückeberg +
-No 10 in Berenbesch +
-Anb.
+|1.  Vorstellung des Col. Krückeberg +
+No 10 in Berenbesch
+Anb
 |Bewilligung +
-eines darlehes +
-ad 200 r.
+eines dasselbe +
+ad 200 rP
 |Bbg.
 |1841
 |October
@@ -24,24 +23,27 @@ ad 200 r.
 
 |2.
 |Berichts Amts Bückeburg
-|Cour. aus
+.2+|Cour. aus +
+Kammerkasse
 |"
 |"
 |"
-|7
+|7  
 
 |"
 |G[g]. KRes. an dasselbe
-|Kammerkasse
 |"
 |"
 |"
 |14
 
-
-|3
+|3.
 |Vorst. des Colons Krückeberg
-|gegen Ver-
+.5+|gegen Ver- +
+pfaudung +
+seiner sämmt- +
+lichebn Läu +
+dereien              
 |"
 |"
 |Nov
@@ -49,46 +51,67 @@ ad 200 r.
 
 |"
 |Vortrag des GKR odReik
-|pfaudung
 |"
 |"
 |"
-|15
-|===
+|15   
 
-....
-No   Acten  Designation        Ort Jahr Mon Z.
+|"
+|Gg. KRes. an Krückeberg
+|"
+|"
+|"
+|"
+                                        
+|4.
+|Vorst. des [p] Krückeberg
+|Berenbusch
+|"
+|"
+|21
 
+|"
+|Gg. KRes. an Of. Creuzinger
+|item +
+Gesuch [nun]
+|Bbg
+|"
+|"
+|25   
+ 
+|5.
+|Bericht des Of. Creuzinger +
+Anb. Situations. Riß der +
+Söhren Weide
+.3+|Verkauf sein- +
+ner Länderei- +
+en auf der +
+Söhren      
+Weide
+|Baum
+|"
+|degbr
+|10
 
-1.  Vorstellung des Col. Krückeberg   Bewilligung                       October
-    No 10 in Berenbesch               eines dasselbe  Bbg.       1841             2
-    Anb                               ad 200 rP                 
-2.  Berichts Amts Bückeburg           Cour. aus        "            "        "    7  
-    G[g]. KRes. an dasselbe           Kammerkasse      "            "        "   14
-3.  Vorst. des Colons Krückeberg      gegen Ver-       "            "      Nov   11    
-"   Vortrag des GKR odReik            pfaudung         "            "        "   15   
-"   Gg. KRes. an Krückeberg           seiner sämmt-    "            "        "    "    
-                                      lichebn Läu      
-4.  Vorst. des [e/p] Krückeberg                        Berenbusch   "        "    21
-                                      dereien         
+|6.
+|Vortrag des GKR. odReik           
+|Bbg.
+|"
+|"
+|16
 
-"   Gg. KRes. an Of. Creuzinger       item             Bbg          "        "    25   
-                                      Gesuch um 
-5.  Bericht des Of. Creuzinger        Verkauf sein-    Baum         "     degbr   10
-    Anb. Situations. Riß der          ner Länderei   
-            Söhren Weide              en auf der
-                                      Söhren           Bbg.         "         "   16
-6.  Vortrag des GKR. odReik           
-                                      Weide            "            "         "   19
-"   Höchstes Retir. Ler. Regb.  
-"   P.V. des H odReik u Höchsters
+STOPPED HERE:
+|"
+|Höchstes Retir. Ler. Reg.
+|  
+|"|   P.V. des H odReik u Höchsters
     Resir. Sr. Durchlaucht                             "             "        "   23 
-7.  Gg H res. aus Amt Bückeburg                        "             "        "   24
-8.  Bericht Amts Bückeburg                             "          1842      Jan    2  
-"   Gg. KRes an der Selbe                              "             "        "   20
-"   desgl. an den KRes. Berger                         "             "        "    "  
-9.  Bericht Amts Bückeburg                             "             "      Febr   8    
-10. Obligation über aus Fürstl.       Obligation.
+|7.|  Gg H res. aus Amt Bückeburg                        "             "        "   24
+|8.|  Bericht Amts Bückeburg                             "          1842      Jan    2  
+|"|   Gg. KRes an der Selbe                              "             "        "   20
+|"|   desgl. an den KRes. Berger                         "             "        "    "  
+|9.|  Bericht Amts Bückeburg                             "             "      Febr   8    
+|10.| Obligation über aus Fürstl.       Obligation.
     Kammerkasse geliehene
     200 rd Courant
 ....
