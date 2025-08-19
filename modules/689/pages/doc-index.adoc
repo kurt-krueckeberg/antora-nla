@@ -9,7 +9,7 @@ image::01-r.png[link=self]
 [%header,cols="^1,9a,6a,2,2,2,^1",frame=none]
 .Transliteration
 |===
-|No | Acten Designation || Ort | Jahr | Mon | Z.
+|No | Acten Designation (left) |Acten Designation (right) | Ort | Jahr | Mon | Z.
 
 |1.
 |Vorstellung des Col. Krückeberg +
