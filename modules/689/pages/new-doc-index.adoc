@@ -17,17 +17,17 @@ ad 200 r.
 |2.
 |Bericht Amt Bückeburg
 |Cour. aus
-|Bbg.
-|1841
-|Octob.
+|"
+|"
+|"
 |7
 
-|
+|"
 |Gg. K. Res. an dasselbe
 |Cammer-Casse
-|Bbg.
-|1841
-|Octob.
+|"
+|"
+|"
 |14
 
 |3.
@@ -40,37 +40,37 @@ Ländereien
 |Nov.
 |11
 
-|
-|Vortrag des Geh. K. R. v. Reine
+|"
+|Vortrag des GKR od Reik
 |[zu prüfen]
-|Bbg.
-|1841
-|Nov.
+|"
+|"
+|"
 |15
 
+|"
+|Gg. K. Res. an p Krückeberg
 |
-|Gg. K. Res. an Krückeberg
-|
-|Bbg.
-|1841
-|Nov.
-|
+|"
+|"
+|"
+|"
 
 |4.
-|Vorst. desgl. Krückeberg
+|Vorst. des p Krückeberg
 |
 |Bbg.
 |1841
 |Nov.
 |21
 
-|
+|"
 |Gg. K. Res. an Of. Creuzinger
 |idem +
 Gesuch nun
-|Bbg.
-|1841
-|Nov.
+|"
+|"
+|"
 |25
 
 |5.
@@ -86,28 +86,28 @@ Söhren-Weide
 |10
 
 |6.
-|Vortrag des Geh. K. R. v. Reine
+|Vortrag des GHK od Reik
 |[Wegen …]
 |Bbg.
 |1841
 |Decbr.
 |16
 
-|
+|"
 |Höchstes Rescr. [Sei. Reg.]
 |
-|Bbg.
-|1841
-|Decbr.
+|"
+|"
+|"
 |19
 
-|
+|"
 |P. V. des H. v. Reine u. Höchstes +
 Rescr. Sr. Durchlaucht
 |
-|Bbg.
-|1841
-|Decbr.
+|"
+|"
+|"
 |23
 
 |7.
@@ -126,21 +126,21 @@ Rescr. Sr. Durchlaucht
 |Jan.
 |2
 
-|
+|"
 |Gg. K. Res. an dasselbe
 |
-|Bbg.
-|1842
-|Jan.
+|"
+|"
+|"
 |20
 
-|
+|"
 |desgl. an den K. R. Berger
 |
-|Bbg.
-|1842
-|Jan.
-|
+|"
+|"
+|"
+|"
 
 |9.
 |Bericht Amt Bückeburg
@@ -160,4 +160,3 @@ Kammerkasse geliehene +
 |
 |
 |===
-
