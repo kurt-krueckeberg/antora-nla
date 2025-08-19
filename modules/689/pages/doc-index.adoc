@@ -4,7 +4,7 @@
 image::01-r.png[link=self]
 
 [role="section-narrow"]
-== Transliteration and Translation
+== Transliteration 
 
 [%header,cols="^1,9a,6a,2,2,2,^1",frame=none]
 .Transliteration
@@ -167,12 +167,71 @@ Kammerkasse geliehene +
 |
 |===
 
+=== Glossary (Index / Acten-Designation)
 
-//[%header,cols="^1,9a,6a,2,2,2,^1"]
-//|===
-//|No | 2+|Acten Designation | Place | Year | Mon | No.
-//
-//|  | Left | Right |  |  |  | 
+==== Columns, layout, marks
+
+Acten Designation:: File/index designation (what the entry is “about”); in the index it’s split logically into a **left** sub-column (document type/origin) and a **right** sub-column (subject/routing/what it concerns).
+Ort:: Place.
+Jahr:: Year.
+Mon:: Month (e.g., Octob., Nov., Decbr., Jan., Febr.).
+Z. (Zahl):: Running number (serial within the month).
+
+==== Document types & actions (left sub-column)
+
+Vorst. (Vorstellung):: Petition/submission (a party’s formal request).
+Bericht:: Report (from an office/official).
+Vortrag:: Submission/laying before (usually by a councillor to the chamber).
+Gg. (Gegen-):: “replying to / in answer to” (marks an item that responds to the previous one).
+K. Res., Rescr. (Kammer-Reskript):: Chamber rescript/decision (written order from the Rentkammer).
+Gg. K. Res. an …:: “Replying chamber rescript to …” (e.g., *an p Krückeberg*, *an Of. Creuzinger*, *an dasselbe*).
+
+==== Routing & clerk notes (right sub-column)
+
+Cour. aus:: Courier dispatched; sent out by courier.
+Cammer-Casse (Kammerkasse):: Princely Chamber treasury/finance office (routing or subject tag).
+item:: “Likewise / also” (list marker introducing an additional, closely related point).
+betr. / re.:: betreffend / in re — “concerning / regarding”.
+
+==== Parties, people, offices
+
+Colon:: Farmholder/tenant of a *Stätte* (settlement holding).
+p. (Petent):: Petitioner (used immediately before a person’s name).
+Amt:: Local administrative office (Amt Bückeburg).  Of. (Official):: “Official/Officiant” — an administrative
+rank/office holder (here: **Of. Creuzinger**; not a military “officer”).  GKR (Geheimer Kammerrat):: Privy Chamber
+Councillor (senior chamber official).  
+od Reik:: Diplomatic reading of the name as written (final **k** is clear). Left unexpanded until a clearer
+parallel confirms the exact spelling.
+K. R. (Kammerrat):: Chamber Councillor (e.g., **K. R. Berger**).
+Sr. Durchlaucht:: His Serene Highness (the Prince).
+Höchstes Rescr.:: “Highest rescript” — decision issued at the sovereign/“highest” level.
+P. V. (Protokoll-Vermerk):: Minutes/protocol entry or note recorded in the register.
+
+==== Places & toponyms
+Bbg.:: Bückeburg (seat of the Amt/Rentkammer).
+Söhren-Weide:: The Söhren pasture/common (local place-name in the file).
+
+==== Money, loans, instruments
+Darlehen / Anlehen:: Loan.
+ad (before an amount):: Latin “for / to the amount of,” e.g., *ad 200 r.* (= for 200 Reichsthaler).
+r., rt., rthlr.:: Reichsthaler (currency).
+Courant:: Current coin/specie (face-value money).
+Obligation:: Bond/promissory note acknowledging debt.
+
+==== Land & legal
+Verpfändung:: Pledging/mortgaging as security.
+sämmtlich(e):: Archaic spelling of **sämtlich(e)** — entire/all.
+Ländereien:: Lands/landed property.
+Situations-Riß:: Situation plan/sketch (map-like enclosure attached to a report).
+an dasselbe:: “to the same [office]” (i.e., to the same addressee as in the line above).
+
+==== Scribal/orthography notes
+Cammer- / Casse:: Period spellings for **Kammer** / **Kasse** (you’ll also see the modern **K** forms).
+Hyphenation across rows:: In the index, long right-column phrases may **span multiple physical rows**; line-end
+hyphens (e.g., *Län- / dereien*) are real hyphenations, not separate words.
+
+[role="section-narrow"]
+== Translation
 
 [%header,cols="^1,9a,6a,2,2,2,^1"]
 .Translation
