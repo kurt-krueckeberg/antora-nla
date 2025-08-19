@@ -40,7 +40,7 @@ Kammerkasse
 
 |3.
 |Vorst. des Colons Krückeberg
-.5+|gegen Ver- +
+.4+|gegen Ver- +
 pfaudung +
 seiner sämmt- +
 lichebn Läu +
@@ -63,7 +63,7 @@ dereien
 |"
 |"
 |"
-                                        
+
 |4.
 |Vorst. des [p] Krückeberg
 |Berenbusch
@@ -79,92 +79,92 @@ Gesuch [nun]
 |"
 |"
 |25   
- 
-|5.
-|Bericht des Of. Creuzinger +
-Anb. Situations. Riß der +
-Söhren Weide
-.3+|Verkauf sein- +
-ner Länderei- +
-en auf der +
-Söhren +
-Weide +
-be[rs]
-|Baum
-|"
-|degbr
-|10
-
-|6.
-|Vortrag des GKR. odReik
-|Bbg.
-|"
-|"
-|16
-
-|"
-|Höchstes Retir. L[e/i]r. Reg.
-|"
-|"
-|"
-|19
-
-|"
-|P.V. des H odReik u Höchsters +
-Resir. Sr. Durchlaucht
-|
-|"
-|"
-|"
-|23 
-
-|7.
-|Gg H res. aus Amt Bückeburg
-|
-|"
-|"
-|"
-|24
-
-|8.
-|Bericht Amts Bückeburg
-|
-|"
-|1842
-|Jan
-|2  
-
-|"
-|Gg. KRes an der Selbe
-|
-|"
-|"
-|"
-|20
-
-|"
-|desgl. an den KRes. Berger
-|
-|"
-|"
-|"
-|"  
-
-|9.
-|Bericht Amts Bückeburg
-|
-|"
-|"
-|Febr
-|8    
-
-|10.
-|Obligation über aus Fürstl. +
-Kammerkasse geliehene +
-200 rd Courant
-|Obligation.
-|
-|
-|
-|
 |===
+//|5.
+//|Bericht des Of. Creuzinger +
+//Anb. Situations. Riß der +
+//Söhren Weide
+//.3+|Verkauf sein- +
+//ner Länderei- +
+//en auf der +
+//Söhren +
+//Weide +
+//be[rs]
+//|Baum
+//|"
+//|degbr
+//|10
+//
+//|6.
+//|Vortrag des GKR. odReik
+//|Bbg.
+//|"
+//|"
+//|16
+//
+//|"
+//|Höchstes Retir. L[e/i]r. Reg.
+//|"
+//|"
+//|"
+//|19
+//
+//|"
+//|P.V. des H odReik u Höchsters +
+//Resir. Sr. Durchlaucht
+//|
+//|"
+//|"
+//|"
+//|23 
+//
+//|7.
+//|Gg H res. aus Amt Bückeburg
+//|
+//|"
+//|"
+//|"
+//|24
+//
+//|8.
+//|Bericht Amts Bückeburg
+//|
+//|"
+//|1842
+//|Jan
+//|2  
+//
+//|"
+//|Gg. KRes an der Selbe
+//|
+//|"
+//|"
+//|"
+//|20
+//
+//|"
+//|desgl. an den KRes. Berger
+//|
+//|"
+//|"
+//|"
+//|"  
+//
+//|9.
+//|Bericht Amts Bückeburg
+//|
+//|"
+//|"
+//|Febr
+//|8    
+//
+//|10.
+//|Obligation über aus Fürstl. +
+//Kammerkasse geliehene +
+//200 rd Courant
+//|Obligation.
+//|
+//|
+//|
+//|
+//|===
