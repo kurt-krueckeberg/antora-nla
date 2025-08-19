@@ -79,45 +79,45 @@ Gesuch [nun]
 |"
 |"
 |25   
+
+|5.
+|Bericht des Of. Creuzinger +
+Anb. Situations. Riß der +
+Söhren Weide
+.3+|Verkauf sein- +
+ner Länderei- +
+en auf der +
+Söhren +
+Weide +
+be[rs]
+|Baum
+|"
+|degbr
+|10
+
+|6.
+|Vortrag des GKR. odReik
+|Bbg.
+|"
+|"
+|16
+
+|"
+|Höchstes Retir. L[e/i]r. Reg.
+|"
+|"
+|"
+|19
+
+|"
+|P.V. des H odReik u Höchsters +
+Resir. Sr. Durchlaucht
+|
+|"
+|"
+|"
+|23 
 |===
-//|5.
-//|Bericht des Of. Creuzinger +
-//Anb. Situations. Riß der +
-//Söhren Weide
-//.3+|Verkauf sein- +
-//ner Länderei- +
-//en auf der +
-//Söhren +
-//Weide +
-//be[rs]
-//|Baum
-//|"
-//|degbr
-//|10
-//
-//|6.
-//|Vortrag des GKR. odReik
-//|Bbg.
-//|"
-//|"
-//|16
-//
-//|"
-//|Höchstes Retir. L[e/i]r. Reg.
-//|"
-//|"
-//|"
-//|19
-//
-//|"
-//|P.V. des H odReik u Höchsters +
-//Resir. Sr. Durchlaucht
-//|
-//|"
-//|"
-//|"
-//|23 
-//
 //|7.
 //|Gg H res. aus Amt Bückeburg
 //|
