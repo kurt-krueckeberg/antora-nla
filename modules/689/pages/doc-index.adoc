@@ -9,14 +9,13 @@ image::01-r.png[link=self]
 |===
 |No| Acten Designation||Ort|Jahr|Mon| Z.
 
-
 |1.
 |Vorstellung des Col. Krückeberg +
 No 10 in Berenbesch
-Anb
+Anb.
 |Bewilligung +
-eines dasselbe +
-ad 200 rP
+eines Darleh[e]ns +
+ad 200 r.
 |Bbg.
 |1841
 |October
@@ -24,7 +23,7 @@ ad 200 rP
 
 |2.
 |Berichts Amts Bückeburg
-.2+|Cour. aus +
+|Cour. aus
 Kammerkasse
 |"
 |"
