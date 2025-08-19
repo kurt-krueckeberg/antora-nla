@@ -124,32 +124,31 @@ Resir. Sr. Durchlaucht
 |"
 |"
 |24
+
+|8.
+|Bericht Amts Bückeburg
+|
+|"
+|1842
+|Jan
+|2  
+
+|"
+|Gg. KRes an der Selbe
+|
+|"
+|"
+|"
+|20
+
+|"
+|desgl. an den KRes. Berger
+|
+|"
+|"
+|"
+|"  
 |===
-//
-//|8.
-//|Bericht Amts Bückeburg
-//|
-//|"
-//|1842
-//|Jan
-//|2  
-//
-//|"
-//|Gg. KRes an der Selbe
-//|
-//|"
-//|"
-//|"
-//|20
-//
-//|"
-//|desgl. an den KRes. Berger
-//|
-//|"
-//|"
-//|"
-//|"  
-//
 //|9.
 //|Bericht Amts Bückeburg
 //|"
