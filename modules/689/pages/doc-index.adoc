@@ -24,7 +24,6 @@ ad 200 r.
 |2.
 |Berichts Amts Bückeburg
 |Cour. aus
-Kammerkasse
 |"
 |"
 |"
@@ -32,6 +31,7 @@ Kammerkasse
 
 |"
 |G[g]. KRes. an dasselbe
+|Kammerkasse
 |"
 |"
 |"
