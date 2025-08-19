@@ -3,7 +3,8 @@
 
 image::01-r.png[link=self]
 
-[%header,cols="1,7,4,3,2,2,1"]
+
+[%header,cols="1,7,5,3,2,2,1"]
 |===
 |No | Acten Designation || Ort | Jahr | Mon | Z.
 
@@ -20,19 +21,19 @@ ad 200 r.
 |2
 
 |2.
-|Bericht Amt Bückeburg
+|Bericht Amts Bückeburg
 |Cour. aus
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |7
 
-|"
+|〃
 |Gg. K. Res. an dasselbe
 |Cammer-Casse
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |14
 
 |3.
@@ -47,19 +48,19 @@ dereien
 |Nov.
 |11
 
-|"
+|〃
 |Vortrag des GKR od Reik
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |15
 
-|"
+|〃
 |Gg. K. Res. an p Krückeberg
-|"
-|"
-|"
-|"
+|〃
+|〃
+|〃
+|
 
 |4.
 |Vorst. des p Krückeberg
@@ -68,50 +69,48 @@ dereien
 |Nov.
 |21
 
-|"
+|〃
 |Gg. K. Res. an Of. Creuzinger
 |item +
 Gesuch nun
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |25
 
 |5.
 |Bericht des Of. Creuzinger +
 Anb. Situations-Riß der +
 Söhren-Weide
-|Verkauf seiner +
+.4+|Verkauf seiner +
 Ländereien auf der +
-Söhren-Weide
+Söhren-Weide +
+betr.
 |Bbg.
 |1841
 |Decbr.
 |10
 
 |6.
-|Vortrag des GHK od Reik
-|[Wegen …]
-|Bbg.
-|1841
-|Decbr.
+|Vortrag des GKR od Reik
+|〃
+|〃
+|〃
 |16
 
-|"
+|〃
 |Höchstes Rescr. [Sei. Reg.]
-|
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |19
 
-|"
-|P. V. des H. v. Reine u. Höchstes +
+|〃
+|P. V. des GKR od Reik u. Höchstes +
 Rescr. Sr. Durchlaucht
-|
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |23
 
 |7.
@@ -123,31 +122,31 @@ Rescr. Sr. Durchlaucht
 |24
 
 |8.
-|Bericht Amt Bückeburg
+|Bericht Amts Bückeburg
 |
 |Bbg.
 |1842
 |Jan.
 |2
 
-|"
+|〃
 |Gg. K. Res. an dasselbe
 |
-|"
-|"
-|"
+|〃
+|〃
+|〃
 |20
 
-|"
+|〃
 |desgl. an den K. R. Berger
 |
-|"
-|"
-|"
-|"
+|〃
+|〃
+|〃
+|
 
 |9.
-|Bericht Amt Bückeburg
+|Bericht Amts Bückeburg
 |
 |Bbg.
 |1842
