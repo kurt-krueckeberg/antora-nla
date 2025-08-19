@@ -4,9 +4,10 @@
 image::01-r.png[link=self]
 
 [role="section-narrow"]
-== Transliteration
+== Transliteration and Translation
 
 [%header,cols="^1,9a,6a,2,2,2,^1",frame=none]
+.Transliteration
 |===
 |No | Acten Designation || Ort | Jahr | Mon | Z.
 
@@ -165,3 +166,171 @@ Kammerkasse geliehene +
 |
 |
 |===
+
+
+//[%header,cols="^1,9a,6a,2,2,2,^1"]
+//|===
+//|No | 2+|Acten Designation | Place | Year | Mon | No.
+//
+//|  | Left | Right |  |  |  | 
+
+[%header,cols="^1,9a,6a,2,2,2,^1"]
+.Translation
+|===
+|No | Acten Designation (left) |Acten Designation (right) | Place | Year | Mon | No.
+
+|1.
+|Petition of Colon Krückeberg +
+No. 10 in Berenbusch +
+Encl.
+|Approval +
+of a loan +
+for 200 rthlr.
+|Bbg.
+|1841
+|Octob.
+|2
+
+|2.
+|Report of the Amt Bückeburg
+|Dispatched by courier
+|〃
+|〃
+|〃
+|7
+
+|〃
+|Replying Chamber rescript to the same
+|Chamber Treasury (Cammer-Casse)
+|〃
+|〃
+|〃
+|14
+
+|3.
+|Petition of the colon Krückeberg
+.4+|against the pledging +
+of his entire +
+lands +
+(Ländereien)
+|Bbg.
+|1841
+|Nov.
+|11
+
+|〃
+|Submission of GKR od Reik
+|〃
+|〃
+|〃
+|15
+
+|〃
+|Replying Chamber rescript to p. Krückeberg
+|〃
+|〃
+|〃
+|〃
+
+|4.
+|Petition of p. Krückeberg
+|Bbg.
+|1841
+|Nov.
+|21
+
+|〃
+|Replying Chamber rescript to Officer Creuzinger
+|item +
+petition now
+|〃
+|〃
+|〃
+|25
+
+|5.
+|Report of Officer Creuzinger +
+Encl.: situation sketch of the +
+Söhren pasture
+.4+|Sale of his +
+lands on the +
+Söhren pasture +
+re.
+|Bbg.
+|1841
+|Decbr.
+|10
+
+|6.
+|Submission of GKR od Reik
+|〃
+|〃
+|〃
+|16
+
+|〃
+|Highest rescript [reading of bracketed part uncertain]
+|〃
+|〃
+|〃
+|19
+
+|〃
+|Minutes/entry of GKR od Reik and Highest +
+Rescript of His Serene Highness
+|〃
+|〃
+|〃
+|23
+
+|7.
+|Replying rescript from the Amt Bückeburg
+|
+|Bbg.
+|1841
+|Decbr.
+|24
+
+|8.
+|Report of the Amt Bückeburg
+|
+|Bbg.
+|1842
+|Jan.
+|2
+
+|〃
+|Replying Chamber rescript to the same
+|
+|〃
+|〃
+|〃
+|20
+
+|〃
+|likewise to Councillor Berger
+|
+|〃
+|〃
+|〃
+|〃
+
+|9.
+|Report of the Amt Bückeburg
+|
+|Bbg.
+|1842
+|Febr.
+|8
+
+|10.
+|Bond for 200 rthlr courant borrowed from the +
+Princely Chamber Treasury
+|Bond.
+|
+|
+|
+|
+|===
+
+
