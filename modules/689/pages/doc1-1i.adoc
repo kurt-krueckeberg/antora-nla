@@ -1,7 +1,6 @@
 = Document 1i: Order Against Krückeberg
 :page-role: wide
 
-//image::03-r-original.png[link=self]
 image::03-r.png[link=self]
 image::04-l.png[link=self]
 

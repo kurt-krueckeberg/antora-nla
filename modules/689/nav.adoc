@@ -2,9 +2,9 @@
 //NLA BU, K 2, A Nr. 689
 * xref:cover.adoc[]
 * xref:doc-index.adoc[]
+* xref:doc1-1i.adoc[]
 * xref:service-slip.adoc[]
 * xref:doc1.adoc[]
-** xref:doc1-1i.adoc[]
 * xref:doc2.adoc[]
 ** xref:doc2-copt.adoc[]
 ** xref:doc2-ad2.adoc[]

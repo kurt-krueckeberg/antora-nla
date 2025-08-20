@@ -1,8 +1,8 @@
-= Document 2 Addendum 1
+= Service Notice
 
 image::07-l.png[link=self]
 
-== Transliterawtion and Translation
+== Transliteration and Translation
 
 These look like Amt-level service/processing fees, not fees charged by the Rentkammer itself. The slip is signed by
 Möller, Amtsdiener and refers to the insinuation (formal service) of the “gleichlautendes Gegenbescheid” on 27 July
@@ -10,7 +10,8 @@ Möller, Amtsdiener and refers to the insinuation (formal service) of the “gle
 decree/dispatch/notification at the Amt. They’re the costs of preparing and serving that notice, typically
 chargeable to the party.
 
-....
+[verse]
+____
 Colon Krückeberg N 10 in
 Berenbusch
 Decr_____________6                                                           
@@ -23,4 +24,12 @@ Fr_______________4
 Das Gleichlautner gegen Bescheid ist
 Insinuirt den 27ten July 1841
 Möller Amtsdiener
-....
+____
+
+
+
+
+[verse]
+____
+The identically worded counterpart of the notice was formally served on 27 July 1841.
+____
