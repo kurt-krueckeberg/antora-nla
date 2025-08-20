@@ -6,7 +6,13 @@ image::08-l.png[link=self]
 [role="section-narrow"]
 == Transliteration and Translation
 
-....
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
 An
 Fürstliche Rentkammer.
 des Kolon Krucheberg
@@ -14,4 +20,16 @@ Nro 10 in Berenbusch
 unterthänigstes Gesuch
 um Anlehns den-
 sens pp
-....
+____
+
+|
+[verse]
+____
+To
+Princely Rent Chamber.
+of the Colon Krückeberg
+No. 10 in Berenbusch
+most humble petition
+for loan consent, etc
+____
+|===

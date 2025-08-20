@@ -6,6 +6,6 @@
 * xref:service-slip.adoc[]
 * xref:doc1.adoc[]
 * xref:doc2.adoc[]
-** xref:doc2-copt.adoc[]
-** xref:doc2-ad2.adoc[]
+* xref:doc2-copt.adoc[]
+* xref:doc2-ad2.adoc[]
 * xref:doc3.adoc[]
