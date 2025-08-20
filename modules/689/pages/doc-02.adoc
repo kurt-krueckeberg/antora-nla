@@ -7,11 +7,7 @@ image::05-r.png[link=self]
 
 == Cast for this document
 
-xref:roster.adoc#krueckeberg-jh[Krückeberg] · 
-xref:roster.adoc#amt-bbg[Amt Bückeburg] · 
-xref:roster.adoc#rentkammer[Rentkammer] · 
-xref:roster.adoc#gkr-od-reik[GKR od Reik] ·
-xref:roster.adoc#creuzinger[Of. Creuzinger]
+include::partial$cast/doc-02.adoc[]
 
 == Transliteration and Translation
 

@@ -1,0 +1,7 @@
+*Cast for this document*
+xref:roster.adoc#krueckeberg-jh[Krückeberg]  
+xref:roster.adoc#amt-bbg[Amt Bückeburg]  
+xref:roster.adoc#rentkammer[Rentkammer]  
+xref:roster.adoc#gkr-od-reik[GKR od Reik] 
+xref:roster.adoc#creuzinger[Of. Creuzinger]
+
