@@ -1,11 +1,17 @@
-= Document 2
+= Amt Report to the Rentkammer — 7 Oct 1841 (Doc 2)
 :page-role: wide
-
 
 image::04-r-original.png[link=self]
 image::05-l.png[link=self]
 image::05-r.png[link=self]
 
+== Cast for this document
+
+xref:roster.adoc#krueckeberg-jh[Krückeberg] · 
+xref:roster.adoc#amt-bbg[Amt Bückeburg] · 
+xref:roster.adoc#rentkammer[Rentkammer] · 
+xref:roster.adoc#gkr-od-reik[GKR od Reik] ·
+xref:roster.adoc#creuzinger[Of. Creuzinger]
 
 == Transliteration and Translation
 

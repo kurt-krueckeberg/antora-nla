@@ -1,0 +1,48 @@
+= People & Offices
+:page-id: people
+
+[cols="22,26,52",options="header"]
+|===
+|Name / Anchor |Role |Notes
+
+[[krueckeberg-jh]]
+|Johann Heinrich Krückeberg (p.)
+|Petitioner / debtor
+|Colon No. 10, Berenbusch
+
+[[hempel-soehne]]
+|Hempel & Söhne
+|Creditor
+|Minden firm
+
+[[amt-bbg]]
+|Amt Bückeburg
+|Local office
+|Executes service/distraint; reports to Rentkammer
+
+[[rentkammer]]
+|Fürstliche Rentkammer
+|Central chamber
+|Issues rescripts; treasury via Cammer-Casse
+
+[[moeller]]
+|Möller, Amtsdiener
+|Process server
+|Certified service 27 Jul 1841
+
+[[gkr-od-reik]]
+|GKR od Reik
+|Privy Chamber Councillor
+|Name as written; submits Vorträge
+
+[[creuzinger]]
+|Of. Creuzinger
+|Official
+|Reports; “Situations-Riß”
+
+[[kr-berger]]
+|K. R. Berger
+|Chamber councillor
+|Mentioned Jan 1842 routing
+|===
+

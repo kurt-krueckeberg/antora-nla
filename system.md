@@ -52,6 +52,7 @@ Example: Opposes installments; recommends 190-rthlr loan; lists holding size and
 - Service (if any): {served}
 
 == Extracted events (from this document)
+
 [cols="12,16,20,18,18,16",options="header"]
 |===
 |Date |Type |Actor → Target |Place |Amount/Thing |Source lines
