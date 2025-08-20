@@ -12,26 +12,17 @@ The order of the ancillary documents in the case file does not reflect the chron
 those documents nor the events in the life of Johann Heinrich Krückeberg that those dates represent. The story flow
 differs from the filing order.
 
-== Chronological Timeline
+== Timeline (Krückeberg case)
 
-[cols="14%,22%,36%,28%",options="header"]
+[cols="12,30,38,20",options="header"]
 |===
-| Date | Event | Details | Source
+| Date | Event | Details | Source in file
 
-| 1833 (from) | Interest begins | 5% on 133 rthl 7 mg parental debt | Doc 2 (Amt Bückeburg)
-
-| 1836-07-30 | Suit opened / pending | Later: 2× appellatorio, 1× supplicatorio (dates not given) | Doc 2
-
-| 1841-07-27 | Service (insinuirt) | “gleichlautendes Gegenbescheid” served by Möller; fees **22¼ mg** | Service slip (note/table)
-
-| 1841-09-08* | Distraint ordered | “unter 8 v.M.” relative to 1841-10-07 → inferred **8 Sept** | Doc 2  *inferred*
-
-| 1841-10-02 | Separate document | (Doc 1) | Doc 1
-
-| 1841-10-07 | Amt report (Doc 2) | Opposes installments; recommends **Anlehen 190 rthl**; Stätte size, insurance 525 rthl; debts 700 rthl | Doc 2
-
-| 1841-10-11 | Presented in Chamber | *pr. in Cam* | Doc 2 header
-
-| 1841-10-14 | Chamber rescript | “wie angetragen, **den Krückeberg zu bescheiden**” (Spring; vorl.) | “Copt.” sheet
+| 1833 (from) | Interest begins | 5% on 133 rthlr 7 mg parental debt | Doc 2 (Amt report)
+| 1836-07-30 | Suit opened | Later: 2× appellate, 1× supplicatory | Doc 2
+| 1841-07-27 | Service | “gleichlautendes Gegenbescheid” served; fees 22¼ mg | Service slip (Möller)
+| 1841-09-08* | Distraint ordered | “unter 8 v.M.” → 8 Sept (inferred) | Doc 2 (*inferred*)
+| 1841-10-07 | Amt report | Opposes installments; proposes **loan 190 rthlr**; farm size/insurance/debts | Doc 2
+| 1841-10-11 | Presented | “pr. in Cam” (filed in the Chamber) | Doc 2 header
+| 1841-10-14 | Chamber rescript | Deny installments; allow loan; notify Krückeberg | “Copt.” sheet; Index row 2
 |===
-
