@@ -11,6 +11,7 @@ image::01-r.png[link=self]
 |===
 |No | Acten Designation (left) |Acten Designation (right) | Ort | Jahr | Mon | Z.
 
+[[idx-1-1]]
 |1.
 |Vorstellung des Col. Krückeberg +
 No 10 in Berenbusch +
@@ -23,6 +24,7 @@ ad 200 r.
 |Octob.
 |2
 
+[[idx-2-1]]
 |2.
 |Bericht Amts Bückeburg
 |Cour. aus
@@ -31,6 +33,7 @@ ad 200 r.
 |〃
 |7
 
+[[idx-2-2]]
 |〃
 |Gg. K. Res. an dasselbe
 |Cammer-Casse
@@ -39,6 +42,7 @@ ad 200 r.
 |〃
 |14
 
+[[idx-3-1]]
 |3.
 |Vorst. des Colons Krückeberg
 .4+|gegen Ver- +
@@ -51,6 +55,7 @@ dereien
 |Nov.
 |11
 
+[[idx-3-2]]
 |〃
 |Vortrag des GKR od Reik
 |〃
@@ -58,6 +63,7 @@ dereien
 |〃
 |15
 
+[[idx-3-3]]
 |〃
 |Gg. K. Res. an p Krückeberg
 |〃
@@ -65,6 +71,7 @@ dereien
 |〃
 |
 
+[[idx-4-1]]
 |4.
 |Vorst. des p Krückeberg
 |Bbg.
@@ -72,6 +79,7 @@ dereien
 |Nov.
 |21
 
+[[idx-4-2]]
 |〃
 |Gg. K. Res. an Of. Creuzinger
 |item +
@@ -81,6 +89,7 @@ Gesuch nun
 |〃
 |25
 
+[[idx-5-1]]
 |5.
 |Bericht des Of. Creuzinger +
 Anb. Situations-Riß der +
@@ -94,6 +103,7 @@ betr.
 |Decbr.
 |10
 
+[[idx-6-1]]
 |6.
 |Vortrag des GKR od Reik
 |〃
@@ -101,6 +111,7 @@ betr.
 |〃
 |16
 
+[[idx-6-2]]
 |〃
 |Höchstes Rescr. [Sei. Reg.]
 |〃
@@ -108,6 +119,7 @@ betr.
 |〃
 |19
 
+[[idx-6-3]]
 |〃
 |P. V. des GKR od Reik u. Höchstes +
 Rescr. Sr. Durchlaucht
@@ -116,6 +128,7 @@ Rescr. Sr. Durchlaucht
 |〃
 |23
 
+[[idx-7-1]]
 |7.
 |Gg. Rescr. aus Amt Bückeburg
 |
@@ -124,6 +137,7 @@ Rescr. Sr. Durchlaucht
 |Decbr.
 |24
 
+[[idx-8-1]]
 |8.
 |Bericht Amts Bückeburg
 |
@@ -132,6 +146,7 @@ Rescr. Sr. Durchlaucht
 |Jan.
 |2
 
+[[idx-8-2]]
 |〃
 |Gg. K. Res. an dasselbe
 |
@@ -140,6 +155,7 @@ Rescr. Sr. Durchlaucht
 |〃
 |20
 
+[[idx-8-3]]
 |〃
 |desgl. an den K. R. Berger
 |
@@ -148,6 +164,7 @@ Rescr. Sr. Durchlaucht
 |〃
 |
 
+[[idx-9-1]]
 |9.
 |Bericht Amts Bückeburg
 |
@@ -156,6 +173,7 @@ Rescr. Sr. Durchlaucht
 |Febr.
 |8
 
+[[idx-10-1]]
 |10.
 |Obligation über aus Fürstl. +
 Kammerkasse geliehene +
