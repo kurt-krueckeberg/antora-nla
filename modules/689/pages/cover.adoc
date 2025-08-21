@@ -1,5 +1,5 @@
 = Case File Cover
-:page-role: wide
+//:page-role: wide
 
 image::cover-orig.png[link=self]
 
