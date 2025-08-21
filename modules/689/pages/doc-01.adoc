@@ -1,7 +1,7 @@
 = Document 1: Krückeberg's Statement and Request - 2 Oct 1841
 :page-role: wide
 
-[cols="1a,1a",frame=none,grid=none.options="noheader"]
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::02-r.png[scale=50link=self]
 
