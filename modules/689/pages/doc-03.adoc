@@ -6,30 +6,32 @@ image::08-r.png[link=self]
 image::09-l.png[link=self]
 
 
-[verse]
-____
-NC. 5038
-pr. in Cam 12 Nov. 41
+[literal,subs="verbatim,quotes"]
+....
+NC. 5038              pr. in Cam 12 Nov. 41
+
+[Fiscal oval hand-stamp]
+FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
+3 Gr.
+
+                  Durchlauchtigster Fürst,
+                  Gnädigst regierender Fürst
+rok               und Herr!
 
 
-Durchlauchtigster Fürst,
-Gnädigst regierender Fürst
-rok
-und Herr!
-
-Rc. [L/F]eiks 3.
+[KC/RC/RL/KL]. Seite 3.
 
 
 Zur völligen Bezahlung der Schuld an die Hempel Söhne
 in Minden ist mir den Consens auf ein Anlehn von 200 rt
 ertheilt, wie mir das Amt bekannt gemacht hat, und ich habe
 mir nun alle mögliche Mühe gegeben, um dieses Geld ir-
-gendwo bei einem Privatmanne aufzuleihen; allein es
+gendwo bei einem Privatmanne auszuleihen; allein es
 ist mir nicht möglich gewesen, es anzuschaffen, und das Amt
 drohet mit dem Verkaufe meiner Stätte, wenn ich nicht
 bald das Geld herbeischaffe. In dieser schrecklichen Be-
 drängniß weiß ich mich nirgends mehr hinzuwenden als
-an Ew. Durchlaucht in der Hoffnung, das benöthigte An¬
+an Ew. Durchlaucht in der Hoffnung, das benöthigte An-
 lehn von 200 rt aus der Kammerkasse zu erhalten.
 Wenn ich auch nur auf ein Jahr dieses Anlehn erhalte,
 so habe ich doch dann Muße, mich nach dem Umlehn ge-
@@ -37,26 +39,26 @@ hörig umzusehen, und werde es bis dahin wohl das
 Geld an einer andern Stelle geliehen erhalten
 können, denn Sicherheit biethet meine Stätte mit den von
 meinem Vater von der gnädigsten Herrschaft in den
-Jahren 1814 und 1818 angekauften Länderinn noch genug¬
-som där.
+Jahren 1814 und 1818 angekauften Länderinn noch genug-
+sam där.
 
 Ew. Durchlaucht bitte ich daher so dringend als unter-
 thänigst:
 
-mir das benöthigte Darlehn von 200 rt aus
-der Kammerbasse gegen gerichtliche Obliga-
-tion gnädigst zu bewilligen.
+          mir das benöthigte Darlehn von 200 rt aus
+          der Kammerbasse gegen gerichtliche Obliga-
+          tion gnädigst zu bewilligen.
 
 In tiefster Ehrfurcht ersterbend
-Erw. Durchlaucht
 
-Bückeburg
-Den 11. Nov. 1841.
-Conc. GW Frechs.
+                        Erw. Durchlaucht
+
+
+
+
+Bückeburg                       unterthänigster,
+Den 11. Nov. 1841.              Colon Krückeberg
+Conc. GW Frechs.                No 10 in Berenbusch.
+
 progg.
-
-
-unterthänigster,
-Colen Krückeberg
-No 10 in Berenbusch.
-____
+....
