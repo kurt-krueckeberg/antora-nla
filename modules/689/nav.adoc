@@ -9,4 +9,4 @@
 * xref:doc2-copt.adoc[]
 * xref:doc2-ad2.adoc[]
 * xref:doc-03.adoc[]
-* xref:doc-03-1a.adoc[]
+* xref:doc-03-a.adoc[]
