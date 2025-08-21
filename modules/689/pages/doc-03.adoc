@@ -1,7 +1,7 @@
 = Document 3
 :page-role: wide
 
-[cols="1a,1a",frame=none,grid=none]
+[options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
 |image::08-r.png[scale=50,link=self]
 
