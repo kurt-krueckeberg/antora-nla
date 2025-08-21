@@ -59,6 +59,7 @@ B. 32.
 ....
 |===
 
+[role="section-narrow"]
 == Glossary of Terms
 
 Activa:: Cover/category label meaning **active matters** (pending business). Often paired with a repertory (e.g.,
