@@ -1,7 +1,9 @@
 = Sale Risk and Loan Coverage: Clerk’s Opinion on Krückeberg’s Holding — 15 Nov 1841
+:page-role: wide
 
 image::09-r.png[scale=75,link=self]
 
+[role="narrow-section"]
 == Overview
 
 On November 15, 1841, a clerk in Bückeburg set out, in a few lines, what Johann Heinrich Krückeberg’s farm was
