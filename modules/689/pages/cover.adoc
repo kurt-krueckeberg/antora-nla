@@ -37,6 +37,7 @@ B32.
 |
 [literal,subs="verbatim,quotes"]
 ....
+Activa
 [line-through]#II. Current (series)#
 [line-through]#2 Private persons#
 [line-through]#in the Principality of Schaumburg-Lippe#
