@@ -11,7 +11,7 @@ Möller, Amtsdiener, and refers to the insinuation (formal service) of the “gl
 standard fee-book abbreviations for decree/dispatch/notification at the Amt. They’re the costs of preparing and
 serving that notice, typically chargeable to the party.
 
-[cols="1l,1l",frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
