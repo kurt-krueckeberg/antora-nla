@@ -3,7 +3,7 @@
 * xref:cover.adoc[]
 * xref:doc-index.adoc[]
 * xref:doc-1i.adoc[]
-* xref:service-slip.adoc[]
+* xref:service-slip-july-10-1841.adoc[]
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
 * xref:doc2-copt.adoc[]
