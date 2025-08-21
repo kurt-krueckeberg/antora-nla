@@ -3,9 +3,9 @@
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
-|image::08-r.png[scale=50,link=self]
+|image::08-r.png[title="Click to Enlarge",scale=50,link=self]
 
-|image::09-l.png[scale=50,link=self]
+|image::09-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
 
