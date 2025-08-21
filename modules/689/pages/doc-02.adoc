@@ -5,6 +5,23 @@ image::04-r-original.png[link=self]
 image::05-l.png[link=self]
 image::05-r.png[link=self]
 
+== Summary of Contents
+
+On *7 October 1841* the *Amt Bückeburg* reports to the *Princely Rentkammer* about Johann Heinrich
+*Krückeberg* (Colon No. 10, Berenbusch). The Amt confirms that the firm *Hempel & Söhne (Minden)* has a *court
+judgment* against him for *133 Reichsthaler 7 Mariengroschen*, with *5% interest since 1833*, plus costs, and
+that *distraint* has already been ordered. In the Amt’s view there is *no legal basis* to order *installment
+payments*, and the creditor will *not agree* to them. Instead, the Amt proposes that installments be *denied*,
+but that Krückeberg be *allowed a loan of 190 rt from the Chamber treasury* to clear the judgment; his holding
+(10 Morgen 30 Ruthen; farm buildings insured at *525 rt*) would provide *adequate security*, and any small
+remainder after payment could go to his *legal costs*. Execution has been *temporarily stayed* pending the
+decision.
+
+The paper was *presented in the Chamber on 11 Oct 1841*, and on *14 Oct 1841* a marginal *rescript* instructs
+the Amt to *inform Krückeberg accordingly* (“wie angetragen … zu bescheiden”)—i.e., to *reject installments*
+but *permit a 190-rt loan* secured on his holding.
+
+
 == Cast for this document
 
 include::partial$cast/doc-02.adoc[]
