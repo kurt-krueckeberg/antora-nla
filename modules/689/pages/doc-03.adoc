@@ -12,13 +12,13 @@
 == Overview
 
 The document was drafted by *G. W. Fuchs*, on November 11, 1841, on behalf of Johann Heinrich Krückeberg, No. 10
-Berenbush. You can see this at the foot of page 2, where "*Conc.: G. W. Fuchs”* means "drafted by the clerk G. W.
-Fuchs".  Fuchs was likely a *Kanzlei-Schreiber (Concipist) at the Amt Bückeburg* or a local office scribe who
-drafted petitions for residents. *Colon Krückeberg* appears opposite of "GW Fuchs" beneath the closing valediction
-*unterhängster* (*your most humble [petitioner/servant]*).
+Berenbush. "*Conc.: G. W. Fuchs”*, meanings "drafted by the clerk G. W. Fuchs, appear at the foot of page 2.  Fuchs
+was likely a *Kanzlei-Schreiber (Concipist) at the Amt Bückeburg* or a local office scribe who drafted petitions
+for residents. *Colon Krückeberg* appears opposite of "GW Fuchs" beneath the closing valediction *unterhängster*
+(*your most humble [petitioner/servant]*).
 
 The petition was presented before the Rentcammer the next day, November 12, 1841, when it assigned the registry number of
-5038. And the *large margin note "R. C. Seite 3."* was added. It's a cross-reference to a separate book kept by the
+5038, and the *large margin note "R. C. Seite 3."* was added, which is a cross-reference to a separate book kept by the
 Rentkammer—typically called the *Journal/Manual/Protocol of the Rentkammer* (also Eingangs-Journal, Register der Eingaben,
 or simply Protocoll). Every incoming petition got a short entry there (date, sender, subject, fees), often grouped by
 month or sitting.
@@ -26,7 +26,7 @@ month or sitting.
 Clerks wrote that cue on the incoming sheet (sometimes with their initials above it) so later staff could *find the
 journal entry quickly* for auditing fees, checking what was ordered, or continuing the workflow.
 
-The *tiny "pro gg." at the bottom of page 2 means  *pro (gegen) Gebühr(en)*, i.e., processed *with the fee*. When
+Finally, the *tiny "pro gg." at the bottom of page 2 means  *pro (gegen) Gebühr(en)*, i.e., processed *with the fee*. When
 the document was presented a processing fee was required, and then the document was stamped as having been paid.  
 
 == Timeline
