@@ -7,6 +7,6 @@
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
 * xref:doc-02-copt.adoc[]
-* xref:doc2-ad2.adoc[]
+* xref:doc-02-cover-slip.adoc[]
 * xref:doc-03.adoc[]
 * xref:doc-03-a.adoc[]
