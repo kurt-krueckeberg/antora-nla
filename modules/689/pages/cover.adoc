@@ -1,4 +1,5 @@
-= Cover (under deveopment)
+= Case File Cover
+:page-role: wide
 
 image::cover-orig.png[link=self]
 
