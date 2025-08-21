@@ -17,6 +17,18 @@ forced sale stayed very real.
 
 == Transliteration and Translation
 
+."holding" and "vot." Explained
+****
+[NOTE]
+====
+* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the "leasehold farm
+holding of a numbered Colon (tenant farmer), comprising land and buildings."
+* *vot.* is short of votum and means the  Clerk’s/official’s written **opinion orrecommendation** submitted to the
+Chamber. It is not a vote tally.
+====
+****
+
+
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -82,17 +94,4 @@ KC. The petition should be rejected.
 [Ricke/Reitz] vot[um]
 ....
 |===
-
-
-."holding" and "vot." Explained
-****
-[NOTE]
-====
-* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the "leasehold farm
-holding of a numbered Colon (tenant farmer), comprising land and buildings."
-* *vot.* is short of votum and means the  Clerk’s/official’s written **opinion orrecommendation** submitted to the
-Chamber. It is not a vote tally.
-====
-****
-
 
