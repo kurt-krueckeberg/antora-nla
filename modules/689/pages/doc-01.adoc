@@ -1,11 +1,25 @@
 = Document 1: Krückeberg's Statement and Request - 2 Oct 1841
 :page-role: wide
 
-== Under Development
+[cols="1a,1a",frame=none,grid=none.options="noheader"]
+|===
+|image::02-r.png[scale=50link=self]
 
-image::02-r.png[link=self]
+|image::03-l-original.png[scale=50,link=self]
+|===
 
-image::03-l-original.png[link=self]
+== Overview
+
+On *2 October 1841* in Bückeburg, *Johann Heinrich Krückeberg* (Colon No. 10, Berenbusch) petitions the
+*Princely Rentkammer*. He explains that his late parents—his father a shoemaker and his mother who continued the
+trade—ran up a substantial *leather debt* with *Hempel & Söhne (Minden)*. That debt, with *interest*, has
+been *judged against him*, and, as an attached Amt notice shows, he now faces *distraint*. Unable to pay the
+whole amount from his own means, he *begs leave to borrow 150 Reichsthaler* and to *amortize the remaining,
+unconsolidated portion* of Hempel’s claim in *annual installments of 5 thalers*. He acknowledges his holding
+already carries *700 thalers of consented debts*, but says he has no other way out despite the heavier interest
+burden. The petition closes with the standard deferential formula. Marginal dockets route the matter to the Amt for
+a report (noted *4 Oct 1841*) and register it under *N.C. 438 i*; the drafting note *“Conc. G. W. Fuchs”*
+shows it was written up by clerk *G. W. Fuchs*.
 
 == Transliteration and Translation
 
