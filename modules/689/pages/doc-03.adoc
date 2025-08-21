@@ -8,7 +8,7 @@
 |image::09-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
-
+[role="section-narrow"]
 == Overview
 
 The document was drafted by *G. W. Fuchs*, on November 11, 1841, on behalf of Johann Heinrich Krückeberg, No. 10 
