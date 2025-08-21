@@ -1,7 +1,6 @@
 = Sale Risk and Loan Coverage: Clerk’s Opinion on Krückeberg’s Holding — 15 Nov 1841
 :page-role: wide
 
-== Test
 image::09-r.png[scale=75,link=self]
 
 [role="narrow-section"]
@@ -23,14 +22,13 @@ forced sale stayed very real.
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
 ....
 Die Stelle des Krückeberg besteht
 
 aus 10 Morgen a 100 rt_______1000 rt
-Catasterwerth der Gebäude____525rt
-               -------------------
-                            1525 rt
+Catasterwerth der Gebäude_____525 rt
+
+                            1525 rt [total]
 davon ab Schulden.___________700 -
                bleibt Werth  825 rt
 
@@ -60,7 +58,6 @@ Bbg 15. Nov. 41.
 
 
 |
-[literal,subs="verbatim,quotes"]
 ....
 10 Morgen at 100 rt each ___________ 1000 rt
 Cadastral value of the buildings ____ 525 rt
