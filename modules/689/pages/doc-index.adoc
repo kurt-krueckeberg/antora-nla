@@ -6,7 +6,7 @@ image::01-r.png[link=self]
 [role="section-narrow"]
 == Transliteration 
 
-[%header,cols="^1,9a,6a,2,2,2,^1",frame=none]
+[%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Transliteration
 |===
 |No | Acten Designation (left) |Acten Designation (right) | Ort | Jahr | Mon | Z.
@@ -185,11 +185,13 @@ Kammerkasse geliehene +
 |
 |===
 
+[role="section-narrow"]
 == Glossary (Index / Acten-Designation)
 
 === Columns, layout, marks
 
-Acten Designation:: File/index designation (what the entry is “about”); in the index it’s split logically into a **left** sub-column (document type/origin) and a **right** sub-column (subject/routing/what it concerns).
+Acten Designation:: File/index designation (what the entry is “about”); in the index it’s split logically into a
+**left** sub-column (document type/origin) and a **right** sub-column (subject/routing/what it concerns).
 Ort:: Place.
 Jahr:: Year.
 Mon:: Month (e.g., Octob., Nov., Decbr., Jan., Febr.).
