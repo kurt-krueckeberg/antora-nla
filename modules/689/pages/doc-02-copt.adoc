@@ -1,4 +1,4 @@
-= Document 2: Copt
+= This Needs a Title
 :page-role: wide
 
 image::06-l.png[link=self]
