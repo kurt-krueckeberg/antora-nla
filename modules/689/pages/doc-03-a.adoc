@@ -3,38 +3,76 @@
 
 image::09-l.png[link=self]
 
-== Transliteration
+== Transliteration and Translation
 
+
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
 ....
 Die Stelle des Krückeberg besteht
 
-aus 10 Meyn a 100 rj_______1000 rj
-525 -
-Catasterwerth der Gebäude__1525 rp
+aus 10 Morgen a 100 rt_______1000 rt
+Catasterwerth der Gebäude____525rt
                -------------------
-davon ab Schulden.__________700 -
-               bleibt Werth 825 rt
+                            1525 rt
+davon ab Schulden.___________700 -
+               bleibt Werth  825 rt
 
 
-Sollte die Stelle zum Verkauf komme
-so mögte es immer noch zur Frage
+Sollte die Stelle zum Verkauf kommen,
+so möchte es immer noch zur Frage
 kommen, ob nach Abrechnung der
-Lasten für das erbethene dar-
-lese von 200 rt Deikung erfolgen
+Lasten für das erbetene Dar-
+lehn von 200 rt Deckung erfolgen
 würde. Obgleich nicht zu leugnen,
 daß schon Darlehen unter noch
-möglicheren Verhältnissen be-
-willigt werden sind, so mag
-ich ein solches doch nicht bevor-
-worten d kaum daher die
-Bewilligung oder verweigerung
+misslicheren Verhältnissen be-
+willigt worden sind, so mag
+ich ein solches doch nicht be[für-
+worten] und kaum daher die
+Bewilligung oder Verweigerung
 lediglich dem Ermessen der Cam-
 mer anheimgeben.
 Bbg 15. Novbr 41.
-              [Ricke/Reitz]
+              [Ricke/Rietz]
 
 KC. das Gesuch wäre
 abzuschlagen.
-36 g. 15. Nov. 41.
-        [Ricke/Reitz]    vot[um]
+Bbg 15. Nov. 41.
+        [Ricke/Rietz]    vot[um]
 ....
+
+
+|
+[literal,subs="verbatim,quotes"]
+....
+10 Morgen at 100 rt each ___________ 1000 rt
+Cadastral value of the buildings ____ 525 rt
+
+                                   1525 rt
+                        --------------------
+less debts _________________________ 700 -
+                    remaining value 825 rt
+
+Should the homestead come up for sale, it would still
+remain a question whether, after settling the
+liabilities, the requested loan of 200 rt would be
+covered. Although it cannot be denied that loans have
+already been granted under even more precarious
+circumstances, I cannot advocate for such a loan and
+will therefore hardly leave the approval or rejection
+to the sole discretion of the Chamber.
+
+Bückeburg, November 15, '41.
+[Ricke/Reitz]
+
+KC. The petition should be rejected.
+36 g. November 15, '41.
+[Ricke/Reitz] vot.
+....
+|===
+
+
