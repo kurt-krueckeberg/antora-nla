@@ -1,10 +1,12 @@
 = Document 3
 :page-role: wide
 
-image::08-r.png[link=self]
+[cols="1a,1a",frame=none,grid=none]
+|===
+image::08-r.png[scale=50,link=self]
 
-image::09-l.png[link=self]
-
+image::09-l.png[scale=50,link=self]
+|===
 
 [literal,subs="verbatim,quotes"]
 ....
@@ -19,7 +21,7 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 rok               und Herr!
 
 
-[KC/RC/RL/KL]. Seite 3.
+[RC?]. Seite 3.
 
 
 Zur völligen Bezahlung der Schuld an die Hempel Söhne
@@ -40,9 +42,9 @@ Geld an einer andern Stelle geliehen erhalten
 können, denn Sicherheit biethet meine Stätte mit den von
 meinem Vater von der gnädigsten Herrschaft in den
 Jahren 1814 und 1818 angekauften Länderinn noch genug-
-sam där.
+sam dar.
 
-Ew. Durchlaucht bitte ich daher so dringend als unter-
+Eure Durchlaucht bitte ich daher so dringend als unter-
 thänigst:
 
           mir das benöthigte Darlehn von 200 rt aus
@@ -51,14 +53,61 @@ thänigst:
 
 In tiefster Ehrfurcht ersterbend
 
-                        Erw. Durchlaucht
+                        Eure Durchlaucht
 
 
 
 
-Bückeburg                       unterthänigster,
-Den 11. Nov. 1841.              Colon Krückeberg
-Conc. GW Frechs.                No 10 in Berenbusch.
+Bückeburg                              unterthänigster,
+Den 11. Nov. 1841.                     Colon Krückeberg
+Conc[ipiert]. GW Frechs.               No 10 in Berenbusch.
 
-progg.
+progg[protokollieren].
+....
+
+
+[literal,subs="verbatim,quotes"]
+....
+NC. 5038          presented in the Chamber 12 Nov. [18]41
+
+
+   Most Serene Prince, Gracious reigning Prince and Lord!
+
+
+For the complete payment of the debt to the Hempel sons
+in Minden, I have been granted the consent for a loan
+of 200 rt, as the office has informed me, and I have
+now made every possible effort to borrow this money
+from a private individual somewhere; but it has not
+been possible for me to procure it, and the office
+threatens the sale of my homestead if I do not quickly
+provide the money. In this terrible distress, I know of
+nowhere else to turn but to Your Serene Highness in the
+hope of receiving the necessary loan of 200 rt from the
+Chamber Treasury.
+
+Even if I only receive this loan for a year, I would
+then have the time to properly look for a new loan, and
+will by then surely be able to obtain the money in
+another place, because my homestead, along with the
+lands purchased by my father from the most gracious
+Lordship in the years 1814 and 1818, still offers
+sufficient collateral.
+
+I therefore ask Your Serene Highness, as urgently and
+humbly as possible: to graciously approve the necessary
+loan of 200 rt from the Chamber Treasury against a
+legal obligation.
+
+Dying in deepest reverence,
+
+                                 Your Serene Highness
+
+
+
+Bückeburg                     Your most humble servant,
+11th  Nov 1841.                        Colon Krückeberg
+Drafted by GW Frechs.               No 10 in Berenbusch.
+
+filed.
 ....
