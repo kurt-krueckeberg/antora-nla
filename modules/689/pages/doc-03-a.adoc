@@ -3,9 +3,7 @@
 
 image::09-r.png[scale=75,link=self]
 
-== Other section
-
-[role="narrow-section"]
+[role="section-narrow"]
 == Overview
 
 On November 15, 1841, a clerk in Bückeburg set out, in a few lines, what Johann Heinrich Krückeberg’s farm was
