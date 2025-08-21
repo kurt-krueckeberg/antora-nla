@@ -1,7 +1,7 @@
 
 = Doc 3-1a
 
-image::09-l.png[link=self]
+image::09-r.png[link=self]
 
 == Transliteration and Translation
 
