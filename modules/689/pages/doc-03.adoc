@@ -8,6 +8,14 @@
 |image::09-l.png[scale=50,link=self]
 |===
 
+== Transliteration and Translation
+
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
 [literal,subs="verbatim,quotes"]
 ....
 NC. 5038              pr. in Cam 12 Nov. 41
@@ -65,7 +73,7 @@ Conc[ipiert]. GW Frechs.               No 10 in Berenbusch.
 progg[protokollieren].
 ....
 
-
+|
 [literal,subs="verbatim,quotes"]
 ....
 NC. 5038          presented in the Chamber 12 Nov. [18]41
@@ -111,3 +119,4 @@ Drafted by GW Frechs.               No 10 in Berenbusch.
 
 filed.
 ....
+|===
