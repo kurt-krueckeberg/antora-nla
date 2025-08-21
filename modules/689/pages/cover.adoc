@@ -5,6 +5,7 @@ image::cover-orig.png[link=self]
 
 [literal,subs="verbatim,quotes"]
 ....
+Activa
 [line-through]#II. Currente#
 [line-through]#2 Privat Personen#
 [line-through]#im Fürstenthum Schaumburg-Lippe#
