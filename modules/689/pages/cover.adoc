@@ -71,7 +71,9 @@ in specie:: Latin filing rubric: **“in the specific matter [of] …”**; intr
 (Spelling is *specie*, not *speice*.)
 Kammerkasse:: The **Chamber Treasury**, i.e., the Rentkammer’s finance office (source/route of loans, receipts,
 etc.). Period spelling also “Cammer-Casse”.
-2 rthl. Courant:: **2 Reichsthaler in current coin**.  
-*Notes:* **rthl.** = Reichsthaler; you also see **rt**, **Rthlr.**; **Courant** means face-value specie (not bank money). On your cover the formula reads “**200 rthl. Courant**.”
+200 rthl. Courant:: **200 Reichsthaler in current coin**. +
+*Notes:* **rthl.** = Reichsthaler; you also see **rt**, **Rthlr.**; **Courant** means face-value specie (not bank money).
+Specie means money in coin—physical coins made of precious metal (historically silver or gold), as opposed to paper notes,
+book credit, or IOUs.
 betr. (betreffend):: **regarding / concerning / re.** Common cover/index shorthand closing the subject line.
 
