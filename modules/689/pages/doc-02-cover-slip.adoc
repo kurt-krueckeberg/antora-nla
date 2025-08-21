@@ -1,4 +1,7 @@
-= Document 2: Ad 2
+= Petition Cover Slip — Loan Consent (Krückeberg, Colon No. 10, Berenbusch)
+:doc-id: slip-loan-consent-cover
+:date: undated
+:note: Address slip to the Princely Rentkammer; “unterthänigstes Gesuch um Anlehns-Consens, pp.”
 :page-role: wide
 
 image::08-l.png[link=self]
