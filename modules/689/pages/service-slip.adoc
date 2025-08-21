@@ -6,13 +6,13 @@ image::07-l.png[link=self]
 == Transliteration and Translation
 
 These look like Amt-level service/processing fees, not fees charged by the Rentkammer itself. The slip is signed by
-Möller, Amtsdiener and refers to the insinuation (formal service) of the “gleichlautendes Gegenbescheid” on 27 July
-1841. The row labels (likely Decr., Exp., Not.) are standard fee-book abbreviations for
-decree/dispatch/notification at the Amt. They’re the costs of preparing and serving that notice, typically
-chargeable to the party.
+Möller, Amtsdiener, and refers to the insinuation (formal service) of the “gleichlautendes Gegenbescheid”
+(“identically worded counterpart of the notice”) on 27 July 1841. The row labels (likely Decr., Exp., Not.) are
+standard fee-book abbreviations for decree/dispatch/notification at the Amt. They’re the costs of preparing and
+serving that notice, typically chargeable to the party.
 
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 Colon Krückeberg N 10 in
 Berenbusch
 Decr_____________6                                                           
@@ -25,12 +25,19 @@ Fr_______________4
 Das Gleichlautner gegen Bescheid ist
 Insinuirt den 27ten July 1841
 Möller Amtsdiener
-____
+....
 
+[literal,subs="verbatim,quotes"]
+....
+Tenant farmer Krückeberg N 10 in
+Berenbusch
+Decr_____________6                                                           
+ej_______________6
+N________________2
+ms_______________4
+Fr_______________4
+                22
+The identically worded counterpart of the notice 
+was formally served on 27 July 1841.
+....
 
-
-
-[verse]
-____
-The identically worded counterpart of the notice was formally served on 27 July 1841.
-____
