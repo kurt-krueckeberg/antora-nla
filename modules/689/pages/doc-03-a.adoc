@@ -1,10 +1,19 @@
+= Sale Risk and Loan Coverage: Clerk’s Opinion on Krückeberg’s Holding — 15 Nov 1841
 
-= Doc 3-1a
+image::09-r.png[scale=75,link=self]
 
-image::09-r.png[link=self]
+== Overview
+
+On November 15, 1841, a clerk in Bückeburg set out, in a few lines, what Johann Heinrich Krückeberg’s farm was
+worth and whether a new loan made sense. He valued the land at 1,000 Reichsthaler (10 morgens at 100 rt each) and
+the buildings at 525 rt, for a total of 1,525 rt; after subtracting 700 rt in debts, only 825 rt remained. The memo
+then asks whether a proposed 200-rt loan would be safely covered if the holding had to be sold—and answers, in
+effect, no. The reviewer writes that he cannot recommend granting the loan and leaves the decision to the Chamber
+(the princely finance office). A same-day note from the Chamber board adds, tersely, that the petition should be
+rejected. In short: the numbers didn’t convince the authorities that a rescue loan was secure, and the risk of a
+forced sale stayed very real.
 
 == Transliteration and Translation
-
 
 |===
 |Transliteration|Translation
