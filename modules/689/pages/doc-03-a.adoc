@@ -3,6 +3,8 @@
 
 image::09-r.png[scale=75,link=self]
 
+== Other section
+
 [role="narrow-section"]
 == Overview
 
