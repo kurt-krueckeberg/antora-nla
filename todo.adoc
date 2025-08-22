@@ -2,9 +2,8 @@
 
 == 689
 
-Convert the literal document index into an AsciiDoc table. The literal version aligns those
-entries that have dates. Lines of text without dates belong to the line above them that has
-a date. Then submit the final AsciiDoc table along with the image to Chatgpt. 
+Finish overview.adoc and include inti footnotes that are defined at the end of the page and include
+xrefs to the anchors of the document's the footnote refers to.
 
 == How Documents are Referenced: Understanding the NLA 1236 Headers
 
