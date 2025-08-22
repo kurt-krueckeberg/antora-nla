@@ -28,8 +28,8 @@ i*.
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 NC. 438i                         
                          pr. inlen 2 Oct. 1841
 
@@ -58,7 +58,7 @@ langung der Vergünstigung, den Rest in jährlichen
 Terminen von 5 Rthlr abtragen zu können. Auf
 meiner
 
-Nrpr: 127.
+Nrpr: 127. [end of first page]
 
 meiner Stätte haften zwar schon 700 Rthl consentirter
 Schulden, allein ich kann mir nicht anders helfen, so
@@ -83,17 +83,18 @@ Ew. Durchlaucht
                            unterthänigster,
 Buckeburg
                            Colen Krückeberg
-d. 2ten. Okt. 1841.
+d. 2ten Ditto. 1841.
                            Nr 10 in Berenbusch.
-Cond. GWFuchs.
+Conc. GWFuchs.
 Nro g d.
-____
+....
 
 |
 [verse]
 ____
 No. C. 438i
-              presented in incoming [matters] 2 Oct 1841
+
+presented in incoming [matters] 2 Oct 1841
 
 To His Serene Highness,
 most gracious ruling Prince
@@ -119,7 +120,7 @@ Reichstaler, and obtaining the privilege of being able
 to repay the remainder in annual installments of
 5 Reichstaler. On my
 
-No. pr: 127.
+No. pr: 127. [end of first page]
 
 property there already rest 700 Reichstaler of secured
 debts, yet I can find no other remedy, however
@@ -143,7 +144,7 @@ Bückeburg
                               Colon Krückeberg
 2 October 1841
                               No. 10 in Berenbusch
-Cond. G. W. Fuchs
-Nro g d.
+drafted by G. W. Fuchs
+with fee
 ____
 |===
