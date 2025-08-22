@@ -5,6 +5,7 @@ image::04-r-original.png[link=self]
 image::05-l.png[link=self]
 image::05-r.png[link=self]
 
+[role="section-narrow"]
 == Summary of Contents
 
 On *7 October 1841* the *Amt Bückeburg* reports to the *Princely Rentkammer* about Johann Heinrich

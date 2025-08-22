@@ -1,12 +1,9 @@
 = Document 1i: Decree Against Krückeberg - 13 July 1841
 :page-role: wide
-:doc-id: doc-02
-:place: Bbg.
-:doc-date: 1841-10-07
-:presented: 1841-10-11   // pr. in Cam
-:rescript:                // if this sheet contains one
-:served:                  // if the sheet itself records service
-:source-images: image4r,image5l,image5r  // your filenames/anchors
+:doc-id: doc-01i
+:place: Bückeburg
+:doc-date: 1841-07-13
+:source-images: 03-r.png,04-l.png
 :related-index: index-row-2
 
 
