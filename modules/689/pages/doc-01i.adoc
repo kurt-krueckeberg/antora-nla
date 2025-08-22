@@ -14,6 +14,25 @@
 |image::04-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
+== Overview and Summary
+
+On *10 July 1841* at the *Amt Bückeburg*, the creditor *Hempel & Söhne of Minden* pressed their case against
+*Johann Heinrich Krückeberg* (Colon No. 10, Berenbusch). Their attorney, *Advokat Meyer*, told the Amt that
+Krückeberg still had not paid as he’d been ordered to do by decrees of *29 May* and *6 June* (of the *previous
+year*), and he asked that the *threatened “execution”* be put into effect—meaning formal enforcement of the
+judgment, up to and including *distraint* (seizure).
+
+On *13 July 1841* the Amt issued its *Decretum*: the order was to be served on Krückeberg; *execution was now
+recognized*, and the *Amtsdiener Möller* (the court bailiff) was instructed to levy for the *principal of 133
+Reichsthaler 7 Mariengroschen*, plus *5% interest from 9 April 1833* and a *4-Mariengroschen fee*. Krückeberg
+was to be warned that *if the levy proved fruitless and no payment came within 14 days*, the creditor could, upon
+further request, have *distraint immediately ordered and carried out*.
+
+In short, this document records the *turn from warning to active enforcement*: the court tells its bailiff to
+proceed, sets the exact *sum and interest*, and puts Krückeberg on a *14-day clock* toward seizure if he does
+not pay.
+
+
 == Transliteration and Translation
 
 [cols="1a,1a"]
