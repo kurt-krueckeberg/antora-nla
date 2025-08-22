@@ -41,22 +41,22 @@ not pay.
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
               1i
 
 
 
-Actum Bückeburg am Amte
-den 10ten Juli 1841
+           Actum Bückeburg am Amte
+           den 10ten Juli 1841
 
-In Sachen
+        In Sachen
 
 der Hempel Söhne in Minden, Kläger,
           wider
 den Colon Krückeberg No. 10 in Beren-
 busch, Beklagten
-                 [?]ote Capital und
+                 [?]ot[?] Capital und
                  Zinsen.
 
 Advocat Meÿer, Anwalt der
@@ -67,16 +67,15 @@ vom 29ten Mai 6ten Juni v. J.
 aufgegeben, die qu: 133 Rthlr
 7 g nebst 5 p.c. Zinsen vom 9ten
 April 1833 bezahlt habe,
-nunmehro die angehrohte
-Execution, unter Andro-
-hung der Auspfandung
-zu erkennen ref: exp: contum:
-infidem
+     nunmehro die angehrohte
+     Execution, unter Andro-
+     hung der Auspfandung
+     zu erkennen ref: exp: contum:
+     infidem
        F. Sander
 
 
-Decretum
-
+      Decretum
 
 Vorstehender Recess wird dem Verklag-
 ten in Abschrift mitgeheilt und
@@ -93,11 +92,11 @@ auf ferneres Ansuchen der Klä-
 ger sofort die Auspfandung
 erkannt und vollzogen werde.
 
-Decr: Bückeburg 13t Juli 1841.
-Fürstlich Schaumburg Upp. Amt.
+  Decr: Bückeburg 13t Juli 1841.
+  Fürstlich Schaumburg Upp. Amt.
 
-Haadr   Yöcker [or Jöcker]
-____
+     Haadr   Yöcker [or Jöcker]
+....
 
 |
 [verse]
