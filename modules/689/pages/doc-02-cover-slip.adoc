@@ -14,8 +14,8 @@ image::08-l.png[link=self]
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 An
 Fürstliche Rentkammer.
 des Kolon Krucheberg
@@ -23,7 +23,7 @@ Nro 10 in Berenbusch
 unterthänigstes Gesuch
 um Anlehns den-
 sens pp
-____
+....
 
 |
 [verse]
