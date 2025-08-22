@@ -1,9 +1,11 @@
-= Amt Decree Against Krückeberg and Execution Order - 10/13 July 1841
+= Amt Bückeburg - Decree and Execution Order - 10/13 July 1841
 :page-role: wide
-:doc-id: doc-01i
-:place: Bückeburg
-:doc-date: 1841-07-13
+:doc-id: amt-decree.adoc
+:series: NLA BU, K 2, A Nr. 689
 :source-images: 03-r.png,04-l.png
+:place: Bückeburg
+:doc-date: 1841-07-10/1841-07-13
+:summary: Court decree ordering execution; bailiff Möller instructed; distraint threatened after 14 days
 :related-index: index-row-2
 
 

@@ -1,45 +1,26 @@
 = Overview
-TODO:
-Rewrite the Chatpgpt summary below:
-* point out that the source of the information is from the Amt Decree of 13 July 1841, and...
-* summarize that July 1841 Rentcammer Decree aginst Johann Heinrich briefly, and...
-* mention that Krückeberg had been the one to appeal and then to petition and this
-had incurred more legal costs.
+// TODO:
+// Rewrite the Chatpgpt summary below:
+// * point out that the source of the information is from the Amt Decree of 13 July 1841, and...
+// * summarize that July 1841 Rentcammer Decree aginst Johann Heinrich briefly, and...
+// * mention that Krückeberg had been the one to appeal and then to petition and this
+// had incurred more legal costs.
+// 
+// Be sure also to:
+// * Summarize and mention that the debt owed to Hempel and Sons originated with Jobst Heinrich (1765-1822) and give
+// a brief biography of him and his wife.
 
-Be sure also to:
-* Summarize and mention that the debt owed to Hempel and Sons originated with Jobst Heinrich (1765-1822) and give
-a brief biography of him and his wife.
-
-Starting well before 1841, Hempel & Söhne of Minden had sued over a leather debt left from Johann Heinrich
-Krückeberg’s parents' shoemaking trade. The case had been grinding on “since *30 July 1836*,” with
-hearings “*twice in appellatorio* and *once in supplicatorio*” (i.e., through appeals and an extraordinary
-petition). That entire litigation trail, including the creditor’s success, is summarized by the *Amt itself* in its
-report to the Chamber of *7 October 1841* (Document *2*). In the same report the Amt confirms the *adjudicated
-sum*—*133 Reichsthaler 7 Mariengroschen*, with *5% interest accruing from 9 April 1833*—and states that *distraint
-(Auspfändung) has already been recognized* upon the creditor’s application. It also says plainly that there is *no
-legal basis* for compelling *installment payments* and that the creditor *will not agree* to them (Doc *2*, 7 Oct
-1841).
-
-The *concrete enforcement step* is preserved even more clearly in a judicial piece that found its way into the
-Chamber file: the xref:doc-01.adoc[Decretum (Decree) of 13 July 1841] with its preamble dated *10 July 1841*
-(Document *1i*). There, creditor’s counsel *Advokat Meyer* reminds the Amt that Krückeberg *has not complied* with
-earlier *payment decrees of 29 May and 6 June 1840* and requests that the *threatened execution* now be carried
-out. The Amt grants that request: it orders its *bailiff, Amtsdiener Möller*, to *levy* (execute) for the principal
-*133 rt 7 mg*, *5% interest from 9 April 1833*, and a *4-mg fee*, and it warns Krückeberg that *if the levy proves
-fruitless and no payment is made within 14 days*, the creditor may, on further application, have *distraint
-immediately ordered and carried out* (Doc *1i*, 10/13 July 1841). Those *1840 decrees* themselves are *not bound*
-into the Chamber file, but their dates and content are *quoted* in this judicial Decretum.
-
-When Krückeberg pleads to the *Rentkammer* a few months later—his petition is dated *2 October 1841* (Document *1*)
-and again *11/12 November 1841* (Document *3*)—he is reacting to that judicial posture: *“the Amt threatens to sell
-my holding”* (Doc *3*). Meanwhile, the *Amt’s own report* to the Chamber (*7 Oct 1841*, Doc *2*) notes that,
-*pending the Chamber’s decision*, the *execution has been temporarily stayed* (“*Vollziehung … einstweilen
-sistirt*”). In other words, the *court track* (the Amt) had already *judged the debt* and *moved into execution*,
-up to (and poised for) *distraint and eventual sale*; the *administrative/fiscal track* (the Rentkammer) now had to
-decide whether to offer *relief*—installments (which the Amt says it cannot impose) or a *Chamber loan*—that might
-avert that sale. The later *valuation memo of 15 November 1841* and its *negative recommendation* (K.C.:
-“*abzuschlagen*”) show the Chamber leaning *against* that relief, but all of the *judicial groundwork*—judgment,
-payment decrees, levy order, 14-day warning, and the explicit threat of distraint—is already established by *Doc
-1i* (10/13 Jul 1841) and *Doc 2* (7 Oct 1841), with Krückeberg’s own words in *Doc 3* confirming how immediate the
-danger had become.
+In the 1830s a leather debt from Johann Heinrich Krückeberg’s parents’ shoemaking trade rolled forward onto him.
+The creditor, Hempel & Söhne of Minden, sued; by *29 May / 6 June 1840* the Amt Bückeburg (acting as a court) had
+ordered payment, with *5% interest back to 9 Apr 1833*. When he still couldn’t pay, the court moved to
+enforcement: on *10/13 Jul 1841* it ordered execution and warned that *distraint* and a *sale of his holding
+(Stelle/Stätte No. 10, Berenbusch)* would follow if payment failed. Under that pressure, Krückeberg turned to the
+*Rentkammer* for relief: first on *2 Oct 1841*, then again *11/12 Nov 1841*, asking to borrow from the
+Chamber treasury and/or pay in installments. The Amt’s report of *7 Oct 1841* confirmed the judgment and said
+there was *no legal basis* to force installments; it proposed instead a Chamber loan of *190 rt*, using the
+holding as security. A valuation on *15 Nov 1841* set the holding at *1,525 rt*, less *700 rt* debts (= *825
+rt* remaining), and the reviewer *could not recommend* the loan; the Chamber board noted *“to be rejected.”*
+Through it all, execution was *temporarily stayed* while the Chamber considered the request, but the threat of a
+forced sale remained very real. That’s the moment we’re seeing: a tenant farmer, squeezed between a court judgment
+and a cautious treasury, trying every formal avenue to keep his farm.
 
