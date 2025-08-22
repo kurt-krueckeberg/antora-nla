@@ -27,6 +27,8 @@ every formal avenue to keep his farm.
 
 .What “holding” means here
 ****
+[TIP]
+====
 The case file documents mention the *Stelle/Stätte (No. 10, Berenbusch)*, which was a *leasehold farm unit*: the
 plot and farm buildings, with the right to use the land. The land itself belonged to the princely domain; the Colon
 (from colonus) held a long-term, usually inheritable lease with duties attached.
@@ -39,6 +41,7 @@ under his proprietary control).
 
 * the *"holding"* could be pledged as *security (collateral)* for a loan.  
 * On default, authorities could *auction the lease right and buildings* to satisfy the judgment.  
+====
 ****
 
 
