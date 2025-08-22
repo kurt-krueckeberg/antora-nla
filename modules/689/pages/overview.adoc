@@ -37,7 +37,8 @@ In this system a Colon (tenant farmer) held a long-term, inheritable lease to a 
 soil belonged to the princely domain, but the buildings and improvements were the tenant’s property (or at least
 under his proprietary control). 
 
-[.underline]#In practice#:
+*In practice*:
+
 * the *"holding"* could be pledged as *security (collateral)* for a loan.  
 * On default, authorities could *auction the lease right and buildings* to satisfy the judgment.  
 ====
