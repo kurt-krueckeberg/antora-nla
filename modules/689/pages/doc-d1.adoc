@@ -1,4 +1,4 @@
-= Document D1: Amt Decree Against Krückeberg and Execution Order - 10/13 July 1841
+= Amt Decree Against Krückeberg and Execution Order - 10/13 July 1841
 :page-role: wide
 :doc-id: doc-01i
 :place: Bückeburg
@@ -14,6 +14,7 @@
 |image::04-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
+[role="section-narrow"]
 == Overview and Summary
 
 On *10 July 1841* at the *Amt Bückeburg*, the creditor *Hempel & Söhne of Minden* pressed their case against
