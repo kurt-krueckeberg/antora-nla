@@ -1,8 +1,8 @@
 .xref:index.adoc[]
 //NLA BU, K 2, A Nr. 689
 * xref:cover.adoc[]
+* xref:amt-decree.adoc[]
 * xref:doc-index.adoc[]
-* xref:doc-d1.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
