@@ -1,11 +1,14 @@
-
+= Overview
 TODO:
-* Rewrite the Chatpgpt summary below and mention that Krückeberg had been the one to appeal and then to petition and this
+Rewrite the Chatpgpt summary below:
+* point out that the source of the information is from the Amt Decree of 13 July 1841, and...
+* summarize that July 1841 Rentcammer Decree aginst Johann Heinrich briefly, and...
+* mention that Krückeberg had been the one to appeal and then to petition and this
 had incurred more legal costs.
-* Summarize the 13 July 1841 Rentcammer Decree aginst Johann Heinrich here briefly.
+
+Be sure also to:
 * Summarize and mention that the debt owed to Hempel and Sons originated with Jobst Heinrich (1765-1822) and give
 a brief biography of him and his wife.
-* Create A
 
 Starting well before 1841, Hempel & Söhne of Minden had sued over a leather debt left from Johann Heinrich
 Krückeberg’s parents' shoemaking trade. The case had been grinding on “since *30 July 1836*,” with
