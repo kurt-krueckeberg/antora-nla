@@ -1,5 +1,14 @@
 = Document 1i: Decree Against Krückeberg - 13 July 1841
 :page-role: wide
+:doc-id: doc-02
+:place: Bbg.
+:doc-date: 1841-10-07
+:presented: 1841-10-11   // pr. in Cam
+:rescript:                // if this sheet contains one
+:served:                  // if the sheet itself records service
+:source-images: image4r,image5l,image5r  // your filenames/anchors
+:related-index: index-row-2
+
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
@@ -68,7 +77,7 @@ ger sofort die Auspfandung
 erkannt und vollzogen werde.
 
 Decr: Bückeburg 13t Juli 1841.
-F[rstlich Schaumburg Upp. Amt.
+Fürstlich Schaumburg Upp. Amt.
 
 Haadr   Yöcker [or Jöcker]
 ____
