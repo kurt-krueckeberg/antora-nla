@@ -1,12 +1,5 @@
 = Document 2: Report of the Amt Bückeburg on Colon Krückeberg’s Debt and Loan Request (7 Oct 1841; entered 11 Oct 1841)
-
 :page-role: wide
-
-[options="noheader",cols="1a,1a",frame=none,grid=none]
-|===
-|image::doc2-right.png[title="Click to Enlarge",scale=50,link=self]
-|image::doc2-left.png[title="Click to Enlarge",scale=50,link=self]
-|===
 
 [role="section-narrow"]
 == Overview
