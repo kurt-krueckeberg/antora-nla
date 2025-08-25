@@ -1,5 +1,9 @@
 = TODO
 
+
+Determine the correct chronological order of the ancillary "documents", and what they mean.
+The "Copt" single-page document is a cover slip for a particuliar main document.
+
 == 689
 
 Finish overview.adoc and include inti footnotes that are defined at the end of the page and include
