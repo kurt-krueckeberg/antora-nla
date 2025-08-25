@@ -7,22 +7,42 @@
 :fn-valuation: footnote:fn-valuation[15 Nov 1841 valuation & opinion: total 1,525 rt (land 1,000 + buildings 525), less 700 = 825 rt; the reviewer declines to recommend (_befürworten_) the 200 rt loan; K.C. docket: abzuschlagen. See xref:stelle-valuation.adoc[Valuation & Opinion (15 Nov 1841)].]
 :fn-threat: footnote:fn-threat[From Krückeberg’s second petition, presented 12 Nov 1841: the Amt threatens to sell his holding if the money is not produced. See xref:doc-03.adoc[Document 3 — Petition (11/12 Nov 1841)].]
 
-In the 1830s a leather debt from his parents’ shoemaking trade rolled forward onto Johann Heinrich Krückeberg; by
-*29 May* and *6 June 1840* the Amt Bückeburg, acting as a court, had ordered payment with *5% interest from 9
-April 1833*.{fn-amt-decree} When he still could not pay, the Amt on *10/13 July 1841* ordered execution,
-instructed the bailiff Möller to levy, and warned that distraint and sale would follow if no payment came within
-fourteen days.{fn-execution} Under that pressure Krückeberg turned to the Rentkammer, petitioning on *2 October
-1841* (and again on *11/12 November 1841*) for relief.{fn-petitions} Meanwhile the *Amt’s report of 7 October
-1841* to the Chamber confirmed the judgment (133 rt 7 mg, 5% since 1833), noted the long litigation (pending since
-*30 July 1836*, twice _in appellatorio_, once _supplicatorio_), stated there was no legal basis to impose
-installments and that the creditor would not accept them, and recorded that execution was *temporarily stayed*
-while the Chamber considered the case.{fn-amt-report} If relief was to be granted at all, the Amt proposed a *190
-rt* Chamber loan *secured on his leasehold farmstead (Stelle/Stätte No. 10)*, noting *10 Morgen 30 Ruthen* of
-land, buildings insured at *525 rt*, and existing encumbrances of *700 rt*.{fn-security} A *15 November 1841*
-valuation memo reckoned land and buildings at *1,525 rt*, left *825 rt* after debts, and the reviewing official
-declined to recommend the loan; the Chamber board noted *to be rejected*.{fn-valuation} Through all of this, the
-risk of a *forced sale of the farmstead* remained real—indeed, Krückeberg himself reports that the *Amt
-threatened to sell his holding* if he failed to raise the money.{fn-threat}
+In the 1830s, Johann Heinrich Krückeberg's inherited his parent's leather debt from his father's shoemaking trade
+On *May 29, 1840* and again on *June 6, 1840*, the Amt Bückeburg, the local governmental office in Bückeburg,
+acting in its dual capacity as a court, ordered payment of *133 Reichsthaler 7 Mariengroschen, plus 5% interest
+from 9 April 1833*{fn-amt-decree}. 
+
+
+[NOTE]
+====
+A Reichsthaler (rt) was equivalent to 24 Mariengroschen (mg) 
+====
+
+
+When he still could not pay, the Amt on *July 13, 1841* ordered the bailiff Möller to collect, and warned if no
+payment came within fourteen days{fn-execution}, that distraint (the seizure of his assets) and sale would follow.
+Under that pressure Krückeberg turned to the Rentkammer, petitioning on *2 October 1841* (and again on *11/12 November
+1841*) for relief.{fn-petitions}.
+
+The **Rentcammer** in Schaumburg-Lippe in 1841 was:  
+* the **treasury** of the principality (managing the prince’s revenues and expenditures),  the **chief accounting
+* office** (keeping the ledgers, reviewing and auditing the Amts’ accounts), and  the **property management
+* authority** (overseeing farmland, forests, mills, and other sources of income within the state).  
+
+As the higher financial authority of the state, the Rentcammer had the power to review the Amt’s decree and decide
+whether to grant Johann Heinrich relief—such as a loan—or to let the order stand.  
+
+Meanwhile the *Amt’s report of 7 October 1841* to the Chamber confirmed the
+judgment (133 rt 7 mg, 5% since 1833), noted the long litigation (pending since *30 July 1836*, twice _in
+appellatorio_, once _supplicatorio_), stated there was no legal basis to impose installments and that the creditor
+would not accept them, and recorded that execution was *temporarily stayed* while the Chamber considered the
+case.{fn-amt-report} If relief was to be granted at all, the Amt proposed a *190 rt* Chamber loan *secured on his
+leasehold farmstead (Stelle/Stätte No. 10)*, noting *10 Morgen 30 Ruthen* of land, buildings insured at *525 rt*,
+and existing encumbrances of *700 rt*.{fn-security} A *15 November 1841* valuation memo reckoned land and buildings
+at *1,525 rt*, left *825 rt* after debts, and the reviewing official declined to recommend the loan; the Chamber
+board noted *to be rejected*.{fn-valuation} Through all of this, the risk of a *forced sale of the farmstead*
+remained real—indeed, Krückeberg himself reports that the *Amt threatened to sell his holding* if he failed to
+raise the money.{fn-threat}
 
 
 .What “holding” means here
