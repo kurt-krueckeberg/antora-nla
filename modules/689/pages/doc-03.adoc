@@ -146,7 +146,11 @@ Collegium, shows that the Rentcammer’s board itself acted on the clerk’s opi
 petition is to be rejected.” In short: the numbers didn’t convince the authorities that a rescue loan was secure,
 and the risk of a forced sale remaimed imminent.
 
-image::09-r.png[scale=75,link=self]
+[options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
+|image::09-r.png[scale=50link=self]
+|
+|===
 
 === Transliteration and Translation
 
@@ -240,7 +244,11 @@ The cover slip for Document 3 records the Rentcammer’s brief resolution: _"The
 initials and the notation “Copt an den Colon Krückeberg N. 10 in Berenbusch”, showing that a copy of the decision
 was dispatched to him.
 
-image::10-l.png[link=self]
+[options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
+|image::10-l.png[link=self]
+|
+|===
 
 === Transliteration and Translation
 
