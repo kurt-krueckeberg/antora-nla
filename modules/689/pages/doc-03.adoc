@@ -1,4 +1,5 @@
-= Document 3
+= Petition of Colon Krückeberg for a 200 Reichsthaler Loan from the Rentcammer (11 Nov 1841)
+
 :page-role: wide
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
