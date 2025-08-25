@@ -10,30 +10,30 @@ image::06-l.png[link=self]
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
 ------
 = 4/6.
 
+                             Gesuch des Colons Krücke-
+     Copt                    berg N. 10 in Beren-
+ aus Amt Buckeburg.          busch, um Anlehns-
+                             consens betr:
 
-Copt aus Amt Buckeburg.
+                     Das Amt wird auf den
+ Fr.                 obigen Gegenstand betreffen-
+ R.                  de Bericht vom 7. d. M.
+ Expedirt            beauftragt, wie angetra-
+ Holste              gen den Krückeburg zu 
+ 17/11.              bescheiden.
 
-Gesuch des Colons Krückeberg N. 10 in Berenbusch, um
-Anlehnsconsens betr:
+                      Bbg. 14. Oct. 1841.
 
-
-Das Amt wird auf den obigen Gegenstand betreffen-
-de Bericht vom 7. d. M. beauftragt, wie angetra-
-gen den Krückeburg zu bescheiden.
-
-Bbg. 14. Oct. 1841.
-
-F. p.
-
-Fm        L
-____
+                      F. p.
+                      Fm        L
+....
 
 |
 [verse]
