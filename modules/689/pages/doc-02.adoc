@@ -1,33 +1,51 @@
-=  Document 2: Amt Report to the Rentkammer — 7 Oct 1841
+= Document 2: Report of the Amt Bückeburg on Colon Krückeberg’s Debt and Loan Request (7 Oct 1841; entered 11 Oct 1841)
 :page-role: wide
 
-image::04-r-original.png[link=self]
-image::05-l.png[link=self]
-image::05-r.png[link=self]
-
 [role="section-narrow"]
-== Summary of Contents
+== Overview
 
-On *7 October 1841* the *Amt Bückeburg* reports to the *Princely Rentkammer* about Johann Heinrich
-*Krückeberg* (Colon No. 10, Berenbusch). The Amt confirms that the firm *Hempel & Söhne (Minden)* has a *court
-judgment* against him for *133 Reichsthaler 7 Mariengroschen*, with *5% interest since 1833*, plus costs, and
-that *distraint* has already been ordered. In the Amt’s view there is *no legal basis* to order *installment
-payments*, and the creditor will *not agree* to them. Instead, the Amt proposes that installments be *denied*,
-but that Krückeberg be *allowed a loan of 190 rt from the Chamber treasury* to clear the judgment; his holding
-(10 Morgen 30 Ruthen; farm buildings insured at *525 rt*) would provide *adequate security*, and any small
-remainder after payment could go to his *legal costs*. Execution has been *temporarily stayed* pending the
-decision.
+This report was issued by the *Amt Bückeburg* on 7 October 1841 in response to an earlier petition by Colon Johann
+Heinrich Krückeberg of Berenbusch (No. 10). It was presented to the Fürstliche Rentkammer on 11 October 1841 and
+assigned the registry number N.C. 4487.  
 
-The paper was *presented in the Chamber on 11 Oct 1841*, and on *14 Oct 1841* a marginal *rescript* instructs
-the Amt to *inform Krückeberg accordingly* (“wie angetragen … zu bescheiden”)—i.e., to *reject installments*
-but *permit a 190-rt loan* secured on his holding.
+The Amt confirmed that Krückeberg was liable for a debt of 133 Reichsthaler 7 Mariengroschen plus 5% interest
+dating back to 1833, originally incurred by his parents. The Amt rejected any right to installment payments but
+acknowledged that Krückeberg might contract a loan of 190 Reichsthaler to cover the debt, since his farmstead and
+buildings provided sufficient collateral.  
 
+The case file then includes two ancillary items:  
+1. A cover slip recording the Rentkammer’s resolution and dispatch.  
+2. A rubric heading identifying the petition for filing purposes.
 
-== Cast for this document
+== Timeline
 
-include::partial$cast/doc-02.adoc[]
+* 7 October 1841 — Report issued by the Amt Bückeburg.  
+* 11 October 1841 — Report presented at the Rentkammer, registered as N.C. 4487.  
+* 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.  
+* 17 November 1841 — Clerk Holste logs expedition of the decision.  
 
-== Transliteration and Translation
+== Amt Report (7 Oct 1841; pr. in Cam 11 Oct 1841)
+
+=== Summary
+
+The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing Hempel debt, rejected his request to
+pay it off in installments, but recommended that he be permitted to contract a loan of 190 Reichsthaler to settle
+it. The Amt judged his farmstead and lands to offer sufficient security, despite existing debts of 700
+Reichsthaler. The Amt also noted that it had temporarily suspended the distraint order.  
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::04-r-original.png[scale=50,link=self]
+|image::05-l.png[scale=50,link=self]
+|===
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::05-r.png[scale=50,link=self]
+|
+|===
+
+=== Transliteration and Translation
 
 [cols="1a,1a"]
 |===
@@ -202,59 +220,120 @@ provisional
 ____
 |===
 
-== Glossary
 
-*N. C.*:: Rent Chamber registry/file number (likely *Numero Cammeral(e)* = “Chamber no.”). Used to track the case in the Rentkammer register.
+== Cover Slip and Resolution (14 Oct 1841)
 
-*pr. in Cam*:: *praesentiert in Cammer* — “presented in the Chamber.” A filing/receipt date line in the header.
+This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
+in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
+shows clerk Holste dispatched the decision on 17 November 1841.
 
-*Num Pr.*:: Protocol number of the outgoing report from the Amt (Amt’s register no.; *Numerus Protocolli*).
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::06-l.png[scale=25,link=self]
+|
+|===
 
-*ad*:: Latin “with reference to / regarding.” Points to another file number (e.g., *ad N. C. 438i*).
+=== Transliteration and Translation
 
-*An — Fürstliche Rentkammer — Bericht — vom Amte Bückeburg*:: Address line: “To the Princely Rent Chamber — Report — from the Amt (office) of Bückeburg.”
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
 
-*B. (before a date in the margin)*:: Abbrev. for **Bückeburg** (place of issuance of the marginal rescript/date).
+|
+[literal,subs="verbatim,quotes"]
+....
+N. 3/6                            N.C. 4487
+C. 1/                              N.P. 1274
+------
+= 4/6.
 
-*Res., rescrib.*:: *Rescriptum / rescribatur* — marginal order/instruction (“rescript”). Here: an order to the Amt on how to proceed.
+                             Gesuch des Colons Krücke-
+     Copt                    berg N. 10 in Beren-
+ aus Amt Buckeburg.          busch, um Anlehns-
+                             consens betr:
 
-*Betr.*:: *Betreff* — “subject.”
+                     Das Amt wird auf den
+ Fr.                 obigen Gegenstand betreffen-
+ R.                  de Bericht vom 7. d. M.
+ Expedirt            beauftragt, wie angetra-
+ Holste              gen den Krückeburg zu 
+ 17/11.              bescheiden.
 
-*p. (before a person’s name)*:: *Petent* (the petitioner/supplicant in the matter).
+                      Bbg. 14. Oct. 1841.
 
-*Colon*:: Status/title of a farmholder on a “Stätte” (hereditary/tenure farm within a colonization estate). Not “colonel.”
+                      F. p.
+                      Fm        L
+....
 
-*Stätte*:: The homestead/holding (the farm property unit), not just any “place.”
+|
+[verse]
+____
+N. 3/6                            N.C. 4487
+C. 1/                              N.P. 1274
+------
+= 4/6.
 
-*Morgen / Ruthen*:: Historical land measures (regionally variable). Morgen ≈ 0.25–0.36 ha depending on locality; *Ruthe/Ruthe(n)* is a subunit.
 
-*r / rt / rthl.*:: **Reichsthaler** (currency). Spelled variously in the manuscript (rt., rthl., r.).
+Copy from the Bückeburg Office.
 
-*mg*:: **Mariengroschen** (small coin unit).
+Petition of the farmer Krückeberg No. 10 in Berenbusch, 
+concerning the approval of a loan.
 
-*appellatorio / supplicatorio*:: Latin adverbs marking procedural stages: in appellate session / upon supplication (special petitionary procedure).
 
-*unvorgreiflich(es Dafürhalten)*:: “without prejudice; provisional view/opinion.” Standard hedge in official writing of the period.
+The Office is instructed, based on the report of the 7th
+of this month regarding the matter above, to respond to
+Krückeberg as requested.
 
-*Terminszahlungen*:: Court-scheduled installment payments (payments set by term).
+Bückeburg, 14 October 1841.
 
-*Auspfandung*:: Distraint/seizure (execution on property).
+By proxy (per procura)
 
-*sistirt*:: Stayed/suspended (execution or proceedings temporarily put on hold).
 
-*assecurirt*:: 19th-cent. spelling of **assekuriert** (“insured”). In context: “the farm buildings are insured for 525 rthl.”
+Fm        L
+____
+|===
 
-*Centumacialkosten*:: Percentage-based (ad valorem) court costs/fees (literally “hundred-rate” costs).
+== Filing Heading (Rubric)
 
-*contrahire*:: (ein Anlehen) contrahiren — to enter into/contract (a loan).
+=== Summary
 
-*N. (as in N. 10)*:: **Numero/Nummer** — “No.” (farm/holding number within the locality).
+Note: This rubric, written in a different hand and placed by itself in the lower left corner of an otherwise blank
+page, is a docket label identifying the petition. It does not form part of the Amt’s report or the Rentkammer’s
+resolution.
 
-*v.M. (e.g., „unter 8 v.M.“)*:: **vorigen Monats** — “on the 8th of the previous month.” Common date shorthand in decisions or orders.
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::08-l.png[scale=25,link=self]
+|
+|===
 
-*Supplicant / Supplicanten*:: Petitioner; person submitting the plea/petition.
+[role="section-narrow"]
+=== Transliteration and Translation
 
-*Anlehen / Anlehens (gen.)*:: Loan / of a loan.
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
 
-*Stätte … assecurirt … haften*:: Standard collateral description: the holding (Stätte), insured value (assecurirt), and debts that “attach” (haften) to the holding.
+|
+[literal,subs="verbatim,quotes"]
+....
+An
+Fürstliche Rentkammer.
+des Kolon Krucheberg
+Nro 10 in Berenbusch
+unterthänigstes Gesuch
+um Anlehns den-
+sens pp
+....
 
+|
+[verse]
+____
+To
+Princely Rent Chamber.
+of the Colon Krückeberg
+No. 10 in Berenbusch
+most humble petition
+for loan consent, etc
+____
+|===
