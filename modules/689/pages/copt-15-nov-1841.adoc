@@ -1,0 +1,36 @@
+= Needs title
+
+image::10-l.png[link=self]
+
+
+[literal,subs="verbatim,quotes"]
+....
+St. 3gl.                              N. C. 5038.
+
+
+
+
+Copt.                               
+an den Colon Krücke-                Das Gesuch des p Krücke-
+berg N. 10.                         berg vom 11. d. M., um
+     in Bernebusch                  ein Darlehn von 200 rt
+                                    aus der Kammerkasse
+                                    findet keine Statt.
+                                    Bbg. 15 Nov. 1841.
+
+Fr.                                
+R.                                   F.p.
+ppedienst                            Lm        L
+Holste                
+17/11.                  
+             
+
+                                     An
+                                     Fürstliche Rentkammer.
+                                     Des Colonn Krückeberg
+                                     No 10 in Berenbusch
+                                     unterthänigstes Gesuch
+                                     um Bewilligung
+                                     eines Darlehns aus
+                                     Kammerkasse.
+....
