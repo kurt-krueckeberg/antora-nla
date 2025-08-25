@@ -1,8 +1,9 @@
 = TODO
 
+Create narrative overviews that fit in the overall story for each major document.
 
-Determine the correct chronological order of the ancillary "documents", and what they mean.
-The "Copt" single-page document is a cover slip for a particuliar main document.
+And determine the correct chronological order of the ancillary "documents", and explain their
+purpose; for example, the "Copt" single-page document is a cover slip for a particuliar main document.
 
 == 689
 
