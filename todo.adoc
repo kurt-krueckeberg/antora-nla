@@ -1,6 +1,9 @@
 = TODO
 
 == 689
+
+Combine The "Amt Bückeburg - Decree and Execution Order - 10/13 July 1841" with 
+"Service of the Decree (Bescheid) — 27 July 1841 (re: Doc 1i, 10 July 1841)" into one page.
  
 === Document Index
 
