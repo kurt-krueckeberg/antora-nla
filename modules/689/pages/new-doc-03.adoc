@@ -1,0 +1,313 @@
+= Document 3: Petition of Colon Krückeberg, with Valuation and Resolution
+:page-role: wide
+
+== Petition (11 November 1841)
+
+[options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
+|image::08-r.png[title="Click to Enlarge",scale=50,link=self]
+
+|image::09-l.png[title="Click to Enlarge",scale=50,link=self]
+|===
+
+=== Summary
+
+On 11 November 1841, Colon Krückeberg of Berenbusch submitted a petition to the Princely Rentcammer requesting a
+loan of 200 Reichsthaler from the chamber treasury.
+
+=== Transliteration and Translation
+
+[cols="1a,1a",frame=none]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
+....
+NC. 5038              pr. in Cam 12 Nov. 41
+
+[Fiscal oval hand-stamp]
+FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
+3 Gr.
+
+                  Durchlauchtigster Fürst,
+                  Gnädigst regierender Fürst
+rok               und Herr!
+
+
+[RC?]. Seite 3.
+
+
+Zur völligen Bezahlung der Schuld an die Hempel Söhne
+in Minden ist mir den Consens auf ein Anlehn von 200 rt
+ertheilt, wie mir das Amt bekannt gemacht hat, und ich habe
+mir nun alle mögliche Mühe gegeben, um dieses Geld ir-
+gendwo bei einem Privatmanne auszuleihen; allein es
+ist mir nicht möglich gewesen, es anzuschaffen, und das Amt
+drohet mit dem Verkaufe meiner Stätte, wenn ich nicht
+bald das Geld herbeischaffe. In dieser schrecklichen Be-
+drängniß weiß ich mich nirgends mehr hinzuwenden als
+an Ew. Durchlaucht in der Hoffnung, das benöthigte An-
+lehn von 200 rt aus der Kammerkasse zu erhalten.
+Wenn ich auch nur auf ein Jahr dieses Anlehn erhalte,
+so habe ich doch dann Muße, mich nach dem Umlehn ge-
+hörig umzusehen, und werde es bis dahin wohl das
+Geld an einer andern Stelle geliehen erhalten
+können, denn Sicherheit biethet meine Stätte mit den von
+meinem Vater von der gnädigsten Herrschaft in den
+Jahren 1814 und 1818 angekauften Länderinn noch genug-
+sam dar.
+
+Eure Durchlaucht bitte ich daher so dringend als unter-
+thänigst:
+
+          mir das benöthigte Darlehn von 200 rt aus
+          der Kammerbasse gegen gerichtliche Obliga-
+          tion gnädigst zu bewilligen.
+
+In tiefster Ehrfurcht ersterbend
+
+                        Eure Durchlaucht
+
+
+
+
+Bückeburg                              unterthänigster,
+Den 11. Nov. 1841.                     Colon Krückeberg
+Conc[ipist]. GW Frechs.               No 10 in Berenbusch.
+
+progg[protokollieren].
+....
+
+|
+[literal,subs="verbatim,quotes"]
+....
+NC. 5038          presented in the Chamber 12 Nov. [18]41
+
+[Fiscal oval hand-stamp]
+FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
+3 Gr.
+
+
+   Most Serene Prince, Gracious reigning Prince and Lord!
+
+
+For the complete payment of the debt to the Hempel sons
+in Minden, I have been granted the consent for a loan
+of 200 rt, as the office has informed me, and I have
+now made every possible effort to borrow this money
+from a private individual somewhere; but it has not
+been possible for me to procure it, and the office
+threatens the sale of my homestead if I do not quickly
+provide the money. In this terrible distress, I know of
+nowhere else to turn but to Your Serene Highness in the
+hope of receiving the necessary loan of 200 rt from the
+Chamber Treasury.
+
+Even if I only receive this loan for a year, I would
+then have the time to properly look for a new loan, and
+will by then surely be able to obtain the money in
+another place, because my homestead, along with the
+lands purchased by my father from the most gracious
+Lordship in the years 1814 and 1818, still offers
+sufficient collateral.
+
+I therefore ask Your Serene Highness, as urgently and
+humbly as possible: to graciously approve the necessary
+loan of 200 rt from the Chamber Treasury against a
+legal obligation.
+
+With deepest respect,
+
+                                 Your Serene Highness
+
+
+
+Bückeburg                     Your most humble servant,
+11th  Nov 1841.                        Colon Krückeberg
+Drafted by GW Frechs.               No 10 in Berenbusch.
+
+filed.
+....
+|===
+
+== Valuation and Clerk’s Opinion (15 November 1841)
+
+image::09-r.png[scale=75,link=self]
+
+=== Summary
+
+On 15 November 1841, a Rentcammer clerk named Reitz (or Ricke) prepared a formal valuation of Krückeberg’s
+farmstead and buildings. After deducting debts, he calculated a net worth of 825 Reichsthaler, but judged it
+doubtful whether a further 200 rt loan would be secure. Although acknowledging loans had been made in worse cases,
+he recommended against approval, and the Gesuch (the petition for a loan by Johann Heinrich Krückeberg was marked
+to be refused.
+
+The same-day note at the bottom, written in a different hand and introduced with the abbreviation "KC." for Kammer
+Collegium, shows that the Rentcammer’s board itself acted on the clerk’s opinion and formally resolved: “the
+petition is to be rejected.” In short: the numbers didn’t convince the authorities that a rescue loan was secure,
+and the risk of a forced sale remaimed imminent.
+
+=== Transliteration and Translation
+
+."holding" and "vot." Explained
+****
+[NOTE]
+====
+* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the *"leasehold farm
+holding of a numbered Colon (tenant farmer), comprising land and buildings."*
+* *vot.* is short of votum and means the  Clerk’s/official’s written **opinion, his recommendation,** submitted to the
+Chamber. It is not a vote tally.
+====
+****
+
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+....
+Die Stelle des Krückeberg besteht
+
+aus 10 Morgen a 100 rt_______1000 rt
+Catasterwerth der Gebäude_____525 rt
+                           _________   
+                             1525 rt [total]
+davon ab Schulden.____________700 -
+               bleibt Werth   825 rt
+
+
+Sollte die Stelle zum Verkauf kommen,
+so möchte es immer noch zur Frage
+kommen, ob nach Abrechnung der
+Lasten für das erbetene Dar-
+lehn von 200 rt Deckung erfolgen
+würde. Obgleich nicht zu leugnen,
+daß schon Darlehen unter noch
+misslicheren Verhältnissen be-
+willigt worden sind, so mag
+ich ein solches doch nicht be[für-
+worten] und kaum daher die
+Bewilligung oder Verweigerung
+lediglich dem Ermessen der Cam-
+mer anheimgeben.
+Bbg 15. Novbr 41.
+              [Ricke/Rietz]
+
+KC. das Gesuch wäre
+abzuschlagen.
+Bbg 15. Nov. 41.
+        [Ricke/Rietz]    vot[um]
+....
+
+
+|
+....
+The holding of Krückeberg consists of
+
+10 Morgen at 100 rt each ___________ 1000 rt
+Cadastral value of the buildings ____ 525 rt
+                                ____________
+                                      1525 rt
+less debts ___________________________ 700 -
+                    remaining value    825 rt
+
+
+Should the holding come up for sale, the question would still arise
+whether, after deducting the encumbrances, the requested loan of
+200 thalers would be covered. Although it cannot be denied that
+loans have already been granted under still more unfavorable
+conditions, I cannot recommend such a loan here and therefore
+leave approval or refusal entirely to the discretion of the Chamber.
+Bbg., 15 Nov. 1841.
+
+[Ricke/Reitz]
+
+KC. The petition should be rejected.
+
+[Ricke/Reitz] vot[um]
+....
+|===
+
+== Cover Slip and Resolution (15 November 1841)
+
+image::10-l.png[link=self]
+
+=== Summary
+
+The cover slip for Document 3 records the Rentcammer’s brief resolution: _"The petition of Krückeberg, dated the
+11th of this month, for a loan of 200 Reichsthaler from the chamber treasury is denied."_ It also carries clerkly
+initials and the notation “Copt an den Colon Krückeberg N. 10 in Berenbusch”, showing that a copy of the decision
+was dispatched to him.
+
+=== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
+....
+St. 3gl.                              N. C. 5038.
+
+
+
+
+      Cop[ia]t                               
+an den Colon Krücke-                Das Gesuch des p Krücke-
+berg N. 10                          berg vom 11. d. M., um
+     in Berenbusch                  ein Darlehn von 200 rt
+                                    aus der Kammerkasse
+                                    findet keine Statt.
+                                    Bbg. 15 Nov. 1841.
+
+Fr.                                
+R.                                   F.p.
+Expedirt                             Lm        L
+Holste                
+17/11.                  
+             
+
+                                     An
+                                     Fürstliche Rentkammer.
+                                     Des Colon Krückeberg
+                                     No 10 in Berenbusch
+                                     unterthänigstes Gesuch
+                                     um Bewilligung
+                                     eines Darlehns aus
+                                     Kammerkasse.
+....
+
+
+|
+[verse]
+____
+Stamped 3 Groschen. 
+N. C. 5038.
+
+
+Copy to Colon Krückeberg N. 10 in Berenbusch
+
+The petition of Krückeberg, dated the 11th of this month,
+for a loan of 200 Reichsthaler from the chamber treasury
+is denied.
+B[ücke]b[ur]g. 15 Nov. 1841.
+
+[initials of those who worded text above]
+F.p.
+Lm        L
+
+[initials of other Rentcammer officials]
+Fr.
+R. 
+
+logged as dispatched by clerk Holste on 17 November 1841             
+
+To the Princely Rentkammer.
+The most humble petition of Colon Krückeberg, No. 10 in Berenbusch,
+for the granting of a loan from the chamber treasury.
+____
+|===
+
