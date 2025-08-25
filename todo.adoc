@@ -1,13 +1,14 @@
 = TODO
 
-Create narrative overviews that fit in the overall story for each major document.
-
-And determine the correct chronological order of the ancillary "documents", and explain their
-purpose; for example, the "Copt" single-page document is a cover slip for a particuliar main document.
-
 == 689
+ 
+=== Document Index
 
-Finish overview.adoc and include inti footnotes that are defined at the end of the page and include
+Create xrefs from document index to the actual documents and supplemental documents it
+mentions.
+
+=== Overview
+Finish new-overview.adoc and include in it the footnotes that are defined at the end of the page and include
 xrefs to the anchors of the document's the footnote refers to.
 
 == How Documents are Referenced: Understanding the NLA 1236 Headers
