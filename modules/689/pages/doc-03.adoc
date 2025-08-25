@@ -1,6 +1,13 @@
-= Document 3: Petition of Colon Krückeberg for a 200 Reichsthaler Loan from the Rentcammer (11 Nov 1841)
-
+= Document 3: Petition of Colon Krückeberg, with Valuation and Resolution
 :page-role: wide
+
+== Petition (11 November 1841)
+
+=== Summary
+
+On 11 November 1841, Colon Krückeberg of Berenbusch submitted a petition to the Princely Rentcammer requesting a
+loan of 200 Reichsthaler from the chamber treasury.
+
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
@@ -9,33 +16,7 @@
 |image::09-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
-[role="section-narrow"]
-== Overview
-
-The document was drafted by *G. W. Fuchs*, on November 11, 1841, on behalf of Johann Heinrich Krückeberg, No. 10
-Berenbush. "*Conc.: G. W. Fuchs”*, meanings "drafted by the clerk G. W. Fuchs, appear at the foot of page 2.  Fuchs
-was likely a *Kanzlei-Schreiber (Concipist) at the Amt Bückeburg* or a local office scribe who drafted petitions
-for residents. *Colon Krückeberg* appears opposite of "GW Fuchs" beneath the closing valediction *unterhängster*
-(*your most humble [petitioner/servant]*).
-
-The petition was presented before the Rentcammer the next day, November 12, 1841, when it assigned the registry number of
-5038, and the *large margin note "R. C. Seite 3."* was added, which is a cross-reference to a separate book kept by the
-Rentkammer—typically called the *Journal/Manual/Protocol of the Rentkammer* (also Eingangs-Journal, Register der Eingaben,
-or simply Protocoll). Every incoming petition got a short entry there (date, sender, subject, fees), often grouped by
-month or sitting.
-
-Clerks wrote that cue on the incoming sheet (sometimes with their initials above it) so later staff could *find the
-journal entry quickly* for auditing fees, checking what was ordered, or continuing the workflow.
-
-Finally, the *tiny "pro gg." at the bottom of page 2 means  *pro (gegen) Gebühr(en)*, i.e., processed *with the fee*. When
-the document was presented a processing fee was required, and then the document was stamped as having been paid.  
-
-== Timeline
-
-* November 11, 1841 — Petition drafted at Bückeburg (Conc. G. W. Fuchs).
-* November 12, 1841 — Petition *presented* at the Rentkammer (N.C. 5038; R.C. Seite 3; stamp 3 Gr.; docket pro gg.).
-
-== Transliteration and Translation
+=== Transliteration and Translation
 
 [cols="1a,1a",frame=none]
 |===
@@ -52,7 +33,7 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 
                   Durchlauchtigster Fürst,
                   Gnädigst regierender Fürst
-rok               und Herr!
+[rok]             und Herr!
 
 
 [RC?]. Seite 3.
@@ -94,9 +75,9 @@ In tiefster Ehrfurcht ersterbend
 
 Bückeburg                              unterthänigster,
 Den 11. Nov. 1841.                     Colon Krückeberg
-Conc[ipist]. GW Frechs.               No 10 in Berenbusch.
+Conc[ipist]. GW Fuchs.                No 10 in Berenbusch.
 
-progg[protokollieren].
+progg[short for:protokollieren].
 ....
 
 |
@@ -150,3 +131,184 @@ Drafted by GW Frechs.               No 10 in Berenbusch.
 filed.
 ....
 |===
+
+== Valuation and Clerk’s Opinion (15 November 1841)
+
+=== Summary
+
+On 15 November 1841, a Rentcammer clerk named Reitz (or Ricke) prepared a formal valuation of Krückeberg’s
+farmstead and buildings. After deducting debts, he calculated a net worth of 825 Reichsthaler, but judged it
+doubtful whether a further 200 rt loan would be secure. Although acknowledging loans had been made in worse cases,
+he recommended against approval, and the Gesuch (the petition for a loan by Johann Heinrich Krückeberg was marked
+to be refused.
+
+The same-day note at the bottom, written in a different hand and introduced with the abbreviation "KC." for Kammer
+Collegium, shows that the Rentcammer’s board itself acted on the clerk’s opinion and formally resolved: “the
+petition is to be rejected.” In short: the numbers didn’t convince the authorities that a rescue loan was secure,
+and the risk of a forced sale remaimed imminent.
+
+image::09-r.png[scale=75,link=self]
+
+=== Transliteration and Translation
+
+."holding" and "vot." Explained
+****
+[NOTE]
+====
+* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the *"leasehold farm
+holding of a numbered Colon (tenant farmer), comprising land and buildings."*
+* *vot.* is short of votum and means the  Clerk’s/official’s written **opinion, his recommendation,** submitted to the
+Chamber. It is not a vote tally.
+====
+****
+
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+....
+Die Stelle des Krückeberg besteht
+
+aus 10 Morgen a 100 rt_______1000 rt
+Catasterwerth der Gebäude_____525 rt
+                           _________   
+                             1525 rt [total]
+davon ab Schulden.____________700 -
+               bleibt Werth   825 rt
+
+
+Sollte die Stelle zum Verkauf kommen,
+so möchte es immer noch zur Frage
+kommen, ob nach Abrechnung der
+Lasten für das erbetene Dar-
+lehn von 200 rt Deckung erfolgen
+würde. Obgleich nicht zu leugnen,
+daß schon Darlehen unter noch
+misslicheren Verhältnissen be-
+willigt worden sind, so mag
+ich ein solches doch nicht be[für-
+worten] und kaum daher die
+Bewilligung oder Verweigerung
+lediglich dem Ermessen der Cam-
+mer anheimgeben.
+Bbg 15. Novbr 41.
+              [Ricke/Rietz]
+
+KC. das Gesuch wäre
+abzuschlagen.
+Bbg 15. Nov. 41.
+        [Ricke/Rietz]    vot[um]
+....
+
+
+|
+....
+The holding of Krückeberg consists of
+
+10 Morgen at 100 rt each ___________ 1000 rt
+Cadastral value of the buildings ____ 525 rt
+                                ____________
+                                      1525 rt
+less debts ___________________________ 700 -
+                    remaining value    825 rt
+
+
+Should the holding come up for sale, the question would still arise
+whether, after deducting the encumbrances, the requested loan of
+200 thalers would be covered. Although it cannot be denied that
+loans have already been granted under still more unfavorable
+conditions, I cannot recommend such a loan here and therefore
+leave approval or refusal entirely to the discretion of the Chamber.
+Bbg., 15 Nov. 1841.
+
+[Ricke/Reitz]
+
+KC. The petition should be rejected.
+
+[Ricke/Reitz] vot[um]
+....
+|===
+
+== Cover Slip and Resolution (15 November 1841)
+
+=== Summary
+
+The cover slip for Document 3 records the Rentcammer’s brief resolution: _"The petition of Krückeberg, dated the
+11th of this month, for a loan of 200 Reichsthaler from the chamber treasury is denied."_ It also carries clerkly
+initials and the notation “Copt an den Colon Krückeberg N. 10 in Berenbusch”, showing that a copy of the decision
+was dispatched to him.
+
+image::10-l.png[link=self]
+
+=== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
+....
+St. 3gl.                              N. C. 5038.
+
+
+
+
+      Cop[ia]t                               
+an den Colon Krücke-                Das Gesuch des p Krücke-
+berg N. 10                          berg vom 11. d. M., um
+     in Berenbusch                  ein Darlehn von 200 rt
+                                    aus der Kammerkasse
+                                    findet keine Statt.
+                                    Bbg. 15 Nov. 1841.
+
+Fr.                                
+R.                                   F.p.
+Expedirt                             Lm        L
+Holste                
+17/11.                  
+             
+
+                                     An
+                                     Fürstliche Rentkammer.
+                                     Des Colon Krückeberg
+                                     No 10 in Berenbusch
+                                     unterthänigstes Gesuch
+                                     um Bewilligung
+                                     eines Darlehns aus
+                                     Kammerkasse.
+....
+
+
+|
+[verse]
+____
+Stamped 3 Groschen. 
+N. C. 5038.
+
+
+Copy to Colon Krückeberg N. 10 in Berenbusch
+
+The petition of Krückeberg, dated the 11th of this month,
+for a loan of 200 Reichsthaler from the chamber treasury
+is denied.
+B[ücke]b[ur]g. 15 Nov. 1841.
+
+[initials of those who worded text above]
+F.p.
+Lm        L
+
+[initials of other Rentcammer officials]
+Fr.
+R. 
+
+logged as dispatched by clerk Holste on 17 November 1841             
+
+To the Princely Rentkammer.
+The most humble petition of Colon Krückeberg, No. 10 in Berenbusch,
+for the granting of a loan from the chamber treasury.
+____
+|===
+
