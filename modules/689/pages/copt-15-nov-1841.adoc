@@ -1,4 +1,5 @@
 = Needs title
+:page-role: wide
 
 image::10-l.png[link=self]
 
