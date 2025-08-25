@@ -8,7 +8,6 @@
 On 11 November 1841, Colon Krückeberg of Berenbusch submitted a petition to the Princely Rentcammer requesting a
 loan of 200 Reichsthaler from the chamber treasury.
 
-
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
 |image::08-r.png[title="Click to Enlarge",scale=50,link=self]
@@ -231,6 +230,7 @@ KC. The petition should be rejected.
 ....
 |===
 
+[[doc3-coverslip]]
 == Cover Slip and Resolution (15 November 1841)
 
 === Summary
