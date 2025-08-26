@@ -1,4 +1,4 @@
-= Document 4
+= Document 4: Second Petition of Colon Krückeberg to the Prince (21 Nov 1841)
 :page-role: wide
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
