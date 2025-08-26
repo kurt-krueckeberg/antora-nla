@@ -7,6 +7,33 @@
 |image::11-l.png[scale=50,link=self]
 |===
 
+[role="section-narrow"]
+== Overview and Timeline
+
+=== Overview
+
+By late November 1841, Johann Heinrich Krückeberg was out of options. 
+The Amt Bückeburg had earlier acknowledged that his farmstead could serve 
+as collateral for a loan to settle the long-standing debt to Hempel & Söhne, 
+and on this basis he had petitioned the Rentkammer for 200 Reichsthaler 
+from the chamber treasury. But the Rentkammer’s own valuation judged his 
+estate insufficient security, and the request was refused. In this second 
+petition of 21 November, Krückeberg appeals directly to the Prince himself: 
+either to grant the loan against his pledged estate, or, failing that, to 
+take back the very lands his father had bought from the domain, rather than 
+force the sale of his entire holding.
+
+=== Timeline
+
+* *7 Oct 1841 (Doc 2):* Amt Bückeburg reports → loan of 190 rt should be raised; Stelle deemed sufficient security.  
+* *11 Nov 1841 (Doc 3):* Krückeberg petitions Rentkammer → requests 200 rt loan from chamber treasury.  
+* *15 Nov 1841 (Valuation & Decision):* Stelle valued; clerk doubts sufficiency → Kammer Collegium rejects
+petition.  
+* *21 Nov 1841 (Doc 4):* Krückeberg appeals again, now to the Prince, seeking relief or return of his purchased
+land.  
+
+== Transliteration and Translation
+
 [cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
