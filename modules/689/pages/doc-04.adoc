@@ -1,0 +1,61 @@
+= Document 4
+:page-role: wide
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::10-r.png[scale=50,link=self]
+|image::11-l.png[scale=50,link=self]
+|===
+
+....
+NC. 5263               pr. in Cam 24 Nov.    4
+3 gl. Sthl[Stempelsteuer]
+
+        Durchlautigster Gnädigster Fürst und Herr
+        Durchlauchtigster Fürst
+
+[rdk]
+
+Ich finde mich notgedrungen dem Durchläutigsten
+Fürst untertänigst zu bitten da ich wegen Leder Schulden
+von meinem Eltern, an die Hempelsöhne in Minden
+noch einen langwierigen Proceß Jetzt hart gedrungen
+werde zu bezahlen, so habe ich mich schon vielen mühe gegeben
+undas Geld anzuschaffen, aber ich kann in so kurzer Zeit
+Peinen antreffen der das herleichen kan[n], es ist mir
+gerichtliche Sicherheit bewilligt, ich habe es auch versucht.
+an die Hochfürstliche Renntkammen, um ein darlehn von
+200 r. aus der Kammerkasse zu erhalten, aber welches
+mir abgeschlagen ist, so sehe ich jetzt keinen andern
+weg in meiner großen bedrängniß, als meine Bitte
+an einer Durchlauten zu richten, um ein darlehn von
+200 rt aus der kammerkasse gegen eine gerichtliche
+Sicherheit zu genehmigen, oder wenn das nicht sein könnte,
+so bitte ich unsere durchlauchtigsten Fürst. Meine Ländereien
+welche mein Vater 1814 und 1818 von der Verschädtlichen
+Söhne, für 835 rt 3 g gekauft hat mich wieder abzu-
+nehmen, weil mir vom Amte schon durch dem amtsasse-
+sor Höcker Verkauf meiner Stätte gedrohet ist, übri-
+gens außfändung meines eignes vermögens erkommt[erkommen]
+ist. so wollte ich doch lieber das angekaufte Land wieder
+abtreten als meine ganze Colonie nachzusehen.
+
+Den[n] durch diesen Ankauf stehen 700 rt Schulden in
+Meiner Colonie, übrigens habe ich 2 gebäude welche
+zu 525 rt in der Brandassecorand versichert Stehen
+so ist doch noch Sicherheit genug da, nebst einen garten
+zu 1 1/2 Morgen; So werden sie als gnädiger und Gütiger
+Landesvates Solches nicht zulassen können, das meine
+Colome verkauft wurde, weill ich an dieses Schuld
+ganz unschuldig bin und habe nichts dafür erhalten
+Sondern habe es müssen für meines Eltern Schuld
+annehmen, in Liefster ehsfurcht richte nochmals
+in Festen vertraun zu einer Durchlauten
+meine untertähnigste Bitte und Trost und bei
+stand zu erlangen, weill ich sonst Genß verlassen
+bin, und unverschuldet zu grunde gehen Miß,
+Untertänigster Colon Krückeberg
+Nro 10 in Berenbusch
+d 21ten November
+1841
+....
