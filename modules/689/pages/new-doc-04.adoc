@@ -222,7 +222,7 @@ Epp Lot[??]         Abschrift eines obigen Gegenstand
 |
 [verse]
 ____
-Main opinion (Renkamnmer assessor Reck):
+*Main opinion (Renkamnmer assessor Reck):*
 So sad as Krückeberg’s situation may be,
 I still do not see how he can be helped.
 To approve a loan where the security is so
@@ -238,8 +238,8 @@ Bückeburg, 25 Nov. 1841.
 
 Reck
 
-RC instruction (Instructions of the Rentkammer
-officials, recorded in the case file):
+*RC instruction (Instructions of the Rentkammer
+officials, recorded in the case file):*
 RC. Copy to Head Forester Kreutzinger
 for a prompt official report whether
 the supplicant’s land in the Söhre,
@@ -256,7 +256,7 @@ Stamp: 3 gr.               N.C. 5263.
 to Head Forester Creuzinger
                   at Baum
 
-File copy of the instruction sent to Kreutzinger:
+*File copy of the instruction sent to Kreutzinger:*
 Concerning the land offered for purchase
 by Colon Krückeberg No. 10
 in Berenbusch:
