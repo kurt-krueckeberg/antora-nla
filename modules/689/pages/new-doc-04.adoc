@@ -1,5 +1,4 @@
 = Document 4: Krückeberg’s Second Petition and the Rentkammer’s Decision (21–25 Nov 1841)
-
 :page-role: wide
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
