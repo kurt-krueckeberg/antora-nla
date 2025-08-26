@@ -44,7 +44,6 @@ what price, and a copy of this instruction was entered into the case file.
 |
 [literal,subs="verbatim,quotes"]
 ....
-[
 NC. 5263               pr. in Cam 24 Nov.    4
 3 gl. Sthl[Stempelsteuer]
 
