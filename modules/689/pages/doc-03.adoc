@@ -132,7 +132,7 @@ filed.
 |===
 
 == Valuation and Clerk’s Opinion (15 November 1841)
-
+[role="section-narrow"]
 === Summary
 
 On 15 November 1841, a Rentcammer clerk named Reitz (or Ricke) prepared a formal valuation of Krückeberg’s
