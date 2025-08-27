@@ -44,9 +44,9 @@ Text in the left margin in parenthesis:
 Vertical text in left margin:
 [literal,subs="verbatim,quotes"]
 ....
-RC der p Krückeberg müsste
-abschlägt bescheiden seÿe.
+RC der p Krückeberg müsse
+abschlägt bescheiden seÿn.
 Bbg 16. Dec. 41
-vid in fine           Rnt
+vid in fine           Reck
     gw
 ....
