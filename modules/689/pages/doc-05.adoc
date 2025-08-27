@@ -13,6 +13,8 @@
 |image::14-l.png[scale=50,link=self]
 |===
 
+image::14-r.png[scale=50,link=self]
+
 == Transliteration and Translation
 
 [cols="1a,2a",frame=none,grid=none]
