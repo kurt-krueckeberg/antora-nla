@@ -142,7 +142,7 @@ Baum d 10te Decbr 1841.
 
 |
 [verse]
-....
+____
 NC. 5587
 presented in Cam[mer] 11 Dec 1841
 
@@ -215,5 +215,5 @@ applicant from his precarious situation.
 
 Baum, December 10, 1841
 [Creuzinger]
-....
+____
 |===
