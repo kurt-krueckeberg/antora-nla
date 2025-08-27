@@ -41,12 +41,27 @@ Text in the left margin in parenthesis:
 8 M. a 50 rp_______400rt
 ....
 
-Vertical text in left margin:
+
+
+.Vertical text in left margin:
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [literal,subs="verbatim,quotes"]
 ....
-RC der p Krückeberg müsse
-abschlägt bescheiden seÿn.
+RC der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
-vid in fine           Reck
-    gw
+(vid in fine           Reck
+    signed )
 ....
+
+|
+[verse]
+____
+Decision: petitioner Krückeberg is to be denied.
+Bückeburg 16 Dec. 41
+(see at the end) sgined       Reck   
+____
+|===
