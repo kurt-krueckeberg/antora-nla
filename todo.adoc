@@ -4,8 +4,9 @@
 
 === Document Index
 
-Create xrefs from document index to the actual documents and supplemental documents it
+* Create xrefs from document index to the actual documents and supplemental documents it
 mentions.
+* Check the "NC" numbers for each document in the document index.
 
 === Combine Documents
 
