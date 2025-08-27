@@ -11,7 +11,8 @@ mentions.
 
 Combine The "Amt Bückeburg - Decree and Execution Order - 10/13 July 1841" with 
 "Service of the Decree (Bescheid) — 27 July 1841 (re: Doc 1i, 10 July 1841)" into one page.
- 
+
+=== Finish Document 6
 
 === Overview
 Finish new-overview.adoc and include in it the footnotes that are defined at the end of the page and include

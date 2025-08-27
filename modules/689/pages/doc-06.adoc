@@ -7,6 +7,11 @@ image::15-r-original.png[scale=50,link=self]
 
 == Transliteration and Translation
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [literal,subs="verbatim,quotes"]
 ....
 Ad NC 5587                   6
@@ -32,15 +37,36 @@ Bbg 16. Decbr 41
 [Roth?]
 Verte
 ....
+|
+[verse]
+____
+Ad N C 5587 — 6
 
-Text in the left margin in parenthesis:
+Since, according to Head Forester Kreuzinger’s report,
+Krückeberg’s land is suitable for purchase by the lordship
+neither in location nor in quality, Krückeberg’s petition is to
+be denied again.
 
+The only way he might still be helped would be if the Chamber
+were willing to buy back the land in question at the same price
+for which it was sold to Krückeberg. But that is twice the value
+given by Head Forester Kreuzinger.
+____
+|===
+
+.Text in the left margin in parenthesis:
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 [literal,subs="verbatim,quotes"]
 ....
 8 M. 90 CR für 835 r.
 8 M. a 50 rp_______400rt
 ....
-
+|
+|===
 
 
 .Vertical text in left margin:
