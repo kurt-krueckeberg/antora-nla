@@ -1,4 +1,4 @@
-= Document 5
+= Documendt 5
 :page-role: wide
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
@@ -43,7 +43,7 @@ eine Situations-Zeichnung bei.
 Das Grundstück hält nach Anga-
 be des Krückeberg 9 Morgen 19 Rothen
 wovon 8 Morgen 90 Ruthen im Jahr
-1814 von der herrschaftlichen Söhre-
+1814 von der herrschaftlichen Söhr-
 Weide und 49 Rothen im Jahr 1818
 vom Forstgründe angekauft sind,
 und sind bisher hiervon 8 1/2 Morgen
