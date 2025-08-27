@@ -1,4 +1,4 @@
-= Document 6:
+= Document 6: (Under Development)
 :page-role: wide
 
 == Overview
@@ -51,6 +51,10 @@ The only way he might still be helped would be if the Chamber
 were willing to buy back the land in question at the same price
 for which it was sold to Krückeberg. But that is twice the value
 given by Head Forester Kreuzinger.
+
+
+[Roth?]
+turn over
 ____
 |===
 
