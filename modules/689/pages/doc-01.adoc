@@ -40,7 +40,6 @@ NC. 438i
 Bl.
 b.m. zum Amtsbericht
 B. 4 Oct 41
-  
 Samg
 
       Mein verstorbener Vater und nach dessen Tode
@@ -101,10 +100,11 @@ and Lord!
 [Referred to] the office report
 B[ückeburg], 4 Oct 1841
 
-[Translation of text ofnotation that begins 'Bl.']
-(On this leaf:) keep with me for the Amtsbericht. Bückeburg, 4 Oct 1841.
-
+[instruction/minute by the responsible official]
+(On this leaf:) keep with me for the Amtsbericht.
+Bückeburg, 4 Oct 1841.
 Samg
+
 
       My late father, and after his death also my mother,
 who continued my father’s trade as a shoemaker, have
