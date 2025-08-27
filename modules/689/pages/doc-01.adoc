@@ -40,7 +40,7 @@ NC. 438i
 Bl.
 b.m. zum Amtsbericht
 B. 4 Oct 41
-Samg
+[Samg/Spreng]
 
       Mein verstorbener Vater und nach dessen Tode
 auch meine Mutter, die das Handwerk meines Va-
@@ -103,7 +103,7 @@ B[ückeburg], 4 Oct 1841
 [instruction/minute by the responsible official]
 (On this leaf:) keep with me for the Amtsbericht.
 Bückeburg, 4 Oct 1841.
-Samg
+[Samg/Spreng]
 
 
       My late father, and after his death also my mother,
