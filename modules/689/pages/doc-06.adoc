@@ -45,7 +45,8 @@ parenthesis:
 Vertical text in left margin
 ....
 RC der p Krückeberg müsste
-[?????] bescheiden seÿe.
-Bbtg 16. Dec. 41
-(vw in fine
-gw)
+abschlägt bescheiden seÿe.
+Bbg 16. Dec. 41
+vid in fine           Rnt
+    gw
+....
