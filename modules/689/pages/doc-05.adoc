@@ -15,6 +15,12 @@
 
 == Transliteration and Translation
 
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
 ....
 NC. 5587                    pr in Cam 11 Dec 1841
 
@@ -135,5 +141,8 @@ Baum d 10te Decbr 1841.
 [Creuzinger]
 ....
 
+|
+
 ....
 ....
+|===
