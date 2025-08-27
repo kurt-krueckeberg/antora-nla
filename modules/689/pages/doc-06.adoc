@@ -1,48 +1,48 @@
 = Document 6:
+:page-role: wide
+
+== Overview
 
 image::15-r-original.png[scale=50,link=self]
 
+== Transliteration and Translation
+
+[literal,subs="verbatim,quotes"]
 ....
 Ad NC 5587                   6
 
-Da nach dem Bericht des
-O. f. Kreuzinger das Land
-des Krückeberg weder durch
-Lage nach durch Qualität
-sich zum Ankauf für
-die Herrschaft eignet, so
-wird Krückeberg wieder-
-hält abschlägt zu bescheiden
-seÿn.
+Da nach dem Bericht des O. f.
+Kreuzingers das Land des Krückeberg
+weder durch Lage noch durch Qualität
+sich zum Ankauf für die Herrschaft
+eignet, so wird Krückeberg wiederholt
+abschlägig zu bescheiden seÿn.
 
-Die einzige Art wie ihm
-vielleicht noch zu helfen
-wäre, musste seÿe, wenn
-die Kammer sich verein-
-laßt sehe wollte, das
-frägliche Land zu demselben
-Preise zurückzukaufen
-für welchen es dem Krü-
-ckeberg verkauft ist. Dieß
-ist aber das Doppelte von
-dem von p Knutzinger ein-
+Die einzige Art wie ihm vielleicht noch
+zu helfen wäre, müsste seÿn, wenn die
+Kammer sich veranlaßt sehen wollte, das
+fragliche Land zu demselben Preise
+zurückzukaufen für welchen es dem Krü-
+ckeberg verkauft ist. Dieß ist aber das
+Doppelte von dem von p Kreutzinger ein-
 gegebnen Werthe.
 Bbg 16. Decbr 41
 
 
-Rwt
+[Roth?]
 Verte
 ....
 
-Text in the left margin in
-parenthesis:
+Text in the left margin in parenthesis:
 
+[literal,subs="verbatim,quotes"]
 ....
 8 M. 90 CR für 835 r.
 8 M. a 50 rp_______400rt
 ....
 
-Vertical text in left margin
+Vertical text in left margin:
+[literal,subs="verbatim,quotes"]
 ....
 RC der p Krückeberg müsste
 abschlägt bescheiden seÿe.
