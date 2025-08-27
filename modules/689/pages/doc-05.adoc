@@ -1,7 +1,7 @@
 = Documendt 5
 :page-role: wide
 
-[cols="1a,2a",options="noheader",frame=none,grid=none]
+[cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::12-r.png[scale=50,link=self]
 |image::13-l.png[scale=50,link=self]
@@ -15,7 +15,7 @@
 
 == Transliteration and Translation
 
-[cols="1a,1a",frame=none,grid=none]
+[cols="1a,2a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
