@@ -4,18 +4,18 @@
 
 === Document Index
 
-* Create xrefs from document index to the actual documents and supplemental documents it
-mentions.
+* Create xrefs from document index to the actual documents and supplemental documents mentioned. 
 * Check the "NC" numbers for each document in the document index.
 
-=== Combine Documents
+=== Consoliate 
 
 Combine The "Amt Bückeburg - Decree and Execution Order - 10/13 July 1841" with 
 "Service of the Decree (Bescheid) — 27 July 1841 (re: Doc 1i, 10 July 1841)" into one page.
 
 === Finish Document 6
 
-=== Overview
+=== Finish New Overview
+
 Finish new-overview.adoc and include in it the footnotes that are defined at the end of the page and include
 xrefs to the anchors of the document's the footnote refers to.
 
