@@ -287,7 +287,7 @@ for 200 rthlr.
 |14
 
 |3.
-|Petition of the colon Krückeberg
+|xref:doc-03.adoc#indx-3-1[Petition of the colon Krückeberg]
 .4+|against the pledging +
 of his entire +
 lands +
