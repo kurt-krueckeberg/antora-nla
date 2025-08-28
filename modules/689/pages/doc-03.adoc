@@ -163,7 +163,6 @@ Chamber. It is not a vote tally.
 ====
 ****
 
-
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -197,7 +196,7 @@ mer anheimgeben.
 Bbg 15. Novbr 41.
               [Ricke/Rietz]
 
-KC. das Gesuch wäre
+R[ent]C[ammer]. das Gesuch wäre
 abzuschlagen.
 Bbg 15. Nov. 41.
         [Ricke/Rietz]    vot[um]
