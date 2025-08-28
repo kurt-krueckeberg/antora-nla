@@ -6,6 +6,12 @@
 |image::16-r.png[scale=50,link=self]
 |===
 
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::17-l.png[scale=50,link=self]
+|
+|===
+
 == Transliteration and Translation
 ....
 NC 5702               
