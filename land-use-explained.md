@@ -1,1 +1,0 @@
-/home/kurt/adocs-4-genealogy/land-use-explanation.md
