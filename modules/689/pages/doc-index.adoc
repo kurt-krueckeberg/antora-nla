@@ -44,7 +44,7 @@ ad 200 r.
 
 [[idx-3-1]]
 |3.
-|Vorst. des Colons Krückeberg
+|xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
 .4+|gegen Ver- +
 pfändung +
 seiner sämmt- +
