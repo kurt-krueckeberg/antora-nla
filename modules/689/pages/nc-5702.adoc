@@ -1,6 +1,12 @@
-image::16-l.png[scale=50,link=self]
-:wq
+= NC 5702
 
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::16-l.png[scale=50,link=self]
+|image::16-r.png[scale=50,link=self]
+|===
+
+== Transliteration and Translation
 ....
 NC 5702               
 
@@ -39,7 +45,33 @@ canten Vater der Kammer da-
 für bezahlt, wieder abgenom-
 men wird, wodurch er ohne ein
 neues Anlehn nöthig zu haben,
-glantz-
+gleichzeitig ein schlechtes Grund-
+sütck wieder los wird, u eine
+so bedeutende Summe Geldes zu
+Händen bekommt, daß er sich
+von seinen meisten Schulden wird
+befreien können.
+Leichteren Kaufes würde übri-
+gens die Kammer davon kom-
+man, wenn die 200 rt darlese
+bewilligt werden. Der Zweck
+dem Krückeberg gründlich zu
+helfen, scheint mir indes da-
+durch nicht erreicht zu werden.
+Im Interesse des Krücke-
+berg wurde ich daher für den
+Kruckeberg Wiederankant
+des Landes mich entscheiden,
+welches ohnedem durch den von
+O. J. Kreuzinger vorgeschlagen
+Abzugsgraben wahrscheinlich
+bedeutend verbessert werde.
+Bbg 23. Dec. 41.
+kann.
+RC     Ricke
+die Kammer verstelle die
+weitere
+
 
 ....
 
