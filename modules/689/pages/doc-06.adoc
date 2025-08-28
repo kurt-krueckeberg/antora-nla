@@ -40,7 +40,8 @@ Verte
 |
 [verse]
 ____
-Ad N C 5587 — 6
+regarding NC 5587 — Document #6
+
 
 Since, according to Head Forester Kreuzinger’s report,
 Krückeberg’s land is suitable for purchase by the lordship
@@ -72,8 +73,8 @@ ____
 |
 |===
 
-
-.Vertical text in left margin:
+[caption="Decision of Rentcammer: "]
+.Large Vertical text in left margin:
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
