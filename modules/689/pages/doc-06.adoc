@@ -67,10 +67,15 @@ ____
 |
 [literal,subs="verbatim,quotes"]
 ....
-8 M. 90 CR für 835 r.
-8 M. a 50 rp_______400rt
+( 8 M. 90 QR für 835 r 
+8 M. à 50 r —— 400 r)
 ....
 |
+[literal,subs="verbatim,quotes"]
+....
+8 Morgen 90 square-Ruthen for 835 thalers;
+8 Morgen at 50 thalers per Morgen = 400 thalers.
+....
 |===
 
 [caption="Decision of Rentcammer: "]
