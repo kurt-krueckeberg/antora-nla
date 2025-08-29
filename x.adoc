@@ -1,36 +1,16 @@
-Great question — the key is that *"`Colon`" is a status, not a single
-tenure type*. A Colon (from _colonus_) in Schaumburg-Lippe is a full
-farm holder (like a Meier): he can hold *different parcels under
-different legal regimes at the same time*.
-
-Here’s how your case fits together:
-
-* *Hof Nr. 10 (the colonate):* the _core farm_ is typically held under
-*manorial/Meier rights* — the lordship keeps the higher title (_dominium directum_),
-and the Colon has the hereditary, obligated use (_dominium utile_). → This part is
-*not* what the Rentkammer is valuing in Doc.  5–6.
-* *The disputed parcel (1814 & 1818):* the text says it was *"`von der
-herrschaftlichen Söhre-Weide … und vom Forstgründe angekauft`"* (bought from the
-domain). In practice that usually means one of two things:
-[arabic]
-. *Kaufgut (freehold/allod):* the domain *sold the land out*; Krückeberg
-(or his father) became *owner* of that parcel.
-. *Erbpacht/Erbstand (hereditary lease sold for a price):* the domain
-kept the higher title but *sold the perpetual use right*; economically
-it behaves like property.
-* *What the Rentkammer considered "`buying back`":* Not the colonate as
-such, and not "`soil they already owned.`" They were weighing a
-*Rückkauf of the specific parcel/right that had been sold in 1814/1818*
-— i.e., *reacquiring what Krückeberg held* (either the freehold itself
-or his perpetual use right) to generate cash to satisfy his debts to
-Hempel & Söhne.
-* *Why the forester advised against it:* He valued the parcel at *~½ of
-what was paid in 1814*, noted *flooding/poor drainage*, and concluded a repurchase
-*"`nicht im herrschaftlichen Interesse`"* (not in the lordship’s interest). In other
-words, *bad asset for the domain to take back*, even if it would put cash in
-Krückeberg’s hands for debt relief.
-
-So: *"`Colon`" ≠ "`everything is leased.`"* Krückeberg could be a colonate holder
-*and* own (or hold perpetually) *separately purchased parcels*. The Rentkammer’s
-contemplated purchase was *of that purchased parcel/right*, not of the colonate
-itself.
+weitere Entscheidung unter-
+thänigste zu Höchsten Ermessen
+seÿ indeß der Meinung, daß
+es rathsamer seÿn dürfte, lie-
+ber das Darlehn von 200 rp
+zu bewilligen, indem dabei
+selbst wenn es unsicher steht
+der Schaden für die Kammer-
+Kasse doch immer geringer
+seÿn werde, als wenn das
+fragliche wenig nutzbares
+Land, das Kreuzinger zu 400 rt
+taxirt, für mehr als 800 rt
+wiederangekauft würde.
+Bbg. 23. Decbr. 41.
+Ricke
