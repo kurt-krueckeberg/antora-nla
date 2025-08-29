@@ -99,12 +99,19 @@ Bbg. 23. Decbr.
 Rick[e]
 ....
 
-.Horizontal Text
+.Vertical Text
 ....
+Ich bewilligt nach dem Antrage der Kammer
+des Dorlichen von 200 rtl dem Krückeberg,
+indem es auch künftig immer noch Zeit seyn würde,
+des Land anzunehmen und die Schuld darauf zu
+liquidiren. Bd 23 Dec.
+Georg Wilhelm
 ....
 
-.Left Margin Text
+.Left Margin Text in Parentheses
 ....
+(Die Taxe wird indes wohl etwas niedrig seÿn.)
 ....
 
 [verse]
@@ -157,3 +164,20 @@ more than 800 rt.
 Bbg., 23 Dec. 1841.
 Rick[e]
 ____
+
+
+.Vertical Text
+[verse]
+____
+I approve, in accordance with the chamber’s petition, the loan of
+200 rt to Krückeberg, since there will still be time in future to
+accept the land and settle the debt upon it.
+Bbg., 23 Dec.
+Georg Wilhelm
+____
+
+.Left Margin Text in Parentheses
+....
+(However, the appraisal/valuation will likely be somewhat low.)
+....
+
