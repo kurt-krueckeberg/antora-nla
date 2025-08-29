@@ -1,4 +1,4 @@
-= NC 5702
+= NC 5702, TODO: Add horizontal and left margin text
 :page-role: wide
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
@@ -14,6 +14,7 @@
 |===
 
 == Transliteration and Translation
+
 ....
 NC 5702               
 
@@ -96,6 +97,14 @@ wiedergekauft wurde.
 Bbg. 23. Decbr.
 
 Rick[e]
+....
+
+.Horizontal Text
+....
+....
+
+.Left Margin Text
+....
 ....
 
 [verse]
