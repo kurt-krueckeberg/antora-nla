@@ -9,6 +9,7 @@ anchor in the doducment
 * Check the "NC" numbers for each document in the document index and create a table that lists these
 numbers along with the subject and the documents they refer to.
 * Creat a glossary with definitions of key terms and examples that illustrate and show the meaning.
+* Ensure the accuracy of the translations
 * Within the chronological story of the Rentcammer documents, related reports and its decision, create a chronology
 of facts and events in Johann Heinrich Krückeberg's financial trial. 
 
