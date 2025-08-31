@@ -1,49 +1,10 @@
 = TODO
 
-== Meaning of Document Index No. 2 entries:
+== Document Index, Definitions, Timelines and Events
 
-=== Column keys
-
-* *No* – index number of the entry in this document list.
-* *Acten Designation (left)* – short description of the piece
-(who/what).
-* *Acten Designation (right)* – filing rubric / registry note (where it’s filed or series/desk).
-* *Ort* – place.
-* *Jahr* – year.
-* *Mon* – month.
-* *Z.* – running register *Zahl* (sequential number in that month’s
-register).
-
-=== Row 1 (No *2.*)
-
-* *Acten Designation (left):* _Bericht Amts Bückeburg_ → "`Report of the Amt (district office) of Bückeburg.`"
-* *Acten Designation (right):* _Cour. aus_ (very likely *Corr.  aus[gehend]*) → "`Outgoing correspondence`"
-series/rubric in the registry. (In Kurrent the double *rr* often looks like *ur*, hence _Cour._)
-* *Ort:* _Bückeburg_ (place of origin/registry).
-* *Jahr:* _1841_.
-* *Mon:* _October_.
-* *Z.:* _7_ → entry no. 7 in the October register.
-
-=== Row 2 (No *〃* = ditto of 2)
-
-* *Acten Designation (left):* _Gg. K Res. an dasselbe_ → *Gg.* = _Gegen_ ("`in reply to / concerning`"),
-*K Res.* = _Kammer-Resolution_ ("`chamber resolution`"); 
-whole phrase: "`Chamber resolution, to the same [office].`"
-* *Acten Designation (right):* _Cammer-Casse_ → rubric/subject
-"`Kammerkasse`" (the chamber treasury).
-* *Ort:* _〃_ (ditto = Bückeburg).
-* *Jahr:* _〃_ (1841).
-* *Mon:* _〃_ (October).
-* *Z.:* _14_ → entry no. 14 in the October register.
-
-*How to read the pair:* together they show (a) an incoming report from the Amt Bückeburg and
-(b) the Rentkammer’s resolution sent back "`to the same,`" with cross-references to the filing
-rubrics ("`Outgoing correspondence`" / "`Kammerkasse`") and the register numbers (Z. 7 and Z.
-14).
-
-=== Document Index, Definitions, Timelines and Events
-
-* Create xrefs that link the document index entries to the actual documents (and supplemental documents) and an
+* It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
+navigation and doc-6.adoc page to reflect this.
+* Finish the xrefs that link the document index entries to the actual documents (and supplemental documents) and an
 anchor in the doducment 
 * Check the "NC" numbers for each document in the document index and create a table that lists these
 numbers along with the subject and the documents they refer to.
