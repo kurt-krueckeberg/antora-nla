@@ -1,3 +1,4 @@
+[[doc-index-4-1]]
 = Document 4: Krückeberg’s Second Petition and the Rentkammer’s Decision (21–25 Nov 1841)
 :page-role: wide
 
@@ -5,11 +6,6 @@
 |===
 |image::10-r.png[title="Click to Enlarge",scale=50,link=self]
 |image::11-l.png[title="Click to Enlarge",scale=50,link=self]
-|===
-[options="noheader",cols="1a,1a",frame=none,grid=none]
-|===
-|image::11-r.png[title="Click to Enlarge",scale=50,link=self]
-|image::12-l.png[title="Click to Enlarge",scale=50,link=self]
 |===
 
 [role="section-narrow"]
@@ -157,7 +153,14 @@ No. 10 in Berenbusch
 ____
 |===
 
+[[doc-index-4-2]]
 === Rentkammer Decision and Instruction (25 Nov 1841)
+[options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
+|image::11-r.png[title="Click to Enlarge",scale=50,link=self]
+|image::12-l.png[title="Click to Enlarge",scale=50,link=self]
+|===
+
 
 [cols="1a,1a",frame=none]
 |===

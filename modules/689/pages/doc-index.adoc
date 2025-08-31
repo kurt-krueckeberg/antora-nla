@@ -67,7 +67,7 @@ ad 200 r.
 
 [[idx-4-1]]
 |4.
-|Vorst. des p Krückeberg
+|xref:doc-04.adoc#doc-index-4-1[Vorst. des p Krückeberg]
 |
 |Bbg.
 |1841
@@ -76,7 +76,7 @@ ad 200 r.
 
 [[idx-4-2]]
 |〃
-|Gg. K. Res. an Of. Creuzinger
+|xref:doc-04.adoc#doc-index-4-2[Gg. K. Res. an Of. Creuzinger]
 |item +
 Gesuch um
 |〃
@@ -235,7 +235,7 @@ approval of a loan of 200 Reichstaler.]
 |
 
 |4.
-|Petition of Mr. Krückeberg.
+|xref:doc-04.adoc#doc-index-4-1[Petition of Mr. Krückeberg.]
 |
 |Bückeburg
 |1841
@@ -243,7 +243,7 @@ approval of a loan of 200 Reichstaler.]
 |21
 
 |4.
-|Chamber resolution to Chief Forester Creuzinger
+|xref:doc-04.adoc#doc-index-4-2[Chamber resolution to Chief Forester Creuzinger]
 |Likewise: petition “for …” (subject continues in the file)
 |Bückeburg
 |1841
