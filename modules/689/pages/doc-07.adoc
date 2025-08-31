@@ -1,5 +1,12 @@
 = Rescript received from the Amt Bückeburg (24 Dec 1842)
 
+image:17-r.png[link=self]
+
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 ....
 Stpl: 3 g                       N. C. 5702.
 
@@ -24,7 +31,8 @@ demselben ein Darlehn von 200 r.
 zu 4% Zinsen und halbjähriger                           
 Löse aus Kammerkasse zu be-                            
 willigen geruht. Das Amt wird                           
-daher beauftragt, die [behufige]
+daher beauftragt, die behufige[misspelled:
+behufliche preferred]
 Obligation, worin auch in specie                        
 wegen Sicherheit des Darlehns,                          
 das Nöthige aufzunehmen ist,                            
@@ -39,3 +47,35 @@ Fürstl: p.
 
 Lm   L
 ....
+
+|
+[verse]
+____
+Office Draft to the Amt Bückeburg
+
+Loan for Colon Krückeberg, No. 10 in Berenbusch.
+
+To assist Colon Krückeberg, No. 10 in Berenbusch, with the debts
+payable to Hempel & Sons in Minden, His Serene Highness, the
+Regent, has been pleased to approve for him a loan of 200 r., at
+4% interest and with semiannual amortization, to be granted from
+the chamber treasury. The office is therefore instructed to
+submit the behufliche obligation (i.e., the bond drawn up for
+this purpose), in which the necessary particulars regarding the
+security for the loan are to be set down in detail; thereafter
+the disbursement of the 200 r. by the office is to be ordered and
+such funds are to be properly applied. The petitioner is to be
+informed of this.
+
+Bückeburg, 24 Dec. 1841.
+By order of the Prince.
+
+[initials: Lm L]”
+|===
+
+[NOTE]
+====
+*r.* = Reichstaler
+*behufliche Obligation* = “bond to that effect/for that purpose”
+*Amt* = district office.
+====
