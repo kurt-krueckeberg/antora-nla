@@ -1,4 +1,5 @@
 = Rescript received from the Amt Bückeburg (24 Dec 1842)
+:page-role: wide
 
 image:17-r.png[link=self]
 
