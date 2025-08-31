@@ -182,6 +182,152 @@ Kammerkasse geliehene +
 |
 |===
 
+== English Version
+
+[%header,cols="^1,9,6,2,2,2,^1",frame=none]
+.Translation
+|===
+|No | Document description (left) | Registry rubric / series (right) | Place | Year | Month | Register no.
+
+|1.
+|Petition by Colon (farm holder) Krückeberg, No. 10 in Berenbusch, with enclosure; approval of a loan of 200 Reichstaler.
+|Approval of a loan of 200 Reichstaler.
+|Bückeburg
+|1841
+|October
+|2
+
+|2.
+|Report from the Amt (district office) of Bückeburg.
+|Outgoing correspondence (registry rubric).
+|Bückeburg
+|1841
+|October
+|7
+
+|2.
+|Chamber resolution sent to the same office.
+|Chamber Treasury (Kammerkasse).
+|Bückeburg
+|1841
+|October
+|14
+
+|3.
+|Petition of Colon Krückeberg (see document 3).
+.3+|Regarding the pledging of all of his lands as collateral.
+|Bückeburg
+|1841
+|November
+|11
+
+|3.
+|Memorandum by Privy Councillor Ricke (spelled “Reik” in the index).
+|Bückeburg
+|1841
+|November
+|15
+
+|3.
+|Chamber resolution sent to Mr. Krückeberg.
+|Bückeburg
+|1841
+|November
+|
+
+|4.
+|Petition of Mr. Krückeberg.
+|
+|Bückeburg
+|1841
+|November
+|21
+
+|4.
+|Chamber resolution to Chief Forester Creuzinger; likewise, a petition “for …” (subject continues in file).
+|Bückeburg
+|1841
+|November
+|25
+
+|5.
+|Report of Chief Forester Creuzinger; enclosure: site sketch (“situational plan”) of the Söhren pasture.
+.4+|Concerning the sale of his parcels on the Söhren pasture.
+|Bückeburg
+|1841
+|December
+|10
+
+|6.
+|Memorandum by Privy Councillor Ricke.
+|Bückeburg
+|1841
+|December
+|16
+
+|6.
+|Highest rescript (sovereign order).
+|Bückeburg
+|1841
+|December
+|19
+
+|6.
+|P.V. note by the councillor and Highest Rescript of His Serene Highness.
+|Bückeburg
+|1841
+|December
+|23
+
+|7.
+|Rescript received from the Amt Bückeburg.
+|
+|Bückeburg
+|1841
+|December
+|24
+
+|8.
+|Report from the Amt Bückeburg.
+|
+|Bückeburg
+|1842
+|January
+|2
+
+|8.
+|Chamber resolution to the same office.
+|
+|Bückeburg
+|1842
+|January
+|20
+
+|8.
+|Likewise to Councillor Berger (Kammerrat).
+|
+|Bückeburg
+|1842
+|January
+|
+
+|9.
+|Report from the Amt Bückeburg.
+|
+|Bückeburg
+|1842
+|February
+|8
+
+|10.
+|Bond (“Obligation”) for the loan of 200 Reichstaler, courant, drawn from the princely Chamber Treasury.
+|Bond (Obligation).
+|
+|
+|
+|
+|===
+
 === Explanation
 
 ==== Column keys
@@ -212,13 +358,18 @@ Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
 9:: Further report from Amt Bückeburg (Feb. 1842); Z. 8.
 10:: Bond/Instrument (*Obligation*) for the 200 r. Courant loan drawn from the princely Kammerkasse.
 
-==== Abbreviation keys
+==== Abbreviation keys (from the original German index)
+
 Vorst.:: Vorstellung (petition)
-Gg.:: Gegen-/Antwort (issued to / in reply to)
+Gg. / Gg. K. Res.:: Gegen / Gegen-Kammer-Resolution (issued to / chamber resolution in reply)
 Rescr.:: Rescript (formal written order/resolution)
-Of.:: Oberförster
-Cammer-Casse:: Treasury (Rentkammer funds)
+Of.:: Oberförster (Chief Forester)
+Cammer-Casse / Kammerkasse:: Chamber Treasury
 desgl.:: desgleichen (likewise)
-Corr. aus:: Correspondence, outgoing
-P. V.:: Filing note such as *Protokoll-Vermerk* / *per Votum* (keep as written in the index)
-<BS>
+Corr. aus:: Correspondence, outgoing (registry rubric)
+P. V.:: Filing note such as *Protokoll-Vermerk* / *per Votum* (left as written)
+Colon:: Holder of a full farm (estate tenant) in the local agrarian order
+rt / r. / Courant:: Reichstaler (currency); *courant* = current circulating money
+Amt (Bückeburg):: District/administrative office at Bückeburg
+Register no. (Zahl):: Monthly registry sequence number assigned in the office register
+
