@@ -176,148 +176,165 @@ Kammerkasse geliehene +
 |===
 
 == English Version
-
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation
 |===
 |No | Document description (left) | Registry rubric / series (right) | Place | Year | Month | Register no.
 
+[[idx-1-1]]
 |1.
-|xref:doc-01.adoc#doc-index-1-1[Petition by Colon (farm holder) Krückeberg, No. 10 in Berenbusch, with enclosure;
-approval of a loan of 200 Reichstaler.]
-|Approval of a loan of 200 Reichstaler.
+|xref:doc-01.adoc#doc-index-1-1[Petition by Colon Krückeberg, No. 10 in Berenbusch; enclosure.]
+|Approval of a loan +
+of 200 r.
 |Bückeburg
 |1841
 |October
 |2
 
+[[idx-2-1]]
 |2.
-|xref:doc-02.adoc#doc-index-2-1[Report from the Amt (district office) of Bückeburg.]
-|Outgoing correspondence (registry rubric).
-|Bückeburg
-|1841
-|October
+|xref:doc-02.adoc#doc-index-2-1[Report from the Amt (district office) of Bückeburg]
+|Outgoing correspondence
+|〃
+|〃
+|〃
 |7
 
-|2.
-|xref:doc-02.adoc#doc-index-2-2[Chamber resolution sent to the same office.]
-|Chamber Treasury (Kammerkasse).
-|Bückeburg
-|1841
-|October
+[[idx-2-2]]
+|〃
+|xref:doc-02.adoc#doc-index-2-2[Office draft of a chamber rescript to the same office]
+|Chamber Treasury
+|〃
+|〃
+|〃
 |14
 
+[[idx-3-1]]
 |3.
-|xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg (see document 3).]
-.3+|Regarding the pledging of all of his lands as collateral.
+|xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg]
+.3+|regarding the pledging of all his lands as collateral
 |Bückeburg
 |1841
 |November
 |11
 
-|3.
-|Memorandum by Privy Councillor Ricke (spelled “Reik” in the index).
-|Bückeburg
-|1841
-|November
+[[idx-3-2]]
+|〃
+|Memorandum by Privy Councillor Ricke
+|〃
+|〃
+|〃
 |15
 
-|3.
-|Chamber resolution sent to Mr. Krückeberg.
-|Bückeburg
-|1841
-|November
+[[idx-3-3]]
+|〃
+|Office draft of a chamber rescript to Mr. Krückeberg
+|〃
+|〃
+|〃
 |
 
+[[idx-4-1]]
 |4.
-|xref:doc-04.adoc#doc-index-4-1[Petition of Mr. Krückeberg.]
+|xref:doc-04.adoc#doc-index-4-1[Petition by Mr. Krückeberg]
 |
 |Bückeburg
 |1841
 |November
 |21
 
-|4.
-|xref:doc-04.adoc#doc-index-4-2[Chamber resolution to Chief Forester Creuzinger]
-|Likewise: petition “for …” (subject continues in the file)
-|Bückeburg
-|1841
-|November
+[[idx-4-2]]
+|〃
+|xref:doc-04.adoc#doc-index-4-2[Office draft of a chamber rescript to Chief Forester Creuzinger]
+|Item: +
+petition for …
+|〃
+|〃
+|〃
 |25
 
+[[idx-5-1]]
 |5.
-|xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch (“situational plan”) of
-the Söhren pasture.]
-.4+|Concerning the sale of his parcels on the Söhren pasture.
+|xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch of the Söhren pasture]
+.4+|Regarding the sale of his parcels on the Söhren pasture
 |Bückeburg
 |1841
 |December
 |10
 
+[[idx-6-1]]
 |6.
-|Memorandum by Privy Councillor Ricke.
-|Bückeburg
-|1841
-|December
+|Memorandum by Privy Councillor Ricke
+|〃
+|〃
+|〃
 |16
 
-|6.
-|Highest rescript (sovereign order).
-|Bückeburg
-|1841
-|December
+[[idx-6-2]]
+|〃
+|Highest rescript [His Government]
+|〃
+|〃
+|〃
 |19
 
-|6.
-|P.V. note by the councillor and Highest Rescript of His Serene Highness.
-|Bückeburg
-|1841
-|December
+[[idx-6-3]]
+|〃
+|Protocol minute by Privy Councillor Ricke and Highest Rescript of His Serene Highness
+|〃
+|〃
+|〃
 |23
 
+[[idx-7-1]]
 |7.
-|Rescript received from the Amt Bückeburg.
+|Office draft (rescript) from the Amt Bückeburg
 |
 |Bückeburg
 |1841
 |December
 |24
 
+[[idx-8-1]]
 |8.
-|Report from the Amt Bückeburg.
+|Report from the Amt Bückeburg
 |
 |Bückeburg
 |1842
 |January
 |2
 
-|8.
-|Chamber resolution to the same office.
+[[idx-8-2]]
+|〃
+|Office draft of a chamber rescript to the same office
 |
-|Bückeburg
-|1842
-|January
+|〃
+|〃
+|〃
 |20
 
-|8.
-|Likewise to Councillor Berger (Kammerrat).
+[[idx-8-3]]
+|〃
+|Likewise to Councillor Berger
 |
-|Bückeburg
-|1842
-|January
+|〃
+|〃
+|〃
 |
 
+[[idx-9-1]]
 |9.
-|Report from the Amt Bückeburg.
+|Report from the Amt Bückeburg
 |
 |Bückeburg
 |1842
 |February
 |8
 
+[[idx-10-1]]
 |10.
-|Bond (“Obligation”) for the loan of 200 Reichstaler, courant, drawn from the princely Chamber Treasury.
-|Bond (Obligation).
+|Bond for 200 Reichstaler, *courant*, borrowed from the princely chamber treasury
+|Bond
 |
 |
 |
