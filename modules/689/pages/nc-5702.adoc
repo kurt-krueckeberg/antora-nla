@@ -166,9 +166,9 @@ ____
 |===
 
 === Small Left Margin Text in Parentheses
-Vertical Text in Left Margin:
 
-Small Left Margin Text in Parentheses:
+TODO: Explain what it is.
+
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |Transliteration|Translation
