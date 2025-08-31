@@ -8,6 +8,7 @@
 |image::03-l-original.png[scale=50,link=self]
 |===
 
+[[doc-index-1-1]]
 [role="section-narrow"]
 == Overview
 
