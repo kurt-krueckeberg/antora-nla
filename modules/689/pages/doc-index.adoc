@@ -11,7 +11,6 @@ image::01-r.png[link=self]
 |===
 |No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z.
 
-[[idx-1-1]]
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch Anb.]
 |Bewilligung +
@@ -22,7 +21,6 @@ ad 200 r.
 |Octob.
 |2
 
-[[idx-2-1]]
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
 |Corr. aus
@@ -31,7 +29,6 @@ ad 200 r.
 |〃
 |7
 
-[[idx-2-2]]
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Cpt. K. Res. an dasselbe]
 |Cammer-Casse
@@ -40,7 +37,6 @@ ad 200 r.
 |〃
 |14
 
-[[idx-3-1]]
 |3.
 |xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
 .3+|gegen Verpfändung seiner sämmtlichen Ländereien
@@ -49,7 +45,6 @@ ad 200 r.
 |Nov.
 |11
 
-[[idx-3-2]]
 |〃
 |Vortrag des GKR od Reik
 |〃
@@ -57,7 +52,6 @@ ad 200 r.
 |〃
 |15
 
-[[idx-3-3]]
 |〃
 |Cpt. K. Res. an p Krückeberg
 |〃
@@ -65,7 +59,6 @@ ad 200 r.
 |〃
 |
 
-[[idx-4-1]]
 |4.
 |xref:doc-04.adoc#doc-index-4-1[Vorst. des p Krückeberg]
 |
@@ -74,7 +67,6 @@ ad 200 r.
 |Nov.
 |21
 
-[[idx-4-2]]
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Cpt. K. Res. an Of. Creuzinger]
 |item +
@@ -84,7 +76,6 @@ Gesuch um
 |〃
 |25
 
-[[idx-5-1]]
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
 .4+|Verkauf seiner Ländereien auf der Söhren-Weide betr.
@@ -93,7 +84,6 @@ Gesuch um
 |Decbr.
 |10
 
-[[idx-6-1]]
 |6.
 |Vortrag des GKR od Reik
 |〃
@@ -101,7 +91,6 @@ Gesuch um
 |〃
 |16
 
-[[idx-6-2]]
 |〃
 |Höchstes Rescr. [Sei. Reg.]
 |〃
@@ -109,7 +98,6 @@ Gesuch um
 |〃
 |19
 
-[[idx-6-3]]
 |〃
 |P. V. des GKR od Reik u. Höchstes +
 Rescr. Sr. Durchlaucht
@@ -118,7 +106,6 @@ Rescr. Sr. Durchlaucht
 |〃
 |23
 
-[[idx-7-1]]
 |7.
 |Cpt. Rescr. aus Amt Bückeburg
 |
@@ -127,7 +114,6 @@ Rescr. Sr. Durchlaucht
 |Decbr.
 |24
 
-[[idx-8-1]]
 |8.
 |Bericht Amts Bückeburg
 |
@@ -136,7 +122,6 @@ Rescr. Sr. Durchlaucht
 |Jan.
 |2
 
-[[idx-8-2]]
 |〃
 |Cpt. K. Res. an dasselbe
 |
@@ -145,7 +130,6 @@ Rescr. Sr. Durchlaucht
 |〃
 |20
 
-[[idx-8-3]]
 |〃
 |desgl. an den K. R. Berger
 |
@@ -154,7 +138,6 @@ Rescr. Sr. Durchlaucht
 |〃
 |
 
-[[idx-9-1]]
 |9.
 |Bericht Amts Bückeburg
 |
@@ -163,7 +146,6 @@ Rescr. Sr. Durchlaucht
 |Febr.
 |8
 
-[[idx-10-1]]
 |10.
 |Obligation über aus Fürstl. +
 Kammerkasse geliehene +
@@ -181,7 +163,6 @@ Kammerkasse geliehene +
 |===
 |No | Document description (left) | Registry rubric / series (right) | Place | Year | Month | Register no.
 
-[[idx-1-1]]
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Petition by Colon Krückeberg, No. 10 in Berenbusch; enclosure.]
 |Approval of a loan +
@@ -191,7 +172,6 @@ of 200 r.
 |October
 |2
 
-[[idx-2-1]]
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Report from the Amt (district office) of Bückeburg]
 |Outgoing correspondence
@@ -200,7 +180,6 @@ of 200 r.
 |〃
 |7
 
-[[idx-2-2]]
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Office draft of a chamber rescript to the same office]
 |Chamber Treasury
@@ -209,7 +188,6 @@ of 200 r.
 |〃
 |14
 
-[[idx-3-1]]
 |3.
 |xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg]
 .3+|regarding the pledging of all his lands as collateral
@@ -218,7 +196,6 @@ of 200 r.
 |November
 |11
 
-[[idx-3-2]]
 |〃
 |Memorandum by Privy Councillor Ricke
 |〃
@@ -226,7 +203,6 @@ of 200 r.
 |〃
 |15
 
-[[idx-3-3]]
 |〃
 |Office draft of a chamber rescript to Mr. Krückeberg
 |〃
@@ -234,7 +210,6 @@ of 200 r.
 |〃
 |
 
-[[idx-4-1]]
 |4.
 |xref:doc-04.adoc#doc-index-4-1[Petition by Mr. Krückeberg]
 |
@@ -243,7 +218,6 @@ of 200 r.
 |November
 |21
 
-[[idx-4-2]]
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Office draft of a chamber rescript to Chief Forester Creuzinger]
 |Item: +
@@ -253,7 +227,6 @@ petition for …
 |〃
 |25
 
-[[idx-5-1]]
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch of the Söhren pasture]
 .4+|Regarding the sale of his parcels on the Söhren pasture
@@ -262,7 +235,6 @@ petition for …
 |December
 |10
 
-[[idx-6-1]]
 |6.
 |Memorandum by Privy Councillor Ricke
 |〃
@@ -270,7 +242,6 @@ petition for …
 |〃
 |16
 
-[[idx-6-2]]
 |〃
 |Highest rescript [His Government]
 |〃
@@ -278,7 +249,6 @@ petition for …
 |〃
 |19
 
-[[idx-6-3]]
 |〃
 |Protocol minute by Privy Councillor Ricke and Highest Rescript of His Serene Highness
 |〃
@@ -286,7 +256,6 @@ petition for …
 |〃
 |23
 
-[[idx-7-1]]
 |7.
 |Office draft (rescript) from the Amt Bückeburg
 |
@@ -295,7 +264,6 @@ petition for …
 |December
 |24
 
-[[idx-8-1]]
 |8.
 |Report from the Amt Bückeburg
 |
@@ -304,7 +272,6 @@ petition for …
 |January
 |2
 
-[[idx-8-2]]
 |〃
 |Office draft of a chamber rescript to the same office
 |
@@ -313,7 +280,6 @@ petition for …
 |〃
 |20
 
-[[idx-8-3]]
 |〃
 |Likewise to Councillor Berger
 |
@@ -322,7 +288,6 @@ petition for …
 |〃
 |
 
-[[idx-9-1]]
 |9.
 |Report from the Amt Bückeburg
 |
@@ -331,7 +296,6 @@ petition for …
 |February
 |8
 
-[[idx-10-1]]
 |10.
 |Bond for 200 Reichstaler, *courant*, borrowed from the princely chamber treasury
 |Bond
