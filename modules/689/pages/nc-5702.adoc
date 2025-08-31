@@ -76,7 +76,7 @@ Bbg. 23. Decbr.
 Rick[e]
 ....
 
-.Vertical Text
+.Vertical Text in Left Margin
 ....
 Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
 rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
@@ -85,7 +85,7 @@ Bb 23 Dec.
 Georg Wilhelm
 ....
 
-.Left Margin Text in Parentheses
+.Small Left Margin Text in Parentheses
 ....
 (Die Taxe wird indes wohl etwas niedrig seÿn.)
 ....
@@ -142,6 +142,7 @@ Bbg., 23 Dec. 1841.
 Rick[e]
 ____
 
+Vertical Text in Left Margin:
 
 [verse]
 ____
@@ -151,6 +152,8 @@ accept the land and settle the debt upon it.
 Bbg., 23 Dec.
 Georg Wilhelm
 ____
+
+Small Left Margin Text in Parentheses:
 
 [verse]
 ____
