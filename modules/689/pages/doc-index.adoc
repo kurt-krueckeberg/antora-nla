@@ -13,7 +13,7 @@ image::01-r.png[link=self]
 
 [[idx-1-1]]
 |1.
-|xref:doc-01.adoc@doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch Anb.]
+|xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch Anb.]
 |Bewilligung +
 eines Darlehens +
 ad 200 r.
