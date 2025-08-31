@@ -15,6 +15,12 @@
 
 == Transliteration and Translation
 
+=== Sovereign Georg Wilhelm's, Prince of Schaumburg-Lippe, instructions to Rentcammer
+
+TODO: Explain who Georg Wilhelm is.
+Sovereign Georg Wilhelm's, Prince of Schaumburg-Lippe, instructions to Rentcammer...
+TODO elaborate what his instructions/guidance to the Rentcammer is.
+
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |Transliteration|Translation
@@ -42,7 +48,42 @@ findet, dem Krückeberg vorerst die erbetenen 200 Rthl zu leihen?
 Bbg 19 Dec 1841.
 
 Georg Wilhelm
+....
+|
+[verse]
+____
+NC 5702               
 
+[rok]
+          Received in the Chamber, 21 Dec 1841.
+
+The buy-back of this parcel at the former selling price would, by
+this reckoning, certainly not be advantageous. Still, it should
+be considered that the petitioner’s father, when he was in good
+financial circumstances, bought this parcel from the Chamber at
+the stated high purchase price; and that for the present holder
+(the Colon)—and with forfeiture of the lease as well—bankruptcy
+is impending if he is not helped by that. To be sure, the Chamber
+is under no obligation to take the parcel back; however (although
+it sold it for the price then realized), in these circumstances
+it seems fair to me that, unless it finds that unwise, the
+Chamber should for the time being lend Krückeberg the requested
+200 thalers.
+Bückeburg, 19 Dec 1841.
+
+Georg Wilhelm
+____
+|===
+
+=== Ricke's reply to the Prince?
+
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
 P.V.
 Soll dem p Krückeberg gründlich ge- helfen werden, so müsste
 diess wohl am sichersten dadurch geschehe, wenn demselben das
@@ -63,7 +104,40 @@ wahrscheinlich bedeutend verbessert werden kann.
 Bbg 23. Dec. 41.
 
 RC     Rick[e]
+____
 
+|
+[verse]
+____
+per Vorstehung (by the authority of)
+If thorough assistance is to be given to Mr. Krückeberg, this
+would most likely be best achieved by taking back the disputed
+land at the price paid by the petitioner’s father to the chamber,
+whereby he would, without needing to take out a new loan,
+simultaneously rid himself of a poor property and receive such a
+significant sum of money that he would be able to free himself
+from most of his debts.
+
+The chamber could more easily take action if the 200 rt loan were
+granted. However, the goal of thoroughly assisting Mr.
+Krückeberg, it seems to me, is not being achieved in this way.
+In the interest of Mr. Krückeberg, I therefore decided to support
+the repurchase of the land by him, which can be significantly
+improved by the drainage trench suggested by O. f. Kreuzinger.
+Bückeburg, 23 Dec. 41
+
+RC[Rentcammer]         Ricke
+____
+|===
+
+
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
 Die Kammer verstelle die weitere Entscheidung unterthänigste zu
 Höchsten Ermessen seÿ indeß der Meinung, daß es rathsamer seÿn
 dürfte, lieber das Darlehn von 200 rp zu bewilligen, indem dabei
@@ -74,63 +148,11 @@ rtn wiedergekauft wurde.
 Bbg. 23. Decbr.
 
 Rick[e]
-....
-
-.Vertical Text in Left Margin
-....
-Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
-rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
-würde, des Land anzunehmen und die Schuld darauf zu liquidiren.
-Bb 23 Dec.
-Georg Wilhelm
-....
-
-.Small Left Margin Text in Parentheses
-....
-(Die Taxe wird indes wohl etwas niedrig seÿn.)
-....
+____
 
 |
 [verse]
 ____
-NC 5702               
-
-          Received in the Chamber, 21 Dec 1841.
-
-The buy-back of this parcel at the former selling price would, by
-this reckoning, certainly not be advantageous. Still, it should
-be considered that the petitioner’s father, when he was in good
-financial circumstances, bought this parcel from the Chamber at
-the stated high purchase price; and that for the present holder
-(the Colon)—and with forfeiture of the lease as well—bankruptcy
-is impending if he is not helped by that. To be sure, the Chamber
-is under no obligation to take the parcel back; however (although
-it sold it for the price then realized), in these circumstances
-it seems fair to me that, unless it finds that unwise, the
-Chamber should for the time being lend Krückeberg the requested
-200 thalers.
-Bückeburg, 19 Dec 1841.
-
-Georg Wilhelm
-
-per Vorstehung (by the authority of)
-If thorough assistance is to be given to Mr. Krückeberg, this
-would most likely be best achieved by taking back the disputed
-land at the price paid by the petitioner’s father to the chamber,
-whereby he would, without needing to take out a new loan,
-simultaneously rid himself of a poor property and receive such a
-significant sum of money that he would be able to free himself
-from most of his debts.  The chamber could more easily take
-action if the 200 rt loan were granted. However, the goal of
-thoroughly assisting Mr. Krückeberg, it seems to me, is not being
-achieved in this way.  In the interest of Mr. Krückeberg, I
-therefore decided to support the repurchase of the land by him,
-which can be significantly improved by the drainage trench
-suggested by O. f. Kreuzinger.
-Bückeburg, 23 Dec. 41
-
-R[ent]C[ammer]         Ricke
-
 I most humbly leave any further decision to Your Highest
 discretion; however, I am of the opinion that it would be more
 advisable to approve the loan of 200 rt, since even if the
@@ -141,9 +163,50 @@ more than 800 rt.
 Bbg., 23 Dec. 1841.
 Rick[e]
 ____
+|===
 
+=== Small Left Margin Text in Parentheses
 Vertical Text in Left Margin:
 
+Small Left Margin Text in Parentheses:
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+(Die Taxe wird indes wohl etwas niedrig seÿn.)
+____
+|
+[verse]
+____
+(However, the appraisal/valuation will likely be somewhat low.)
+____
+|===
+
+=== Prince of Schaumburg-Lippe Georg Wilhelm's Decision and Signature.
+
+In the left margin (shown below rotated so one can read it) is the decision that the Sovereign ruler of
+Schaumburg-Lippe rendered in the Johann Heinrich 
+
+image::17-l-vertical-text.png[scale=50,link=self]
+
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|Transliteration|Translation
+
+|
+[verse]
+____
+Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
+rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
+würde, des Land anzunehmen und die Schuld darauf zu liquidiren.
+Bb 23 Dec.
+Georg Wilhelm
+____
+
+|
 [verse]
 ____
 I approve, in accordance with the chamber’s petition, the loan of
@@ -152,11 +215,5 @@ accept the land and settle the debt upon it.
 Bbg., 23 Dec.
 Georg Wilhelm
 ____
-
-Small Left Margin Text in Parentheses:
-
-[verse]
-____
-(However, the appraisal/valuation will likely be somewhat low.)
-____
 |===
+
