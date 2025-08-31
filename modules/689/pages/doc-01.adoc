@@ -1,3 +1,4 @@
+[[doc-index-1-1]]
 = Document 1: Krückeberg's Statement and Request - 2 Oct 1841
 :page-role: wide
 
@@ -8,7 +9,6 @@
 |image::03-l-original.png[scale=50,link=self]
 |===
 
-[[doc-index-1-1]]
 [role="section-narrow"]
 == Overview
 
