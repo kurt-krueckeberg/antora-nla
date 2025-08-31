@@ -9,7 +9,7 @@ image::01-r.png[link=self]
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Transliteration
 |===
-|No | Acten Designation (left) |Acten Designation (right) | Ort | Jahr | Mon | Z.
+|No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z.
 
 [[idx-1-1]]
 |1.
@@ -27,7 +27,7 @@ ad 200 r.
 [[idx-2-1]]
 |2.
 |Bericht Amts Bückeburg
-|Cour. aus
+|Corr. aus
 |〃
 |〃
 |〃
@@ -45,7 +45,7 @@ ad 200 r.
 [[idx-3-1]]
 |3.
 |xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
-.4+|gegen Verpfändung seiner sämmtlichen Ländereien
+.3+|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
 |Nov.
@@ -70,6 +70,7 @@ ad 200 r.
 [[idx-4-1]]
 |4.
 |Vorst. des p Krückeberg
+|
 |Bbg.
 |1841
 |Nov.
@@ -79,7 +80,7 @@ ad 200 r.
 |〃
 |Gg. K. Res. an Of. Creuzinger
 |item +
-Gesuch nun
+Gesuch um
 |〃
 |〃
 |〃
@@ -181,231 +182,43 @@ Kammerkasse geliehene +
 |
 |===
 
-[role="section-narrow"]
-== Glossary (Index / Acten-Designation)
+=== Explanation
 
-=== Columns, layout, marks
+==== Column keys
+No:: Running item number (1–10) within this case file’s index.
+Acten Designation (left):: Short description of the piece (who/what).
+Acten Designation (right):: Filing rubric / series / subject note used by the registry.
+Ort:: Place (e.g., *Bbg.* = Bückeburg).
+Jahr / Mon:: Year / Month.
+Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
 
-Acten Designation:: File/index designation (what the entry is “about”); in the index it’s split logically into a
-**left** sub-column (document type/origin) and a **right** sub-column (subject/routing/what it concerns).
-Ort:: Place.
-Jahr:: Year.
-Mon:: Month (e.g., Octob., Nov., Decbr., Jan., Febr.).
-Z. (Zahl):: Running number (serial within the month).
+==== Row-by-row
+1:: Petition by Colon Krückeberg (No. 10, Berenbusch) with enclosure; approval of a 200-r. loan.
+2:: Report from the Amt Bückeburg; right rubric **Corr. aus** = “Correspondence, outgoing”.
+2 (〃):: Kammer-Resolution to the same office; right rubric **Cammer-Casse** (treasury); Z. 14.
+3:: Petition of Krückeberg; right (rowspan): “gegen Verpfändung seiner sämmtlichen Ländereien” (re: pledging all his lands as collateral); Z. 11.
+3 (〃):: Memorandum/submission by **GKR od Reik** (very likely Councillor *Ricke*; keep the index spelling as written); Z. 15.
+3 (〃):: Kammer-Resolution to **p Krückeberg** (*p.* = formulaic “pro/persona”); Z. — (not recorded in the index).
+4:: Another petition from Krückeberg; right column blank; Z. 21.
+4 (〃):: Kammer-Resolution to Oberförster Creuzinger; “item **Gesuch um** …” indicates a related petition under the same matter; Z. 25.
+5:: Report of Oberförster Creuzinger with enclosure (site sketch) of the **Söhren-Weide**; right (rowspan): “Verkauf seiner Ländereien auf der Söhren-Weide betr.” (re: sale of his parcels there); Z. 10.
+6:: Memorandum by **GKR od Reik** (cf. above); Z. 16.
+6 (〃):: **Höchstes Rescr.** (sovereign rescript/order); Z. 19.
+6 (〃):: **P. V.** note by the councillor plus another Highest Rescript of His Serene Highness; Z. 23.
+7:: Rescript received from Amt Bückeburg; Z. 24.
+8:: Report from Amt Bückeburg (Jan. 1842); Z. 2.
+8 (〃):: Kammer-Resolution to the same office; Z. 20.
+8 (〃):: Likewise to **K. R. Berger** (Kammer-/Kameralrat); Z. —.
+9:: Further report from Amt Bückeburg (Feb. 1842); Z. 8.
+10:: Bond/Instrument (*Obligation*) for the 200 r. Courant loan drawn from the princely Kammerkasse.
 
-=== Document types & actions (left sub-column)
-
-Vorst. (Vorstellung):: Petition/submission (a party’s formal request).
-Bericht:: Report (from an office/official).
-Vortrag:: Submission/laying before (usually by a councillor to the chamber).
-Gg. (Gegen-):: “replying to / in answer to” (marks an item that responds to the previous one).
-K. Res., Rescr. (Kammer-Reskript):: Chamber rescript/decision (written order from the Rentkammer).
-Gg. K. Res. an …:: “Replying chamber rescript to …” (e.g., *an p Krückeberg*, *an Of. Creuzinger*, *an dasselbe*).
-
-=== Routing & clerk notes (right sub-column)
-
-Cour. aus:: Courier dispatched; sent out by courier.
-Cammer-Casse (Kammerkasse):: Princely Chamber treasury/finance office (routing or subject tag).
-item:: “Likewise / also” (list marker introducing an additional, closely related point).
-betr. / re.:: betreffend / in re — “concerning / regarding”.
-
-=== Parties, people, offices
-
-Colon:: Farmholder/tenant of a *Stätte* (settlement holding).
-p. (Petent):: Petitioner (used immediately before a person’s name).
-Amt:: Local administrative office (Amt Bückeburg).  Of. (Official):: “Official/Officiant” — an administrative
-rank/office holder (here: **Of. Creuzinger**; not a military “officer”).  GKR (Geheimer Kammerrat):: Privy Chamber
-Councillor (senior chamber official).  
-od Reik:: Diplomatic reading of the name as written (final **k** is clear). Left unexpanded until a clearer
-parallel confirms the exact spelling.
-K. R. (Kammerrat):: Chamber Councillor (e.g., **K. R. Berger**).
-Sr. Durchlaucht:: His Serene Highness (the Prince).
-Höchstes Rescr.:: “Highest rescript” — decision issued at the sovereign/“highest” level.
-P. V. (Protokoll-Vermerk):: Minutes/protocol entry or note recorded in the register.
-
-=== Places & toponyms
-Bbg.:: Bückeburg (seat of the Amt/Rentkammer).
-Söhren-Weide:: The Söhren pasture/common (local place-name in the file).
-
-=== Money, loans, instruments
-Darlehen / Anlehen:: Loan.
-ad (before an amount):: Latin “for / to the amount of,” e.g., *ad 200 r.* (= for 200 Reichsthaler).
-r., rt., rthlr.:: Reichsthaler (currency).
-Courant:: Current coin/specie (face-value money).
-Obligation:: Bond/promissory note acknowledging debt.
-
-=== Land & legal
-Verpfändung:: Pledging/mortgaging as security.
-sämmtlich(e):: Archaic spelling of **sämtlich(e)** — entire/all.
-Ländereien:: Lands/landed property.
-Situations-Riß:: Situation plan/sketch (map-like enclosure attached to a report).
-an dasselbe:: “to the same [office]” (i.e., to the same addressee as in the line above).
-
-=== Scribal/orthography notes
-Cammer- / Casse:: Period spellings for **Kammer** / **Kasse** (you’ll also see the modern **K** forms).
-Hyphenation across rows:: In the index, long right-column phrases may **span multiple physical rows**; line-end
-hyphens (e.g., *Län- / dereien*) are real hyphenations, not separate words.
-
-[role="section-narrow"]
-== Translation
-
-[%header,cols="^1,9a,6a,2,2,2,^1"]
-.Translation
-|===
-|No | Acten Designation (left) |Acten Designation (right) | Place | Year | Mon | No.
-
-|1.
-|Petition of Colon Krückeberg +
-No. 10 in Berenbusch +
-Encl.
-|Approval +
-of a loan +
-for 200 rthlr.
-|Bbg.
-|1841
-|Octob.
-|2
-
-|2.
-|Report of the Amt Bückeburg
-|Dispatched by courier
-|〃
-|〃
-|〃
-|7
-
-|〃
-|Replying Chamber rescript to the same
-|Chamber Treasury (Cammer-Casse)
-|〃
-|〃
-|〃
-|14
-
-|3.
-|xref:doc-03.adoc#indx-3-1[Petition of the colon Krückeberg]
-.4+|against the pledging +
-of his entire +
-lands +
-(Ländereien)
-|Bbg.
-|1841
-|Nov.
-|11
-
-|〃
-|Submission of GKR od Reik
-|〃
-|〃
-|〃
-|15
-
-|〃
-|Replying Chamber rescript to p. Krückeberg
-|〃
-|〃
-|〃
-|〃
-
-|4.
-|Petition of p. Krückeberg
-|Bbg.
-|1841
-|Nov.
-|21
-
-|〃
-|Replying Chamber rescript to Officer Creuzinger
-|item +
-petition now
-|〃
-|〃
-|〃
-|25
-
-|5.
-|Report of Officer Creuzinger +
-Encl.: situation sketch of the +
-Söhren pasture
-.4+|Sale of his +
-lands on the +
-Söhren pasture +
-re.
-|Bbg.
-|1841
-|Decbr.
-|10
-
-|6.
-|Submission of GKR od Reik
-|〃
-|〃
-|〃
-|16
-
-|〃
-|Highest rescript [reading of bracketed part uncertain]
-|〃
-|〃
-|〃
-|19
-
-|〃
-|Minutes/entry of GKR od Reik and Highest +
-Rescript of His Serene Highness
-|〃
-|〃
-|〃
-|23
-
-|7.
-|Replying rescript from the Amt Bückeburg
-|
-|Bbg.
-|1841
-|Decbr.
-|24
-
-|8.
-|Report of the Amt Bückeburg
-|
-|Bbg.
-|1842
-|Jan.
-|2
-
-|〃
-|Replying Chamber rescript to the same
-|
-|〃
-|〃
-|〃
-|20
-
-|〃
-|likewise to Councillor Berger
-|
-|〃
-|〃
-|〃
-|〃
-
-|9.
-|Report of the Amt Bückeburg
-|
-|Bbg.
-|1842
-|Febr.
-|8
-
-|10.
-|Bond for 200 rthlr courant borrowed from the +
-Princely Chamber Treasury
-|Bond.
-|
-|
-|
-|
-|===
-
-
+==== Abbreviation keys
+Vorst.:: Vorstellung (petition)
+Gg.:: Gegen-/Antwort (issued to / in reply to)
+Rescr.:: Rescript (formal written order/resolution)
+Of.:: Oberförster
+Cammer-Casse:: Treasury (Rentkammer funds)
+desgl.:: desgleichen (likewise)
+Corr. aus:: Correspondence, outgoing
+P. V.:: Filing note such as *Protokoll-Vermerk* / *per Votum* (keep as written in the index)
+<BS>
