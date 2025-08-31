@@ -2,6 +2,7 @@
 :page-role: wide
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
 |image::18-r.png[link=self]
 |
 |===
