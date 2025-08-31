@@ -86,11 +86,8 @@ Gesuch um
 
 [[idx-5-1]]
 |5.
-|Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide
-.4+|Verkauf seiner +
-Ländereien auf der +
-Söhren-Weide +
-betr.
+|xref:doc-05.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+.4+|Verkauf seiner Ländereien auf der Söhren-Weide betr.
 |Bbg.
 |1841
 |Decbr.
@@ -249,7 +246,8 @@ approval of a loan of 200 Reichstaler.]
 |25
 
 |5.
-|Report of Chief Forester Creuzinger; enclosure: site sketch (“situational plan”) of the Söhren pasture.
+|xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch (“situational plan”) of
+the Söhren pasture.]
 .4+|Concerning the sale of his parcels on the Söhren pasture.
 |Bückeburg
 |1841
