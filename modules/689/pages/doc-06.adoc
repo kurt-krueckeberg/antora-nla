@@ -87,7 +87,7 @@ ____
 |
 [literal,subs="verbatim,quotes"]
 ....
-R[ent]C[ammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
+RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
 (vid in fine           Reck
     signed )
