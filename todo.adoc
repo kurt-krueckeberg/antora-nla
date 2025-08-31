@@ -5,6 +5,9 @@
 * The abbreviation or word "vert/verte" appear at the bottom of doc-06.adoc and doc-2.adoc.
 * It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
 navigation and doc-6.adoc page to reflect this.
+
++
+But first work on understanding and organizing nc-5702.adoc
 ** Add to the NC 5 702 documents/decrees that horizontal and small left-margin text.
 * Finish the xrefs that link the document index entries to the actual documents (and supplemental documents) and an
 anchor in the doducment 
