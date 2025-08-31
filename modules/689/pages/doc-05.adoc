@@ -4,17 +4,17 @@
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::12-r.png[scale=50,link=self]
-|image::13-l.png[scale=50,link=self]
+|image::12-r.png[link=self]
+|image::13-l.png[link=self]
 |===
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::13-r.png[scale=50,link=self]
-|image::14-l.png[scale=50,link=self]
+|image::13-r.png[link=self]
+|image::14-l.png[link=self]
 |===
 
-image::14-r.png[scale=50,link=self]
+image::14-r.png[link=self]
 
 == Transliteration and Translation
 

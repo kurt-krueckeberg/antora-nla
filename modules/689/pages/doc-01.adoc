@@ -4,9 +4,9 @@
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::02-r.png[scale=50,link=self]
+|image::02-r.png[link=self]
 
-|image::03-l-original.png[scale=50,link=self]
+|image::03-l-original.png[link=self]
 |===
 
 [role="section-narrow"]

@@ -3,7 +3,7 @@
 
 == Overview
 
-image::15-r-original.png[scale=50,link=self]
+image::15-r-original.png[link=self]
 
 == Transliteration and Translation
 

@@ -4,8 +4,8 @@
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
-|image::10-r.png[title="Click to Enlarge",scale=50,link=self]
-|image::11-l.png[title="Click to Enlarge",scale=50,link=self]
+|image::10-r.png[title="Click to Enlarge",link=self]
+|image::11-l.png[title="Click to Enlarge",link=self]
 |===
 
 [role="section-narrow"]
@@ -157,8 +157,8 @@ ____
 === Rentkammer Decision and Instruction (25 Nov 1841)
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
-|image::11-r.png[title="Click to Enlarge",scale=50,link=self]
-|image::12-l.png[title="Click to Enlarge",scale=50,link=self]
+|image::11-r.png[title="Click to Enlarge",link=self]
+|image::12-l.png[title="Click to Enlarge",link=self]
 |===
 
 

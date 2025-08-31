@@ -3,8 +3,8 @@
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::16-l.png[scale=50,link=self]
-|image::16-r.png[scale=50,link=self]
+|image::16-l.png[link=self]
+|image::16-r.png[link=self]
 |===
 
 == Transliteration and Translation
@@ -189,7 +189,7 @@ ____
 In the left margin--rotated below so one can read it--is the decision that the Sovereign ruler of
 Schaumburg-Lippe rendered in the Johann Heinrich 
 
-image::17-l-vertical-text.png[scale=50,link=self]
+image::17-l-vertical-text.png[link=self]
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===

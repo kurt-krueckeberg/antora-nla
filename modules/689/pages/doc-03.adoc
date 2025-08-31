@@ -11,9 +11,9 @@ loan of 200 Reichsthaler from the chamber treasury.
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
-|image::08-r.png[title="Click to Enlarge",scale=50,link=self]
+|image::08-r.png[title="Click to Enlarge",link=self]
 
-|image::09-l.png[title="Click to Enlarge",scale=50,link=self]
+|image::09-l.png[title="Click to Enlarge",link=self]
 |===
 
 === Transliteration and Translation
@@ -148,7 +148,7 @@ Collegium, shows that the Rentcammer’s board itself acted on the clerk’s opi
 petition is to be rejected.” In short: the numbers didn’t convince the authorities that a rescue loan was secure,
 and the risk of a forced sale remaimed imminent.
 
-image::09-r.png[scale=75,link=self]
+image::09-r.png[link=self]
 
 === Transliteration and Translation
 

@@ -11,9 +11,9 @@
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
-|image::03-r.png[title="Click to Enlarge",scale=50,link=self]
+|image::03-r.png[title="Click to Enlarge",link=self]
                                                               
-|image::04-l.png[title="Click to Enlarge",scale=50,link=self]
+|image::04-l.png[title="Click to Enlarge",link=self]
 |===
 
 [role="section-narrow"]
