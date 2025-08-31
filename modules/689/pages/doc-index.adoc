@@ -107,7 +107,7 @@ Rescr. Sr. Durchlaucht
 |23
 
 |7.
-|Cpt. Rescr. aus Amt Bückeburg
+|Cpt. Rescr. aus [sic: should be *an*] Amt Bückeburg
 |
 |Bbg.
 |1841
@@ -156,6 +156,14 @@ Kammerkasse geliehene +
 |
 |
 |===
+
+[NOTE]
+====
+*Row 7 (“aus” [sic])* — The index writes *Cpt. K. Res. aus Amt Bückeburg*, but the document itself is headed *Concept an das Amt Bückeburg*,
+bears no *pr. in Cam.* (incoming-presented) mark, and carries the Kammer closing (*Fürstl: p.*). We therefore keep **aus** in the
+transliteration (diplomatic accuracy) and render the English **to the Amt Bückeburg** (sense), noting the likely clerical slip.
+====
+
 
 == English Version
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
@@ -257,7 +265,7 @@ petition for …
 |23
 
 |7.
-|Office draft (rescript) from the Amt Bückeburg
+|Office draft (rescript) to the Amt Bückeburg
 |
 |Bückeburg
 |1841
