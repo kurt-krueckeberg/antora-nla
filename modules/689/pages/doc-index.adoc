@@ -3,7 +3,7 @@
 
 image::01-r.png[link=self]
 
-[role="section-narrow"]
+//[role="section-narrow"]
 == Transliteration 
 
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
