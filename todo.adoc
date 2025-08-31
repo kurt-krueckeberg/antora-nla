@@ -4,6 +4,7 @@
 
 * It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
 navigation and doc-6.adoc page to reflect this.
+** Add to the NC 5 702 documents/decrees that horizontal and small left-margin text.
 * Finish the xrefs that link the document index entries to the actual documents (and supplemental documents) and an
 anchor in the doducment 
 * Check the "NC" numbers for each document in the document index and create a table that lists these
