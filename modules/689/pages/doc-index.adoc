@@ -13,9 +13,7 @@ image::01-r.png[link=self]
 
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch Anb.]
-|Bewilligung +
-eines Darlehens +
-ad 200 r.
+|Bewilligung eines Darlehens ad 200 r.
 |Bbg.
 |1841
 |Octob.
@@ -99,8 +97,7 @@ Gesuch um
 |19
 
 |〃
-|P. V. des GKR od Reik u. Höchstes +
-Rescr. Sr. Durchlaucht
+|P. V. des GKR od Reik u. Höchstes Rescr. Sr. Durchlaucht
 |〃
 |〃
 |〃
@@ -147,9 +144,7 @@ Rescr. Sr. Durchlaucht
 |8
 
 |10.
-|Obligation über aus Fürstl. +
-Kammerkasse geliehene +
-200 r. Courant
+|Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant
 |Obligation.
 |
 |
@@ -173,8 +168,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Petition by Colon Krückeberg, No. 10 in Berenbusch; enclosure.]
-|Approval of a loan +
-of 200 r.
+|Approval of a loan of 200 r.
 |Bückeburg
 |1841
 |October
@@ -228,8 +222,7 @@ of 200 r.
 
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Office draft of a chamber rescript to Chief Forester Creuzinger]
-|Item: +
-petition for …
+|Item: petition for …
 |〃
 |〃
 |〃
