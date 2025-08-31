@@ -69,7 +69,7 @@ Georg Wilhelm
 ____
 |===
 
-=== Ricke's reply to the Prince?
+=== Ricke's Comments to Rentcammer on Prince's Reply/Directions?
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -129,6 +129,8 @@ ____
 |image::16-r-2nd-ricke-document.png[link=self]
 |image::17-l.png[link=self]
 |===
+
+=== Ricke's reply to the Prince
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
