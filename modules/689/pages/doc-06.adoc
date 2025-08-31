@@ -3,7 +3,11 @@
 
 == Overview
 
-image::15-r-original.png[link=self]
+[cols="1a,1a"]
+|===
+|image::15-r-original.png[link=self]
+|image::15-r-vertical.png[link=self]
+|===
 
 == Transliteration and Translation
 
