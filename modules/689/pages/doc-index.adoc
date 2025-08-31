@@ -188,7 +188,8 @@ Kammerkasse geliehene +
 |No | Document description (left) | Registry rubric / series (right) | Place | Year | Month | Register no.
 
 |1.
-|Petition by Colon (farm holder) Krückeberg, No. 10 in Berenbusch, with enclosure; approval of a loan of 200 Reichstaler.
+|xref:doc-01.adoc#doc-index-1-1[Petition by Colon (farm holder) Krückeberg, No. 10 in Berenbusch, with enclosure;
+approval of a loan of 200 Reichstaler.]
 |Approval of a loan of 200 Reichstaler.
 |Bückeburg
 |1841
@@ -196,7 +197,7 @@ Kammerkasse geliehene +
 |2
 
 |2.
-|Report from the Amt (district office) of Bückeburg.
+|xref:doc-02.adoc#doc-index-2-1[Report from the Amt (district office) of Bückeburg.]
 |Outgoing correspondence (registry rubric).
 |Bückeburg
 |1841
@@ -204,7 +205,7 @@ Kammerkasse geliehene +
 |7
 
 |2.
-|Chamber resolution sent to the same office.
+|xref:doc-02.adoc#doc-index-2-2[Chamber resolution sent to the same office.]
 |Chamber Treasury (Kammerkasse).
 |Bückeburg
 |1841
@@ -212,7 +213,7 @@ Kammerkasse geliehene +
 |14
 
 |3.
-|Petition of Colon Krückeberg (see document 3).
+|xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg (see document 3).]
 .3+|Regarding the pledging of all of his lands as collateral.
 |Bückeburg
 |1841
