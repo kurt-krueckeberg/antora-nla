@@ -126,10 +126,9 @@ ____
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::16-r-2nd-ricke-document.png[scale=50,link=self]
-|image::17-l.png[scale=50,link=self]
+|image::16-r-2nd-ricke-document.png[link=self]
+|image::17-l.png[link=self]
 |===
-
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
