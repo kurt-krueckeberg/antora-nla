@@ -33,7 +33,7 @@ ad 200 r.
 
 [[idx-2-2]]
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Gg. K. Res. an dasselbe]
+|xref:doc-02.adoc#doc-index-2-2[Cpt. K. Res. an dasselbe]
 |Cammer-Casse
 |〃
 |〃
@@ -59,7 +59,7 @@ ad 200 r.
 
 [[idx-3-3]]
 |〃
-|Gg. K. Res. an p Krückeberg
+|Cpt. K. Res. an p Krückeberg
 |〃
 |〃
 |〃
@@ -76,7 +76,7 @@ ad 200 r.
 
 [[idx-4-2]]
 |〃
-|xref:doc-04.adoc#doc-index-4-2[Gg. K. Res. an Of. Creuzinger]
+|xref:doc-04.adoc#doc-index-4-2[Cpt. K. Res. an Of. Creuzinger]
 |item +
 Gesuch um
 |〃
@@ -120,7 +120,7 @@ Rescr. Sr. Durchlaucht
 
 [[idx-7-1]]
 |7.
-|Gg. Rescr. aus Amt Bückeburg
+|Cpt. Rescr. aus Amt Bückeburg
 |
 |Bbg.
 |1841
@@ -138,7 +138,7 @@ Rescr. Sr. Durchlaucht
 
 [[idx-8-2]]
 |〃
-|Gg. K. Res. an dasselbe
+|Cpt. K. Res. an dasselbe
 |
 |〃
 |〃
