@@ -107,7 +107,7 @@ Rescr. Sr. Durchlaucht
 |23
 
 |7.
-|Cpt. Rescr. aus [sic: should be *an*] Amt Bückeburg
+|xref:doc-07.adoc#doc-index-7-1[Cpt. Rescr. aus \[sic: should be *an*\] Amt Bückeburg]
 |
 |Bbg.
 |1841
@@ -265,7 +265,7 @@ petition for …
 |23
 
 |7.
-|Office draft (rescript) to the Amt Bückeburg
+|xref:doc-07.adoc#doc-index-7-1[Office draft (rescript) to the Amt Bückeburg]
 |
 |Bückeburg
 |1841
