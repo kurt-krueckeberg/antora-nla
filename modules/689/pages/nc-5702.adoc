@@ -7,12 +7,6 @@
 |image::16-r.png[scale=50,link=self]
 |===
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|image::17-l.png[scale=50,link=self]
-|
-|===
-
 == Transliteration and Translation
 
 === Sovereign Georg Wilhelm's, Prince of Schaumburg-Lippe, instructions to Rentcammer
@@ -128,6 +122,12 @@ Bückeburg, 23 Dec. 41
 
 RC[Rentcammer]         Ricke
 ____
+|===
+
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::16-r-2nd-ricke-document[scale=50,link=self[]
+|image::17-l.png[scale=50,link=self]
 |===
 
 
