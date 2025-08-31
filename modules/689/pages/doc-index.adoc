@@ -192,7 +192,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |3.
 |xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg]
-.3+|regarding the pledging of all his lands as collateral
+.3+.^|regarding the pledging of all his lands as collateral
 |Bückeburg
 |1841
 |November
@@ -230,7 +230,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch of the Söhren pasture]
-.4+|Regarding the sale of his parcels on the Söhren pasture
+.4+.^|Regarding the sale of his parcels on the Söhren pasture
 |Bückeburg
 |1841
 |December
