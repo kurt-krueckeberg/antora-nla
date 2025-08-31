@@ -37,7 +37,7 @@ image::01-r.png[link=self]
 
 |3.
 |xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
-.3+|gegen Verpfändung seiner sämmtlichen Ländereien
+.3+^|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
 |Nov.
