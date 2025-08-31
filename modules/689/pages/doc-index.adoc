@@ -26,7 +26,7 @@ ad 200 r.
 
 [[idx-2-1]]
 |2.
-|Bericht Amts Bückeburg
+|xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
 |Corr. aus
 |〃
 |〃
@@ -35,7 +35,7 @@ ad 200 r.
 
 [[idx-2-2]]
 |〃
-|Gg. K. Res. an dasselbe
+|xref:doc-02.adoc#doc-index-2-2[Gg. K. Res. an dasselbe]
 |Cammer-Casse
 |〃
 |〃

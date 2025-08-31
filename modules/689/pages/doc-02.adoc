@@ -45,6 +45,7 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 |
 |===
 
+[[doc-index-2-1]]
 === Transliteration and Translation
 
 [cols="1a,1a"]
@@ -220,7 +221,7 @@ provisional
 ____
 |===
 
-
+[[doc-index-2-2]]
 == Cover Slip and Resolution (14 Oct 1841)
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
