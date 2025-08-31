@@ -107,7 +107,7 @@ Rescr. Sr. Durchlaucht
 |23
 
 |7.
-|xref:doc-07.adoc#doc-index-7-1[Cpt. Rescr. aus \[sic: should be *an*\] Amt Bückeburg]
+|xref:doc-07.adoc#doc-index-7-1[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
 |
 |Bbg.
 |1841
