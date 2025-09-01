@@ -1,7 +1,11 @@
 = Document 8: Report from the Amt Bückeburg (12 Jan 1842)
 :page-role: wide
 
-image::18-r.png[link=self]
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::18-r.png[link=self]
+|
+|===
 
 == Transliteration and Translation
 
@@ -78,8 +82,13 @@ ____
 
 *TODO:* Make sure the image has not been aggressively cropped at the top!!!
 
-image::19-l.png[link=self]
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::19-l.png[link=self]
+|image::19-r.png[link=self]
+|===
 
+[literal,subs="verbatim,quotes"]
 ....
 Stpl. 3g               ad N. C. 274.
 Cconcept
@@ -133,10 +142,10 @@ Berger
  ant das Amt Bückeberg gegen
 ....
 
-image::19-r.png[link=self]
 
+[literal,subs="verbatim,quotes"]
 ....
-[next page]                              
+[right page]                              
 Quittung auszuzahlen
 diese Verausgabung in
 Kammerrechnung gehörigen  
