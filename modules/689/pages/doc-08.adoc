@@ -56,20 +56,27 @@ an das Amt Bückeburg      Darlehn für Colon
                           Krückeberg No 10 in Beren-
                           busch betr.
 
-R.                       Unter Bezug auf das Rescript    
-Wh.                      vom 24 Decbr. v. J. wird das 
-                         Amt angeweisen, die dem p  
-                         Krückeberg aus Kammerkasse
-Egd Strauk               vorgeliehene 200 rt Courant
- 22-1                    gegen Quittung zu erheben 
-                         und zu dem, im obigen Rescript
-                         angegebene Zweck zu ver-
-                         wenden.
-                         Bburg 20 Jan 1842
-                         F. p.
-                         Lm                  L
+R.        
+Wh.       
+          
+Egd Strauk
+ 22-1     
 
-Die übersandte Schuldverschreiben
+
+Unter Bezug auf das Rescript    
+vom 24 Decbr. v. J. wird das 
+Amt angeweisen, die dem p  
+Krückeberg aus Kammerkasse
+vorgeliehene 200 rt Courant
+gegen Quittung zu erheben 
+und zu dem, im obigen Rescript
+angegebene Zweck zu ver-
+wenden†.
+Bburg 20 Jan 1842
+F. p.
+Lm                  L
+
+†Die übersandte Schuldverschreiben
 erfolgt hiebey zurück um nach geschehen
 Beizahlung d. 200 D. darunter das
 Erforderliche zu bemerken, die [struck-through: Stelle] Einamz
@@ -78,30 +85,34 @@ d. Obligativ d. Nothig zu der je ergangen
 u solche demnächst an der Kamme-
 zu fanden.
 
-Concept                        Dem Colonn Krückeberg No 10    
-an den Kammerrentmecisten      in Berenbusch ist ein Kapital  
-         Berger                von Zweihundert Rthr Courant
-                               und Kammerkasse geädigst
-                               bewilligt worden und ist
-                               vom Amt Bückeberg [???]
-                               über eine Obligation zu
-                               den Kammer Acten eingeliefert.
-                               Der p Berger wird daher ange-
-                               weisen, obige 200rth Cour-
-                               ant das Amt Bückeberg gegen
+Concept                        
+an den Kammerrentmecisten      
+Berger                
+                               
+ Dem Colonn Krückeberg No 10                                  
+ in Berenbusch ist ein Kapital                                
+ von Zweihundert Rthr Courant                                 
+ und Kammerkasse geädigst                                     
+ bewilligt worden und ist                                     
+ vom Amt Bückeberg [???]                                      
+ über eine Obligation zu                                      
+ den Kammer Acten eingeliefert.
+ Der p Berger wird daher ange-
+ weisen, obige 200rth Cour-
+ ant das Amt Bückeberg gegen
 ....
 
 image::19-r.png[link=self]
 
 ....
-                               [next page]                              
-                               Quittung auszuzahlen
-                               diese Verausgabung in
-                               Kammerrechnung gehörigen  
-                               Amts vorzunehnmen#
-                               Bburg 20 Jan. 1842
-                               Fp.
-                               Lm                 L
+[next page]                              
+Quittung auszuzahlen
+diese Verausgabung in
+Kammerrechnung gehörigen  
+Amts vorzunehnmen#
+Bburg 20 Jan. 1842
+Fp.
+Lm                 L
 
 #auch die Zinsen von der
 vorgeliehenem 200 P zu po/00
