@@ -53,6 +53,7 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 |Transliteration|Translation
 
 |
+[literal,subs="verbatim,quotes"]
 ....
 N. C. 4487                        pr. in Cam 11 Oct 1841
 
@@ -136,7 +137,7 @@ N. C. 438i             Gesuch des Colons Krückeberg N. 10
     Auspfandung einstweilen sistirt haben
     Bückeburg den 7t October 1841.
 
-    Hauck Dr Neuhsel, Höcker
+    Hauck D^r^ Neuhsel, Höcker
 
     R[ent]C[ammer]. rescrib: Das Amt habe
     wie angetragen den
@@ -205,7 +206,7 @@ that claim.
 Finally, we note that we have temporarily stayed execution of the
 distraint ordered against Krückeberg.  Bückeburg, 7 October 1841.
 
-Hauck Dr Neuhsel Höcker
+Hauck D^r^ Neuhsel Höcker
 
 Rescript: The Amt shall, as requested, notify Krückeberg.
 B[ückeburg], 14 Oct. 1841.
