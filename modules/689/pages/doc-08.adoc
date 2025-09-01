@@ -7,6 +7,8 @@ image::18-r.png[link=self]
 
 [literal,subs="verbatim,quotes"]
 ....
+NC 274                       pr. in Cam 17 Jan. 1842     
+
 [Fiscal oval hand-stamp]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 3 Gr.
@@ -70,6 +72,9 @@ and K. R. Berger is to be furnished with a payment order, but
 *not* to Krückeberg—-*to the Amt. Bückeburg, 20 Jan. 1842. Ricke,
 acting on behalf of the Rentkammer.*
 ____
+
+
+*TODO:* Make sure the image has not been aggressively cropped at the top!!!
 
 image::19-l.png[link=self]
 
