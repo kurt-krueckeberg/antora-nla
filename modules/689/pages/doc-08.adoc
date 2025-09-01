@@ -1,20 +1,10 @@
 = Document 8: Report from the Amt Bückeburg (12 Jan 1842)
 :page-role: wide
 
-[options="noheader",cols="1a,1a",frame=none,grid=none]
-|===
-|image::18-r.png[link=self]
-|
-|===
+image::18-r.png[link=self]
 
 == Transliteration and Translation
 
-[cols="1a,1a",frame=none]
-|===
-|Transliteration|Translation
-
-|
-[literal,subs="verbatim,quotes"]
 ....
 [Fiscal oval hand-stamp]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
@@ -24,11 +14,14 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
                    Fürstliche Runtkammer
                    Bericht
                    vom Amte Bückeberg
+Num [F/P]r. 1662
+   ad           
+Num: Cam: 5702  
 
-Num [F/P]r. 1662       Darlehn für den Colon
-   ad                  Krückeberg N 10 in 
-Num: Cam: 5702         Berenbusch betreff
-
+                       Darlehn für den Colon
+                       Krückeberg N 10 in 
+                       Berenbusch betreff
+                
           In Gemäßheit des gnädigsten Rescripts
           24/30 December v. J. verfehlen wir nicht
           die über das Anlehn des Colons Krücke-
@@ -41,16 +34,81 @@ Num: Cam: 5702         Berenbusch betreff
 
 RC.
 Die Obligation wäre zu bestätigen
-und demnächst K R Berger mit Zahlung
-Anweisung, jedoch nicht an den 
-Kruckeberg, sondern an das Amt
+und demnächst K R Berger mit Zahlung-
+anweisung, jedoch nicht an den 
+Krückeberg, sondern an das Amt
 zu versehe. Bbg. 20. Jan 42.
                      Ricke
 
                       vert
+....
 
+
+image::19-l.png[link=self]
 
 ....
-|
-|===
+Stpl. 3g               ad N. C. 274.
+Cconcept
+an das Amt Bückeburg      Darlehn für Colon
+                          Krückeberg No 10 in Beren-
+                          busch betr.
 
+R.                       Unter Bezug auf das Rescript    
+Wh.                      vom 24 Decbr. v. J. wird das 
+                         Amt angeweisen, die dem p  
+                         Krückeberg aus Kammerkasse
+Egd Strauk               vorgeliehene 200 rt Courant
+ 22-1                    gegen Quittung zu erheben 
+                         und zu dem, im obigen Rescript
+                         angegebene Zweck zu ver-
+                         wenden.
+                         Bburg 20 Jan 1842
+                         F. p.
+                         Lm                  L
+
+Die übersandte Schuldverschreiben
+erfolgt hiebey zurück um nach geschehen
+Beizahlung d. 200 D. darunter das
+Erforderliche zu bemerken, die [struck-through: Stelle] Einamz
+in das Hypothekenbuch zu beschaffen, und in
+d. Obligativ d. Nothig zu der je ergangen
+u solche demnächst an der Kamme-
+zu fanden.
+
+Concept                        Dem Colonn Krückeberg No 10    
+an den Kammerrentmecisten      in Berenbusch ist ein Kapital  
+         Berger                von Zweihundert Rthr Courant
+                               und Kammerkasse geädigst
+                               bewilligt worden und ist
+                               vom Amt Bückeberg [???]
+                               über eine Obligation zu
+                               den Kammer Acten eingeliefert.
+                               Der p Berger wird daher ange-
+                               weisen, obige 200rth Cour-
+                               ant das Amt Bückeberg gegen
+....
+
+image::19-r.png[link=self]
+
+....
+                               [next page]                              
+                               Quittung auszuzahlen
+                               diese Verausgabung in
+                               Kammerrechnung gehörigen  
+                               Amts vorzunehnmen#
+                               Bburg 20 Jan. 1842
+                               Fp.
+                               Lm                 L
+
+#auch die Zinsen von der
+vorgeliehenem 200 P zu po/00
+vom Tage der Auszugung des
+Kapitalls angerechnet alljährich v Krückeberg
+zu erheben u zu vernehmen.
+
+    P.n.
+
+Das Capitalist am 25. Jan.
+1842 ausgezahlt.
+          Poppelbaum
+...
