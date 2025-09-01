@@ -10,37 +10,40 @@ image::18-r.png[link=self]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 3 Gr.
 
-                     An
-                   Fürstliche Runtkammer
-                   Bericht
-                   vom Amte Bückeberg
-Num [F/P]r. 1662
+[awk]
+
+An
+Fürstliche Rentkammer
+Bericht
+vom Amte Bückeberg
+
+Num Pr. 1662
    ad           
 Num: Cam: 5702  
 
-                       Darlehn für den Colon
-                       Krückeberg N 10 in 
-                       Berenbusch betreff
+Darlehn für den Colon
+Krückeberg N 10 in 
+Berenbusch betreff[end]
                 
-          In Gemäßheit des gnädigsten Rescripts
-          24/30 December v. J. verfehlen wir nicht
-          die über das Anlehn des Colons Krücke-
-          berg N. 10 in Berenbusch aufgenom-
-          mene Obligation unterthänig einzu-
-          sanden.
-          Bückelung den 12 Januar 1842
+In Gemäßheit des gnädigsten Rescripts
+24/30 December v. J. verfehlen wir nicht,
+die über das Anlehn des Colons Krücke-
+berg N. 10 in Berenbusch aufgenom-
+mene Obligation unterthänig einzu-
+sanden.
+Bückeburg den 12 Januar 1842
 
-          Haadra Wieder MNenhsel Jöcker 
+Haadra Wieder MNenhsel Jöcker 
 
 RC.
 Die Obligation wäre zu bestätigen
-und demnächst K R Berger mit Zahlung-
+und demnächst K. R. Berger mit Zahlung-
 anweisung, jedoch nicht an den 
 Krückeberg, sondern an das Amt
-zu versehe. Bbg. 20. Jan 42.
+zu versehe[n]. Bbg. 20. Jan 42.
                      Ricke
 
-                      vert
+                      vert[retend]
 ....
 
 
