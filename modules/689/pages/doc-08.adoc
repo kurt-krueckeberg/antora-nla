@@ -5,6 +5,7 @@ image::18-r.png[link=self]
 
 == Transliteration and Translation
 
+[literal,subs="verbatim,quotes"]
 ....
 [Fiscal oval hand-stamp]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
