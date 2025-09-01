@@ -2,6 +2,7 @@
 
 == Document Index, Definitions, Timelines and Events
 
+* Chanage all occurances of "Obligation" to "loan bond" as in doc-08.adoc
 * It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
 navigation and doc-6.adoc page to reflect this.
 
