@@ -187,6 +187,12 @@ ____
 
 == TODO: Merge this the Next and Last Page into the transliteration and translation above
 
+[NOTE]
+====
+ There is some text from the left margin that I didn't yet add. It reads:
+"xdd. d. 12. Jan 1842"
+====
+
 [literal,subs="verbatim,quotes"]
 ....
 [right page]                              
