@@ -141,34 +141,23 @@ Concept
 an den Kammerrentmeister      
 Berger                
                                
-Dem Colonn Krückeberg No 10                                  
-in Berenbusch ist ein Kapital                                
-von Zweihundert Rthl Courant                                 
-und Kammerkasse genädigst                                     
-bewilligt worden und ist                                     
-vom Amt Bückeberg hier-                                      
-über eine Obligation zu                                      
-den Kammer-Acten eingeliefert.
-Der p Berger wird daher ange-
-wiesen, obige 200 Rth Cour-
-ant das Amt Bückeberg gegen
-Quittung auszuzahlen,
-diese Verausgabung in
-Kammerrechnung gehörigen
-Orts vorzunehmen.#
+Dem Colonn Krückeberg No 10 in Berenbusch ist ein Kapital von
+Zweihundert Rthl Courant und Kammerkasse genädigst
+bewilligt worden und ist vom Amt Bückeberg hierüber eine
+Obligation zu den Kammer-Acten eingeliefert. Der p Berger wird
+daher angewiesen, obige 200 Rth Courant das Amt Bückeberg gegen
+Quittung auszuzahlen, diese Verausgabung in Kammerrechnung
+gehörigen Orts vorzunehmen.#
 Bburg 20 Jan. 1842
 F. p.
 Lm         L
 
-#auch die Zinsen von den
-vorgeliehenen 200 Rth zu 4 p/00,
-vom Tage der Auszugung des
-Kapitalls angerechnet alljährich v[on] Krückeberg
-zu erheben u[nd] zu vernehmen.
+# auch die Zinsen von den vorgeliehenen 200 Rth zu 4 p/00,
+vom Tage der Auszugung des Kapitalls angerechnet alljährich v[on]
+Krückeberg zu erheben u[nd] zu vernehmen.
 
 P.n.
-Das Capital ist am 25. Jan.
-1842 ausgezahlt
+Das Capital ist am 25. Jan. 1842 ausgezahlt
 ....
 |
 [verse]
@@ -200,28 +189,21 @@ chamber*.
 
 Draft to the Treasurer Berger
 
-For the tenant farmer (colon) Krückeberg, No. 10
-in Berenbusch, a capital
-of two hundred Reichsthaler in regular currency
-from the Treasury has been graciously
-approved, and the Bückeburg Office has
-deposited a bond for this
-in the Treasury files.
-Treasurer Berger is therefore
-instructed to pay out the above
-200 Rth courant to the Bückeburg Office
-against receipt, and to enter this
-disbursement in the Treasury accounts
-under the proper heading. #
+For the tenant farmer (colon) Krückeberg, No. 10 in Berenbusch, a
+capital of two hundred Reichsthaler in regular currency
+from the Treasury has been graciously approved, and the Bückeburg
+Office has deposited a bond for this in the Treasury files.
+Treasurer Berger is therefore instructed to pay out the above 200
+Rth courant to the Bückeburg Office against receipt, and to enter
+this disbursement in the Treasury accounts under the proper
+heading. #
 Bückeburg, 20 Jan. 1842
 [F.p.]
 Lm     L
 
-# Also the interest on the
-loaned 200 Rth at 4 percent,
-calculated from the day of disbursement
-of the capital, is to be collected annually
-from Krückeberg and credited to the Treasury.
+# Also the interest on the loaned 200 Rth at 4 percent,
+calculated from the day of disbursement of the capital, is to be
+collected annually from Krückeberg and credited to the Treasury.
 
 P.N.
 The capital was paid out on 25 Jan.
@@ -229,76 +211,3 @@ The capital was paid out on 25 Jan.
 [Poppelbaum]
 ____
 |===
-
-This begins on the same page, image 19-l.png toward the bottom, and ends on the last page, page 19-r.png:
-
-....
-Concept                        
-an den Kammerrentmeister      
-Berger                
-                               
-Dem Colonn Krückeberg No 10                                  
-in Berenbusch ist ein Kapital                                
-von Zweihundert Rthl Courant                                 
-und Kammerkasse genädigst                                     
-bewilligt worden und ist                                     
-vom Amt Bückeberg hier-                                      
-über eine Obligation zu                                      
-den Kammer-Acten eingeliefert.
-Der p Berger wird daher ange-
-wiesen, obige 200 Rth Cour-
-ant das Amt Bückeberg gegen
-Quittung auszuzahlen,
-diese Verausgabung in
-Kammerrechnung gehörigen
-Orts vorzunehmen.#
-Bburg 20 Jan. 1842
-F. p.
-Lm         L
-
-#auch die Zinsen von den
-vorgeliehenen 200 Rth zu 4 p/00,
-vom Tage der Auszugung des
-Kapitalls angerechnet alljährich v[on] Krückeberg
-zu erheben u[nd] zu vernehmen.
-
-P.n.
-Das Capital ist am 25. Jan.
-1842 ausgezahlt
-....
-
-Please translate to English.
-[verse]
-____
-Draft
-to the Chamber Rentmaster
-Berger
-
-For the colon [tenant] Krückeberg, No. 10
-in Berenbusch, a capital
-of two hundred Reichsthaler courant
-from the Chamber treasury has been graciously
-approved, and the Amt Bückeburg has
-deposited a bond for this
-in the Chamber files.
-Rentmaster Berger is therefore
-instructed to pay out the above
-200 Rth courant to the Amt Bückeburg
-against receipt, and to enter this
-disbursement in the Chamber accounts
-in the proper place. #
-Bückeburg, 20 Jan. 1842
-[F.p.] 
-Lm     L
-
-# Also the interest on the
-loaned 200 Rth at 4 percent,
-calculated from the day of disbursement
-of the capital, is to be collected annually
-from Krückeberg and credited [to the treasury].
-
-P.N.
-The capital was paid out on 25 Jan.
-1842.
-[Poppelbaum]
-____
