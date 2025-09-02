@@ -75,8 +75,6 @@ Bückeburg, 20 Jan. 1842.
 ____
 
 
-*TODO:* Make sure the image has not been aggressively cropped at the top!!!
-
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::19-l.png[link=self]
@@ -86,10 +84,9 @@ ____
 [literal,subs="verbatim,quotes"]
 ....
 Stpl. 3g               ad N. C. 274.
-Cconcept
-an das Amt Bückeburg      Darlehn für Colon
-                          Krückeberg No 10 in Beren-
-                          busch betr.
+
+Concept
+an das Amt Bückeburg      
 
 R.        
 Wh.       
@@ -97,15 +94,18 @@ Wh.
 Egd Strauk
  22-1     
 
+Darlehn für Colon
+Krückeberg No 10 in Beren-
+busch betr.
 
 Unter Bezug auf das Rescript    
 vom 24 Decbr. v. J. wird das 
 Amt angeweisen, die dem p  
 Krückeberg aus Kammerkasse
-vorgeliehene 200 rt Courant
+vorgeliehenen 200 rt Courant
 gegen Quittung zu erheben 
 und zu dem, im obigen Rescript
-angegebene Zweck zu ver-
+angegebenen Zweck zu ver-
 wenden†.
 Bburg 20 Jan 1842
 F. p.
@@ -121,20 +121,21 @@ u solche demnächst an der Kamme-
 zu fanden.
 
 Concept                        
-an den Kammerrentmecisten      
+an den Kammerrentmeister      
 Berger                
                                
- Dem Colonn Krückeberg No 10                                  
- in Berenbusch ist ein Kapital                                
- von Zweihundert Rthr Courant                                 
- und Kammerkasse geädigst                                     
- bewilligt worden und ist                                     
- vom Amt Bückeberg [???]                                      
- über eine Obligation zu                                      
- den Kammer Acten eingeliefert.
- Der p Berger wird daher ange-
- weisen, obige 200rth Cour-
- ant das Amt Bückeberg gegen
+Dem Colonn Krückeberg No 10                                  
+in Berenbusch ist ein Kapital                                
+von Zweihundert Rthl Courant                                 
+und Kammerkasse genädigst                                     
+bewilligt worden und ist                                     
+vom Amt Bückeberg hier-                                      
+über eine Obligation zu                                      
+den Kammer-Acten eingeliefert.
+Der p Berger wird daher ange-
+wiesen, obige 200 Rth Cour-
+ant das Amt Bückeberg gegen
+Quit
 ....
 
 
