@@ -185,7 +185,7 @@ ____
 |===
 
 
-== Next Page
+== TODO: Merge this the Next and Last Page into the transliteration and translation above
 
 [literal,subs="verbatim,quotes"]
 ....
