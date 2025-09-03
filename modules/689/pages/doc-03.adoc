@@ -33,7 +33,7 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 
 Durchlauchtigster Fürst, Gnädigst regierender Fürst und Herr!
                   
-[rok]             
+[rok](clerk's initials)             
 
 
 Bl[att]. Seite 3.
@@ -91,7 +91,7 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 
 Most Serene Prince, Gracious reigning Prince and Lord!
                   
-[rok]             
+[rok](clerk's initials)             
 
 For the complete payment of the debt to the Hempel sons
 in Minden, I have been granted the consent for a loan
