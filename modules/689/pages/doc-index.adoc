@@ -120,7 +120,7 @@ Gesuch um
 |2
 
 |〃
-|xref:doc-8.adoc#doc-index-8-2[Cpt. K. Res. an dasselbe]
+|xref:doc-08.adoc#doc-index-8-2[Cpt. K. Res. an dasselbe]
 |
 |〃
 |〃

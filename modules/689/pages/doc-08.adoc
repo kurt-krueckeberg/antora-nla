@@ -9,6 +9,7 @@
 |===
 
 == Transliteration and Translation
+
 === Report from the Office of Bückeburg
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
