@@ -149,9 +149,11 @@ register* arranged, and *in the bond* the *necessary note with
 reference to the order* added; *then send the same to the
 chamber*.
 ____
+|===
 
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
 |
-
 [literal,subs="verbatim,quotes"]
 ....
 Concept an den Kammerrentmeister Berger                
