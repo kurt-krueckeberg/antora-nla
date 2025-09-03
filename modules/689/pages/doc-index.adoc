@@ -1,7 +1,11 @@
 = Document Index
 :page-role: wide
 
-image::01-r.png[link=self]
+[cols="1a,1a",options="noheader",frame=none.grid=none]
+|===
+|image::01-r.png[link=self]
+|
+|===
 
 //[role="section-narrow"]
 == Transliteration 

@@ -2,6 +2,7 @@
 
 == Document Index, Definitions, Timelines and Events
 
+* Move the glossary in doc-index.adoc elsewhere, to a separate page?
 * It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
 navigation and doc-6.adoc page to reflect this.
 +
