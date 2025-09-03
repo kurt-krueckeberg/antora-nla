@@ -31,9 +31,9 @@ NC. 5038              pr. in Cam 12 Nov. 41
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 3 Gr.
 
-                  Durchlauchtigster Fürst,
-                  Gnädigst regierender Fürst
-[rok]             und Herr!
+Durchlauchtigster Fürst, Gnädigst regierender Fürst und Herr!
+                  
+[rok]             
 
 
 Bl[att]. Seite 3.
@@ -89,8 +89,9 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 3 Gr.
 
 
-   Most Serene Prince, Gracious reigning Prince and Lord!
-
+Most Serene Prince, Gracious reigning Prince and Lord!
+                  
+[rok]             
 
 For the complete payment of the debt to the Hempel sons
 in Minden, I have been granted the consent for a loan
