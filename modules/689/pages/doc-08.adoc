@@ -8,7 +8,7 @@
 |===
 
 == Transliteration and Translation
-
+=== Report from the Office of Bückeburg
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |
@@ -80,13 +80,15 @@ Bückeburg, 20 Jan. 1842.
 ____
 |===
 
-== Next Page
+== Next Pages
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::19-l.png[link=self]
 |image::19-r.png[link=self]
 |===
+
+=== Office Draft to the Amt Bückeburg
 
 [cols="1a,1a".options="noheader",frame=none,grid=none]
 |===
@@ -150,6 +152,8 @@ reference to the order* added; *then send the same to the
 chamber*.
 ____
 |===
+
+=== Draft to the Treasurer Berger
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
