@@ -1,6 +1,7 @@
-= Document 8: Report from the Amt Bückeburg (12 Jan 1842)
+= Document 8: Report from the Amt Bückeburg (12 Jan 1842), Reply (20 Jan 1843), Likewise to Treasurer Berger (20 Jan 1842)
 :page-role: wide
 
+[[doc-index-8-1]]
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::18-r.png[link=self]
@@ -88,6 +89,7 @@ ____
 |image::19-r.png[link=self]
 |===
 
+[[doc-index-8-2]]
 === Office Draft to the Amt Bückeburg
 
 [cols="1a,1a".options="noheader",frame=none,grid=none]
@@ -153,7 +155,8 @@ chamber*.
 ____
 |===
 
-=== Draft to the Treasurer Berger
+[[doc-index-8-3]]
+=== Office Draft to the Treasurer Berger
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -183,7 +186,7 @@ Das Capital ist am 25. Jan. 1842 ausgezahlt
 |
 [verse]
 ____
-Draft to the Treasurer Berger
+Office Draft to the Treasurer Berger
 
 For the tenant farmer (colon) Krückeberg, No. 10 in Berenbusch, a
 capital of two hundred Reichsthaler in regular currency

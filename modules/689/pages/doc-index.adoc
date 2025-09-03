@@ -112,7 +112,7 @@ Gesuch um
 |24
 
 |8.
-|Bericht Amts Bückeburg
+|xref:doc-08.adoc#doc-index-8-1[Bericht Amts Bückeburg]
 |
 |Bbg.
 |1842
@@ -120,7 +120,7 @@ Gesuch um
 |2
 
 |〃
-|Cpt. K. Res. an dasselbe
+|xref:doc-8.adoc#doc-index-8-2[Cpt. K. Res. an dasselbe]
 |
 |〃
 |〃
@@ -128,7 +128,7 @@ Gesuch um
 |20
 
 |〃
-|desgl. an den K. R. Berger
+|xref:doc-08.adoc#doc-index-8-3[desgl. an den K. R. Berger]
 |
 |〃
 |〃
@@ -266,7 +266,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |24
 
 |8.
-|Report from the Amt Bückeburg
+|xref:doc-08.adoc#doc-index-8-1[Report from the Amt Bückeburg]
 |
 |Bückeburg
 |1842
@@ -274,7 +274,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |2
 
 |〃
-|Office draft of a chamber rescript to the same office
+|xref:doc-08.adoc#doc-index-8-2[Office draft of a chamber rescript to the same office]
 |
 |〃
 |〃
@@ -282,7 +282,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |20
 
 |〃
-|Likewise to Councillor Berger
+|xref:doc-08.adoc#doc-index-8-3[Likewise to Councillor Berger]
 |
 |〃
 |〃
