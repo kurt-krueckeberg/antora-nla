@@ -128,7 +128,7 @@ Gesuch um
 |20
 
 |〃
-|xref:doc-08.adoc#doc-index-8-3[desgl. an den K. R. Berger]
+|xref:doc-08.adoc#doc-index-8-3[desgl\[eichen\]. an den K. R. Berger]
 |
 |〃
 |〃
