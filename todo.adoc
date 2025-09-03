@@ -11,9 +11,6 @@ But first work on understanding and reorganizing nc-5702.adoc
 * Finish the xrefs that link the document index entries to the actual documents (and supplemental documents) and an
 anchor in the doducment 
 
-* The Amt officials signatures are either "Hauck Neuhsel Höcker" or "Haadra MNenhsel Jöcker". The last signature
-appears to begin with "Y" but "Yöcker" seems unlikely, I belive that "H" is possible for the first letter. 
-
 * Check the "NC" numbers for each document in the document index and create a table that lists these
 numbers along with the subject and the documents they refer to.
 * Creat a glossary with definitions of key terms and examples that illustrate and show the meaning.
