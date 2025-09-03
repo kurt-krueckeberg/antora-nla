@@ -120,26 +120,6 @@ nach geschehener Bezahlung d. 200 D. darunter das Erforderliche
 zu bemerken, die Eintragung in das Hypothekenbuch zu beschaffen,
 und in der Obligation das Nothig zu Verfügung und solche
 demnächst an der Kammer zu senden.
-
-Concept an den Kammerrentmeister Berger                
-                               
-Dem Colonn Krückeberg No 10 in Berenbusch ist ein Kapital von
-Zweihundert Rthl Courant und Kammerkasse genädigst
-bewilligt worden und ist vom Amt Bückeberg hierüber eine
-Obligation zu den Kammer-Acten eingeliefert. Der p Berger wird
-daher angewiesen, obige 200 Rth Courant das Amt Bückeberg gegen
-Quittung auszuzahlen, diese Verausgabung in Kammerrechnung
-gehörigen Orts vorzunehmen.#
-Bburg 20 Jan. 1842
-F. p.
-Lm         L
-
-# auch die Zinsen von den vorgeliehenen 200 Rth zu 4 p/00,
-vom Tage der Auszugung des Kapitalls angerechnet alljährich v[on]
-Krückeberg zu erheben u[nd] zu vernehmen.
-
-P.n.
-Das Capital ist am 25. Jan. 1842 ausgezahlt
 ....
 |
 [verse]
@@ -168,7 +148,35 @@ particulars may be *noted beneath it*, the *entry in the mortgage
 register* arranged, and *in the bond* the *necessary note with
 reference to the order* added; *then send the same to the
 chamber*.
+____
 
+|
+
+[literal,subs="verbatim,quotes"]
+....
+Concept an den Kammerrentmeister Berger                
+                               
+Dem Colonn Krückeberg No 10 in Berenbusch ist ein Kapital von
+Zweihundert Rthl Courant und Kammerkasse genädigst
+bewilligt worden und ist vom Amt Bückeberg hierüber eine
+Obligation zu den Kammer-Acten eingeliefert. Der p Berger wird
+daher angewiesen, obige 200 Rth Courant das Amt Bückeberg gegen
+Quittung auszuzahlen, diese Verausgabung in Kammerrechnung
+gehörigen Orts vorzunehmen.#
+Bburg 20 Jan. 1842
+F. p.
+Lm         L
+
+# auch die Zinsen von den vorgeliehenen 200 Rth zu 4 p/00,
+vom Tage der Auszugung des Kapitalls angerechnet alljährich v[on]
+Krückeberg zu erheben u[nd] zu vernehmen.
+
+P.n.
+Das Capital ist am 25. Jan. 1842 ausgezahlt
+....
+|
+[verse]
+____
 Draft to the Treasurer Berger
 
 For the tenant farmer (colon) Krückeberg, No. 10 in Berenbusch, a
