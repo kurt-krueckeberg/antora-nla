@@ -2,18 +2,18 @@
 
 == Document Index, Definitions, Timelines and Events
 
-* In all the documents (since around document 5), chanage all occurances of "Obligation" to
-"loan bond" as in doc-08.adoc
 * It seems obvious now that the two NC 5702 documents or decrees are part of document 6. Rearrange the Antora
 navigation and doc-6.adoc page to reflect this.
-
 +
 But first work on understanding and reorganizing nc-5702.adoc
 ** Add to the NC 5 702 documents/decrees that horizontal and small left-margin text.
+
 * Finish the xrefs that link the document index entries to the actual documents (and supplemental documents) and an
 anchor in the doducment 
+
 * The Amt officials signatures are either "Hauck Neuhsel Höcker" or "Haadra MNenhsel Jöcker". The last signature
 appears to begin with "Y" but "Yöcker" seems unlikely, I belive that "H" is possible for the first letter. 
+
 * Check the "NC" numbers for each document in the document index and create a table that lists these
 numbers along with the subject and the documents they refer to.
 * Creat a glossary with definitions of key terms and examples that illustrate and show the meaning.
