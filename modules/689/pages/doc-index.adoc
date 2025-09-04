@@ -325,7 +325,7 @@ Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
 2:: Report from the Amt Bückeburg; right rubric **Corr. aus** = “Correspondence, outgoing”.
 2 (〃):: Kammer-Resolution to the same office; right rubric **Cammer-Casse** (treasury); Z. 14.
 3:: Petition of Krückeberg; right (rowspan): “gegen Verpfändung seiner sämmtlichen Ländereien” (re: pledging all his lands as collateral); Z. 11.
-3 (〃):: Memorandum/submission by **GKR od Reck** (very likely Councillor *Ricke*; keep the index spelling as written); Z. 15.
+3 (〃):: Memorandum/submission by **GKR od Reck** (very likely Councillor *Reck*; keep the index spelling as written); Z. 15.
 3 (〃):: Kammer-Resolution to **p Krückeberg** (*p.* = formulaic “pro/persona”); Z. — (not recorded in the index).
 4:: Another petition from Krückeberg; right column blank; Z. 21.
 4 (〃):: Kammer-Resolution to Oberförster Creuzinger; “item **Gesuch um** …” indicates a related petition under the same matter; Z. 25.
