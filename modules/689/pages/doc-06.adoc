@@ -167,8 +167,7 @@ Georg Wilhelm
 ____
 |===
 
-[[doc-index-6-3]]
-== Opinion of Councillor Reck and the decree of His Serene Highness.
+//[[doc-index-6-3]]
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -223,6 +222,8 @@ RC[Rentcammer]         Reck
 ____
 |===
 
+[[doc-index-6-3]]
+== Opinion of Councillor Reck and Decress of His Serence Highness
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::16-r-2nd-ricke-document.png[link=self]
