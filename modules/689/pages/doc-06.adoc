@@ -60,7 +60,7 @@ ____
 |===
 
 .Text in the left margin in parenthesis:
-[cols="1a,1a"]
+[cols="2a,1a"]
 |===
 |Transliteration|Translation
 
