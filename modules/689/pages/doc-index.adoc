@@ -179,7 +179,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |2
 
 |2.
-|xref:doc-02.adoc#doc-index-2-1[Report from the Amt (district office) of Bückeburg]
+|xref:doc-02.adoc#doc-index-2-1[Report from the District Office of Bückeburg]
 |Outgoing correspondence
 |〃
 |〃
@@ -187,7 +187,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |7
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Office draft of a chamber rescript to the same office]
+|xref:doc-02.adoc#doc-index-2-2[Copy of the Chamber’s decree to the same office]
 |Chamber Treasury
 |〃
 |〃
