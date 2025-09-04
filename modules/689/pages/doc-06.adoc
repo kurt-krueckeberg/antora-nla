@@ -279,7 +279,11 @@ ____
 On the last page, written vertically in the left margin--rotated below so one can read it--is the decision of
 he Sovereign ruler of Schaumburg-Lippe.
 
-image::17-l-vertical-text.png[link=self]
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::17-l-vertical-text.png[link=self]
+|
+|===
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
