@@ -7,6 +7,13 @@
 |
 |===
 
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
 ....
 NC 818                          pr. im Cam 15 Febr 42
 
@@ -27,18 +34,15 @@ Num. Pr. 116
 ad
 Num. Cam: 274
 
-Die unterm 12ten v. M. ausgefertigte Schuldverschrei-
-bung [Schuldschein] haben wir ins amtliche Hypothekenbuch
-Pag. 930 eingetragen, wie solches darin be-
-merkt worden ist, und darunter den Empfang
-der 200 rt vom Colon Krückeberg aner-
-kennen lassen.
-Indem wir die fragliche Schuldverschrei-
-bung [Schuldschein] hierneben remittiren, erlauben wir
-uns pflichtschuldigst zu bemerken, daß wir
-das Darlehen zur Bezahlung der Forderung
-der Hempel Söhne in Minden verwandt [verwendet]
-haben.
+Die unterm 12ten v. M. ausgefertigte Schuldverschreibung
+[Schuldschein] haben wir ins amtliche Hypothekenbuch Pag. 930
+eingetragen, wie solches darin bemerkt worden ist, und darunter
+den Empfang der 200 rt vom Colon Krückeberg anerkennen lassen.
+
+Indem wir die fragliche Schuldverschreibung [Schuldschein]
+hierneben remittiren, erlauben wir uns pflichtschuldigst zu
+bemerken, daß wir das Darlehen zur Bezahlung der Forderung der
+Hempel Söhne in Minden verwandt [verwendet] haben.
 Bückeberg den 8 Februar 1842
 F. Sander. A. Neuhsel, Höcker
 
@@ -50,4 +54,40 @@ quittirt zur Retradition [Rückgabe]
 an Krückeberg zugestellt.
 Schtt.
 ....
+
+|
+[verse]
+____
+NC 818 – Presented in the Chamber, 15 February 1842
+
+To the Princely Rent Chamber
+Report from the Bückeburg district office
+
+Filed by the Chamber, 17 February 1842 – Reviewed
+
+Loan concerning the tenant farmer (Colon) Krückeberg, No. 10 in
+Bärenbusch
+
+Cross-reference: Provincial file no. 116 to Chamber file no. 274
+
+The debt certificate (Schuldverschreibung, promissory note)
+issued on the 12th of last month has been entered into the
+official mortgage register under page 930, as noted there, and
+beneath it the receipt of 200 Reichsthaler by Colon Krückeberg
+has been recorded.
+
+As we return the said debt certificate herewith, we dutifully
+report that the loan was used to pay the claim of Hempel & Sons
+in Minden.
+
+Bückeburg, 8 February 1842
+F. Sander – A. Neuhsel – Höcker
+
+B.
+The attached bond (Obligation) was, by decree (Rescript) of 5 May
+1845, no. 2696, receipted by Chamber Councillor Berger for return
+(Retradition) to Krückeberg.
+[signed: Schtt.]
+|===
+____
 
