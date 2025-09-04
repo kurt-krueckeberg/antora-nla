@@ -270,7 +270,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |24
 
 |8.
-|xref:doc-08.adoc#doc-index-8-1[Report from the Amt Bückeburg]
+|xref:doc-08.adoc#doc-index-8-1[Report of the Bückeburg district office]
 |
 |Bückeburg
 |1842
@@ -278,7 +278,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |2
 
 |〃
-|xref:doc-08.adoc#doc-index-8-2[Office draft of a chamber rescript to the same office]
+|xref:doc-08.adoc#doc-index-8-2[Copy of the Chamber’s decree to the same office]
 |
 |〃
 |〃
@@ -286,7 +286,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |20
 
 |〃
-|xref:doc-08.adoc#doc-index-8-3[Likewise to Councillor Berger]
+|xref:doc-08.adoc#doc-index-8-3[Likewise [a copy of the decress\] to Councillor Berger]
 |
 |〃
 |〃
