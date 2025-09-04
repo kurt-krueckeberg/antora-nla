@@ -87,21 +87,21 @@ Gesuch um
 ^|10
 
 |6.
-|Vortrag des GKR od Reck
+|xref:doc-06.adoc#doc-index-6-1[Vortrag des GKR od Reck]
 |〃
 |〃
 |〃
 ^|16
 
 |〃
-|Höchstes Rescr. Ser. Reg.
+|xref:doc-06.adoc#doc-index-6-2[Höchstes Rescr. Ser. Reg.]
 |〃
 |〃
 |〃
 ^|19
 
 |〃
-|P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht
+|xref:doc-06.adoc#doc-index-6-3[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
 |〃
 |〃
 |〃
@@ -241,21 +241,21 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|10
 
 |6.
-|Report of Senior Government Councillor Reck
+|xref:doc-06.adoc#doc-index-6-1[Report of Senior Government Councillor Reck]
 |〃
 |〃
 |〃
 ^|16
 
 |〃
-|Decree of His Serene Highness’ Government
+|xref:doc-06.adoc#doc-index-6-2[Decree of His Serene Highness’ Government]
 |〃
 |〃
 |〃
 ^|19
 
 |〃
-|Opinion of Councillor Reck and the decree of His Serene Highness.
+|xref:doc-06.adoc#doc-index-6-3[Opinion of Councillor Reck and the decree of His Serene Highness]
 |〃
 |〃
 |〃

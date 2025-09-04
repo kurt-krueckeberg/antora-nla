@@ -2,14 +2,13 @@
 
 == Document Index, Definitions, Timelines and Events
 
-* Add xref-links to all the document index entries, and merge 
-the two NC 5702 documents or decrees are part of document 6, and then rearrange the Antora navigation
-and doc-6.adoc page to reflect this.
+* Add xref-links to all the document index entries.
 
+* In document 6, I am not sure what part of it is the "Opinion of Councillor Reck and Decree of His Serene
+Highness". The is long response after the "Sovereign Decree", which is anchor `[[doc-index-6-2]]`.
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
 
 * Create a table of "N.C." numbers "Ad N.C." numbers their document index numbers.
-
 
 * What does "O. f. Kreutziner" mean--official? I believe document 6 says he is head forester, or something like it.
 
