@@ -2,7 +2,7 @@
 :page-role: wide
 
 [[doc-index-6-1]]
-== Report of Senior Government Councillor Reck
+== Report of Senior Government Councillor Reck (16 Dec, 1841)
 
 [cols="1a,1a"]
 |===
@@ -103,7 +103,7 @@ ____
 |===
 
 [[doc-index-6-2]]
-== Decree of His Serene Highness' Government
+== Decree of His Serene Highness' Government (19 Dec. 1841)
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -168,7 +168,7 @@ ____
 |===
 
 [[doc-index-6-3]]
-== Opinion of Councillor Reck and Decress of His Serence Highness
+== Opinion of Councillor Reck and Decress of His Serence Highness (23 Dec. 1841)
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -209,6 +209,17 @@ wahrscheinlich bedeutend verbessert werden kann.
 Bbg 23. Dec. 41.
 
 RC    Reck 
+
+Die Kammer verstelle die weitere Entscheidung unterthänigste zu
+Höchsten Ermessen seÿ indeß der Meinung, daß es rathsamer seÿn
+dürfte, lieber das Darlehn von 200 rp zu bewilligen, indem dabei
+selbst wenn es unsicher steht der Schaden für die Kammer-Kasse
+doch immer geringer seÿn werde, als wenn das fragliche wenig
+nutzbares Land, das Kreutzinger zu 400 rt taxirt für mehr als 800
+rtn wiedergekauft wurde.
+Bbg. 23. Decbr.
+
+Reck
 ____
 
 |
@@ -232,31 +243,7 @@ improved by the drainage trench suggested by O. f. Kreuzinger.
 Bückeburg, 23 Dec. 41
 
 RC[Rentcammer]         Reck
-____
-|===
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|Transliteration|Translation
-
-|
-[verse]
-____
-Die Kammer verstelle die weitere Entscheidung unterthänigste zu
-Höchsten Ermessen seÿ indeß der Meinung, daß es rathsamer seÿn
-dürfte, lieber das Darlehn von 200 rp zu bewilligen, indem dabei
-selbst wenn es unsicher steht der Schaden für die Kammer-Kasse
-doch immer geringer seÿn werde, als wenn das fragliche wenig
-nutzbares Land, das Kreutzinger zu 400 rt taxirt für mehr als 800
-rtn wiedergekauft wurde.
-Bbg. 23. Decbr.
-
-Reck
-____
-
-|
-[verse]
-____
 I most humbly leave any further decision to Your Highest
 discretion; however, I am of the opinion that it would be more
 advisable to approve the loan of 200 rt, since even if the
