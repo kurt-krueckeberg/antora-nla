@@ -167,7 +167,7 @@ Georg Wilhelm
 ____
 |===
 
-[[doc-index-6-3]
+[[doc-index-6-3]]
 == Opinion of Councillor Reck and the decree of His Serene Highness.
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
