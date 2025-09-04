@@ -10,6 +10,9 @@ and doc-6.adoc page to reflect this.
 
 * Create a table of "N.C." numbers "Ad N.C." numbers their document index numbers.
 
+
+* What does "O. f. Kreutziner" mean--official? I believe document 6 says he is head forester, or something like it.
+
 === Consoliate 
 
 Combine The "Amt Bückeburg - Decree and Execution Order - 10/13 July 1841" with 
