@@ -229,8 +229,6 @@ ____
 |image::17-l.png[link=self]
 |===
 
-=== Reck's reply to the Prince
-
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |Transliteration|Translation
