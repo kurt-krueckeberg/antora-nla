@@ -140,7 +140,7 @@ Gesuch um
 |
 
 |9.
-|Bericht Amts Bückeburg
+|xref:doc-09.adoc[Bericht Amts Bückeburg]
 |
 |Bbg.
 |1842
@@ -294,7 +294,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |
 
 |9.
-|Report from the District Office of Bückeburg
+|xref:doc-09.adoc[Report from the District Office of Bückeburg]
 |
 |Bückeburg
 |1842
