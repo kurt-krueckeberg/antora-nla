@@ -263,9 +263,7 @@ Reck
 ____
 |===
 
-=== Small Left Margin Text in Parentheses
-
-TODO: Explain what it is.
+=== Left Margin Text in Parentheses
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
