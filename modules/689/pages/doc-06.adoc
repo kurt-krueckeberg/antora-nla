@@ -60,7 +60,7 @@ ____
 |===
 
 .Text in the left margin in parenthesis:
-[cols="2a,1a"]
+[cols="1a,1a"]
 |===
 |Transliteration|Translation
 
@@ -279,7 +279,7 @@ ____
 On the last page, written vertically in the left margin--rotated below so one can read it--is the decision of
 he Sovereign ruler of Schaumburg-Lippe.
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[cols="2a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::17-l-vertical-text.png[link=self]
 |
