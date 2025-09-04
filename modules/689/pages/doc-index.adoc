@@ -203,7 +203,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |11
 
 |〃
-|Memorandum by Privy Councillor Ricke
+|Memorandum by Privy Councillor Reck
 |〃
 |〃
 |〃
@@ -241,7 +241,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |10
 
 |6.
-|Memorandum by Privy Councillor Ricke
+|Memorandum by Privy Councillor Reck
 |〃
 |〃
 |〃
@@ -255,7 +255,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |19
 
 |〃
-|Protocol minute by Privy Councillor Ricke and Highest Rescript of His Serene Highness
+|Protocol minute by Privy Councillor Reck and Highest Rescript of His Serene Highness
 |〃
 |〃
 |〃
