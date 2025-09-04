@@ -176,7 +176,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1841
 |October
-|2
+^|2
 
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Report from the District Office of Bückeburg]
@@ -184,7 +184,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |〃
 |〃
 |〃
-|7
+^|7
 
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Copy of the Chamber’s decree to the same office]
@@ -192,7 +192,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |〃
 |〃
 |〃
-|14
+^|14
 
 |3.
 |xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg]
@@ -200,14 +200,14 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1841
 |November
-|11
+^|11
 
 |〃
 |Report of Senior Government Councillor Reck
 |〃
 |〃
 |〃
-|15
+^|15
 
 |〃
 |Copy of the Chamber's decree addressed to Krückeberg
@@ -222,7 +222,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1841
 |November
-|21
+^|21
 
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Copy of the Chamber’s decree addressed to Official Creuzinger]
@@ -230,7 +230,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |〃
 |〃
 |〃
-|25
+^|25
 
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch of the Söhren pasture]
@@ -238,28 +238,28 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1841
 |December
-|10
+^|10
 
 |6.
 |Report of Senior Government Councillor Reck
 |〃
 |〃
 |〃
-|16
+^|16
 
 |〃
 |Decree of His Serene Highness’ Government
 |〃
 |〃
 |〃
-|19
+^|19
 
 |〃
 |Opinion of Councillor Reck and the decree of His Serene Highness.
 |〃
 |〃
 |〃
-|23
+^|23
 
 |7.
 |xref:doc-07.adoc#doc-index-7-1[Copy of the decree to the Bückeburg district office]
@@ -267,7 +267,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1841
 |December
-|24
+^|24
 
 |8.
 |xref:doc-08.adoc#doc-index-8-1[Report of the Bückeburg district office]
@@ -275,7 +275,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1842
 |January
-|2
+^|2
 
 |〃
 |xref:doc-08.adoc#doc-index-8-2[Copy of the Chamber’s decree to the same office]
@@ -283,7 +283,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |〃
 |〃
 |〃
-|20
+^|20
 
 |〃
 |xref:doc-08.adoc#doc-index-8-3[Likewise [a copy of the decress\] to Councillor Berger]
@@ -299,7 +299,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Bückeburg
 |1842
 |February
-|8
+^|8
 
 |10.
 |Bond for 200 Reichsthaler in currency, borrowed from the princely treasury.
