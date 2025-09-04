@@ -21,7 +21,7 @@
 |Bbg.
 |1841
 |Octob.
-|2
+^|2
 
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
@@ -29,7 +29,7 @@
 |〃
 |〃
 |〃
-|7
+^|7
 
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Cpt. K. Res. an dasselbe]
@@ -37,7 +37,7 @@
 |〃
 |〃
 |〃
-|14
+^|14
 
 |3.
 |xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
@@ -45,14 +45,14 @@
 |Bbg.
 |1841
 |Nov.
-|11
+^|11
 
 |〃
 |Vortrag des GKR od Reck
 |〃
 |〃
 |〃
-|15
+^|15
 
 |〃
 |Cpt. K. Res. an p Krückeberg
@@ -67,7 +67,7 @@
 |Bbg.
 |1841
 |Nov.
-|21
+^|21
 
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Cpt. K. Res. an Of. Creuzinger]
@@ -76,7 +76,7 @@ Gesuch um
 |〃
 |〃
 |〃
-|25
+^|25
 
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
@@ -84,28 +84,28 @@ Gesuch um
 |Bbg.
 |1841
 |Decbr.
-|10
+^|10
 
 |6.
 |Vortrag des GKR od Reck
 |〃
 |〃
 |〃
-|16
+^|16
 
 |〃
 |Höchstes Rescr. Ser. Reg.
 |〃
 |〃
 |〃
-|19
+^|19
 
 |〃
 |P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht
 |〃
 |〃
 |〃
-|23
+^|23
 
 |7.
 |xref:doc-07.adoc#doc-index-7-1[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
@@ -113,7 +113,7 @@ Gesuch um
 |Bbg.
 |1841
 |Decbr.
-|24
+^|24
 
 |8.
 |xref:doc-08.adoc#doc-index-8-1[Bericht Amts Bückeburg]
@@ -121,7 +121,7 @@ Gesuch um
 |Bbg.
 |1842
 |Jan.
-|2
+^|2
 
 |〃
 |xref:doc-08.adoc#doc-index-8-2[Cpt. K. Res. an dasselbe]
@@ -129,7 +129,7 @@ Gesuch um
 |〃
 |〃
 |〃
-|20
+^|20
 
 |〃
 |xref:doc-08.adoc#doc-index-8-3[desgl[eichen\]. an den K. R. Berger]
@@ -145,7 +145,7 @@ Gesuch um
 |Bbg.
 |1842
 |Febr.
-|8
+^|8
 
 |10.
 |Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant
