@@ -40,7 +40,7 @@
 ^|14
 
 |3.
-|xref:doc-03.adoc#indx-3-1[Vorst. des Colons Krückeberg]
+|xref:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
 .3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
@@ -48,14 +48,14 @@
 ^|11
 
 |〃
-|Vortrag des GKR od Reck
+|xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|Cpt. K. Res. an p Krückeberg
+|xref:doc-03.adoc#doc-index-3-3[Cpt. K. Res. an p Krückeberg]
 |〃
 |〃
 |〃
@@ -195,7 +195,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|14
 
 |3.
-|xref:doc-03.adoc#indx-3-1[Petition of Colon Krückeberg]
+|xref:doc-03.adoc#doc-index-3-1[Petition of Colon Krückeberg]
 .3+.^|regarding the pledging of all his lands as collateral
 |Bückeburg
 |1841
@@ -203,14 +203,14 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|11
 
 |〃
-|Report of Senior Government Councillor Reck
+|xref:doc-03.adoc#doc-index-3-2[Report of Senior Government Councillor Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|Copy of the Chamber's decree addressed to Krückeberg
+|xref:doc-03.adoc#doc-index-3-3[Copy of the Chamber's decree addressed to Krückeberg]
 |〃
 |〃
 |〃
