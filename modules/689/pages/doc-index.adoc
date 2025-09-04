@@ -48,7 +48,7 @@
 |11
 
 |〃
-|Vortrag des GKR od Reik
+|Vortrag des GKR od Reck
 |〃
 |〃
 |〃
@@ -87,21 +87,21 @@ Gesuch um
 |10
 
 |6.
-|Vortrag des GKR od Reik
+|Vortrag des GKR odReck
 |〃
 |〃
 |〃
 |16
 
 |〃
-|Höchstes Rescr. [Sei. Reg.]
+|Höchstes Rescr. Ser. Reg.
 |〃
 |〃
 |〃
 |19
 
 |〃
-|P. V. des GKR od Reik u. Höchstes Rescr. Sr. Durchlaucht
+|P. V. des H odReck u. Höchstes Rescr. Sr. Durchlaucht
 |〃
 |〃
 |〃
@@ -325,12 +325,12 @@ Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
 2:: Report from the Amt Bückeburg; right rubric **Corr. aus** = “Correspondence, outgoing”.
 2 (〃):: Kammer-Resolution to the same office; right rubric **Cammer-Casse** (treasury); Z. 14.
 3:: Petition of Krückeberg; right (rowspan): “gegen Verpfändung seiner sämmtlichen Ländereien” (re: pledging all his lands as collateral); Z. 11.
-3 (〃):: Memorandum/submission by **GKR od Reik** (very likely Councillor *Ricke*; keep the index spelling as written); Z. 15.
+3 (〃):: Memorandum/submission by **GKR od Reck** (very likely Councillor *Ricke*; keep the index spelling as written); Z. 15.
 3 (〃):: Kammer-Resolution to **p Krückeberg** (*p.* = formulaic “pro/persona”); Z. — (not recorded in the index).
 4:: Another petition from Krückeberg; right column blank; Z. 21.
 4 (〃):: Kammer-Resolution to Oberförster Creuzinger; “item **Gesuch um** …” indicates a related petition under the same matter; Z. 25.
 5:: Report of Oberförster Creuzinger with enclosure (site sketch) of the **Söhren-Weide**; right (rowspan): “Verkauf seiner Ländereien auf der Söhren-Weide betr.” (re: sale of his parcels there); Z. 10.
-6:: Memorandum by **GKR od Reik** (cf. above); Z. 16.
+6:: Memorandum by **GKR od Reck** (cf. above); Z. 16.
 6 (〃):: **Höchstes Rescr.** (sovereign rescript/order); Z. 19.
 6 (〃):: **P. V.** note by the councillor plus another Highest Rescript of His Serene Highness; Z. 23.
 7:: Rescript received from Amt Bückeburg; Z. 24.

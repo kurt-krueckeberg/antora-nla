@@ -137,7 +137,7 @@ filed.
 [role="section-narrow"]
 === Summary
 
-On 15 November 1841, a Rentcammer clerk named Reitz (or Ricke) prepared a formal valuation of Krückeberg’s
+On 15 November 1841, a Rentcammer ??clerk?? named Reck prepared a formal valuation of Krückeberg’s
 farmstead and buildings. After deducting debts, he calculated a net worth of 825 Reichsthaler, but judged it
 doubtful whether a further 200 rt loan would be secure. Although acknowledging loans had been made in worse cases,
 he recommended against approval, and the Gesuch (the petition for a loan by Johann Heinrich Krückeberg was marked
@@ -187,12 +187,12 @@ bewilligt worden sind, so mag ich ein solches doch nicht be[für-
 worten] und kaum daher die Bewilligung oder Verweigerung
 lediglich dem Ermessen der Cammer anheimgeben.
 Bbg 15. Novbr 41.
-              [Ricke/Rietz]
+              Reck 
 
 R[ent]C[ammer]. das Gesuch wäre
 abzuschlagen.
 Bbg 15. Nov. 41.
-        [Ricke/Rietz]    vot[um]
+        Reck     vot[um]
 ....
 
 
@@ -216,11 +216,11 @@ conditions, I cannot recommend such a loan here and therefore
 leave approval or refusal entirely to the discretion of the Chamber.
 Bbg., 15 Nov. 1841.
 
-[Ricke/Reitz]
+Reck
 
 KC. The petition should be rejected.
 
-[Ricke/Reitz] vot[um]
+Reck
 ....
 |===
 
