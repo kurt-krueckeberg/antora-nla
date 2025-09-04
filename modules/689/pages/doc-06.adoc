@@ -108,7 +108,7 @@ ____
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::16-l.png[link=self]
-|image::16-r.png[link=self]
+|
 |===
 
 === Transliteration and Translation
@@ -167,7 +167,14 @@ Georg Wilhelm
 ____
 |===
 
-//[[doc-index-6-3]]
+[[doc-index-6-3]]
+== Opinion of Councillor Reck and Decress of His Serence Highness
+
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::16-l.png[link=self]
+|image::16-r.png[link=self]
+|===
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -222,8 +229,6 @@ RC[Rentcammer]         Reck
 ____
 |===
 
-[[doc-index-6-3]]
-== Opinion of Councillor Reck and Decress of His Serence Highness
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::16-r-2nd-ricke-document.png[link=self]
