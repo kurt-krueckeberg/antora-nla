@@ -2,15 +2,28 @@
 
 == Document Index, Definitions, Timelines and Events
 
-* Add xref-links to all the document index entries.
+* Document 1's translation is inaccurate in this section:
+"On my property there already rest 700 Reichstaler of secured debts, yet
+I can find no other remedy, however reluctantly I may still
+increase my interest burden. I must therefore most humbly request"
++
+** "rest" should be "rests", but neither is idiomatic or makes sense. Who would actually say:
+"On my property there already rest 700 Reichstaler of secured debts"? Is is saying he owes 70o Rthl in addition
+to the debt his father left him with?
+** "however reluctantly I may still increase my interest burden" sounds incomplete. Should it be
+"however relunctant I may be to increae my interest burden"?
+** What does "Nrpr: 1274" at the bottom of the first page mean?
 
 * In document 6, I am not sure what part of it is the "Opinion of Councillor Reck and Decree of His Serene
 Highness". The is long response after the "Sovereign Decree", which is anchor `[[doc-index-6-2]]`.
+
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
 
 * Create a table of "N.C." numbers "Ad N.C." numbers their document index numbers.
 
 * What does "O. f. Kreutziner" mean--official? I believe document 6 says he is head forester, or something like it.
+
+* Once document 9 has been added, add xref-links to it.
 
 === Consoliate 
 
