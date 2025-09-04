@@ -14,12 +14,9 @@ to the debt his father left him with?
 "however relunctant I may be to increae my interest burden"?
 ** What does "Nrpr: 1274" at the bottom of the first page mean?
 
-* In document 6, I am not sure what part of it is the "Opinion of Councillor Reck and Decree of His Serene
-Highness". The is long response after the "Sovereign Decree", which is anchor `[[doc-index-6-2]]`.
-
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
 
-* Create a table of "N.C." numbers "Ad N.C." numbers their document index numbers.
+* Create a table of "N.C." numbers "Ad N.C." numbers their document index 6-and-entry and associated dates.
 
 * What does "O. f. Kreutziner" mean--official? I believe document 6 says he is head forester, or something like it.
 
