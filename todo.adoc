@@ -8,7 +8,9 @@ I can find no other remedy, however reluctantly I may still
 increase my interest burden. I must therefore most humbly request"
 +
 ** "rest" should be "rests", but neither is idiomatic or makes sense. Who would actually say:
-"On my property there already rest 700 Reichstaler of secured debts"? Is is saying he owes 70o Rthl in addition
+"On my property there already rest 700 Reichstaler of secured debts"?
+Q: Is is saying he owes 70o Rthl in addition
+Q: 700 Thalers is mentioned in doc-03.adoc, the valuation of his famr.
 to the debt his father left him with?
 ** "however reluctantly I may still increase my interest burden" sounds incomplete. Should it be
 "however relunctant I may be to increae my interest burden"?
