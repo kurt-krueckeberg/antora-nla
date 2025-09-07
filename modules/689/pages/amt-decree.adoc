@@ -131,3 +131,20 @@ Fürstlich Schaumburg-Lippe Amt
 Hauck  Höcker
 ____
 |===
+
+[NOTE]
+====
+A *default judgment* means a court decision that is entered against a party who fails to take part in the case
+— usually because they don’t show up, don’t respond, or otherwise ignore the summons.
+
+In older German legal language (in contumaciam), it meant:
+
+* The defendant did not appear when summoned, or
+
+* The defendant refused to answer or participate,
+
+* So the court decided the matter without hearing their side and in favor of the other party.
+
+So in your Krückeberg document, when the clerk writes _contum._, he’s noting that the judgment was rendered
+because of *Krückeberg’s non-appearance (or non-response)*, not after a contested hearing.
+====
