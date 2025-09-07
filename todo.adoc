@@ -2,19 +2,7 @@
 
 == Document Index, Definitions, Timelines and Events
 
-* Document 1's translation is inaccurate in this section:
-"On my property there already rest 700 Reichstaler of secured debts, yet
-I can find no other remedy, however reluctantly I may still
-increase my interest burden. I must therefore most humbly request"
-+
-** "rest" should be "rests", but neither is idiomatic or makes sense. Who would actually say:
-"On my property there already rest 700 Reichstaler of secured debts"?
-Q: Is is saying he owes 70o Rthl in addition
-Q: 700 Thalers is mentioned in doc-03.adoc, the valuation of his famr.
-to the debt his father left him with?
-** "however reluctantly I may still increase my interest burden" sounds incomplete. Should it be
-"however relunctant I may be to increae my interest burden"?
-** What does "Nrpr: 1274" at the bottom of the first page mean?
+* What does "Nrpr: 1274" at the bottom of the first page mean of document 1 mean?
 
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
 
