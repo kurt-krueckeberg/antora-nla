@@ -2,6 +2,8 @@
 
 == Document Index, Definitions, Timelines and Events
 
+* Change "Document Index" to what is actually is 10 collections of related documents.
+
 * What does "Nrpr: 1274" at the bottom of the first page mean of document 1 mean?
 
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
