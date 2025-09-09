@@ -22,13 +22,8 @@ petition closes with the standard deferential formula. Marginal dockets route th
 report* (noted *4 Oct 1841*) and show it was *drafted by G. W. Fuchs (Conc.)* and registered under *N. C. 438
 i*.
 
-== Timline
+== Timline: Hempel Söhne v. Krückeberg (1841)
 
-= Timeline: Hempel Söhne v. Krückeberg (1841)
-
-= Timeline: Hempel Söhne v. Krückeberg (1841)
-
-[horizontal]
 29 May 1841 & 6 June 1841::  
 Decrees issued by the Amt ordering Johann Heinrich Krückeberg (Colon No. 10, Berenbusch) to pay  
 *133 Reichsthaler 7 Mariengroschen plus 5% annual interest from 9 April 1833.*  
@@ -84,7 +79,7 @@ neues Darlehn von 150 Rthl und die Erlangung der Vergünstigung,
 den Rest in jährlichen Terminen von 5 Rthlr abtragen zu können.
 Auf meiner
 
-Nrpr: 1274 [at bottom of first page]
+Nr pr: 1274 [at bottom of first page]
 
 meiner Stätte haften zwar schon 700 Rthl consentirter Schulden,
 allein ich kann mir nicht anders helfen, so ungern ich auch noch
@@ -113,9 +108,12 @@ Nro g d.
 |
 [verse]
 ____
-No. C. 438i
+Cammeral file no. 483i
 
 presented in incoming [matters] 2 Oct 1841
+
+[NOTE: Registry entry no. 1274 (archival notation)]
+
 
 Most Serene Prince, gracious reigning Prince and Lord,
 
@@ -138,7 +136,7 @@ other remedy than to obtain a new loan of 150 thalers and to be
 granted the favor of paying off the remainder in annual
 installments of 5 thalers.
 
-No. pr: 1274 [at bottom of first page]
+Registry entry no. 1274 
 
 There are already 700 thalers in officially authorized debts
 secured on my holding ([i.e.,] mortgages registered on the

@@ -1,38 +1,234 @@
+= Overview
+:fn-amt-decree: footnote:fn-amt-decree[The judicial chain culminates in the 13 Jul 1841 execution order, which itself cites earlier payment decrees of 29 May and 6 Jun 1840 and the interest base (5% since 9 Apr 1833). See xref:amt-decree.adoc[Amt Bückeburg — Decree & Execution Order (10/13 Jul 1841)].]
+:fn-execution: footnote:fn-execution[Details of the execution order: the 10 Jul 1841 application by Advokat Meyer and the 13 Jul 1841 Decretum instructing Amtsdiener Möller to levy 133 rt 7 mg plus 5% since 9 Apr 1833, with a 14-day warning of Auspfändung and sale. See xref:amt-decree.adoc[Amt Bückeburg — Decree & Execution Order (10/13 Jul 1841)].]
+:fn-petitions: footnote:fn-petitions[Krückeberg’s petitions to the Chamber: 2 Oct 1841 (first petition), xref:doc-01.adoc[Document 1 — Petition (2 Oct 1841)]; and 11/12 Nov 1841 (second petition asking for a 200 rt Chamber loan), xref:doc-03.adoc[Document 3 — Petition (11/12 Nov 1841)].]
+:fn-amt-report: footnote:fn-amt-report[Amt report to the Rentkammer, 7 Oct 1841: confirms 133 rt 7 mg, 5% since 1833; notes the case pending since 30 Jul 1836 (twice _in appellatorio_, once _supplicatorio_); rejects court-ordered installments and records the creditor’s refusal; and notes execution is temporarily stayed. See xref:doc-02.adoc[Document 2 — Amt report (7 Oct 1841)].]
+:fn-security: footnote:fn-security[The same 7 Oct 1841 report proposes, if relief is granted, a 190 rt Chamber loan secured on Stelle/Stätte No. 10 (size 10 Morgen 30 Ruthen), with buildings insured at 525 rt and 700 rt in existing encumbrances. See xref:doc-02.adoc[Document 2 — Amt report (7 Oct 1841)].]
+:fn-valuation: footnote:fn-valuation[15 Nov 1841 valuation & opinion: total 1,525 rt (land 1,000 + buildings 525),
+less 700 = 825 rt; the reviewer declines to recommend (_befürworten_) the 200 rt loan; K.C. docket: abzuschlagen. See xref:doc-03.adoc#doc3-coverslip[Valuation & Opinion (15 Nov 1841)].]
+:fn-threat: footnote:fn-threat[From Krückeberg’s second petition, presented 12 Nov 1841: the Amt threatens to sell his holding if the money is not produced. See xref:doc-03.adoc[Document 3 — Petition (11/12 Nov 1841)].]
+
+In the 1830s, Johann Heinrich Krückeberg's inherited his parent's debt from his father's shoemaking trade.
+On *May 29, 1840* and again on *June 6, 1840*, the Amt Bückeburg, the local governmental office in Bückeburg,
+acting in its dual capacity as a court, ordered payment of *133 Reichsthaler 7 Mariengroschen, plus 5% interest
+from 9 April 1833*{fn-amt-decree}. 
+
+[NOTE]
+====
+A Reichsthaler (rt) was equivalent to 24 Mariengroschen (mg) 
+====
+
+When he still could not pay, the Amt on *July 13, 1841* ordered the bailiff Möller to collect, and warned if no
+payment came within fourteen days{fn-execution}, that distraint (the seizure of his assets) and sale would follow.
+Under that pressure Krückeberg turned to the Rentkammer, petitioning on *2 October 1841* (and again on *11/12 November
+1841*) for relief.{fn-petitions}.
+
+The **Rentcammer** in Schaumburg-Lippe in 1841 was:  
+* the **treasury** of the principality (managing the prince’s revenues and expenditures),  the **chief accounting
+* office** (keeping the ledgers, reviewing and auditing the Amts’ accounts), and  the **property management
+* authority** (overseeing farmland, forests, mills, and other sources of income within the state).  
+
+As the higher financial authority of the state, the Rentcammer had the power to review the Amt’s decree and decide
+whether to grant Johann Heinrich relief—such as a loan—or to let the order stand.  
+
+When a father died with debts, they did not vanish. As heir and head of household, Johann Heinrich inherited the
+obligation — and now, as a Colon with land use, he finally had something the Amt could enforce against. 
+
+Meanwhile the *Amt’s report of 7 October 1841* to the Chamber confirmed the
+judgment (133 rt 7 mg, 5% since 1833), noted the long litigation (pending since *30 July 1836*, twice _in
+appellatorio_, once _supplicatorio_), stated there was no legal basis to impose installments and that the creditor
+would not accept them, and recorded that execution was *temporarily stayed* while the Chamber considered the
+case.{fn-amt-report} If relief was to be granted at all, the Amt proposed a *190 rt* Chamber loan *secured on his
+leasehold farmstead (Stelle/Stätte No. 10)*, noting *10 Morgen 30 Ruthen* of land, buildings insured at *525 rt*,
+and existing encumbrances of *700 rt*.{fn-security} A *15 November 1841* valuation memo reckoned land and buildings
+at *1,525 rt*, left *825 rt* after debts, and the reviewing official declined to recommend the loan; the Chamber
+board noted *to be rejected*.{fn-valuation} Through all of this, the risk of a *forced sale of the farmstead*
+remained real—indeed, Krückeberg himself reports that the *Amt threatened to sell his holding* if he failed to
+raise the money.{fn-threat}
 
 
+.What “holding” means here
+****
+[TIP]
+====
+*"holding"* is the translation chosen for *Stelle/Stätte (No. 10, Berenbusch)*, the *leasehold farm unit*:
+the plot and farm buildings, with the right to use the land. The land itself belonged to the princely domain; the
+Colon held a long-term, usually inheritable lease with duties attached.
+
+In this system where a Colon (tenant farmer) held a long-term, inheritable lease to a numbered farm (Stelle/Stätte),
+the soil belonged to the princely domain, but the buildings and improvements were the tenant’s property (or at
+least under his proprietary control). 
+
+*In practice*:
+
+* the *"holding"* could be pledged as *security (collateral)* for a loan.  
+* On default, authorities could *auction the lease right and buildings* to satisfy the judgment.  
+====
+****
 
 
+[[doc-index-1-1]]
+== Document 1: Krückeberg's Statement and Request - 2 Oct 1841
+:page-role: wide
 
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+|image::02-r.png[link=self]
 
+|image::03-l-original.png[link=self]
+|===
 
+[role="section-narrow"]
+=== Overview
 
+On *2 October 1841* in Bückeburg, *Johann Heinrich Krückeberg* (Colon No. 10, Berenbusch) submits a *petition
+to the Princely Rentkammer*. He explains that his late parents’ shoemaking business left a *large leather debt*
+to *Hempel & Söhne (Minden)*; judgment has now been entered against him and he faces *distraint*. Unable to pay
+in full, he asks the Chamber to *consent to a new loan of 150 Reichsthaler* and to allow him to *pay the
+remaining (unconsolidated) balance in annual installments of 5 thalers*. He notes his holding already carries
+*700 thalers in consented debts*, but says he has no other way out despite the added interest burden. The
+petition closes with the standard deferential formula. Marginal dockets route the matter *to the Amt for a
+report* (noted *4 Oct 1841*) and show it was *drafted by G. W. Fuchs (Conc.)* and registered under *N. C. 438
+i*.
 
+=== Timline: Hempel Söhne v. Krückeberg (1841)
 
+29 May 1841 & 6 June 1841::  
+Decrees issued by the Amt ordering Johann Heinrich Krückeberg (Colon No. 10, Berenbusch) to pay  
+*133 Reichsthaler 7 Mariengroschen plus 5% annual interest from 9 April 1833.*  
+Krückeberg does not comply.
 
+10 July 1841::  
+Advocate Meyer, attorney for the plaintiffs (Hempel Söhne of Minden), files a petition before the Amt.  
+He requests that the threatened *enforcement of judgment (Execution)* be decreed,  
+with the warning of *seizure of property (Auspfandung).*  
+Clerk’s note: *entered, issued, as a default judgment (ref: exp: contum: infidem).*  
+Signed: F. Sander.  
+Krückeberg is not present and does not know of this filing.
 
+13 July 1841::  
+The Amt issues its *decree (Decretum):*  
+* The petition is to be communicated to Krückeberg in copy.  
+* *Enforcement of judgment (Execution)* is ordered.  
+* Court officer (Amtsdiener) Möller is instructed to enforce collection of the debt (principal + interest + 4 Mariengroschen fee).  
+* Möller is to warn Krückeberg that, if enforcement proves fruitless and no payment is made within 14 days,  
+then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
+Signed by Amt officials Hauck and Höcker.
 
+=== Transliteration and Translation
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
+[literal,subs="verbatim,quotes"]
 ....
-† Die übersandte Schuldverschreibung
-erfolgt hierbei zurück, um nach geschehener
-Bezahlung d. 200 Rthl. darunter das
-Erforderliche zu vermerken, die Eintragung
-in das Hypothekenbuch zu beschaffen, und in
-der Obligation das Nöthige zu Verfügung
-und solche demnächst an die Kammer
-zu senden.
+NC. 438i                         
+                         pr. inlen 2 Oct. 1841
+
+                Durchlauchtigster Fürst,
+                Gnädigst regierender Fürst
+                und Herr!             
+
+Bl.
+b.m. zum Amtsbericht
+B. 4 Oct 41
+[Samg/Spreng]
+
+Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
+die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
+haben bei den Kaufleuten und Gerber Hempel Söhne in Minden eine
+bedeutende Lederschuld gewirkt, die jetzt mit Zinsen gegen mich
+ausgeklagt ist, und derentwegen, wie anliegender Bescheid des
+Amts bekundet, ich mit Auspfandung bedroht bin. Mir ist es
+unmöglich, diese ganze Summe aus eigenen vorräthiger Mitteln zu
+bezahlen, und ich weiß mich nicht anders zu helfen, als durch ein
+neues Darlehn von 150 Rthl und die Erlangung der Vergünstigung,
+den Rest in jährlichen Terminen von 5 Rthlr abtragen zu können.
+Auf meiner
+
+Nr pr: 1274 [at bottom of first page]
+
+meiner Stätte haften zwar schon 700 Rthl consentirter Schulden,
+allein ich kann mir nicht anders helfen, so ungern ich auch noch
+meine Zinsen last vergrößern.  Ew. Durchlaucht muß ich daher
+unterthänigst bitten:
+
+mir gnädigst den Consens zu einem neuen Anlehn von 150 Rthl zu
+ertheilen und dann zu verfügen daß ich der Rest der
+unconfendirten Hempelischen Forderung in jährlichen terminen von
+5 Rthlr abträgen könne.
+
+In tiefster Ehrfurcht ersterbend
+
+Ew. Durchlaucht
+
+unterthänigster,
+Colen Krückeberg
+Nr 10 in Berenbusch.                           
+
+Buckeburg                  
+d. 2ten Ditto. 1841.       
+Conc. GWFuchs.
+Nro g d.
 ....
+
+|
+[verse]
+____
+Cammeral file no. 483i
+
+presented in incoming [matters] 2 Oct 1841
+
+[NOTE: Registry entry no. 1274 (archival notation)]
+
+
+Most Serene Prince, gracious reigning Prince and Lord,
+
+[Referred to] the office report
+B[ückeburg], 4 Oct 1841
+
+[instruction/minute by the responsible official]
+(On this leaf:) keep with me for the Amtsbericht.
+Bückeburg, 4 Oct 1841.
+[Samg/Spreng]
+
+My late father—and, after his death, my mother, who continued my
+father’s trade as a shoemaker— incurred a substantial leather
+debt with the merchants and tanners Hempel & Sons in Minden.
+This debt, with interest, has now been adjudged against me,
+and—as the attached notice from the district office shows—I am
+threatened with distraint (seizure). It is impossible for me to
+pay the entire amount from my own available means, and I see no
+other remedy than to obtain a new loan of 150 thalers and to be
+granted the favor of paying off the remainder in annual
+installments of 5 thalers.
+
+Registry entry no. 1274 
+
+There are already 700 thalers in officially authorized debts
+secured on my holding ([i.e.,] mortgages registered on the
+property); nevertheless, the only way I can deal with the Hempel
+claim is to take on further borrowing—much as I dislike
+increasing my burden of interest payments. I therefore most
+humbly request:
+
+that Your Serene Highness graciously consent to a new loan of 150
+thalers and then decree that I may repay the remainder of the
+not-yet-authorized Hempel claim in yearly installments of 5
+thalers.
+
+In deepest respect,
+
+Your Serene Highness’s
+most humble servant,
+tenant farmer Krückeberg
+No. 10 in Berenbusch.
+
+Bückeburg, the 2nd (of the same month), 1841.
+[Reg. no. 1274]   [Office note: Conc. G. W. Fuchs]
+drafted by G. W. Fuchs                             
+with fee
+____
+|===
