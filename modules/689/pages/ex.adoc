@@ -1,3 +1,0 @@
-= Example
-
-image::birth-1.jpg[Bleeke Birth]
