@@ -1,4 +1,4 @@
-= Document Index
+= Index
 :page-role: wide
 
 [cols="1a,1a",options="noheader",frame=none.grid=none]

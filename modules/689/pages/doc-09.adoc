@@ -1,4 +1,4 @@
-= Document 9: Report from the District Office of Bückeburg (8 Feb 1842)
+= 9: Report from the District Office of Bückeburg (8 Feb 1842)
 :page-role: wide
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]

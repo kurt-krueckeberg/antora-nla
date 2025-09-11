@@ -1,5 +1,5 @@
 [[doc-index-7-1]]
-= Document 7: Office Draft to the Amt Bückeburg — Loan to Colon Krückeberg No. 10 (Berenbusch), Bückeburg, 24 Dec 1841 (N. C. 5702) 
+= 7: Office Draft to the Amt Bückeburg — Loan to Colon Krückeberg No. 10 (Berenbusch), Bückeburg, 24 Dec 1841 (N. C. 5702) 
 :page-role: wide
 
 image:17-r.png[link=self]

@@ -1,4 +1,4 @@
-= Document 3: Petition of Colon Krückeberg, with Valuation and Resolution
+= 3: Petition of Colon Krückeberg, with Valuation and Resolution
 :page-role: wide
 
 [[doc-index-3-1]]

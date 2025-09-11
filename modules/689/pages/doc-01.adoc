@@ -1,5 +1,5 @@
 [[doc-index-1-1]]
-= Document 1: Krückeberg's Statement and Request - 2 Oct 1841
+= 1: Krückeberg's Statement and Request - 2 Oct 1841
 :page-role: wide
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
