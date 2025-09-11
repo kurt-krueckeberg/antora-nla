@@ -7,7 +7,7 @@
 |image::22.png[link=self]
 |===
 
-=== Transliteration and Translation
+== Transliteration and Translation
 
 There are numerous abbrevations used in *NC 2422* below. This table summarizes
 them.
