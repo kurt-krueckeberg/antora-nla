@@ -68,6 +68,6 @@ ____
 [NOTE]
 ====
 *r.* = Reichstaler
-*behufliche Obligation* = “bond to that effect/for that purpose”
+*behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
 *Amt* = district office.
 ====
