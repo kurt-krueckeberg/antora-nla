@@ -1,8 +1,5 @@
-= 10: 
+= 10: Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury. 
 :page-role: wide
-
-
-== NC 2422
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
