@@ -1,5 +1,6 @@
 .xref:index.adoc[]
-//NLA BU, K 2, A Nr. 689
+//* xref:narrative.adoc[]
+//* Case File
 * xref:overview.adoc[]
 * xref:cover.adoc[]
 * xref:amt-decree.adoc[]
