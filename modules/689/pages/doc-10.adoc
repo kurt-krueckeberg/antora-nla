@@ -37,34 +37,20 @@ them.
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
-....
-NC. 2422.
-Abschrift Anweisung der Kammer
-für den Kammerrentmeister Berger
+NC. 2422. +
+Abschrift Anweisung der Kammer für den Kammerrentmeister Berger
 d. d. Bückeb. d. 21. April 1845
 
-Fürstl. Rentkammer hat lt[laut] Kaufbrief vom
-17. April a.c. von dem Colon Krückeberg
-Nr. 10 in Berenbusch ein in der s. g. Söhre belegenes,
-9 Morgen 19 R haltendes Grundstück
-für die Summe von 858 Rthlr 10 Ggr 2 Pf Cour.
-angekauft.
+Fürstl. Rentkammer hat lt[laut] Kaufbrief vom 17. April a.c. von dem Colon Krückeberg
+Nr. 10 in Berenbusch ein in der s. g. Söhre belegenes, 9 Morgen 19 R haltendes Grundstück
+für die Summe von 858 Rthlr 10 Ggr 2 Pf Cour. angekauft.
 
-K. Rmstr. Berger wird angewiesen,
-obige Kaufgelder, wovon jedoch ein
-dem Colon Krückeberg lt. Oblig. vom
-12. Janr 1842 aus Kammerkasse geleistetes
-Darlehn von 200 Rthlr Cour. nebst
-Zinsen zurückzubehalten ist, dem Ver-
-käufer gegen Quittung auszuzahlen,
-in Kammerrechnung gehörigen
-Orts zu verausgeben und diese
-Ausgabe mit dieser Quittung
-zu belegen.
-....
+K. Rmstr. Berger wird angewiesen, obige Kaufgelder, wovon jedoch ein dem Colon Krückeberg
+lt. Oblig. vom 12. Janr 1842 aus Kammerkasse geleistetes Darlehn von 200 Rthlr Cour. nebst
+Zinsen zurückzubehalten ist, dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
+gehörigen Orts zu verausgeben und diese Ausgabe mit dieser Quittung zu belegen.
 |
-NC. 2422.
+NC. 2422. +
 Copy. Order of the Chamber for the chamber treasurer Berger
 dated Bückeburg, 21 April 1845
 
