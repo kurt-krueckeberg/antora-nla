@@ -32,7 +32,7 @@ them.
 |No./Nr. | Nummero/Nummer|number
 |===
 
-[cols="1a,1a",frame=none]
+[cols="1a,1a"]
 |===
 |Transliteration|Translation
 
