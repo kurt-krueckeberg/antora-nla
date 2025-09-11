@@ -64,19 +64,26 @@ promissory note of 12 January 1842, from the chamber treasury, together with int
 the proper place in the chamber accounts and to support this expenditure with that receipt.
 |===
 
-*TODO:* Finish the two-page document and the smaller document before it.
 
-
-== Smaller Document
+== Smaller Documents
 
 
 == NC 2696
+
+First page of NC 2696:
+
+....
+
+
+....
+
+Second page of NC 122696
 
 ....
 Left margin:
 
 N. C. 2696.
-ohtt
+ohlt
 Cpt
 an Kammerrentmeister Berger
 dahier.
@@ -116,7 +123,8 @@ stehender Weise bereits
 Fr. der Wahlmeckwart
 ....
 
-Back side:
+Back side of prior page:
+
 ....
           ohld                   
 Concept                   
