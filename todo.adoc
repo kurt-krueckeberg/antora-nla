@@ -2,6 +2,18 @@
 
 == Document Index, Definitions, Timelines and Events
 
+[IMPORTANT]
+====
+Questions:
+
+1. The penciled-in numbers in the upper right corner--are they the true order of the pages? 
+
+If so, I may have some images misnumbered and thus in the wrong order. This needs to be 
+checked! I believe the some of the .TIF image numbers don't follow the pencilled-in numbers
+in the document.
+
+====
+
 * Change "Document Index" to what is actually is 10 collections of related documents.
 
 * What does "Nrpr: 1274" at the bottom of the first page mean of document 1 mean?
