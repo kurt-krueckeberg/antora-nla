@@ -7,7 +7,8 @@
 [cols="1a,1a"]
 |===
 |image::15-r-original.png[link=self]
-|image::15-r-vertical.png[link=self]
+|Vertical text in prior image rotated
+image::15-r-vertical.png[link=self]
 |===
 
 === Transliteration and Translation
