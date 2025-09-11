@@ -122,6 +122,7 @@ them.
 |s. g. | so genannt(e) | so-called
 |Bückeb. | Bückeburg | place name
 |No./Nr. | Num
+|===
 
 
 [cols="1a,1a",frame=none,grid=none]
