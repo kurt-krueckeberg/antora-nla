@@ -32,7 +32,6 @@ them.
 |No./Nr. | Nummero/Nummer|number
 |===
 
-
 [cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
@@ -67,6 +66,18 @@ zu belegen.
 |
 [verse]
 ____
-TODO
+NC. 2422.
+Copy. Order of the Chamber
+for the chamber treasurer Berger
+dated Bückeburg, 21 April 1845
+
+The Princely Chamber of Revenues, pursuant to the deed of sale of 17 April of this year, has purchased from Colon
+Krückeberg No. 10 in Berenbusch a plot situated in the so-called Söhre, measuring 9 Morgen 19 Ruthen, for the sum
+of 858 Reichsthaler 10 Gute Groschen 2 Pfennige in current money at face value.
+
+Chamber treasurer Berger is instructed to pay out the above purchase funds to the seller against receipt—retaining,
+however, the loan of 200 Reichsthaler in current money at face value granted to Colon Krückeberg, pursuant to the
+promissory note of 12 January 1842, from the chamber treasury, together with interest—to record the disbursement at
+the proper place in the chamber accounts and to support this expenditure with that receipt.
 ____
 |===
