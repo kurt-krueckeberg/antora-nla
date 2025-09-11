@@ -121,7 +121,7 @@ them.
 |R | Ruthen | square rods (area unit)
 |s. g. | so genannt(e) | so-called
 |Bückeb. | Bückeburg | place name
-|No./Nr. | Num|number
+|No./Nr. | Nummero/Nummer|number
 |===
 
 
