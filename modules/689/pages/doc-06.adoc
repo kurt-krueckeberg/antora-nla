@@ -181,7 +181,7 @@ ____
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::17-l.png[link=self]
-|*Vertical text in prior image rotated right +
+|*Vertical text in prior image rotated right* +
 
 image::17-l-vertical-text.png[link=self]
 |===
