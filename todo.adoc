@@ -2,29 +2,14 @@
 
 == Document Index, Definitions, Timelines and Events
 
-[IMPORTANT]
-====
-Questions:
-
-1. The penciled-in numbers in the upper right corner--are they the true order of the pages? 
-
-If so, I may have some images misnumbered and thus in the wrong order. This needs to be 
-checked! I believe the some of the .TIF image numbers don't follow the pencilled-in numbers
-in the document.
-
-====
-
-* Change "Document Index" to what is actually is 10 collections of related documents.
-
-* What does "Nrpr: 1274" at the bottom of the first page mean of document 1 mean?
+* Finish the final two pages of doc-10.adoc.
 
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
 
-* Create a table of "N.C." numbers "Ad N.C." numbers their document index 6-and-entry and associated dates.
+* Create a table of "N.C." numbers "Ad N.C." numbers their document index 6-and-entry and associated dates and
+group them by the Acten Designation numbers.
 
 * What does "O. f. Kreutziner" mean--official? I believe document 6 says he is head forester, or something like it.
-
-* Once document 9 has been added, add xref-links to it.
 
 === Consoliate 
 
