@@ -71,13 +71,25 @@ the proper place in the chamber accounts and to support this expenditure with th
 
 First page of NC 2696:
 
-....
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
 
+|
+....
+TODO
 
 ....
+|
+|===
 
 Second page of NC 122696
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 ....
 Left margin:
 
@@ -121,9 +133,16 @@ die Verrechnung in neben-
 stehender Weise bereits
 Fr. der Wahlmeckwart
 ....
+|
+|===
 
 Back side of prior page:
 
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
+
+|
 ....
           ohld                   
 Concept                   
@@ -143,3 +162,5 @@ exp                Kapital ad 200. r. Cur. nebst
 
                                      L
 ....
+|
+|===
