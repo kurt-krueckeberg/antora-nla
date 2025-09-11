@@ -104,7 +104,7 @@ ____
 There are numerous abbrevations used in *NC 2422* below. This table summarizes
 them.
 
-[cols="2,3,4",options="header"]
+[cols="2,3,4",width="60%",options="header"]
 |===
 |Abbrev. | German | English Meaning
 
