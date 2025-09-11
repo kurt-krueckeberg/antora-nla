@@ -90,3 +90,51 @@ The attached bond (Obligation) was, by decree (Rescript) of 5 May
 [signed: Schtt.]
 ____
 |===
+
+== NC 2422
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::21-r.png[link=self]
+|image::22-l.png[link=self]
+|===
+
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
+....
+No. 2422.
+Abschrift Anweisung der Kammer
+für den Kammerrentmeister Berger
+d. d. Bückeb. d. 21. April 1845
+
+Fürstl. Rentkammer hat [e]t Kaufbrief vom
+17. April a.c. von dem Colon Krückeberg
+No. 10 in Berenbusch ein in der s.g.
+Söhre belegenes, 9 Morgen 19 K helfindes
+Grundstück für die Summe von 858 rt 10 
+2d Cour. angekunft.
+
+K Rmstr Borger wird angewiesen,
+obige Kaufgelder, wovon jedoch ein
+dem Colon Krückeberg lt. Oblig. vom
+12 Janr 1842 aus Nummerkasse gelie-
+stetes Darlehn von 200 rt wur nebst
+Zinsen zurückzubehalten ist, dem Ver-
+käufer gegen Quittung auszuzahlen,
+in Kammerrechnung gehörigen
+Orts zu verausgeben und diese
+Ausgabe mit dieser Quittung
+zu belegen.
+....
+
+|
+[verse]
+____
+
+____
+|====
