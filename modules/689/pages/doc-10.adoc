@@ -90,3 +90,75 @@ The attached bond (Obligation) was, by decree (Rescript) of 5 May
 [signed: Schtt.]
 ____
 |===
+
+== NC 2422
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::21-r.png[link=self]
+|image::22-l.png[link=self]
+|===
+
+=== Transliteration and Translation
+
+There are numerous abbrevations used in *NC 2422* below. This table summarizes
+them.
+
+[cols="2,3,4",width="60%",options="header"]
+|===
+|Abbrev. | German | English Meaning
+
+|lt. | laut | per / according to
+|a.c. | anno currente | of the current year (this year)
+|d.d. | de dato | bearing the date (dated)
+|Fürstl. | Fürstliche(r) | princely / of the Prince’s
+|K. Rmstr. | Kammer-Rentmeister | chamber paymaster/treasurer
+|Oblig. | Obligation | bond / promissory note
+|Rthlr | Reichsthaler | Reichsthaler; historic thaler unit (1 Rthlr = 24 Ggr = 288 Pf)
+|Ggr | Gute Groschen | good groschen
+|Pf | Pfennige | pence
+|Cour. | Courant | current coin/face-value currency
+|R | Ruthen | square rods (area unit)
+|s. g. | so genannt(e) | so-called
+|Bückeb. | Bückeburg | place name
+|No./Nr. | Nummero/Nummer|number
+|===
+
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal,subs="verbatim,quotes"]
+....
+NC. 2422.
+Abschrift Anweisung der Kammer
+für den Kammerrentmeister Berger
+d. d. Bückeb. d. 21. April 1845
+
+Fürstl. Rentkammer hat lt[laut] Kaufbrief vom
+17. April a.c. von dem Colon Krückeberg
+Nr. 10 in Berenbusch ein in der s. g. Söhre belegenes,
+9 Morgen 19 R haltendes Grundstück
+für die Summe von 858 Rthlr 10 Ggr 2 Pf Cour.
+angekauft.
+
+K. Rmstr. Berger wird angewiesen,
+obige Kaufgelder, wovon jedoch ein
+dem Colon Krückeberg lt. Oblig. vom
+12. Janr 1842 aus Kammerkasse geleistetes
+Darlehn von 200 Rthlr Cour. nebst
+Zinsen zurückzubehalten ist, dem Ver-
+käufer gegen Quittung auszuzahlen,
+in Kammerrechnung gehörigen
+Orts zu verausgeben und diese
+Ausgabe mit dieser Quittung
+zu belegen.
+....
+|
+[verse]
+____
+TODO
+____
+|===
