@@ -13,7 +13,7 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 
 [cols="2,3,4",width="60%",options="header"]
 |===
-|Abbrev. | German | English Meaning
+|Abbrev. | German Meaning | English Meaning
 
 |lt. | laut | per / according to
 |a.c. | anno currente | of the current year (this year)
