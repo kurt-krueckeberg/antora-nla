@@ -99,6 +99,7 @@ ____
 |image::22-l.png[link=self]
 |===
 
+=== Transliteration and Translation
 
 [cols="1a,1a",frame=none,grid=none]
 |===
@@ -131,10 +132,9 @@ Orts zu verausgeben und diese
 Ausgabe mit dieser Quittung
 zu belegen.
 ....
-
 |
 [verse]
 ____
-
+TODO
 ____
-|====
+|===
