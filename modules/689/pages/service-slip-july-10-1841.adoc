@@ -31,7 +31,7 @@ Insinuirt den 27ten July 1841
 Möller Amtsdiener
 ....
 |
-[verse]
+....
 Tenant farmer Krückeberg N 10 in
 Berenbusch
 Decr_____________6                                                           
@@ -40,7 +40,9 @@ N________________2
 ms_______________4
 Fr_______________4
                 22
-The identically worded counterpart of the notice 
-was formally served on 27 July 1841.
-____
+
+The identically worded counterpart
+of the notice was formally served on
+27 July 1841.
+....
 |===
