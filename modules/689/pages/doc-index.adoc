@@ -302,8 +302,8 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|8
 
 |10.
-|Bond for 200 Reichsthaler in currency, borrowed from the princely treasury.
-|Bond
+|Promissory note for 200 Reichsthaler in current money at face value, loaned from the Princely Chamber treasury.
+|Promissory Note
 |
 |
 |
@@ -338,7 +338,7 @@ Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
 8 (〃):: Kammer-Resolution to the same office; Z. 20.
 8 (〃):: Likewise to **K. R. Berger** (Kammer-/Kameralrat); Z. —.
 9:: Further report from Amt Bückeburg (Feb. 1842); Z. 8.
-10:: Bond/Instrument (*Obligation*) for the 200 r. Courant loan drawn from the princely Kammerkasse.
+10:: Promissory Note (*Obligation*) for the 200 r. Courant loan drawn from the princely Kammerkasse.
 
 ==== Abbreviation keys (from the original German index)
 
