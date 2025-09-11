@@ -64,11 +64,8 @@ Ausgabe mit dieser Quittung
 zu belegen.
 ....
 |
-[verse]
-____
 NC. 2422.
-Copy. Order of the Chamber
-for the chamber treasurer Berger
+Copy. Order of the Chamber for the chamber treasurer Berger
 dated Bückeburg, 21 April 1845
 
 The Princely Chamber of Revenues, pursuant to the deed of sale of 17 April of this year, has purchased from Colon
@@ -79,5 +76,4 @@ Chamber treasurer Berger is instructed to pay out the above purchase funds to th
 however, the loan of 200 Reichsthaler in current money at face value granted to Colon Krückeberg, pursuant to the
 promissory note of 12 January 1842, from the chamber treasury, together with interest—to record the disbursement at
 the proper place in the chamber accounts and to support this expenditure with that receipt.
-____
 |===
