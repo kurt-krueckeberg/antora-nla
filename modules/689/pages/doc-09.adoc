@@ -114,7 +114,7 @@ them.
 |Fürstl. | Fürstliche(r) | princely / of the Prince’s
 |K. Rmstr. | Kammer-Rentmeister | chamber paymaster/treasurer
 |Oblig. | Obligation | bond / promissory note
-|Rthlr | Reichsthaler | rixdollar
+|Rthlr | Reichsthaler | Reichsthaler; historic thaler unit (1 Rthlr = 24 Ggr = 288 Pf)
 |Ggr | Gute Groschen | good groschen
 |Pf | Pfennige | pence
 |Cour. | Courant | current coin/face-value currency
