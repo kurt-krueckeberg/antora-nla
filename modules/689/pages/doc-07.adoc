@@ -4,7 +4,7 @@
 
 [cols="1a,1a",grid=none,frame=none,options="noheader"]
 |===
-|image:17-r.png[link=self]
+|image:17-r.png[title="Click to Enlarge",link=self]
 |
 |===
 
