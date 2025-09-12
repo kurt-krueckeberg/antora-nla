@@ -169,7 +169,15 @@ in Ausgabe zu stellen
 sei.  Bburg 2/5 45
 Reck
 ....
-|The promissory note is to be **annotated with the following receipt text**, stating that Krückeberg has repaid the principal, together with arrears and current interest, by payment into the chamber treasury, and that consent is therefore given to cancellation of the mortgage; then provide it to the chamber treasurer, with reference to the order of the 21st, **for delivery to Krückeberg after settlement has taken place**. This is to be completed to the effect that the principal in question of **200 thalers** is to be taken into the chamber cash as repaid, together with arrears and current interest, and, in return, the full purchase price of **858 thalers 10 groschen 2 pfennigs** is to be entered as an expenditure.  
+|To the Princely Rent Chamber
+
+The promissory note is to be **annotated with the following receipt text**, stating that Krückeberg has repaid the
+principal, together with arrears and current interest, by payment into the chamber treasury, and that consent is
+therefore given to cancellation of the mortgage; then provide it to the chamber treasurer, with reference to the
+order of the 21st, **for delivery to Krückeberg after settlement has taken place**. This is to be completed to the
+effect that the principal in question of **200 thalers** is to be taken into the chamber cash as repaid, together
+with arrears and current interest, and, in return, the full purchase price of **858 thalers 10 groschen 2
+pfennigs** is to be entered as an expenditure.  
 Bückeburg, 2 May 1845. — Reck
 |===
 
