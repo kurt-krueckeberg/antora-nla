@@ -4,9 +4,9 @@
 
 === Docketing and Header Information
 
-* Make all the docketing marks separate tables in all the documents. Initially just work on 
-module 689.
-* Do this for any other header or footer docketing/adminstrative/etc information.
+* Using `~/nla/m/689/p/doc-10.adoc` as a template, make all the docketing marks separate tables in all the
+documents. Initially just work on module 689.
+* Put in a separate table any other header or footer docketing/adminstrative/etc information.
 
 === Other Items
 
