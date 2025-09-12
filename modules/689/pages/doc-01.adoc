@@ -59,15 +59,20 @@ Signed by Amt officials Hauck and Höcker.
 |Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
 |===
 
-
-.Routing / marginal note
-[cols="1a,3a",frame=ends,grid=rows]
+.Routing / marginal note — original · expanded German · English
+[cols="1a,1a,1a",options="header",frame=ends,grid=rows]
 |===
-|RC. · b.m. zum Amtsbericht · B. 4 Oct 41 · [Spreng]
-|“to/with the Amt report.” Bückeburg, 4 Oct 1841. Signed **Spreng**.  
-*(“b.m.” likely a clerk’s shorthand such as **beim** / **beizufügen mit**; keep diplomatic in transliteration.)*
-|===
+|Original (verbatim) |German (expanded) |English translation
 
+|....
+RC.
+b.m. zum Amtsbericht
+B. 4 Oct 41
+[Spreng]
+....
+|**Rentkammer** — zum **Amtsbericht beizumachen**. **Bückeburg**, den **4. Oktober 1841**. — **Spreng**
+|**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
+|===
 
 [cols="1a,1a"]
 |===
