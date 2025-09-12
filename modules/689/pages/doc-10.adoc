@@ -243,20 +243,23 @@ Back side of prior page:
           ohld                   
 Concept                   
 Quittung.                   
-                   Da der Colon Krückeberg
-                   das in verstehender Obligation
-                   vom 12. Januar 1842 verbriefte
-exp                Kapital ad 200. r. Cur. nebst
-                   rückständigen und laufenden
-                   Zinsen durch Zurechnung in die
-                   Kammerkasse zurückgezahlt hat,
-                   Er wird darüber hiermit zuittirt
-                   und in die Löschung der Hypothek
-                   gewilligt.
-                   Bburg 5. Mai 1845.
-                   (L.S.) F. p.
 
-                                     L
+exp [appears opposite text below]
+
+Da der Colon Krückeberg
+das in verstehender Obligation
+vom 12. Januar 1842 verbriefte
+Kapital ad 200. r. Cur. nebst
+rückständigen und laufenden
+Zinsen durch Zurechnung in die
+Kammerkasse zurückgezahlt hat,
+Er wird darüber hiermit zuittirt
+und in die Löschung der Hypothek
+gewilligt.
+Bburg 5. Mai 1845.
+(L.S.) F. p.
+
+                     L
 ....
 |
 |===
