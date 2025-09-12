@@ -60,7 +60,7 @@ Signed by Amt officials Hauck and Höcker.
 |===
 
 .Routing / marginal note — original · expanded German · English
-[cols="1a,1a,1a",options="header",frame=ends,grid=rows]
+[cols="1a,2a,2a",options="header",frame=ends,grid=rows]
 |===
 |Original (verbatim) |German (expanded) |English translation
 
