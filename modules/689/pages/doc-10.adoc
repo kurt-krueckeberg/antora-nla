@@ -75,71 +75,81 @@ the proper place in the chamber accounts and to support this expenditure with th
 |
 |===
 
-
-First page of NC 2696:
-
-[cols="1a,1a"]
+[cols="1a,3a",frame=ends,grid=rows]
 |===
-|Transliteration|Translation
+2+|*Docketing marks*
 
-|
+|NC. 2696.
+|**Meaning:** Rentkammer registry/file number (NC-series). +
+**Placement:** Top-left header. +
+**When/By whom:** Clerk at registration (after the letter was received). 
+
+|pr. in C. 29/4 45
+|**Meaning:** “presented in the Chamber” (intake mark). +
+**Date:** 29 Apr 1845. +
+**Placement:** Top-right header. +
+**Sequence:** Written on intake; the minute/response (Reck) follows on 2 May 1845.
+|===
+
+[cols="1a,1a",options="header"]
+|===
+|Transliteration (diplomatic) |English translation
+
+|*Right-side request (large hand; incl. heading)*
 ....
-NC. 2696.
-pr. in C. 29/4 45
-
 An
 Fürstl. Rentkammer
 
-H.
-Die Obligation quitiert wäre
-mit folgender Quittung.
-daß der 1. Krückebung
-das Capital mit rückstande
-u[nd] laufende Zinsen durch
-Zurechnung in die Kammer-
-casse zurükgezahlt
-habe, u[nd] daher in die
-Löschung der Hypothek
-gewilligt werde;
-versehen, dem K. Rmstr[Kammer Rentmeister]
-unter Bezugnahme auf
-die  Anweisung, vom
-zu beziehenden Kaufgeldern
-die Anweisung vom
-21 pr, zur Uebergabe an Krükeberg nach Statt gefundener Liquidation,
-zuzustellen, welche
-dahin vervollständigt
-werden, daß das fragl.
-Capital der 200 p als
-zurückgezählt nebst
-rückständigen u. laufenden
-Zinsen in der Kk. zu
-vereinnahmen, und
-dagegen das vollständige
-Kaufgeld mit 858 R 10 G 2 Pf
-in Ausgabe zu stellen.
-sei.  Bburg 2/5 45
-         [Cunier or Reck]
-
-
-[Right side text:]
-Da der Kolon Krückeberg
-N. 10 in Berenbusch des
+Da der Colon Krückeberg
+No. 10 in Berenbusch das
 aus der Kammerkasse ge-
-liehen erhaltene Kapital
+liehen erhaltene Capital
 von 200 p Courant von
-den der Fürstl. Rentkam̅mer
-verkauften Ländereien
+den der Fürstl. Rentkammer verkauften Ländereien
 zu beziehenden Kaufgeldern
 zurückzahlen wird, so bitte
 ich unterthänigst, die be-
 treffende Obligation über
-200 p Cour vom 12 Jan 1842
-zurückgeben zu laßen.
-Bückeburg 29 Apr 1845
-            Berger
+200 p Cour. vom 12 Jan. 1842
+zurückgeben zu lassen.
+Bückeburg 29 Apr. 1845
+Berger
 ....
-|
+|Since Colon Krückeberg, No. 10 in Berenbusch, will repay the capital of **200 thalers in current money at face value** out of the purchase funds **for the land sold to the Princely Chamber of Revenues**, I most humbly request that the **promissory note** for **200 thalers (current)**, dated 12 January 1842, be returned.  
+Bückeburg, 29 April 1845. — Berger
+
+|*Left-side minute/response (small hand; Rentkammer; signed Reck)*
+....
+H.
+Die Obligation quitiert wäre
+mit beifolgender Quittung,
+daß der Krückeberg
+das Capital mit rückständ.
+u. laufenden Zinsen durch
+Zurückzahlung in die Kammer-
+kasse zurückgezahlt
+habe, u. daher in die
+Löschung der Hypothek
+gewilligt werde;
+versehen, dem K. Rmstr.
+unter Bezugnahme auf
+die Anweisung vom 21 pr, zur Uebergabe an Krückeberg nach statt gefundener Liquidation,
+zuzustellen, welche
+dahin vervollständigt
+werden, daß das fragl.
+Capital der 200 p als
+zurückgezahlt nebst
+rückständigen u. laufenden
+Zinsen in der Kk. zu
+vereinnahmen, und
+dagegen das vollständige
+Kaufgeld mit 858 p 10 G 2 Pf
+in Ausgabe zu stellen
+sei.  Bburg 2/5 45
+Reck
+....
+|The promissory note is to be **annotated with the following receipt text**, stating that Krückeberg has repaid the principal, together with arrears and current interest, by payment into the chamber treasury, and that consent is therefore given to cancellation of the mortgage; then provide it to the chamber treasurer, with reference to the order of the 21st, **for delivery to Krückeberg after settlement has taken place**. This is to be completed to the effect that the principal in question of **200 thalers** is to be taken into the chamber cash as repaid, together with arrears and current interest, and, in return, the full purchase price of **858 thalers 10 groschen 2 pfennigs** is to be entered as an expenditure.  
+Bückeburg, 2 May 1845. — Reck
 |===
 
 
