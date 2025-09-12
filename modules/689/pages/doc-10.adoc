@@ -84,7 +84,7 @@ An
 Fürstl. Rentkammer
 
 
-//left margin text:
+[left side text:]
 H.
 Die Obligation qui[t]iert wäre
 mit folgender Quittung.
@@ -117,7 +117,7 @@ sei.  Bburg 2/5 45
          [Cunier or Reck]
 
 
-// Right margin text:
+[Right side text:]
 Da der Kolon Krückeberg
 N. 10 in Berenbusch des
 aus der Kammerkasse ge-
@@ -133,7 +133,6 @@ treffende Obligation über
 zurückgeben zu laßen.
 Bückeburg 29 Apr 1845
             Berger
-
 ....
 |
 |===
@@ -146,11 +145,10 @@ Second page of NC 122696
 
 |
 ....
-Left margin:
-
 N. C. 2696.
 ohlt
 Cpt
+[Left side text:]
 an Kammerrentmeister Berger
 dahier.
 
