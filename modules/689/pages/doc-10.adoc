@@ -175,22 +175,23 @@ Poppelbaum
 exp Schöttds
 8/5.
 
-                           Die Obligation vom 12.
-                           Januar 1842 über die dem Col.
-                           Krückeberg Nr. 10 in Berenbusch
-                           aus Kammerkasse geliehenen
-                           200 x Cour. wird mit Quittung
-                           versehen dem p Berger unter
-                           Bezugnahme auf die Anweisung
-                           vom 21. pr. zur Übergabe an
-                           Kruckeberg nach stattgefundener
-                           Liquidation) hierneben zugestellt,
-                           [struck-through text omitted]
-                           Bburg 5. Mai 1845
-                             F.p.
-                           
-                             Spm       L 
-                                         verte
+[This text was not left aligned, but is here]
+Die Obligation vom 12.
+Januar 1842 über die dem Col.
+Krückeberg Nr. 10 in Berenbusch
+aus Kammerkasse geliehenen
+200 x Cour. wird mit Quittung
+versehen dem p Berger unter
+Bezugnahme auf die Anweisung
+vom 21. pr. zur Übergabe an
+Kruckeberg nach stattgefundener
+Liquidation) hierneben zugestellt,
+[struck-through text omitted]
+Bburg 5. Mai 1845
+  F.p.
+
+  Spm       L 
+              verte
                            
 // This left margin text appears to be a replacment
 // for the remaining text that has been struck-through.
