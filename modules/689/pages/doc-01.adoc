@@ -46,6 +46,29 @@ Signed by Amt officials Hauck and Höcker.
 
 == Transliteration and Translation
 
+.Docketing / administrative marks (added by clerks; not part of the body text)
+[cols="1a,3a",frame=ends,grid=rows]
+|===
+|NC. 438i
+|Registry/file number (NC-series). The suffix “i” is the file’s index letter.
+
+|pr. in Cam. 2 Oct. 1841
+|“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
+
+|Nr pr: 1274
+|Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
+|===
+
+
+.Routing / marginal note
+[cols="1a,3a",frame=ends,grid=rows]
+|===
+|RC. · b.m. zum Amtsbericht · B. 4 Oct 41 · [Spreng]
+|“to/with the Amt report.” Bückeburg, 4 Oct 1841. Signed **Spreng**.  
+*(“b.m.” likely a clerk’s shorthand such as **beim** / **beizufügen mit**; keep diplomatic in transliteration.)*
+|===
+
+
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
@@ -53,19 +76,9 @@ Signed by Amt officials Hauck and Höcker.
 |
 [literal,subs="verbatim,quotes"]
 ....
-NC. 438i                              pr. inlen 2 Oct. 1841
-
-Nr. pr.: 1274  [Registry (protocol) number of the Rentkammer;
-                               written at the bottom of p. 1.]
-
-                Durchlauchtigster Fürst,
-                Gnädigst regierender Fürst
-                und Herr!             
-
-RC.
-b.m. zum Amtsbericht
-B. 4 Oct 41
-          [Spreng]
+Durchlauchtigster Fürst,
+Gnädigst regierender Fürst
+und Herr!             
 
 Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
 die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
