@@ -2,6 +2,9 @@
 
 == Document Index, Definitions, Timelines and Events
 
+* Make all the docketing marks separate tables in all the documents. Initially just work on 
+module 689.
+
 * Finish the final two pages of doc-10.adoc.
 
 * Move the glossary in doc-index.adoc elsewhere, to a separate page?
