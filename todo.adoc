@@ -2,8 +2,13 @@
 
 == Document Index, Definitions, Timelines and Events
 
+=== Docketing and Header Information
+
 * Make all the docketing marks separate tables in all the documents. Initially just work on 
 module 689.
+* Do this for any other header or footer docketing/adminstrative/etc information.
+
+=== Other Items
 
 * Finish the final two pages of doc-10.adoc.
 
