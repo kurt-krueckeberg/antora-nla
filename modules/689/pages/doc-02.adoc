@@ -35,13 +35,13 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::04-r-original.png[link=self]
-|image::05-l.png[link=self]
+|image::04-r-original.png[title="Click to Enlarge",link=self]
+|image::05-l.png[title="Click to Enlarge",link=self]
 |===
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::05-r.png[link=self]
+|image::05-r.png[title="Click to Enlarge",link=self]
 |
 |===
 
@@ -212,7 +212,7 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::06-l.png[link=self]
+|image::06-l.png[title="Click to Enlarge",link=self]
 |
 |===
 
@@ -286,7 +286,7 @@ resolution.
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::08-l.png[link=self]
+|image::08-l.png[title="Click to Enlarge",link=self]
 |
 |===
 

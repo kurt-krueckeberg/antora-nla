@@ -6,10 +6,10 @@
 
 [cols="1a,1a"]
 |===
-|image::15-r-original.png[link=self]
+|image::15-r-original.png[title="Click to Enlarge",link=self]
 |*Vertical text in prior image rotated right*
 
-image::15-r-vertical.png[link=self]
+image::15-r-vertical.png[title="Click to Enlarge",link=self]
 |===
 
 === Transliteration and Translation
@@ -109,7 +109,7 @@ ____
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::16-l.png[link=self]
+|image::16-l.png[title="Click to Enlarge",link=self]
 |
 |===
 
@@ -174,16 +174,16 @@ ____
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::16-l.png[link=self]
-|image::16-r.png[link=self]
+|image::16-l.png[title="Click to Enlarge",link=self]
+|image::16-r.png[title="Click to Enlarge",link=self]
 |===
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::17-l.png[link=self]
+|image::17-l.png[title="Click to Enlarge",link=self]
 |*Vertical text in prior image rotated right* +
 
-image::17-l-vertical-text.png[link=self]
+image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
 |===
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
@@ -285,7 +285,7 @@ the Sovereign ruler of Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lip
 
 [cols="2a,1a",frame=none,grid=none,options="noheader"]
 |===
-|image::17-l-vertical-text.png[link=self]
+|image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
 |
 |===
 

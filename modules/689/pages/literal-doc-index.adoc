@@ -1,7 +1,7 @@
 = Index 
 :page-role: wide
 
-image::01-r.png[link=self]
+image::01-r.png[title="Click to Enlarge",link=self]
 
 == Under Development
 

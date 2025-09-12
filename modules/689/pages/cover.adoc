@@ -1,7 +1,7 @@
 = Case File Cover
 :page-role: wide
 
-image::cover-orig.png[link=self]
+image::cover-orig.png[title="Click to Enlarge",link=self]
 
 [cols="1a,1a"]
 |===

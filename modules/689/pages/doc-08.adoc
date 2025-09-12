@@ -4,7 +4,7 @@
 [[doc-index-8-1]]
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::18-r.png[link=self]
+|image::18-r.png[title="Click to Enlarge",link=self]
 |
 |===
 
@@ -89,8 +89,8 @@ ____
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
-|image::19-l.png[link=self]
-|image::19-r.png[link=self]
+|image::19-l.png[title="Click to Enlarge",link=self]
+|image::19-r.png[title="Click to Enlarge",link=self]
 |===
 
 [[doc-index-8-2]]
