@@ -69,6 +69,13 @@ the proper place in the chamber accounts and to support this expenditure with th
 
 === NC 2696
 
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::23-r.png[link=self]
+|
+|===
+
+
 First page of NC 2696:
 
 [cols="1a,1a"]
@@ -137,7 +144,13 @@ Bückeburg 29 Apr 1845
 |
 |===
 
-Second page of NC 122696
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::24-l.png[link=self]
+|
+|===
+
 
 [cols="1a,1a"]
 |===
