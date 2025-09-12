@@ -136,7 +136,9 @@ zurückgeben zu lassen.
 Bückeburg 29 Apr. 1845
 Berger
 ....
-|Since Colon Krückeberg, No. 10 in Berenbusch, will repay the capital of **200 thalers in current money at face value** out of the purchase funds **for the land sold to the Princely Chamber of Revenues**, I most humbly request that the **promissory note** for **200 thalers (current)**, dated 12 January 1842, be returned.  
+|To the Princely Rent Chamber
+
+Since Colon Krückeberg, No. 10 in Berenbusch, will repay the capital of **200 thalers in current money at face value** out of the purchase funds **for the land sold to the Princely Chamber of Revenues**, I most humbly request that the **promissory note** for **200 thalers (current)**, dated 12 January 1842, be returned.  
 Bückeburg, 29 April 1845. — Berger
 
 |*Left-side minute/response (small hand; Rentkammer; signed Reck)*
@@ -169,8 +171,7 @@ in Ausgabe zu stellen
 sei.  Bburg 2/5 45
 Reck
 ....
-|To the Princely Rent Chamber
-
+|
 The promissory note is to be **annotated with the following receipt text**, stating that Krückeberg has repaid the
 principal, together with arrears and current interest, by payment into the chamber treasury, and that consent is
 therefore given to cancellation of the mortgage; then provide it to the chamber treasurer, with reference to the
