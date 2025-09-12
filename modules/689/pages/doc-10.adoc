@@ -46,7 +46,6 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 |Transliteration|Translation
 
 |
-NC. 2422. +
 ....
 Abschrift Anweisung der Kammer
 für den Kammerrentmeister Berger
@@ -72,7 +71,6 @@ Ausgabe mit dieser Quittung
 zu belegen.
 ....
 |
-NC. 2422. +
 Copy. Order of the Chamber for the chamber treasurer Berger
 dated Bückeburg, 21 April 1845
 
