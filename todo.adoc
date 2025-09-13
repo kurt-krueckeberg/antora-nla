@@ -7,6 +7,10 @@
 * Using https://chatgpt.com/c/68c2df42-4a00-8323-a9f6-36779b6cc6b9 as a guide,
   go through all the documents and restructure them.
 
+* I need to expklain the money system and 'current currency at fact value'.
+
+* Explain the main text versus Chamber responses.
+
 === Other Items
 
 * Finish the final two pages of doc-10.adoc.
