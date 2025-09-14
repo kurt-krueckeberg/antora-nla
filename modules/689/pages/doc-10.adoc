@@ -41,6 +41,7 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 **When/By whom:** Clerk at registration (after the letter was received). 
 |===
 
+*TODO*: Add explantory sentence before text like above.
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
