@@ -243,16 +243,30 @@ Notes:
 * **rt** = *Reichsthaler*, **gr** = *Groschen*.
 |===
 
+== Concept Quittung
 
-*TO DO*: Also make this into a similiar table.
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration | English translation & notes
 
+|ohlt
+|*Meaning:* Clerk’s initials used as a routing/attestation tick; not running text.\
+*Placement on page:* Immediately beneath the NC number at the very top margin.\
+*Who / when:* Entered by the registry/Rentkammer scribe associated with the action dated **5 May 1845** on this page.
+
+|exp
+|*Meaning:* Abbrev. of *expediert/Expedition* → “dispatched/forwarded”; a routing/handling mark.\
+*Placement on page:* In the left margin near **“Concept / Quittung.”** (on this sheet); elsewhere in the file it’s paired with a name/date.\
+*Who / when:* Written by the expedition/dispatch clerk (in this case linked to **Schöttd.** with the date **8/5** on the related entry, i.e., **8 May 1845**).
+|===
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration | English translation & notes
+
+|
 ....
-ohld
-
-Concept
-Quittung.
-
-exp
+Concept Quittung.
 
 Da der Colon Krückeberg das in vorstehender Obligation vom 12.
 Januar 1842 verbriefte Kapital ad 200 Rthlr. Cour[ant]. nebst
@@ -264,3 +278,18 @@ Bburg 5. Mai 1845.
 
 L
 ....
+
+|
+Official Draft.
+
+Since Colon (tenant farmer) Krückeberg has repaid to the Chamber
+cash office, by crediting/set-off (*Zurechnung*), the principal
+recorded in the foregoing obligation of 12 January 1842—amounting
+to **200 Reichsthaler Courant**—together with arrears and current
+interest, **he is hereby receipted for it** and **the
+cancellation of the mortgage is approved**.  
+Bburg (= Bückeburg), 5 May 1845.  
+(L.S.) = *locus sigilli* (“place of the seal”).  
+F. p. (kept as-is; standard signature formula in these files).  
+L (routing/initial mark).
+|===
