@@ -255,9 +255,15 @@ Notes:
 *Who / when:* Entered by the registry/Rentkammer scribe associated with the action dated **5 May 1845** on this page.
 
 |exp
-|*Meaning:* Abbrev. of *expediert/Expedition* → “dispatched/forwarded”; a routing/handling mark.\
+|*Meaning:* Abbrev. of *expediert/Expedition* → “dispatched/forwarded”; a routing/handling 
 *Placement on page:* In the left margin near **“Concept / Quittung.”** (on this sheet); elsewhere in the file it’s paired with a name/date.\
 *Who / when:* Written by the expedition/dispatch clerk (in this case linked to **Schöttd.** with the date **8/5** on the related entry, i.e., **8 May 1845**).
+
+|*exp Schöttd* +
+*8/5.*
+|*Meaning:* "Dispatched/expedited" by Schöttd., dated 8 May (1845). A routing/handling note. +
+*Placement:* TODO +
+*Who / When:*
 |===
 
 [cols="1a,1a",frame=none,grid=none]
