@@ -205,7 +205,6 @@ TODO: Change this table to make it look like the one above with *Meaning*, *Plac
 
 |*exp Schöttd* +
 *8/5.*
-....
 |*"Dispatched/expedited"* by Schöttd., dated 8 May (1845). A routing/handling note.
 |===
 
