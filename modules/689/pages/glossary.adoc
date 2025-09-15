@@ -10,6 +10,9 @@
 |Bezugnahme
 |**Reference/cross-reference** to another order or letter, e.g., *unter Bezugnahme auf die Anweisung vom …* (“with reference to the instruction of …”).
 
+|Conc.
+|Abbrev. of **Concordat** (Latin *concordat* = “agrees/accords”). **Collation mark** indicating a copy agrees with the original; typically written next to or just above **initials of the verifying clerk**, often near the signature block.
+
 |Concept  (also: Konzept)
 |**Draft / office copy** kept on file (the fair copy would be issued out). Common as a heading: *Concept / Quittung.*
 
@@ -45,6 +48,9 @@
 
 |Länderei  (plural: Ländereien; variant: Ländereie)
 |**Landholding(s) / farmland.** *Ländereie* is an archaic plural spelling you’ll see in older hands.
+
+|Nro.  (variants: Nr., No.)
+|Abbrev. of **Numero** (“number”). Used in headings/margins and by signatures to cite a **registry/protocol entry** or docket number (e.g., *Nro. 1274*). Often appears beside initials in the signature area.
 
 |Obligation
 |**Bond / promissory note** (sealed instrument acknowledging debt). Typically docketed by date and amount; on redemption it’s receipted and often **returned** to the debtor. Frequently synonymous with **Schuldverschreibung** in 19th-c. practice.
