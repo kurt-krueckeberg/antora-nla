@@ -55,12 +55,12 @@ different desks used different books to track the same matter. each book created
 * “nro g. d.” is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry book and/or noted elsewhere.
 
 == 4) acten-designation (#1–#10): what it is and why #10 looks different
-* acten-designation = the file’s table of contents built when the case started (here, 1841–1842).
+* *Acten-Designation* = the file’s table of contents built when the case started (here, 1841–1842).
 * many numbers (rows) can have multiple entries because more than one document belongs under that heading.
-* the boxed corner number appears on the first page of each internal memo/report listed as #1–#9.
+* The boxed corner number appears on the first page of each internal memo/report listed as #1–#9.
 * #10 is the obligation (the sealed original bond dated 12 jan 1842). originals were often:
- kept in a separate obligations series, and
- returned to the debtor upon repayment.
+** kept in a separate obligations series, and
+** returned to the debtor upon repayment.
 therefore #10 commonly does not carry the file’s boxed corner number and may be absent from the case file when you consult it.
 
 where your 1845 sheets fit:  
