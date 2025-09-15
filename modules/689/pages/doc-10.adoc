@@ -1,5 +1,7 @@
-= 10: Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury. 
+= 10: Follow-ups to Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury. 
 :page-role: wide
+
+== NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -7,7 +9,7 @@
 |image::22.png[title="Click to Enlarge",link=self]
 |===
 
-== Transliteration and Translation
+=== Transliteration and Translation
 
 There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 
@@ -80,10 +82,8 @@ the proper place in the chamber accounts and to support this expenditure with th
 |===
 
 
-== TODO: Finish The Remaing Documents Below
 
-
-=== NC 2696
+== Follow-up delivery/receipt; mortgage cancellation approved
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -127,7 +127,12 @@ Berger
 ....
 |To the Princely Rent Chamber
 
-Since Colon Krückeberg, No. 10 in Berenbusch, will repay the capital of **200 thalers in current money at face value** out of the purchase funds **for the land sold to the Princely Chamber of Revenues**, I most humbly request that the **promissory note** for **200 thalers (current)**, dated 12 January 1842, be returned.  
+Since Colon Krückeberg, No. 10 in Berenbusch, will repay the
+capital of **200 thalers in current money at face value** out of
+the purchase funds **for the land sold to the Princely Chamber of
+Revenues**, I most humbly request that the **promissory note**
+for **200 thalers (current)**, dated 12 January 1842, be
+returned.  
 Bückeburg, 29 April 1845. — Berger
 
 |*Left-side minute/response (small hand; Rentkammer; signed Reck)*
@@ -147,12 +152,17 @@ sei.  Bburg 2/5 45
 Reck
 ....
 |
-The promissory note is to be **annotated with the following receipt text**, stating that Krückeberg has repaid the
-principal, together with arrears and current interest, by payment into the chamber treasury, and that consent is
-therefore given to cancellation of the mortgage; then provide it to the chamber treasurer, with reference to the
-order of the 21st, **for delivery to Krückeberg after settlement has taken place**. This is to be completed to the
-effect that the principal in question of **200 thalers** is to be taken into the chamber cash as repaid, together
-with arrears and current interest, and, in return, the full purchase price of **858 thalers 10 groschen 2
+The promissory note is to be **annotated with the following
+receipt text**, stating that Krückeberg has repaid the principal,
+together with arrears and current interest, by payment into the
+chamber treasury, and that consent is therefore given to
+cancellation of the mortgage; then provide it to the chamber
+treasurer, with reference to the order of the 21st, **for
+delivery to Krückeberg after settlement has taken place**. This
+is to be completed to the effect that the principal in question
+of **200 thalers** is to be taken into the chamber cash as
+repaid, together with arrears and current interest, and, in
+return, the full purchase price of **858 thalers 10 groschen 2
 pfennigs** is to be entered as an expenditure.  
 Bückeburg, 2 May 1845. — Reck
 |===
@@ -222,7 +232,7 @@ Bückeburg 5. May 1845
   F.p. *<--TODO: Translate*
 
 Spm       L 
-verte *<--TODO: Translate*
+turn over
 |
 ....
 Probatur.
