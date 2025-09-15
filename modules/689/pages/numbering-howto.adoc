@@ -1,78 +1,84 @@
-= How the Filing System Worked (Schaumburg-Lippe, 1841–1845)
+= how the filing system worked (schaumburg-lippe, 1841–1845)
 :toc: macro
 :toclevels: 2
 
 toc::[]
 
-== 1) The setting — what was Schaumburg-Lippe?
-Schaumburg-Lippe was a small German principality in the 1800s. Its government centered on the prince and his
-central chancellery, with offices that handled daily administration. Two offices matter for your case:
+== 1) the setting — what was schaumburg-lippe?
+schaumburg-lippe was a small german principality in the 1800s. its government centered on the prince and his
+central chancellery, with offices that handled daily administration. two offices matter for your case:
 
-* The Amt (district office/court) for local administration and reports.
-* The Rentkammer (also spelled *Rentcammer*) — the state treasury/finance department.
+* the amt (district office/court) for local administration and reports.
+* the rentkammer (also spelled *rentcammer*) — the state treasury/finance department.
 
-== 2) What the Rentkammer did (and why Krückeberg dealt with it)
-*Kept money and books:* ran the Kammerkasse (treasury cash office), recorded payments.
-*Managed assets:* state lands/forests, leases, sales.
-*Handled loans & mortgages:* issued Obligationen (bonds/promissory notes) to subjects, secured on land; on repayment it issued a Quittung (receipt) and approved Löschung der Hypothek (mortgage cancellation).
+== 2) what the rentkammer did (and why krückeberg dealt with it)
 
-Krückeberg’s path (plain English):
-In 1841 he petitioned for a loan. The Rentkammer approved and issued an Obligation on 12 Jan 1842 for 200 Reichsthaler Courant, secured on his land. In 1845 he repaid; the Rentkammer receipted it, approved cancellation of the mortgage, and returned the original bond to him.
+*kept money and books:* ran the kammerkasse (treasury cash office), recorded payments.
+*managed assets:* state lands/forests, leases, sales.
+*handled loans & mortgages:* issued obligationen (bonds/promissory notes) to subjects, secured on land; on repayment it issued a quittung (receipt) and approved löschung der hypothek (mortgage cancellation).
 
-== 3) Why there are multiple numbers/stamps on the same sheets
-Different desks used different books to track the same matter. Each book created its own number/mark.
+krückeberg’s path (plain english):
+in 1841 he petitioned for a loan. the rentkammer approved and issued an obligation on 12 jan 1842 for 200 reichsthaler courant, secured on his land. in 1845 he repaid; the rentkammer receipted it, approved cancellation of the mortgage, and returned the original bond to him.
+
+== 3) why there are multiple numbers/stamps on the same sheets
+different desks used different books to track the same matter. each book created its own number/mark.
 
 [cols="1a,1a,1a,1a",options="header,autowidth"]
 |===
-|Mark on page | Belongs to (which book/desk) | What it identifies | Where the number/date live
+|mark on page | belongs to (which book/desk) | what it identifies | where the number/date live
 
 |*(boxed corner number)* ① ② ③ …
-|Acten-Designation (the file’s contents list made c. 1841–1842)
-|Links the first page of each internal memo/report to entries #1–#10 in the contents list
-|On the first page (boxed) and in the Acten-Designation table itself
+|acten-designation (the file’s contents list made c. 1841–1842)
+|links the first page of each internal memo/report to entries #1–#10 in the contents list
+|on the first page (boxed) and in the acten-designation table itself
 
-|N. C. 2696 (examples: 2444, 438 i, …)
-|Rentkammer docket (treasury’s yearly running docket)
-|A treasury handling/posting in that year (e.g., recording repayment, issuing receipt, delivery back)
-|In the NC docket register and written on the handling leaf as “N. C. ####”
+|n. c. 2696 (examples: 2444, 438 i, …)
+|rentkammer docket (treasury’s yearly running docket)
+|a treasury handling/posting in that year (e.g., recording repayment, issuing receipt, delivery back)
+|in the nc docket register and written on the handling leaf as “n. c. ####”
 
-|Nr pr: 1274
-|Protocol (ledger) book of the office
-|The line/entry under which the action was posted in the office’s ledger
-|In the protocol/ledger; often also jotted once on a leaf as “Nr pr: ####”
+|nr pr: 1274
+|protocol (ledger) book of the office
+|the line/entry under which the action was posted in the office’s ledger
+|in the protocol/ledger; often also jotted once on a leaf as “nr pr: ####”
 
-|Nro g. d.
-|Registry rubric = *Numero gegeben den* (“No. … given on [date]”)
-|Signals the item receives a registry number & date
-|Often not filled on that line; the number/date are in the registry book or appear elsewhere (e.g., as *Nr pr: …* or alongside an outgoing/incoming stamp)
+|nro g. d.
+|registry rubric = *numero gegeben den* (“no. … given on [date]”)
+|signals the item receives a registry number & date
+|often not filled on that line; the number/date are in the registry book or appear elsewhere (e.g., as *nr pr: …* or alongside an outgoing/incoming stamp)
 |===
 
-*Key takeaways*
-* They are parallel systems. An NC number is *not* the same thing as Nr pr or the boxed corner number.
-* It’s normal that only one ledger/protocol number (e.g., *Nr pr: 1274*) shows on a single leaf.
-* “Nro g. d.” is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry book and/or noted elsewhere.
+*key takeaways*
 
-== 4) Acten-Designation (#1–#10): what it is and why #10 looks different
-* Acten-Designation = the file’s table of contents built when the case started (here, 1841–1842).
-* Many numbers (rows) can have multiple entries because more than one document belongs under that heading.
-* The boxed corner number appears on the first page of each internal memo/report listed as #1–#9.
-* #10 is the Obligation (the sealed original bond dated 12 Jan 1842). Originals were often:
+* they are parallel systems. an nc number is *not* the same thing as nr pr or the boxed corner number.
+* it’s normal that only one ledger/protocol number (e.g., *nr pr: 1274*) shows on a single leaf.
+* “nro g. d.” is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry book and/or noted elsewhere.
+
+== 4) acten-designation (#1–#10): what it is and why #10 looks different
+* acten-designation = the file’s table of contents built when the case started (here, 1841–1842).
+* many numbers (rows) can have multiple entries because more than one document belongs under that heading.
+* the boxed corner number appears on the first page of each internal memo/report listed as #1–#9.
+* #10 is the obligation (the sealed original bond dated 12 jan 1842). originals were often:
  kept in a separate obligations series, and
  returned to the debtor upon repayment.
-Therefore #10 commonly does not carry the file’s boxed corner number and may be absent from the case file when you consult it.
+therefore #10 commonly does not carry the file’s boxed corner number and may be absent from the case file when you consult it.
 
-Where your 1845 sheets fit:  
-Sheets marked NC 2444 / NC 2696 are treasury follow-ups (Nachträge) to #10 in 1845: they record repayment, issue the Quittung, approve Löschung der Hypothek, and deliver the original bond back to Krückeberg. They belong with #10, but they were not part of the 1841–1842 contents list—hence no boxed corner number.
+where your 1845 sheets fit:  
+sheets marked nc 2444 / nc 2696 are treasury follow-ups (nachträge) to #10 in 1845: they record repayment, issue the quittung, approve löschung der hypothek, and deliver the original bond back to krückeberg. they belong with #10, but they were not part of the 1841–1842 contents list—hence no boxed corner number.
 
-== 5) Other small marks you’ll see (quick glossary)
-* Conc. + initials (e.g., *Conc. G. W. Fuchs.*) — *Concordat*: “collated; agrees with the original,” attested by the clerk; written on the office copy.
+== 5) other small marks you’ll see (quick glossary)
+* conc. + initials (e.g., *Conc. G. W. Fuchs.*) — *Concordat*: “collated; agrees with the original,” attested by
+the clerk; written on the office copy.
 * (L.S.) — *locus sigilli* (“place of the seal”).
-* F. p. — in this archive best read as Fürstliches Placet (“by princely authorization/approval”), placed just before initials at the end of a text.
+* F. p. — in this archive best read as Fürstliches Placet (“by princely authorization/approval”), placed just
+before initials at the end of a text.
 
 == 6) How to label your specific sheets (suggested)
-* *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — original sealed bond; later returned upon repayment; see 1845 follow-ups.
+* *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — original sealed bond; later
+returned upon repayment; see 1845 follow-ups.
 * *NC 2444 (Apr 1845)* — Rentkammer docket follow-up to #10: repayment/liquidation recorded.
-* *NC 2696 (5 May 1845)* — Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved; delivery of the original bond.
+* *NC 2696 (5 May 1845)* — Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
+delivery of the original bond.
 
 
 //────────────────────────────────────────────────────────────────────
