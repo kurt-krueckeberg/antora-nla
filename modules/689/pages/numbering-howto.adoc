@@ -1,4 +1,4 @@
-= how the filing system worked (schaumburg-lippe, 1841–1845)
+= How the Filing System Worked (Schaumburg-Lippe, 1841–1845)
 :toc: macro
 :toclevels: 2
 
