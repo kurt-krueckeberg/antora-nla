@@ -123,4 +123,12 @@ it once to point to the book line.
 
 == 6) How you can label things in your edition (suggested wording)
 
-* *_Acten-Designation #10 (Obligation, 12 Jan 184_
+* **Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)** — *original sealed **promissory
+note**; later returned to debtor upon repayment; see 1845 follow-ups.*
+* **NC 2444 (Apr 1845)** — *Rentkammer docket (treasury) follow-up to #10: repayment/liquidation recorded.*
+* **NC 2696 (5 May 1845)** — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
+delivery of the original **promissory note** to Krückeberg.*
+* **Nr pr: 1274** — *Protocol/ledger entry number under which this action was written in the office ledger.*
+* **Nro g. d.** — *Registry rubric “No. … given on \[date]”; number/date recorded in the registry book (not filled
+on this line).*
+
