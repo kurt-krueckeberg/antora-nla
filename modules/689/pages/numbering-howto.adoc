@@ -32,7 +32,7 @@ different desks used different books to track the same matter. each book created
 |links the first page of each internal memo/report to entries #1–#10 in the contents list
 |on the first page (boxed) and in the acten-designation table itself
 
-|n. c. 2696 (examples: 2444, 438 i, …)
+|++n.++ c. 2696 (examples: 2444, 438 i, …)
 |rentkammer docket (treasury’s yearly running docket)
 |a treasury handling/posting in that year (e.g., recording repayment, issuing receipt, delivery back)
 |in the nc docket register and written on the handling leaf as “n. c. ####”
