@@ -1,0 +1,59 @@
+//=============================
+// Glossary (Schaumburg-Lippe, c. 1840s)
+//=============================
+[cols="1a,3a",options="header,autowidth"]
+|===
+|Term (as in files) | Meaning (with notes & variants)
+
+|Auspfandung  (modern: Auspfändung)
+|Seizure/distress in the course of **enforcement** (levy on property). Often in formulas like *“die Auspfandung erkannt und vollzogen werden.”*
+
+|Concept  (also: Konzept)
+|**Draft / office copy** kept on file (the fair copy would be issued out). Common as a heading: *Concept / Quittung.*
+
+|Courant  (abbr.: Cour.)
+|“Current” legal-tender **currency standard** (vs. *Banco*, *Species*). In sums like *“200 x[Rthlr.] Cour.”* → 200 Reichsthaler in current money.
+
+|Darlehen
+|**Loan** (sum advanced), frequently from the **Kammerkasse** (treasury).
+
+|Durchlaucht  (Sr. Durchlaucht)
+|Honorific **“Serene Highness”** (H.S.H.), used for a reigning prince.
+
+|Execution  (modern: Exekution)
+|**Enforcement of judgment** (compulsory execution). E.g., *“die Execution erkannt … den Amtsdiener … exequiren.”*
+
+|F.p.
+|Chancery approval rubric at the end of a text, just before initials. In this archive best read as **“Fürstliches Placet”** (= by princely authorization); some traditions gloss **Fiat pro**. Functionally: “approved/authorized.”
+
+|Gesuch
+|**Petition / request** submitted to an office (often titled *Vorstellung* or *Gesuch*).
+
+|Groschen  (abbr.: gr / ggr)
+|Coin **subunit** used in sums (e.g., *“2 rt 12 gr”*). Exact value varied by state/period; treat as the small denomination under the *Reichsthaler*.
+
+|Kammercasse  (modern: Kammerkasse)
+|The treasury **cash office** of the princely administration (part of the *Rentkammer*). Spelled with **Casse/Kasse** interchangeably in period docs.
+
+|Kaufleute
+|**Merchants / traders** (plural).
+
+|Länderei  (plural: Ländereien; variant: Ländereie)
+|**Landholding(s) / farmland.** *Ländereie* is an archaic plural spelling you’ll see in older hands.
+
+|Obligation
+|**Bond / promissory note** (sealed instrument acknowledging debt). Typically docketed by date and amount; on redemption it’s receipted and often **returned** to the debtor.
+
+|Reichtsthaler  (correct: Reichsthaler; abbr.: Rthlr., Thlr., rt; sign: x)
+|Main **currency unit** in your files. Appears as *rt*, *Rthlr.*, *Thlr.*, or the taler sign **x** (e.g., *“200 x Cour.”*).
+
+|Rentcammer  (modern: Rentkammer)
+|The princely **finance/treasury department** (handles revenues, loans, obligations). Variant spellings with **c/k** are common.
+
+|Rentmeister  (Kammerrentmeister)
+|**Treasury officer** (cashier/controller) of the *Rentkammer*; e.g., *Kammerrentmeister Berger*.
+
+|Rescript  (German: Reskript; abbr.: Rescr., K. Res., Höchstes Rescr.)
+|Formal **written order/decision** issued by a higher authority (prince, council, or chamber). Often cited with date and addressee.
+|===
+
