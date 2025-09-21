@@ -38,9 +38,10 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 2+|*Docketing marks*
 
 |NC. 2696.
-<|**Meaning:** Rentkammer registry/file number (NC-series). +
-**Placement:** Top-left header. +
-**When/By whom:** Clerk at registration (after the letter was received). 
+<|
+* *Placement:* Top-left header.
+* *Meaning:* Rentkammer registry/file number (NC-series).
+* *When/By whom:* Clerk at registration (after the letter was received). 
 |===
 
 *TODO*: Add explantory sentence before text like above.
