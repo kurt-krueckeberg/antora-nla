@@ -33,12 +33,12 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 |No./Nr. | Nummero/Nummer|number
 |===
 
-[cols="1a,3a",frame=ends,grid=rows]
+[cols="1a,6a",frame=ends,grid=rows]
 |===
 2+|*Docketing marks*
 
 |NC. 2696.
-|**Meaning:** Rentkammer registry/file number (NC-series). +
+<|**Meaning:** Rentkammer registry/file number (NC-series). +
 **Placement:** Top-left header. +
 **When/By whom:** Clerk at registration (after the letter was received). 
 |===

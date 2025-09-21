@@ -80,8 +80,8 @@ ____
 ....
 |===
 
-[caption="Decision of Rentcammer: "]
-.Large Vertical text in left margin:
+[caption="Large Vertical text in left margin: "] 
+.Decision of Rentcammer
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
