@@ -92,20 +92,20 @@ the proper place in the chamber accounts and to support this expenditure with th
 |
 |===
 
-[cols="1a,3a",frame=ends,grid=rows]
+[cols="1a,6a",width="60%",frame=ends,grid=rows]
 |===
 2+|*Docketing marks*
 
 |NC. 2696.
-|**Meaning:** Rentkammer registry/file number (NC-series). +
-**Placement:** Top-left header. +
-**When/By whom:** Clerk at registration (after the letter was received). 
+|*Placement:* Top-left header. +
+*Meaning:* Rentkammer registry/file number (NC-series). +
+*When/By whom:* Clerk at registration (after the letter was received). 
 
 |pr. in C. 29/4 45
-|**Meaning:** “presented in the Chamber” (intake mark). +
-**Date:** 29 Apr 1845. +
-**Placement:** Top-right header. +
-**Sequence:** Written on intake; the minute/response (Reck) follows on 2 May 1845.
+|*Placement:* Top-right header. +
+*Meaning:* “presented in the Chamber” (intake mark). +
+*Date:* 29 Apr 1845. +
+*Sequence:* Written on intake; the minute/response (Reck) follows on 2 May 1845.
 |===
 
 [cols="1a,1a",options="header"]
