@@ -33,7 +33,7 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 |No./Nr. | Nummero/Nummer|number
 |===
 
-[cols="1a,6a",frame=ends,grid=rows]
+[cols="1a,6a",width="60%",frame=ends,grid=rows]
 |===
 2+|*Docketing marks*
 
