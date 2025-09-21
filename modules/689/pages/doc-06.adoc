@@ -61,7 +61,7 @@ turn over
 ____
 |===
 
-.Text in the left margin in parenthesis:
+.Text in parenthesis in the left margin
 [cols="1a,1a"]
 |===
 |Transliteration|Translation
