@@ -179,7 +179,7 @@ Bückeburg, 2 May 1845. — Reck
 
 TODO: Change this table to make it look like the one above with *Meaning*, *Placement* and *When/By Whom*.
 
-[cols="1a,3a",frame=ends,grid=rows]
+[cols="1a,6a",width="60%",frame=ends,grid=rows]
 |===
 |Transliteration | English translation & notes
 
