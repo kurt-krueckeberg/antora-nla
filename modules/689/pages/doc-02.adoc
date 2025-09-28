@@ -134,8 +134,8 @@ B. 14. Oct. 1841
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 Chamber registry no. 4487; presented in the Chamber on 11 Oct 1841.
 
 Protocol no. 1274; with reference to Chamber file no. 438i.
@@ -200,7 +200,7 @@ Spring
 
 
 acting on behalf of.
-____
+....
 |===
 
 [[doc-index-2-2]]
