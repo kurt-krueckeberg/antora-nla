@@ -120,8 +120,8 @@ Nro g d.
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 Most Serene Prince, gracious reigning Prince and Lord,
 
 My late father—and, after his death, my mother, who continued my
@@ -157,5 +157,5 @@ No. 10 in Berenbusch.
 Bückeburg, the 2nd (of the same month), 1841.
 verified copy, G. W. Fuchs [Note: Krückeberg signed the original]
 with fee
-____
+....
 |===
