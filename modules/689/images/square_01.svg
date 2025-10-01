@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect x="6.0" y="6.0" width="244" height="244" fill="white" stroke="black" stroke-width="12" />
+  <text x="128.0" y="128.0" font-size="150" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', sans-serif" font-weight="700">
+    1
+  </text>
+</svg>
