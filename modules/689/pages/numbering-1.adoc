@@ -18,7 +18,7 @@ department*.
 
 *Rentkammer* was the *state treasury* and handled:
 
-* *state money* (taxes, rents, payments in/out of the _Kammerkasse_ =
+* *state money*: taxes, rents, payments in/out of the _Kammerkasse_ (the
 cash office),
 * *state land/forests* leases, sales, and  mortgages,
 * *loans to subjects* secured on land (by issuing *promissory notes*, later
