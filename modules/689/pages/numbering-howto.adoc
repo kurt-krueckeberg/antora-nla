@@ -5,6 +5,8 @@ xref:numbering-1.adoc[numbering-1.adoc] seem better than here, but the tables he
 explanations. The goal is to synthesize this file and  xref:numbering-1.adoc[numbering-1.adoc] to achieve the
 best clarity and coherence on these topics. Perhaps put the tables in a sidebar?
 
+QUesiton: What are the two or three parallel numbering systems?
+
 == 1) The setting — what was Schaumburg-Lippe?
 
 Schaumburg-Lippe was a small German principality in the 1800s. Its government centered on the prince and his
