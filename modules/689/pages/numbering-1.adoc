@@ -16,7 +16,7 @@ department*.
 
 == 2) What was the Rentkammer and why did Krückeberg deal with it?
 
-*Rentkammer = the state treasury.* It handled:
+*Rentkammer* was the *state treasury* and handled:
 
 * *state money* (taxes, rents, payments in/out of the _Kammerkasse_ =
 cash office),
