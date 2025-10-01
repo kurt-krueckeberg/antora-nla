@@ -24,7 +24,7 @@ In 1841 he petitioned for a *loan*. The Rentkammer approved and issued an *Oblig
 == 3) Why there are multiple numbers/stamps on the same sheets
 Different desks used *different books* to track the same matter. Each book created its *own* number/mark.
 
-[cols="1a,1a,1a,1a",options="header,autowidth"]
+[cols="1a,3a,4a,3a",options="header,autowidth"]
 |===
 |Mark on page | Belongs to (which book/desk) | What it identifies | Where the number/date live
 
@@ -49,7 +49,7 @@ Different desks used *different books* to track the same matter. Each book creat
 |Often *not filled on that line*; the number/date are in the registry book or appear elsewhere (e.g., as *Nr pr: …* or alongside an outgoing/incoming stamp)
 |===
 
-*Key takeaways*
+*Key takeaways*:
 * *They are parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
 * It’s normal that *only one* ledger/protocol number (e.g., *Nr pr: 1274*) shows on a single leaf.
 * *“Nro g. d.”* is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry book and/or noted elsewhere.
