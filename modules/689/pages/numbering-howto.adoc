@@ -5,7 +5,9 @@
 toc::[]
 
 == 1) The setting — what was Schaumburg-Lippe?
+
 Schaumburg-Lippe was a small German principality in the 1800s. Its government centered on the prince and his central chancellery, with offices that handled daily administration. Two offices matter for your case:
+
 * The *Amt* (district office/court) for local administration and reports.
 * The *Rentkammer* (also spelled *Rentcammer*) — the *state treasury/finance department*.
 
