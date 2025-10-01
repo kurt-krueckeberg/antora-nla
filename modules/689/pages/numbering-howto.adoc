@@ -30,8 +30,8 @@ cancellation of the mortgage*, and *returned the original bond* to him.
 Different desks used *different books* to track the same matter. Each book created its *own* number/mark. They
 use *parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
 
-*TEST:* The steps are image:square_01.svg[[0.6em,opts=inline] → image:square_02.svg[[0.7em,opts=inline] →
-image:square_03.svg[[0.8em,opts=inline].
+*TEST:* The steps are image:square_01.svg[0.6em,opts=inline] → image:square_02.svg[0.7em,opts=inline] →
+image:square_03.svg[0.8em,opts=inline].
 
 [cols="1a,3a,4a,3a",options="header,autowidth"]
 |===
