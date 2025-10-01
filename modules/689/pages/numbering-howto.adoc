@@ -3,7 +3,7 @@
 *TODO:* Combine this file with xref:numbering-1.adoc[`numbering-1.adoc`]. This explanations in
 xref:numbering-1.adoc[`numbering-1.adoc`] seem better than here, but the tables here can better illustrated those
 explanations. The goal is to synthesize this file and  xref:numbering-1.adoc[`numbering-1.adoc`] to achieve the
-best clarity and coherence on these topics.
+best clarity and coherence on these topics. Perhaps put the tables in a sidebar?
 
 == 1) The setting — what was Schaumburg-Lippe?
 
