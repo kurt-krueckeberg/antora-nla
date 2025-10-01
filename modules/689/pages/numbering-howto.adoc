@@ -50,11 +50,14 @@ Different desks used *different books* to track the same matter. Each book creat
 |===
 
 *Key takeaways*:
+
 * *They are parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
 * It’s normal that *only one* ledger/protocol number (e.g., *Nr pr: 1274*) shows on a single leaf.
-* *“Nro g. d.”* is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry book and/or noted elsewhere.
+* *“Nro g. d.”* is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry
+book and/or noted elsewhere.
 
 == 4) Acten-Designation (#1–#10): what it is and why #10 looks different
+
 * *Acten-Designation* = the file’s *table of contents* built when the case started (here, 1841–1842).
 * Many numbers (rows) can have *multiple entries* because more than one document belongs under that heading.
 * The *boxed corner number* appears on the *first page* of each internal memo/report listed as #1–#9.
@@ -67,11 +70,13 @@ Therefore #10 commonly *does not* carry the file’s boxed corner number and may
 Sheets marked *NC 2444 / NC 2696* are *treasury follow-ups (Nachträge)* to #10 in 1845: they record repayment, issue the *Quittung*, approve *Löschung der Hypothek*, and deliver the original bond back to Krückeberg. They belong with *#10*, but they were *not* part of the 1841–1842 contents list—hence *no boxed corner number*.
 
 == 5) Other small marks you’ll see (quick glossary)
+
 * *Conc. + initials* (e.g., *Conc. G. W. Fuchs.*) — *Concordat*: “collated; agrees with the original,” attested by the clerk; written on the *office copy*.
 * *(L.S.)* — *locus sigilli* (“place of the seal”).
 * *F. p.* — in this archive best read as *Fürstliches Placet* (“by princely authorization/approval”), placed just before initials at the end of a text.
 
 == 6) How to label your specific sheets (suggested)
+
 * *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — original sealed bond; later returned upon repayment; see 1845 follow-ups.
 * *NC 2444 (Apr 1845)* — Rentkammer docket follow-up to #10: repayment/liquidation recorded.
 * *NC 2696 (5 May 1845)* — Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved; delivery of the original bond.
