@@ -8,10 +8,11 @@ in the 1800s. Like other German states of the time, it had:
 * a *Princely court (the ruler and his central chancellery)* that issued
 high-level orders;
 * several *administrative offices* that ran day-to-day business. Two
-that matter for your file:
-** the *Amt* (district office/court) for local matters;
-** the *Rentkammer* (also written Rentcammer) = the *treasury/finance
-department* for money, lands, and state assets.
+that matter for this case file are:
+
+** the *Amt*, the *district office and court* for local matters;
+** the *Rentkammer* (also written Rentcammer) was the *state treasury and finance
+department*.
 
 == 2) What was the Rentkammer and why did Krückeberg deal with it?
 
@@ -19,9 +20,11 @@ department* for money, lands, and state assets.
 
 * *state money* (taxes, rents, payments in/out of the _Kammerkasse_ =
 cash office),
-* *state land/forests* (leases, sales, mortgages),
-* *loans to subjects* secured on land (issuing *promissory notes*, later
+* *state land/forests* leases, sales, and  mortgages,
+* *loans to subjects* secured on land (by issuing *promissory notes*, later
 cancelling them when repaid).
+
+TODO: Put these three paragraphs elsewhere:
 
 *Your case in one line:* In *1841* Krückeberg (a _Colonus_, i.e., a
 tenant farmer/landholder) petitioned for a *loan*. The Rentkammer
@@ -74,6 +77,8 @@ the loan.
 _(Historians disagree on the exact expansion of “NC”—you’ll see people
 gloss it as “No. Cammer(al)” or similar—but what matters is its
 *function*: the Rentkammer’s own annual docket number.)_
+
+TODO: Ask/get a definition of "docket".
 
 === C) “Nr pr: ####” — the *protocol/ledger entry number*
 

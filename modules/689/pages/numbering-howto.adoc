@@ -1,14 +1,16 @@
 = How this file system works (Schaumburg-Lippe, 1841–1845)
-:toc: macro
-:toclevels: 2
 
-toc::[]
+*TODO:* Combine this file with xref:numbering-1.adoc[`numbering-1.adoc`]. This explanations in
+xref:numbering-1.adoc[`numbering-1.adoc`] seem better than here, but the tables here can better illustrated those
+explanations. The goal is to synthesize this file and  xref:numbering-1.adoc[`numbering-1.adoc`] to achieve the
+best clarity and coherence on these topics.
 
 == 1) The setting — what was Schaumburg-Lippe?
 
-Schaumburg-Lippe was a small German principality in the 1800s. Its government centered on the prince and his central chancellery, with offices that handled daily administration. Two offices matter for your case:
+Schaumburg-Lippe was a small German principality in the 1800s. Its government centered on the prince and his
+central chancellery, with offices that handled daily administration. Two offices matter for this case file:
 
-* The *Amt* (district office/court) for local administration and reports.
+* The *Amt*, the district office and court) for local administration and reports.
 * The *Rentkammer* (also spelled *Rentcammer*) — the *state treasury/finance department*.
 
 == 2) What the Rentkammer did (and why Krückeberg dealt with it)
