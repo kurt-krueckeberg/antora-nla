@@ -11,7 +11,7 @@ high-level orders;
 that matter for this case:
 
 ** the *Amt*, the *district office and court* for local matters;
-** the *Rentkammer* (also written Rentcammer) was the *state treasury and finance
+** the *Rentkammer* (also written Rentcammer), the *state treasury and finance
 department*.
 
 == 2) What was the Rentkammer and why did Krückeberg deal with it?
