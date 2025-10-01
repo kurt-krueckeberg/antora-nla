@@ -48,7 +48,7 @@ transaction. The most important ones you’re seeing:
 
 === A) Acten-Designation (your 10-row list) — the file’s own “table of contents”
 
-* When a case file was opened (here, 1841–1842), a clerk wrote a
+When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list*: *#1 … #10* with brief titles.
 * To make cross-reference easy, the *first page of each item* in the
 file usually got a *boxed corner number* matching that list (1, 2, 3 …).
