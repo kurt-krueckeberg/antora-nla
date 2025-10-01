@@ -14,15 +14,21 @@ central chancellery, with offices that handled daily administration. Two offices
 * The *Rentkammer* (also spelled *Rentcammer*) — the *state treasury/finance department*.
 
 == 2) What the Rentkammer did (and why Krückeberg dealt with it)
+
 *Kept money and books:* ran the *Kammerkasse* (treasury cash office), recorded payments.
 *Managed assets:* state lands/forests, leases, sales.
-*Handled loans & mortgages:* issued *Obligationen* (bonds/promissory notes) to subjects, secured on land; on repayment it issued a *Quittung* (receipt) and approved *Löschung der Hypothek* (mortgage cancellation).
+*Handled loans & mortgages:* issued *Obligationen* (bonds/promissory notes) to subjects, secured on land; on
+repayment it issued a *Quittung* (receipt) and approved *Löschung der Hypothek* (mortgage cancellation).
 
 *Krückeberg’s path (plain English):*
-In 1841 he petitioned for a *loan*. The Rentkammer approved and issued an *Obligation* on *12 Jan 1842* for *200 Reichsthaler Courant*, secured on his land. In *1845* he repaid; the Rentkammer receipted it, *approved cancellation of the mortgage*, and *returned the original bond* to him.
+In 1841 he petitioned for a *loan*. The Rentkammer approved and issued an *Obligation* on *12 Jan 1842* for *200
+Reichsthaler Courant*, secured on his land. In *1845* he repaid; the Rentkammer receipted it, *approved
+cancellation of the mortgage*, and *returned the original bond* to him.
 
 == 3) Why there are multiple numbers/stamps on the same sheets
-Different desks used *different books* to track the same matter. Each book created its *own* number/mark.
+
+Different desks used *different books* to track the same matter. Each book created its *own* number/mark. Thus,
+there are *parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
 
 [cols="1a,3a,4a,3a",options="header,autowidth"]
 |===
