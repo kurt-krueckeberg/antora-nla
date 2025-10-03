@@ -122,7 +122,7 @@ Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
 ^|2
 
 |〃
-|xref:doc-08.adoc#doc-index-8-2[Cpt. K. Res. an dasselbe]
+|xref:doc-08.adoc#doc-index-8-2[Cpt. KRes. an dasselbe]
 |
 |〃
 |〃
