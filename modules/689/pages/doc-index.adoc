@@ -1,11 +1,7 @@
 = Index
 :page-role: wide
 
-[cols="1a,1a",options="noheader",frame=none.grid=none]
-|===
-|image::01-r.png[align=center,title="Click to Enlarge",link=self]
-|
-|===
+image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 //[role="section-narrow"]
 == Transliteration 
