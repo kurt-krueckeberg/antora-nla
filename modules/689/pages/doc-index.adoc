@@ -69,7 +69,7 @@
 ^|21
 
 |〃
-|xref:doc-04.adoc#doc-index-4-2[Cpt. K. Res. an Of. Creuzinger]
+|xref:doc-04.adoc#doc-index-4-2[Cpt. KRes. an Of. Creuzinger]
 |item +
 Gesuch um
 |〃
