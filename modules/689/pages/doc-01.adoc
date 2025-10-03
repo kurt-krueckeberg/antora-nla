@@ -121,7 +121,7 @@ Nro g d.
 |
 [literal,subs="verbatim,quotes"]
 ....
-NC 4381                 presented in Cammer 2 Oct 1841
+NC 4381                   presented in Cammer 2 Oct 1841
 
 
 Most Serene Prince, gracious reigning Prince and Lord,
