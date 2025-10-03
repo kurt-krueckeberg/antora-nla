@@ -6,7 +6,8 @@ so you can (a) reconstruct the workflow, and (b) verify numbering conventions (N
 == What to note on each document (quick audit list)
 
 [arabic,start=1]
-. *Document type:* +
+. *Document type:*
++
 *Vorstellung / Gsuch / Bericht / Official Order (Rescr./“Official Order of the Chamber”* +
 and to/from.
 . *Dates (all of them)*: +
