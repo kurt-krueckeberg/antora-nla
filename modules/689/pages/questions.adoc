@@ -1,0 +1,24 @@
+= Numbering System Questions
+
+Is it true that the "NC" numbers were later added by archivist as this table explains?
+
+[%header,cols="2,3,5,3"]
+|===
+| System | Example | Function | When written
+
+| Nr pr.
+| Nr pr: 1274
+| Protocol number in Rentkammer register (contemporaneous docket ID)
+| 1841–42, by Rentkammer clerks
+
+| NC
+| NC 4831; NC 4487
+| Later archival shelfmarks (grouping into NC series)
+| 19th–20th c., by archivists
+
+| Arcinsys
+| NLA BU, K 2, A Nr. 689
+| Present-day official identifier
+| Modern (21st c.), archival catalog
+|===
+ 
