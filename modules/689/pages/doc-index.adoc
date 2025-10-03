@@ -3,6 +3,23 @@
 
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
+[NOTE]
+====
+USE THIS:
+
+Kammer → Chamber (specifically the princely Chamber of Finance, sometimes rendered Exchequer or Treasury in English, but “Chamber” is the most literal and safe).
+
+Kammer-Rescript (KRes.) → Chamber Rescript (a formal written decree or directive issued by the Chamber).
+
+So instead of leaving Kammer untranslated, the smoother English renderings become:
+
+* “Report of the Chamber Office in Bückeburg” (instead of “Report of the Office of Bückeburg”).
+
+* “Chamber Rescript to the same” (instead of “Kammer-Rescript to the same”).
+
+* “Highest Rescript of His Serene Highness” (unchanged, since that’s supra-chamber, princely level).
+====
+
 //[role="section-narrow"]
 == Transliteration 
 
