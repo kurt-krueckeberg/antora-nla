@@ -185,7 +185,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation (corrected)
 |===
-|No | Document Decription (left) | Subject note (right) | Place | Year | Mon | Z.
+|Grouping No | Document Decription (left) | Subject note (right) | Place | Year | Mon | Z.
 
 |1.
 |Petition of Colon Krückeberg No. 10 in Berenbusch, appendix
