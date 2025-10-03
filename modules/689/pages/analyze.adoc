@@ -46,7 +46,7 @@ Endorsements/cover slips: *“Copt/Cpt.”*, routing (to Amt, to officer Creuzin
 * Cross-check that *Item 3’s condition* (“on condition of pledging all his lands”) is echoed in the relevant order/report language.
 * Verify *Item 4 row 2* really introduces the *sale request* wording (“Gesuch um Verkauf … Söhren-Weide betr.”) and that Item 5’s *Situations-Riß* is the named enclosure.
 
-Use this template:
+Fill out this template for each document:
 
 [%header,cols="2,8"]
 |===
