@@ -46,15 +46,15 @@ Signed by Amt officials Hauck and Höcker.
 == Transliteration and Translation
 
 .Docketing / administrative marks (added by clerks; not part of the body text)
-[cols="1a,3a",frame=ends,grid=rows]
+[cols="1a,3a",options="noheader",frame=ends,grid=rows]
 |===
-|NC. 4381
+s|NC. 4381
 |Registry/file number (NC-series). 
 
-|pr. in Cam. 2 Oct. 1841
+s|pr. in Cam. 2 Oct. 1841
 |“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
 
-|Nr pr: 1274
+s|Nr pr: 1274
 |Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
 |===
 
