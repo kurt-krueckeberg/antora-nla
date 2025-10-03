@@ -7,7 +7,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 .Rescript Explained
 ****
 A Rescript is abbreviated in the Acten Desingation, as " “Rescr.” or “KRes.” (Kammer-Rescript). in the Acten
-Designation. It   is a *written official reply or order * issued by a higher authority in response to a petition,
+Designation. It   is a *written official reply or order* issued by a higher authority in response to a petition,
 report, or request.
 
 In a legal context: it’s an *authoritative decision communicated in writing*.  In a financial-administrative
