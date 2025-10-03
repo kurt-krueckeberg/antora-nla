@@ -32,7 +32,7 @@
 ^|7
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Cpt. K. Res. an dasselbe]
+|xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 |〃
 |〃
 |〃
