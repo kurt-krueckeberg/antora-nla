@@ -33,7 +33,7 @@ into English.
 |No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z.
 
 |1.
-|xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch Anb.]
+|xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 |Bewilligung eines Darlehens ad 200 r.
 |Bbg.
 |1841
