@@ -25,7 +25,7 @@
 
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
-|Corr. aus
+.2+.^|Cour. aus Cammer-Casses
 |〃
 |〃
 |〃
@@ -33,7 +33,6 @@
 
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Cpt. K. Res. an dasselbe]
-|Cammer-Casse
 |〃
 |〃
 |〃
