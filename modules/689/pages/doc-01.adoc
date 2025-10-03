@@ -46,7 +46,7 @@ Signed by Amt officials Hauck and Höcker.
 == Transliteration and Translation
 
 .Docketing / administrative marks (added by clerks; not part of the body text)
-[cols="1a,4a",options="noheader",width="60%",frame=ends]
+[cols="1a,4a",options="noheader",width="60%"]
 |===
 s|NC. 4381
 <|Registry/file number (NC-series). 
@@ -59,7 +59,7 @@ s|Nr pr: 1274
 |===
 
 .Routing / marginal note — original · expanded German · English
-[cols="1a,2a,2a",options="header",frame=ends,grid=rows]
+[cols="1a,2a,2a",options="header",frame=ends,grid=cols]
 |===
 |Original (verbatim) |German (expanded) |English translation
 
