@@ -70,7 +70,7 @@
 
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Cpt. KRes. an Of. Creuzinger]
-.5+.^|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
+^|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
 |〃
 |〃
 |〃
@@ -78,6 +78,7 @@
 
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+|
 |Bbg.
 |1841
 |Decbr.
@@ -85,6 +86,7 @@
 
 |6.
 |xref:doc-06.adoc#doc-index-6-1[Vortrag des GKR od Reck]
+|
 |〃
 |〃
 |〃
@@ -92,6 +94,7 @@
 
 |〃
 |xref:doc-06.adoc#doc-index-6-2[Höchstes Rescr. Ser. Reg.]
+|
 |〃
 |〃
 |〃
@@ -99,6 +102,7 @@
 
 |〃
 |xref:doc-06.adoc#doc-index-6-3[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
+|
 |〃
 |〃
 |〃
