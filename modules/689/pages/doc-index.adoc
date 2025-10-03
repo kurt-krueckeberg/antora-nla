@@ -183,8 +183,9 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 
 == English Version
+
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
-.Translation
+.Translation (with “Official Order of the Chamber”)
 |===
 |No | Act Designation (left) | Act Designation (right) | Place | Year | Mon | Z.
 
@@ -197,7 +198,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|2
 
 |2.
-|Report of the Office of Bückeburg
+|Report of the Chamber Office in Bückeburg
 .2+.^|Funds from the Chamber Treasury
 |〃
 |〃
@@ -205,7 +206,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|7
 
 |〃
-|Kammer-Rescript to the same
+|Official Order of the Chamber to the same
 |〃
 |〃
 |〃
@@ -227,7 +228,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|15
 
 |〃
-|Kammer-Rescript to Colon Krückeberg
+|Official Order of the Chamber to Colon Krückeberg
 |〃
 |〃
 |〃
@@ -242,7 +243,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|21
 
 |〃
-|Kammer-Rescript to Officer Creuzinger
+|Official Order of the Chamber to Officer Creuzinger
 <|Further petition concerning the sale of his lands on the Söhren pasture
 |〃
 |〃
@@ -266,7 +267,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|16
 
 |〃
-|Highest Rescript of His Serene Highness
+|Highest Official Order of His Serene Highness
 |
 |〃
 |〃
@@ -274,7 +275,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|19
 
 |〃
-|Protocol by Councillor Reck and Highest Rescript of His Serene Highness
+|Protocol by Councillor Reck and Highest Official Order of His Serene Highness
 |
 |〃
 |〃
@@ -282,7 +283,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|23
 
 |7.
-|Kammer-Rescript to the Office of Bückeburg
+|Official Order of the Chamber to the Chamber Office of Bückeburg
 |
 |Bbg.
 |1841
@@ -290,7 +291,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|24
 
 |8.
-|Report of the Office of Bückeburg
+|Report of the Chamber Office of Bückeburg
 |
 |Bbg.
 |1842
@@ -298,7 +299,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|2
 
 |〃
-|Kammer-Rescript to the same
+|Official Order of the Chamber to the same
 |
 |〃
 |〃
@@ -314,7 +315,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |
 
 |9.
-|Report of the Office of Bückeburg
+|Report of the Chamber Office of Bückeburg
 |
 |Bbg.
 |1842
