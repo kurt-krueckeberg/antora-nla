@@ -20,7 +20,7 @@ remaining (unconsolidated) balance in annual installments of 5 thalers*. He note
 *700 thalers in consented debts*, but says he has no other way out despite the added interest burden. The
 petition closes with the standard deferential formula. Marginal dockets route the matter *to the Amt for a
 report* (noted *4 Oct 1841*) and show it was *drafted by G. W. Fuchs (Conc.)* and registered under *N. C. 438
-i*.
+1*.
 
 === Timeline: Hempel Söhne v. Krückeberg (1841)
 
@@ -49,7 +49,7 @@ Signed by Amt officials Hauck and Höcker.
 .Docketing / administrative marks (added by clerks; not part of the body text)
 [cols="1a,3a",frame=ends,grid=rows]
 |===
-|NC. 438i
+|NC. 4381
 |Registry/file number (NC-series). The suffix “i” is the file’s index letter.
 
 |pr. in Cam. 2 Oct. 1841
@@ -81,6 +81,9 @@ B. 4 Oct 41
 |
 [literal,subs="verbatim,quotes"]
 ....
+NC 4381                             pr. in Cam 2 Oct 1841
+
+
 Durchlauchtigster Fürst,
 Gnädigst regierender Fürst
 und Herr!             
@@ -118,6 +121,9 @@ Nro g d.
 |
 [literal,subs="verbatim,quotes"]
 ....
+NC 4381                 presented in Cammer 2 Oct 1841
+
+
 Most Serene Prince, gracious reigning Prince and Lord,
 
 My late father—and, after his death, my mother, who continued my
