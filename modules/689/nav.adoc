@@ -1,6 +1,7 @@
 .xref:index.adoc[]
 //* xref:narrative.adoc[]
 //* Case File
+* xref:analyze.adoc[]
 * xref:overview.adoc[]
 * xref:cover.adoc[]
 * xref:glossary.adoc[]
@@ -9,7 +10,6 @@
 * xref:amt-decree.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
 * xref:doc-index.adoc[]
-* xref:analyze.adoc[]
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
 * xref:doc-03.adoc[]
