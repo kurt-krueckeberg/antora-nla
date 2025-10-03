@@ -169,6 +169,156 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation
 |===
+|No | Act Designation (left) | Act Designation (right) | Place | Year | Mon | Z.
+
+|1.
+|Petition of Colon Krückeberg No. 10 in Berenbusch, appendix
+|Approval of a loan of 200 r.
+|Bbg.
+|1841
+|Oct.
+^|2
+
+|2.
+|Report of the Office of Bückeburg
+.2+.^|Funds from the Chamber Treasury
+|〃
+|〃
+|〃
+^|7
+
+|〃
+|Kammer-Rescript to the same
+|〃
+|〃
+|〃
+^|14
+
+|3.
+|Petition of Colon Krückeberg
+.3+.^|against pledging all of his lands
+|Bbg.
+|1841
+|Nov.
+^|11
+
+|〃
+|Report of the Privy Chamber Councillor Reck
+|〃
+|〃
+|〃
+^|15
+
+|〃
+|Kammer-Rescript to Colon Krückeberg
+|〃
+|〃
+|〃
+|
+
+|4.
+|Petition of Colon Krückeberg
+|
+|Bbg.
+|1841
+|Nov.
+^|21
+
+|〃
+|Kammer-Rescript to Officer Creuzinger
+<|Further petition concerning the sale of his lands on the Söhren pasture
+|〃
+|〃
+|〃
+^|25
+
+|5.
+|Report of Officer Creuzinger with attached site plan of the Söhren pasture
+|
+|Bbg.
+|1841
+|Dec.
+^|10
+
+|6.
+|Report of Privy Chamber Councillor Reck
+|
+|〃
+|〃
+|〃
+^|16
+
+|〃
+|Highest Rescript of His Serene Highness
+|
+|〃
+|〃
+|〃
+^|19
+
+|〃
+|Protocol by Councillor Reck and Highest Rescript of His Serene Highness
+|
+|〃
+|〃
+|〃
+^|23
+
+|7.
+|Kammer-Rescript to the Office of Bückeburg
+|
+|Bbg.
+|1841
+|Dec.
+^|24
+
+|8.
+|Report of the Office of Bückeburg
+|
+|Bbg.
+|1842
+|Jan.
+^|2
+
+|〃
+|Kammer-Rescript to the same
+|
+|〃
+|〃
+|〃
+^|20
+
+|〃
+|likewise to Privy Councillor Berger
+|
+|〃
+|〃
+|〃
+|
+
+|9.
+|Report of the Office of Bückeburg
+|
+|Bbg.
+|1842
+|Feb.
+^|8
+
+|10.
+|Bond for 200 r. courant borrowed from the Princely Chamber Treasury
+|Obligation.
+|
+|
+|
+|
+|===
+
+
+=== Prior Translation
+
+[%header,cols="^1,9,6,2,2,2,^1",frame=none]
+.Translation
+|===
 |No | Document description (left) | Registry rubric / series (right) | Place | Year | Month | Register no.
 
 |1.
