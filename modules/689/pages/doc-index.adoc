@@ -185,7 +185,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation (corrected)
 |===
-|No | Act Designation (left) | Act Designation (right) | Place | Year | Mon | Z.
+|No | Document Decription (left) | Subject note (right) | Place | Year | Mon | Z.
 
 |1.
 |Petition of Colon Krückeberg No. 10 in Berenbusch, appendix
@@ -212,7 +212,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |3.
 |Petition of Colon Krückeberg
-.3+.^|against pledging all of his lands
+.3+.^|on condition of pledging all of his lands [as collateral].
 |Bbg.
 |1841
 |Nov.
@@ -329,12 +329,19 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |
 |===
 
+=== Comments and Insights
+
+In entry 3's *Acten Designation (right)* "gegen" in "gegen Verpfändung seiner sämmtlichen Ländereien" does not mean
+"against", its typically meaning, but rather "on condition of". The Rentcammer was willing to consider a loan but only
+against the pledge of his entire holding. The Chamber’s willingness to approve a loan was conditional upon his pledging
+all of his landholdings as collateral. 
+
 === Explanation
 
 ==== Column keys
 No:: Running item number (1–10) within this case file’s index.
 Acten Designation (left):: Short description of the piece (who/what).
-Acten Designation (right):: Filing rubric / series / subject note used by the registry.
+Acten Designation (right):: Filing rubric / topic or subject note.
 Ort:: Place (e.g., *Bbg.* = Bückeburg).
 Jahr / Mon:: Year / Month.
 Z.:: Monthly registry sequence number (Zahl) assigned in the office register.
