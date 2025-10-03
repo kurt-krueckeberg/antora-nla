@@ -227,7 +227,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |〃
 |xref:doc-04.adoc#doc-index-4-2[Copy of the Chamber’s decree addressed to Official Creuzinger]
-|Item: petition for …
+|????? Regarding the sale of his parcels on the Söhren pasture
 |〃
 |〃
 |〃
@@ -235,7 +235,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |5.
 |xref:doc-05.adoc#doc-index-5-1[Report of Chief Forester Creuzinger; enclosure: site sketch of the Söhren pasture]
-.4+.^|Regarding the sale of his parcels on the Söhren pasture
+|
 |Bückeburg
 |1841
 |December
@@ -243,6 +243,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |6.
 |xref:doc-06.adoc#doc-index-6-1[Report of Senior Government Councillor Reck]
+|
 |〃
 |〃
 |〃
@@ -250,6 +251,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |〃
 |xref:doc-06.adoc#doc-index-6-2[Decree of His Serene Highness’ Government]
+|
 |〃
 |〃
 |〃
@@ -257,6 +259,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 |〃
 |xref:doc-06.adoc#doc-index-6-3[Opinion of Councillor Reck and the decree of His Serene Highness]
+|
 |〃
 |〃
 |〃
