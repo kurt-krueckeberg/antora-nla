@@ -49,13 +49,13 @@ Signed by Amt officials Hauck and Höcker.
 [cols="1a,3a",options="noheader",frame=ends,grid=rows]
 |===
 s|NC. 4381
-|Registry/file number (NC-series). 
+<|Registry/file number (NC-series). 
 
 s|pr. in Cam. 2 Oct. 1841
-|“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
+<|“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
 
 s|Nr pr: 1274
-|Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
+<|Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
 |===
 
 .Routing / marginal note — original · expanded German · English
