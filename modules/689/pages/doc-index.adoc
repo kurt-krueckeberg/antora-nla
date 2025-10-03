@@ -181,11 +181,9 @@ bears no *pr. in Cam.* (incoming-presented) mark, and carries the Kammer closing
 transliteration (diplomatic accuracy) and render the English **to the Amt Bückeburg** (sense), noting the likely clerical slip.
 ====
 
-
 == English Version
-
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
-.Translation (with “Official Order of the Chamber”)
+.Translation (corrected)
 |===
 |No | Act Designation (left) | Act Designation (right) | Place | Year | Mon | Z.
 
@@ -198,7 +196,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|2
 
 |2.
-|Report of the Chamber Office in Bückeburg
+|Report of the Office of Bückeburg
 .2+.^|Funds from the Chamber Treasury
 |〃
 |〃
@@ -283,7 +281,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|23
 
 |7.
-|Official Order of the Chamber to the Chamber Office of Bückeburg
+|Official Order of the Chamber to the Office of Bückeburg
 |
 |Bbg.
 |1841
@@ -291,7 +289,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ^|24
 
 |8.
-|Report of the Chamber Office of Bückeburg
+|Report of the Office of Bückeburg
 |
 |Bbg.
 |1842
@@ -315,7 +313,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |
 
 |9.
-|Report of the Chamber Office of Bückeburg
+|Report of the Office of Bückeburg
 |
 |Bbg.
 |1842
