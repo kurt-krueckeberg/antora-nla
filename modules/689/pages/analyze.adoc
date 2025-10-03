@@ -10,7 +10,8 @@ so you can (a) reconstruct the workflow, and (b) verify numbering conventions (N
 +
 *Vorstellung / Gsuch / Bericht / Official Order (Rescr./“Official Order of the Chamber”* +
 and to/from.
-. *Dates (all of them)*: +
+. *Dates (all of them)*:
++
 Body date, *“pr. in Cam”* (presented in Chamber), countersign dates, and any *expedition date* on slips.
 . *Numbers/marks:*
    * *Nr pr.* (protocol number) and where it sits on the leaf.
@@ -20,20 +21,23 @@ Body date, *“pr. in Cam”* (presented in Chamber), countersign dates, and any
    * *Anb.* on register line or leaf.
    * Phrases like *“anbei zurückerfolgende Bittschrift”*, *“Beilage/Anlage/Abschrift”*, *“Beil. A/B/…”*.
    * Name the enclosed item (e.g., *Situations-Riß*, judgment copy).
-. *Right-column “Topic note” alignment:* +
+. *Right-column “Topic note” alignment:*
++
 Confirm the right column’s short note (loan amount, pledge condition, sale request) matches the body content.
-. *Decision language:* +
+. *Decision language:*
++
 Look for formulas: *“findet keine Statt”* (does not take place/denied), *“gestattet werden solle”* (shall be permitted),
 *“zu bescheiden”* (to decide), *“Höchstes Rescr.”* (Highest Official Order). Capture the *exact wording*.
-. *Security/collateral details:* +
+. *Security/collateral details:*
++
 Any mention of *“gegen Verpfändung … sämtlicher Ländereien”*, acreage, insurance value, existing debts,
 valuation—-these explain conditions for the loan.
-. *Transmission chain* +
+. *Transmission chain*
++
 Endorsements/cover slips: *“Copt/Cpt.”*, routing (to Amt, to officer Creuzinger), “Expedirt” notes, initials.
 . *Scribal notes*
    *Conc. [name]* (Concipist/drafter), *m[anu] p[ropria]*; signatures of officials (Hauck, Dr. Neuhsel, Höcker, etc.).
-. *Marginalia & foliation:* +
-Later pencil folios vs. ink notes; keep separate from 1841 hands.
+. *Marginalia & foliation:* Later pencil folios vs. ink notes; keep separate from 1841 hands.
 
 == How to use it (fast workflow)
 
