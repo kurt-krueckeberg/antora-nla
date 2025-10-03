@@ -49,7 +49,7 @@ Signed by Amt officials Hauck and Höcker.
 [cols="1a,3a",frame=ends,grid=rows]
 |===
 |NC. 4381
-|Registry/file number (NC-series). The suffix “i” is the file’s index letter.
+|Registry/file number (NC-series). 
 
 |pr. in Cam. 2 Oct. 1841
 |“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
