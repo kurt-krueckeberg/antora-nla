@@ -333,18 +333,9 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 
 The first column *"No"* is a case item or grouping number for a cluster of related documents. Each number groups together
 the related petitions, reports, and official orders concerning a particular stage in the case, in which one aspect
-of the overall decision making process is considered. The description of the overall case, what the Rentcammer is
-trying to ultimately decided 
-
-____
-in specie ein dem Colon Krückeberg No 10 in Berenbusch aus Kammerkasse dargeliehenes Capital von 2 rthl Courant betre.
-____
-
-or 
-
-____
-
-____
+of the overall decision making process is under consideration. The description of the overall case, what the Rentcammer is
+trying to ultimately decided, is given by entry "1": the petition of Colon Krückeberg of No. 10 Berenbusch for a
+loan of 200 Reichsthaler.
 
 In entry 3's *"Acten Designation (right)"* "gegen" in "gegen Verpfändung seiner sämmtlichen Ländereien" does not mean
 "against", its typically meaning, but rather "on condition of". The Rentcammer was willing to consider a loan but only
