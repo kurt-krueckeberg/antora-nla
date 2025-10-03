@@ -1,4 +1,4 @@
-= How to Analyze the Numbering Systems
+= TODO: Analyze the Numbering Systems
 
 Since the Acten Designation items 1–7 all fall in *1841*, here’s a tight checklist of what to extract from each document
 so you can (a) reconstruct the workflow, and (b) verify numbering conventions (Nr pr. vs. N.C.), enclosures, and decisions.
