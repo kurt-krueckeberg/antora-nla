@@ -188,7 +188,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 |Item No | Document Decription (left) | Subject note (right) | Place | Year | Mon | Z.
 
 |1.
-|Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure
+|Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2]
 |Approval of a loan of 200 r.
 |Bbg.
 |1841
@@ -334,7 +334,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 The first column *"No"* is a case item or grouping number for a cluster of related documents. Each number groups together
 the related petitions, reports, and official orders concerning a particular stage in the case, in which one aspect
 of the overall decision making process is under consideration. The description of the overall case, what the Rentcammer is
-trying to ultimately decided, is given by entry "1": the petition of Colon Krückeberg of No. 10 Berenbusch for a
+trying to ultimately decided, is given by entry 1: the petition of Colon Krückeberg of No. 10 Berenbusch for a
 loan of 200 Reichsthaler.
 
 In entry 3's *"Acten Designation (right)"* "gegen" in "gegen Verpfändung seiner sämmtlichen Ländereien" does not mean
