@@ -54,7 +54,7 @@
 ^|15
 
 |〃
-|xref:doc-03.adoc#doc-index-3-3[Cpt. K. Res. an p Krückeberg]
+|xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |〃
 |〃
 |〃
