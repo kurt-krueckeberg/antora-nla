@@ -59,11 +59,13 @@ s|Nr pr: 1274
 |===
 
 .Routing / marginal note — original · expanded German · English
-[cols="1a,2a,2a",options="header",frame=ends,grid=cols]
+[cols="1a,2a,2a",options="header"]
 |===
 |Original (verbatim) |German (expanded) |English translation
 
-|....
+|
+[literal,subs="verbatim,quotes"]
+....
 *RC.
 b.m. zum Amtsbericht
 B. 4 Oct 41
