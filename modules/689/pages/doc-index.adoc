@@ -3,22 +3,26 @@
 
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
-[NOTE]
-====
-USE THIS:
 
-Kammer → Chamber (specifically the princely Chamber of Finance, sometimes rendered Exchequer or Treasury in English, but “Chamber” is the most literal and safe).
+.Rescript Explained
+****
+A Rescript is abbreviated in the Acten Desingation, as " “Rescr.” or “KRes.” (Kammer-Rescript). in the Acten
+Designation. It   is a *written official reply or order * issued by a higher authority in response to a petition,
+report, or request.
 
-Kammer-Rescript (KRes.) → Chamber Rescript (a formal written decree or directive issued by the Chamber).
+In a legal context: it’s an *authoritative decision communicated in writing*.  In a financial-administrative
+context, which is the case here, it’s a *formal directive, decree, or ruling.*
 
-So instead of leaving Kammer untranslated, the smoother English renderings become:
+The best translation is "Official Order of the Chamber” or “Decree of the Chamber”.
 
-* “Report of the Chamber Office in Bückeburg” (instead of “Report of the Office of Bückeburg”).
+*Etymology*:
 
-* “Chamber Rescript to the same” (instead of “Kammer-Rescript to the same”).
-
-* “Highest Rescript of His Serene Highness” (unchanged, since that’s supra-chamber, princely level).
-====
+In classical and medieval Latin, *rescriptum*  literally means “something written back” (re-scribere). In
+Roman and later European law it *meant a written reply by the ruler* to a petition. German chancery practice
+inherited the term directly from Latin, and it shows up in 18th–19th century files as Rescriptum or abbreviated
+Rescr.  Rescript is simply the shortened form of the Latin Rescriptum, borrowed into German (Reskript) and then
+into English.
+****
 
 //[role="section-narrow"]
 == Transliteration 
