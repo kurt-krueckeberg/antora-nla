@@ -7,17 +7,29 @@
 
 |Document Type|Report/Bericht
 
+|From/To|from: Amt; to: Rentcammer
+
 |NC # in top left|4487
 
-|pr in Cam|11 Oct 1841
+|"pr in Cam"|11 Oct 1841
 
-|left side initial| D.
+|left-side of page initial| D.
 
 |Num Pr.|1274
 
 |ad NC.|4381
 
+|Terms showing an opinion or decision|Aus Grund des Vorgetragenen
 
+|Conclusion|Don't allow installment payment; but permit a loan
+
+|Signed by|Hauck, Neuhsel, Höcker 
+
+|Date signed|7 Oct. 1841
+
+|RC Rescript|
+
+|RC Rescript Date|14 Oct. 1841
 |===
 
 
