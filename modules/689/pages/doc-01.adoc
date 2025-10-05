@@ -71,8 +71,8 @@ b.m. zum Amtsbericht
 B. 4 Oct 41
 [Spreng]*
 ....
-|**Rentkammer** — zum **Amtsbericht beizumachen**. **Bückeburg**, den **4. Oktober 1841**. — **Spreng**
-|**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
+|*Rentkammer* — zum *Amtsbericht beizumachen*. *Bückeburg*, den *4. Oktober 1841*. — *Spreng*
+|*Rent Chamber* — *to be attached to the Amt’s report*. *Bückeburg*, *4 October 1841*. — *Spreng*
 |===
 
 .Transliteration
@@ -168,4 +168,3 @@ drafted by G. W. Fuchs                           most humble servant,
 with fee                                         tenant farmer Krückeberg
                                                  No. 10 in Berenbusch.
 ....
-|===
