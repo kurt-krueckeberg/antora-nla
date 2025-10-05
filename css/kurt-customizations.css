@@ -12,14 +12,19 @@ body.wide .doc
 
 /* Define a [role="nongray"] for [literal] and [verse] blocks */
 
-.literalblock.nongray > .content > pre,
-.verseblock.nongray > .content > pre {
+.literalblock.nongray > .content > pre {
   background: none;
   box-shadow: none;
   border: 0;
   padding: 0;
 }
 
+.verseblock.nongray > pre.content {
+  background: none;
+  box-shadow: none;
+  border: 0;
+  padding: 0;
+}
 /* When ':page-role: wide' is used, images will have shadwow-border. */
 /* body.wide .imageblock img {*/
 body.article .imageblock img {

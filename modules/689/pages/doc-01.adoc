@@ -75,16 +75,20 @@ B. 4 Oct 41
 |**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
 |===
 
-[cols="1a,1a"]
+[cols="1a,1a",frame=none]
 |===
 |Transliteration|Translation
 
 |
+[role="nongray"]
 [literal,subs="verbatim,quotes"]
 ....
-*NC 4381                             pr. in Cam 2 Oct 1841*
+NC 4381                             pr. in Cam 2 Oct 1841
+....
 
-
+[role="nongray"]
+[verse]
+____
 Durchlauchtigster Fürst,
 Gnädigst regierender Fürst
 und Herr!             
@@ -116,15 +120,21 @@ unconfendirten Hempelischen Forderung in jährlichen terminen von
 In tiefster Ehrfurcht ersterbend
 
 Ew. Durchlaucht
+____
 
+[role="nongray"]
+....
 Buckeburg                  unterthänigster,
 d. 2ten Ditto. 1841.       Colon Krückeberg
 Conc[ipist]. GWFuchs.      Nr 10 in Berenbusch.
 Nro g d.
 ....
 |
-[literal,subs="verbatim,quotes"]
-....
+//[literal,subs="verbatim,quotes"]
+[role="nongray"]
+[verse]
+____
+//....
 NC 4381                   presented in Cammer 2 Oct 1841
 
 
@@ -163,5 +173,6 @@ Bückeburg, the 2nd (of the same month), 1841.    Your Serene Highness’s
 drafted by G. W. Fuchs                           most humble servant,
 with fee                                         tenant farmer Krückeberg
                                                  No. 10 in Berenbusch.
-....
+____
+//....
 |===
