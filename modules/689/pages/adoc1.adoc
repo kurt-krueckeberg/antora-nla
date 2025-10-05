@@ -1,12 +1,26 @@
-= Doc1 : Analysis 
-== How to use it (fast workflow)
+= Doc 1 : Analysis 
 
-* Make a one-line entry per document with: *[Date] – Type – From/To – Nr pr. – N.C. – Key decision/subject – Enclosures*.
-* Then build a *timeline* for 1841 and see if *N.C. numbers increase with the dates* (this will confirm the Chamber-docket hypothesis across Items 1–7).
-* Cross-check that *Item 3’s condition* (“on condition of pledging all his lands”) is echoed in the relevant order/report language.
-* Verify *Item 4 row 2* really introduces the *sale request* wording (“Gesuch um Verkauf … Söhren-Weide betr.”) and that Item 5’s *Situations-Riß* is the named enclosure.
 
-Fill out this template for each document:
+.Document 1
+|===
+|Field|Notes
+
+|Document Type|Petition/Gesuch
+
+|NC # in top left|4381
+
+|pr. in Cam|2 Octr 1841
+
+|RC content|b.m. zum  Amtsbericht
+
+|RC Date|4 Oct 1841
+
+|Nr pr.|1274
+
+|Scribe's date|2 Oct. 1841
+
+|Scribe's name|G.W. Fuchs
+|===
 
 [%header,cols="2,8"]
 |===
