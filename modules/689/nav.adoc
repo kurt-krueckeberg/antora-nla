@@ -12,6 +12,7 @@
 * xref:doc-index.adoc[]
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
+* xref:doc-1-2-analysis.adoc[]
 * xref:doc-03.adoc[]
 * xref:doc-04.adoc[]
 * xref:doc-05.adoc[]
