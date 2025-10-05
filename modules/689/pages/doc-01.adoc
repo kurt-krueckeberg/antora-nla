@@ -43,10 +43,11 @@ The Amt issues its *decree (Decretum):*
 then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
 Signed by Amt officials Hauck and Höcker.
 
+[role="section-narrow"]
 == Transliteration and Translation
 
 .Docketing / administrative marks (added by clerks; not part of the body text)
-[cols="1a,4a",options="noheader",width="60%"]
+[cols="1a,4a",options="noheader"]
 |===
 s|NC. 4381
 <|Registry/file number (NC-series). 
@@ -75,7 +76,8 @@ B. 4 Oct 41
 |*Rent Chamber* — *to be attached to the Amt’s report*. *Bückeburg*, *4 October 1841*. — *Spreng*
 |===
 
-.Transliteration
+=== Transliteration
+
 [role="nongray"]
 [literal,subs="verbatim,quotes"]
 ....
@@ -122,6 +124,7 @@ Conc[ipist]. GWFuchs.      Nr 10 in Berenbusch.
 Nro g d.
 ....
 
+=== Translation
 [role="nongray"]
 [literal,subs="verbatim,quotes"]
 ....
