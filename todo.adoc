@@ -1,1 +1,13 @@
-Resume with "questions.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388.
+Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388,
+but simplify the the analysis to this: 
+. numbering systems used:NC, Nr Pr
+. the dates: pr. in Cam, signed date, other dates.
+. the response noted: "RC"?
+. What is the purpose of the document?
+. Who is writing the document and to whom it is addressed
+. What is the upshot or conclusion of the document?
+. What is the RC response?
+
+These questions should be tied to what is being said in the document and what is happening and how it affects
+Johann Heinrich Krückeberg.
+
