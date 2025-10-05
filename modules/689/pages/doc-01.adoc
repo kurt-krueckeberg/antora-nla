@@ -43,11 +43,10 @@ The Amt issues its *decree (Decretum):*
 then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
 Signed by Amt officials Hauck and Höcker.
 
-[role="section-narrow"]
 == Transliteration and Translation
 
 .Docketing / administrative marks (added by clerks; not part of the body text)
-[cols="1a,4a",options="noheader"]
+[cols="1a,4a",options="noheader",width="60%"]
 |===
 s|NC. 4381
 <|Registry/file number (NC-series). 
@@ -72,17 +71,19 @@ b.m. zum Amtsbericht
 B. 4 Oct 41
 [Spreng]*
 ....
-|*Rentkammer* — zum *Amtsbericht beizumachen*. *Bückeburg*, den *4. Oktober 1841*. — *Spreng*
-|*Rent Chamber* — *to be attached to the Amt’s report*. *Bückeburg*, *4 October 1841*. — *Spreng*
+|**Rentkammer** — zum **Amtsbericht beizumachen**. **Bückeburg**, den **4. Oktober 1841**. — **Spreng**
+|**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
 |===
 
-=== Transliteration
+[cols="1a,1a"]
+|===
+|Transliteration|Translation
 
-[role="nongray"]
+|
 [literal,subs="verbatim,quotes"]
 ....
 NC 4381                             pr. in Cam 2 Oct 1841
-....
+
 
 Durchlauchtigster Fürst,
 Gnädigst regierender Fürst
@@ -116,20 +117,16 @@ In tiefster Ehrfurcht ersterbend
 
 Ew. Durchlaucht
 
-[role="nongray"]
-....
 Buckeburg                  unterthänigster,
 d. 2ten Ditto. 1841.       Colon Krückeberg
 Conc[ipist]. GWFuchs.      Nr 10 in Berenbusch.
 Nro g d.
 ....
 
-=== Translation
-[role="nongray"]
+|
 [literal,subs="verbatim,quotes"]
 ....
 NC 4381                   presented in Cammer 2 Oct 1841
-....
 
 
 Most Serene Prince, gracious reigning Prince and Lord,
@@ -163,11 +160,9 @@ thalers.
 
 In deepest respect,
 
-[role="nongray"]
-[literal,subs="verbatim,quotes"]
-....
 Bückeburg, the 2nd (of the same month), 1841.    Your Serene Highness’s
 drafted by G. W. Fuchs                           most humble servant,
 with fee                                         tenant farmer Krückeberg
                                                  No. 10 in Berenbusch.
 ....
+|===
