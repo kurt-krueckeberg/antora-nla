@@ -82,11 +82,9 @@ B. 4 Oct 41
 |
 [literal,subs="verbatim,quotes"]
 ....
-NC 4381                             pr. in Cam 2 Oct 1841
-....
+*NC 4381                             pr. in Cam 2 Oct 1841*
 
-[verse]
-____
+
 Durchlauchtigster Fürst,
 Gnädigst regierender Fürst
 und Herr!             
@@ -118,10 +116,7 @@ unconfendirten Hempelischen Forderung in jährlichen terminen von
 In tiefster Ehrfurcht ersterbend
 
 Ew. Durchlaucht
-____
 
-[literal,subs="verbatim,quotes"]
-....
 Buckeburg                  unterthänigster,
 d. 2ten Ditto. 1841.       Colon Krückeberg
 Conc[ipist]. GWFuchs.      Nr 10 in Berenbusch.
