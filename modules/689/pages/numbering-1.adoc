@@ -1,6 +1,6 @@
 = Understanding the Rentcammer Filing System in Schaumburg-Lippe
 
-== What was Schaumburg-Lippe and how did its government work (very briefly)?
+== What was Schaumburg-Lippe and how did its government work?
 
 Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
 it had a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued
@@ -58,8 +58,6 @@ _(Historians disagree on the exact expansion of “NC”—you’ll see people
 gloss it as “No. Cammer(al)” or similar—but what matters is its
 *function*: the Rentkammer’s own annual docket number.)_
 
-TODO: Ask/get a definition of "docket".
-
 === "Nr pr: \####" — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
@@ -113,7 +111,7 @@ original 1841–42 table of contents.
 referenced. It’s normal that it shows on *only one leaf*—you just need
 it once to point to the book line.
 
-== 5) How you can label things in your edition (suggested wording)
+== How you can label things in your edition (suggested wording)
 
 * *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — *original sealed *promissory
 note*; later returned to debtor upon repayment; see 1845 follow-ups.*
