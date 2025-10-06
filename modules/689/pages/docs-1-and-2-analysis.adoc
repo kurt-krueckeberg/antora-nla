@@ -1,9 +1,5 @@
 = Analysis of Document Numbering Systems
 
-TODO: Use the table from
-xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[Why there are multiple numbers/stamps on the same sheets]
-and place it an appropriate spot in this file.
-
 == 1. What Document 1 (petition) shows
 
 * *Document type*: It’s Krückeberg’s *petition* (_Gesuch / Vorstellung_)
