@@ -66,11 +66,10 @@ running “docket” sequence).
 * It was written *by a Rentkammer clerk* *when* the treasury handled or
 posted an item (e.g., recorded repayment, prepared a receipt, arranged
 delivery back to the debtor).
-* In your 1845 follow-ups you see *NC 2444 / NC 2696* etc. Those are
-*later (1845)* treasury actions (repayment, receipt, return), so they
-*don’t appear* in the 1841–1842 contents list and *don’t have* boxed
-corner numbers. They’re *Nachträge* (follow-ups) added later to close
-the loan.
+* In your 1845 follow-ups you see *NC 2444 / NC 2696* etc. They’re *Nachträge*
+(follow-ups) added later to close the loan. These are *later (1845)* treasury
+actions (repayment, receipt, return), so they *don’t appear* in the 1841–1842
+contents list and *don’t have* boxed corner numbers. 
 
 _(Historians disagree on the exact expansion of “NC”—you’ll see people
 gloss it as “No. Cammer(al)” or similar—but what matters is its

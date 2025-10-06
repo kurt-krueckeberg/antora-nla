@@ -11,3 +11,13 @@ but simplify the the analysis to this:
 These questions should be tied to what is being said in the document and what is happening and how it affects
 Johann Heinrich Krückeberg.
 
+TODO:
+
+* Merge into xref:docs-1-and-2-analysis.adoc[] this
+xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
+summarize the numbering systems.
+* Explain the Acten Designation.
+* Explain *"Nro g.d."*
+* After adding the three items immediately above, see how it reads and whether I need to add anything from either
+`numbering-1.adoc` or `numbering-howto.adoc`. The focus is on the narrative and making sure the details are
+understood so the big picture is retained.
