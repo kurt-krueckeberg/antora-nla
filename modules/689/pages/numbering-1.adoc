@@ -80,7 +80,7 @@ _(Historians disagree on the exact expansion of “NC”—you’ll see people
 gloss it as “No. Cammer(al)” or similar—but what matters is its
 *function*: the Rentkammer’s own annual docket number.)_
 
-=== "Nr pr: \####" Number — the *protocol/ledger entry number*
+=== The "Nr pr: \####" Number — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
