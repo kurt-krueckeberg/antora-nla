@@ -63,10 +63,8 @@ promissory note itself)*. Originals of *promissory notes* were often
 corner number and may not be physically in the case file anymore.
 _That’s why #10 has no boxed number in your file._
 ====
-TODO: Explain what each of the ten entries means. Explain what each column
-means, why one column spans several rows of the #1- #10 content items.
 
-=== “NC \####” — the Rentkammer’s *docket number* (treasury handling number)
+=== The “NC \####” Numbers — the Rentkammer’s *docket number* (treasury handling number)
 
 * Think of this as the treasury’s *stamp-pad number for the year* (a
 running “docket” sequence).
@@ -82,7 +80,7 @@ _(Historians disagree on the exact expansion of “NC”—you’ll see people
 gloss it as “No. Cammer(al)” or similar—but what matters is its
 *function*: the Rentkammer’s own annual docket number.)_
 
-=== "Nr pr: \####" — the *protocol/ledger entry number*
+=== "Nr pr: \####" Number — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
