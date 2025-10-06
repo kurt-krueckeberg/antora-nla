@@ -18,16 +18,6 @@ Rentkammer handled:
 
 * *loans to subjects* secured on land by issuing *promissory notes*, and later cancelling them when repaid.
 
-== 2) What was the Rentkammer and why did Krückeberg deal with it?
-
-*Rentkammer* was the *state treasury* and handled:
-
-* *state money*: taxes, rents, payments in/out of the _Kammerkasse_ (the
-cash office),
-* *state land/forests* leases, sales, and  mortgages,
-* *loans to subjects* secured on land (by issuing *promissory notes*, later
-cancelling them when repaid).
-
 TODO: Put these three paragraphs elsewhere:
 
 *Your case in one line:* In *1841* Krückeberg (a _Colonus_, i.e., a
@@ -45,7 +35,7 @@ In *1845* he *repaid* the debt; the Rentkammer issued a *receipt (“Quittung”
 *approved cancelling the mortgage* (_Löschung der Hypothek_), then
 *returned* the original *promissory note* to him.
 
-== 3) Why are there so many different numbers and stamps on the pages?
+== 2) Why are there so many different numbers and stamps on the pages?
 
 Because *different offices/books* were keeping control of the same
 transaction. The most important ones you’re seeing:
@@ -114,7 +104,7 @@ normal); the *actual number/date live elsewhere*:
 clerks *weren’t* always writing the number right there. It’s a *rubric*,
 not a fill-in blank on these copies.
 
-== 4) Other small marks you’ve asked about (quickly)
+== 3) Other small marks you’ve asked about (quickly)
 
 * *“Conc. G. W. Fuchs.”* = _Concordat_ (“collated; agrees with the
 original”) + clerk’s name/initials. It appears on the *office copy*, not
@@ -126,7 +116,7 @@ seal belongs/belonged.
 princely authorization/approval”)—a chancery approval rubric that sits
 just before initials.
 
-== 5) Putting it all together on your specific pages
+== 4) Putting it all together on your specific pages
 
 * *1841–1842 core file*: contents list (#1–#10). Most items are
 *internal letters/reports*, so they show a *boxed corner number* on
@@ -141,7 +131,7 @@ original 1841–42 table of contents.
 referenced. It’s normal that it shows on *only one leaf*—you just need
 it once to point to the book line.
 
-== 6) How you can label things in your edition (suggested wording)
+== 5) How you can label things in your edition (suggested wording)
 
 * **Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)** — *original sealed **promissory
 note**; later returned to debtor upon repayment; see 1845 follow-ups.*
