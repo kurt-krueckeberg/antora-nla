@@ -10,7 +10,7 @@ this case are:
 . the *Bückeburg Amt*, the district office and court for local matters, and 
 . the *Rentkammer* (also written Rentcammer), the *state treasury and finance department*.
 
-Rentkammer handled:
+== Rentkammer Responsiblities
 
 === 1. State money (taxes, rents, Kammerkasse)
 
