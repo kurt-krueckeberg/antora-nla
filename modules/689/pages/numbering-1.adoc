@@ -18,29 +18,14 @@ Rentkammer handled:
 
 * *loans to subjects* secured on land by issuing *promissory notes*, and later cancelling them when repaid.
 
-TODO: Put these three paragraphs elsewhere:
+== Case File Organization and Document Numbering Systems
 
-*Your case in one line:* In *1841* Krückeberg (a _Colonus_, i.e., a
-tenant farmer/landholder) petitioned for a *loan*. The Rentkammer
-*approved*, issued a *promissory note (“Obligation”) on 12 Jan 1842 for
-200 Reichsthaler Courant*, and took a *mortgage* as security. The mortage
-gave the government a *legal claim (lien)* on the land. If the borrower
-defaults, the lender can pursue enforcement (e.g., seizure/forced sale)
-to get repaid from the property’s value.
-
-When he paid back it all back, they issued a receipt, canceled the
-mortgage, and returned the note.
-
-In *1845* he *repaid* the debt; the Rentkammer issued a *receipt (“Quittung”)* and
-*approved cancelling the mortgage* (_Löschung der Hypothek_), then
-*returned* the original *promissory note* to him.
-
-== 2) Why are there so many different numbers and stamps on the pages?
+=== Why are there so many different numbers and stamps on the pages?
 
 Because *different offices/books* were keeping control of the same
 transaction. The most important ones you’re seeing:
 
-=== A) Acten-Designation (your 10-row list) — the file’s own “table of contents”
+==== A) Acten-Designation (your 10-row list) — the file’s own “table of contents”
 
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list*: *#1 … #10* with brief titles.
@@ -59,7 +44,7 @@ _That’s why #10 has no boxed number in your file._
 TODO: Explain what each of the ten entries means. Explain what each column
 means, why one column spans several rows of the #1- #10 content items.
 
-=== B) “NC ####” — the Rentkammer’s *docket number* (treasury handling number)
+==== B) “NC ####” — the Rentkammer’s *docket number* (treasury handling number)
 
 * Think of this as the treasury’s *stamp-pad number for the year* (a
 running “docket” sequence).
@@ -77,7 +62,7 @@ gloss it as “No. Cammer(al)” or similar—but what matters is its
 
 TODO: Ask/get a definition of "docket".
 
-=== C) “Nr pr: ####” — the *protocol/ledger entry number*
+==== C) “Nr pr: ####” — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
@@ -89,21 +74,21 @@ number*.
 recorded under line/entry 1274 in the office’s ledger*. That’s all it
 means.
 
-=== D) “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+==== D) “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
 
 * *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
 * *Function:* a *mail/registry template line* indicating the item
 *receives a registry number and date*.
 * On many petitions/minutes it’s *not filled on that line* (no room is
 normal); the *actual number/date live elsewhere*:
-** in the *registry book* itself,
-** or as a *different notation* on the page (e.g., *Nr pr: 1274*),
-** or in a *different system* (e.g., the *NC* stamp).
+* in the *registry book* itself,
+* or as a *different notation* on the page (e.g., *Nr pr: 1274*),
+* or in a *different system* (e.g., the *NC* stamp).
 * So your observation is right: after “Nro” there’s *no space*—because
 clerks *weren’t* always writing the number right there. It’s a *rubric*,
 not a fill-in blank on these copies.
 
-== 3) Other small marks you’ve asked about (quickly)
+==== Other page markings
 
 * *“Conc. G. W. Fuchs.”* = _Concordat_ (“collated; agrees with the
 original”) + clerk’s name/initials. It appears on the *office copy*, not
@@ -115,7 +100,7 @@ seal belongs/belonged.
 princely authorization/approval”)—a chancery approval rubric that sits
 just before initials.
 
-== 4) Putting it all together on your specific pages
+=== Summary
 
 * *1841–1842 core file*: contents list (#1–#10). Most items are
 *internal letters/reports*, so they show a *boxed corner number* on
@@ -132,12 +117,12 @@ it once to point to the book line.
 
 == 5) How you can label things in your edition (suggested wording)
 
-* **Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)** — *original sealed **promissory
-note**; later returned to debtor upon repayment; see 1845 follow-ups.*
-* **NC 2444 (Apr 1845)** — *Rentkammer docket (treasury) follow-up to #10: repayment/liquidation recorded.*
-* **NC 2696 (5 May 1845)** — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
-delivery of the original **promissory note** to Krückeberg.*
-* **Nr pr: 1274** — *Protocol/ledger entry number under which this action was written in the office ledger.*
-* **Nro g. d.** — *Registry rubric “No. … given on \[date]”; number/date recorded in the registry book (not filled
+* *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — *original sealed *promissory
+note*; later returned to debtor upon repayment; see 1845 follow-ups.*
+* *NC 2444 (Apr 1845)* — *Rentkammer docket (treasury) follow-up to #10: repayment/liquidation recorded.*
+* *NC 2696 (5 May 1845)* — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
+delivery of the original *promissory note* to Krückeberg.*
+* *Nr pr: 1274* — *Protocol/ledger entry number under which this action was written in the office ledger.*
+* *Nro g. d.* — *Registry rubric “No. … given on \[date]”; number/date recorded in the registry book (not filled
 on this line).*
 
