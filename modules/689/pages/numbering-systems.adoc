@@ -101,7 +101,7 @@ original 1841–42 table of contents.
 referenced. It’s normal that it shows on *only one leaf*—you just need
 it once to point to the book line.
 
-= How you can label things in your edition (suggested wording)
+== How you can label things in your edition (suggested wording)
 
 * *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — *original sealed *promissory
 note*; later returned to debtor upon repayment; see 1845 follow-ups.*
