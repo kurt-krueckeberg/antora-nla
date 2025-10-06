@@ -28,7 +28,7 @@ were keeping control of the same transaction. These are the most important ones:
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list* with brief titles.  Each numbered entry in the contents list is composed
 of one or more documents; for example, the contents list has these two documents listed
-under entry #2:
+under entries #2 and #3:
 
 [cols="1a,6a",width="70%"]
 |===
@@ -37,6 +37,15 @@ under entry #2:
 
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+
+|3.
+|xref:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+
+|〃
+|xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+
+|〃
+|xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |===
 
 For each entry, the first document listed will have its Acten Designation entry number
