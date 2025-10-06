@@ -1,69 +1,36 @@
-= Overview
-:fn-amt-decree: footnote:fn-amt-decree[The judicial chain culminates in the 13 Jul 1841 execution order, which itself cites earlier payment decrees of 29 May and 6 Jun 1840 and the interest base (5% since 9 Apr 1833). See xref:amt-decree.adoc[Amt Bückeburg — Decree & Execution Order (10/13 Jul 1841)].]
-:fn-execution: footnote:fn-execution[Details of the execution order: the 10 Jul 1841 application by Advokat Meyer and the 13 Jul 1841 Decretum instructing Amtsdiener Möller to levy 133 rt 7 mg plus 5% since 9 Apr 1833, with a 14-day warning of Auspfändung and sale. See xref:amt-decree.adoc[Amt Bückeburg — Decree & Execution Order (10/13 Jul 1841)].]
-:fn-petitions: footnote:fn-petitions[Krückeberg’s petitions to the Chamber: 2 Oct 1841 (first petition), xref:doc-01.adoc[Document 1 — Petition (2 Oct 1841)]; and 11/12 Nov 1841 (second petition asking for a 200 rt Chamber loan), xref:doc-03.adoc[Document 3 — Petition (11/12 Nov 1841)].]
-:fn-amt-report: footnote:fn-amt-report[Amt report to the Rentkammer, 7 Oct 1841: confirms 133 rt 7 mg, 5% since 1833; notes the case pending since 30 Jul 1836 (twice _in appellatorio_, once _supplicatorio_); rejects court-ordered installments and records the creditor’s refusal; and notes execution is temporarily stayed. See xref:doc-02.adoc[Document 2 — Amt report (7 Oct 1841)].]
-:fn-security: footnote:fn-security[The same 7 Oct 1841 report proposes, if relief is granted, a 190 rt Chamber loan secured on Stelle/Stätte No. 10 (size 10 Morgen 30 Ruthen), with buildings insured at 525 rt and 700 rt in existing encumbrances. See xref:doc-02.adoc[Document 2 — Amt report (7 Oct 1841)].]
-:fn-valuation: footnote:fn-valuation[15 Nov 1841 valuation & opinion: total 1,525 rt (land 1,000 + buildings 525),
-less 700 = 825 rt; the reviewer declines to recommend (_befürworten_) the 200 rt loan; K.C. docket: abzuschlagen. See xref:doc-03.adoc#doc3-coverslip[Valuation & Opinion (15 Nov 1841)].]
-:fn-threat: footnote:fn-threat[From Krückeberg’s second petition, presented 12 Nov 1841: the Amt threatens to sell his holding if the money is not produced. See xref:doc-03.adoc[Document 3 — Petition (11/12 Nov 1841)].]
+= Overview 
 
-In the 1830s, Johann Heinrich Krückeberg's inherited his parent's debt from his father's shoemaking trade.
-On *May 29, 1840* and again on *June 6, 1840*, the Amt Bückeburg, the local governmental office in Bückeburg,
-acting in its dual capacity as a court, ordered payment of *133 Reichsthaler 7 Mariengroschen, plus 5% interest
-from 9 April 1833*{fn-amt-decree}. 
+== What was Schaumburg-Lippe and how did its government work?
 
-[NOTE]
-====
-A Reichsthaler (rt) was equivalent to 24 Mariengroschen (mg) 
-====
+Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
+it had a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued
+high-level orders, and it had several administrative offices that ran day-to-day business. The two that matter in
+this case are:
+[arabic,start=1]
+. the *Bückeburg Amt*, the district office and court for local matters, and 
+. the *Rentkammer* (also written Rentcammer), the *state treasury and finance department*.
 
-When he still could not pay, the Amt on *July 13, 1841* ordered the bailiff Möller to collect, and warned if no
-payment came within fourteen days{fn-execution}, that distraint (the seizure of his assets) and sale would follow.
-Under that pressure Krückeberg turned to the Rentkammer, petitioning on *2 October 1841* (and again on *11/12 November
-1841*) for relief.{fn-petitions}.
+== Rentkammer Responsiblities
 
-The *Rentcammer* in Schaumburg-Lippe in 1841 was:  
+=== 1. State money (taxes, rents, Kammerkasse)
 
-* the *treasury* of the principality (managing the prince’s revenues and expenditures),
-* the *chief accounting office* (keeping the ledgers, reviewing and auditing the Amts’ accounts), and
-* the *property management authority* (overseeing farmland, forests, mills, and other sources of income within the state).  
+* *Taxes:* The Rentkammer received tax revenues. Local offices collected from subjects, then forwarded the sums.
+  The Rentkammer booked them and placed them into the treasury.
+* *Rents:* Income from leasing out state or domain land (fields, meadows, forests). Tenant farmers or leaseholders
+  paid regular rents, which were handled much like taxes.
+* *Payments out of the Kammerkasse:* The treasury made disbursements such as salaries of officials, upkeep of state
+  buildings, army expenses, and interest on debts.
 
-As the higher financial authority of the state, the Rentcammer had the power to review the Amt’s decree and decide
-whether to grant Johann Heinrich relief—such as a loan—or to let the order stand.  
+=== 2. State lands and forests (leases, sales, mortgages)
 
-When a father died with debts, they did not vanish. As heir and head of household, Johann Heinrich inherited the
-obligation — and now, as a Colon with land use, he finally had something the Amt could enforce against. 
+* *Leases:* State forests, hunting rights, meadows, and farmland were leased out.
+* *Sales:* Smaller parcels of domain land could be sold, especially garden plots or farm extensions.
+* *Mortgages:* When land was purchased from the state, payment could be spread out over time. The land served as
+  security until the last installment was made.
 
-Meanwhile the *Amt’s report of 7 October 1841* to the Chamber confirmed the
-judgment (133 rt 7 mg, 5% since 1833), noted the long litigation (pending since *30 July 1836*, twice _in
-appellatorio_, once _supplicatorio_), stated there was no legal basis to impose installments and that the creditor
-would not accept them, and recorded that execution was *temporarily stayed* while the Chamber considered the
-case.{fn-amt-report} If relief was to be granted at all, the Amt proposed a *190 rt* Chamber loan *secured on his
-leasehold farmstead (Stelle/Stätte No. 10)*, noting *10 Morgen 30 Ruthen* of land, buildings insured at *525 rt*,
-and existing encumbrances of *700 rt*.{fn-security} A *15 November 1841* valuation memo reckoned land and buildings
-at *1,525 rt*, left *825 rt* after debts, and the reviewing official declined to recommend the loan; the Chamber
-board noted *to be rejected*.{fn-valuation} Through all of this, the risk of a *forced sale of the farmstead*
-remained real—indeed, Krückeberg himself reports that the *Amt threatened to sell his holding* if he failed to
-raise the money.{fn-threat}
+=== 3. Loans to subjects (secured on land)
 
-
-.What “holding” means here
-****
-[TIP]
-====
-*"holding"* is the translation chosen for *Stelle/Stätte (No. 10, Berenbusch)*, the *leasehold farm unit*:
-the plot and farm buildings, with the right to use the land. The land itself belonged to the princely domain; the
-Colon held a long-term, usually inheritable lease with duties attached.
-
-In this system where a Colon (tenant farmer) held a long-term, inheritable lease to a numbered farm (Stelle/Stätte),
-the soil belonged to the princely domain, but the buildings and improvements were the tenant’s property (or at
-least under his proprietary control). 
-
-*In practice*:
-
-* the *"holding"* could be pledged as *security (collateral)* for a loan.  
-* On default, authorities could *auction the lease right and buildings* to satisfy the judgment.  
-====
-****
-
+* *Reason for loans:* Banks were few or undeveloped, so the Rentkammer filled a credit role.
+* *Circumstances:* Loans were given for purposes such as building, acquiring land, or settling debts. They were
+  secured on the subject’s land and documented by a bond or promissory note.
+* *Repayment:* Once repaid, the Rentkammer issued a receipt, which enabled cancellation of the mortgage entry.
