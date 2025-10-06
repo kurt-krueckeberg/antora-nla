@@ -60,7 +60,7 @@ gloss it as “No. Cammer(al)” or similar—but what matters is its
 
 TODO: Ask/get a definition of "docket".
 
-=== “Nr pr: ####” — the *protocol/ledger entry number*
+=== "Nr pr: ####" — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
