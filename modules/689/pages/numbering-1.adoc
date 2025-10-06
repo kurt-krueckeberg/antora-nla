@@ -60,14 +60,14 @@ gloss it as “No. Cammer(al)” or similar—but what matters is its
 
 TODO: Ask/get a definition of "docket".
 
-=== "Nr pr: ####" — the *protocol/ledger entry number*
+=== "Nr pr: \####" — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
 * When the action was written into that *book*, the entry got a *serial
 number*.
 * A clerk often jotted that number back onto the document as *“Nr pr:
-####”* (read: “Number in the protocol (book): ####”).
+\####”* (read: “Number in the protocol (book): ####”).
 * In your file you saw *“Nr pr: 1274”*—that means *this transaction is
 recorded under line/entry 1274 in the office’s ledger*. That’s all it
 means.
