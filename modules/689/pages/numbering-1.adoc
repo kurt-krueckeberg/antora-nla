@@ -49,8 +49,8 @@ for example, the contents list has these two documents listed under entries #2 a
 
 For each entry, the first document listed will have its corresponding Acten Designation entry number
 written in the upper right corner of the first page. It will be border by an hand drawn
-square. Here is an example for the first document of entry #2, the xref:doc-02.adoc#doc-index-2-1[Bericht
-Amts Bückeburg]:
+square. For examplem, the first document for entry #22 is xref:doc-02.adoc#doc-index-2-1[Bericht
+Amts Bückeburg]. The upper right corner of its first page has "2" enclosed with a square border:
 
 image::example-entry-num-on-doc.jpg[link=self]
 
