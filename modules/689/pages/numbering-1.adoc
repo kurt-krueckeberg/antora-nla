@@ -23,7 +23,7 @@ Rentkammer handled:
 There so different numbers and stamps on the pages because *different offices/books* 
 were keeping control of the same transaction. These are the most important ones:
 
-=== Acten-Designation (your 10-row list) — the file’s own “table of contents”
+=== The Acten-Designation — the case file’s own “table of contents”
 
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list*: *#1 … #10* with brief titles.
