@@ -54,9 +54,6 @@ Amts Bückeburg]. The upper right corner of its first page has "2" enclosed with
 
 image::example-entry-num-on-doc.jpg[link=self]
 
-* That’s why, for entries *#1–#9*, you keep finding a *boxed number* on
-the first page of the corresponding memo/letter/report.
-
 [NOTE]
 ====
 *#10* in the case file is *not a memo*; it’s the *Obligation (the sealed
