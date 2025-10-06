@@ -1,7 +1,7 @@
 = Analysis of Document Numbering Systems
 
 TODO: Use the table from
-xref:numbering-howto.html#3-why-there-are-multiple-numbersstamps-on-the-same-sheets.adoc[]
+xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[]
 and place in an appropriate spot in this file.
 
 == 1. What Document 1 (petition) shows
