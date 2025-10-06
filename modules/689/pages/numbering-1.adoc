@@ -119,6 +119,6 @@ note*; later returned to debtor upon repayment; see 1845 follow-ups.*
 * *NC 2696 (5 May 1845)* — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
 delivery of the original *promissory note* to Krückeberg.*
 * *Nr pr: 1274* — *Protocol/ledger entry number under which this action was written in the office ledger.*
-* *Nro g. d.* — *Registry rubric “No. … given on \[date]”; number/date recorded in the registry book (not filled
+* *Nro g. d.* — *Registry rubric “No. … given on [date]”; number/date recorded in the registry book (not filled
 on this line).*
 
