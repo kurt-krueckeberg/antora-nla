@@ -2,17 +2,35 @@
 
 == 1) What was Schaumburg-Lippe and how did its government work (very briefly)?
 
-Schaumburg-Lippe was a *small German principality* (think: a mini-state)
-in the 1800s. Like other German states of the time, it had:
+Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
+it had a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued
+high-level orders, and it had several administrative offices that ran day-to-day business. Two that matter in this
+case are: 1.) the *Bückeburg Amt*, the district office and court for local matters, and the *Rentkammer* (also
+written Rentcammer), the *state treasury and finance department*.
 
-* a *Princely court* consisting of *the ruler and his central chancellery* that issued
-high-level orders;
-* several *administrative offices* that ran day-to-day business like the two
-that matter for this case:
+Rentkammer handled:
 
-** the *Amt*, the *district office and court* for local matters;
-** the *Rentkammer* (also written Rentcammer), the *state treasury and finance
-department*.
+* *state money* such as taxes, rents, payments in/out of the _Kammerkasse_ (the cash office),
+
+* *state land and forest* leases, sales, and mortgages,
+
+* *loans to subjects* secured on land (by issuing *promissory notes*, and later cancelling them when repaid).
+
+Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time, it had
+a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued high-level orders, and
+it had several administrative offices that ran day-to-day business. Two that matter in this case are: 1.) the
+*Bückeburg Amt*, the district office and court for local matters, and the *Rentkammer* (also written Rentcammer),
+the *state treasury and finance department*.
+
+Rentkammer handled:
+
+* *state money* such as taxes, rents, payments in/out of the _Kammerkasse_ (the cash office),
+
+* *state land and forest* leases, sales, and mortgages,
+
+* *loans to subjects* secured on land (by issuing *promissory notes*, and later cancelling them when repaid).
+
+
 
 == 2) What was the Rentkammer and why did Krückeberg deal with it?
 
@@ -50,6 +68,7 @@ transaction. The most important ones you’re seeing:
 
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list*: *#1 … #10* with brief titles.
+
 * To make cross-reference easy, the *first page of each item* in the
 file usually got a *boxed corner number* matching that list (1, 2, 3 …).
 * That’s why, for entries *#1–#9*, you keep finding a *boxed number* on
