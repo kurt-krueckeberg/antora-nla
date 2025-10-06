@@ -106,18 +106,6 @@ normal); the *actual number/date live elsewhere*:
 clerks *weren’t* always writing the number right there. It’s a *rubric*,
 not a fill-in blank on these copies.
 
-=== Other page markings
-
-* *“Conc. G. W. Fuchs.”* = _Concordat_ (“collated; agrees with the
-original”) + clerk’s name/initials. It appears on the *office copy*, not
-the petitioner’s original, and means the clerk *verified the copy
-matches* the original.
-* *“(L.S.)”* = _locus sigilli_ (“place of the seal”)—marks where the
-seal belongs/belonged.
-* *“F.p.”* in this archive is best read as *Fürstliches Placet* (“by
-princely authorization/approval”)—a chancery approval rubric that sits
-just before initials.
-
 === Summary
 
 * *1841–1842 core file*: contents list (#1–#10). Most items are
