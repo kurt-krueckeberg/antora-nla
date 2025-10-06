@@ -29,6 +29,7 @@ When a case file was opened (here, 1841–1842), a clerk wrote a table of conten
 *contents list* with brief titles.  Each numbered entry in the contents list is composed
 of one or more documents; for example,
 the contents list has these two documents listed under entry #2:
+
 * Bericht Amts Bückeburg
 * Cpt. KRes. an dasselbe
 
