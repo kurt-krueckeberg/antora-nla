@@ -9,7 +9,7 @@
 //* xref:numbering-howto.adoc[]
 * xref:amt-decree.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
-* xref:doc-index.adoc[]
+* xref:content-list.adoc[]
 * xref:docs-1-and-2-analysis.adoc[]
 * xref:doc-01.adoc[]
 * xref:doc-02.adoc[]
