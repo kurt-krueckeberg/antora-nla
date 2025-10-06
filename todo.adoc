@@ -13,11 +13,12 @@ Johann Heinrich Krückeberg.
 
 TODO:
 
-* Merge into xref:docs-1-and-2-analysis.adoc[] this
+* Merge xref:numbering-1.adoc[] and xref:numbering-howto.adoc[]. Focus on simplfying.
+* Then merge into xref:docs-1-and-2-analysis.adoc[] the essences of the simplified document. Be sure to use this
 xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
 summarize the numbering systems.
-* Explain the Acten Designation.
-* Explain *"Nro g.d."*
-* After adding the three items immediately above, see how it reads and whether I need to add anything from either
-`numbering-1.adoc` or `numbering-howto.adoc`. The focus is on the narrative and making sure the details are
+* Be sure to explain the Acten Designation.
+* Explain what *"Nro g.d."* means
+
+NOTE: The focus is on the narrative and making sure the details are
 understood so the big picture is retained.
