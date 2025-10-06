@@ -34,14 +34,10 @@ under entry #2:
 |===
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
-.2+.^|Cour. aus Cammer-Casses
 
 |〃
 |xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 |===
-
-* Bericht Amts Bückeburg
-* Cpt. KRes. an dasselbe
 
 For each entry, the first document listed will have its Acten Designation entry number
 written in the upper right corner of the first page. It will be border by an hand drawn
