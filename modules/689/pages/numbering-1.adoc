@@ -28,17 +28,22 @@ were keeping control of the same transaction. These are the most important ones:
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list* with brief titles.
 
-* To make cross-reference easy, the *first page of each item* in the
-file usually got a *boxed corner number* matching that list (1, 2, 3 …).
+* Each numbered entry in the contents list is composed of one or more documents.
+For each entry, the first document listed will have its Acten Designation entry number
+written in the upper right corner of the first page. It will be border by an hand drawn
+square.
 * That’s why, for entries *#1–#9*, you keep finding a *boxed number* on
 the first page of the corresponding memo/letter/report.
-* *#10* in your list is *not a memo*; it’s the *Obligation (the sealed
+
+[NOTE]
+====
+*#10* in the case file is *not a memo*; it’s the *Obligation (the sealed
 promissory note itself)*. Originals of *promissory notes* were often
 *kept in a separate “obligations” series* and, after repayment,
 *returned to the debtor*—so they commonly *don’t carry* the file’s boxed
 corner number and may not be physically in the case file anymore.
 _That’s why #10 has no boxed number in your file._
-
+====
 TODO: Explain what each of the ten entries means. Explain what each column
 means, why one column spans several rows of the #1- #10 content items.
 
