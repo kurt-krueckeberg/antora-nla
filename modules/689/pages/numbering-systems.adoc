@@ -1,0 +1,114 @@
+= Case File Organization and Document Numbering Systems
+
+There so different numbers and stamps on the pages because *different offices/books* 
+were keeping control of the same transaction. These are the most important ones:
+
+== The Acten-Designation — the case file’s own “table of contents”
+
+When a case file was opened (here, 1841–1842), a clerk wrote a *contents list* with brief
+titles.  Each numbered entry in the contents list is composed of one or more documents;
+for example, the contents list has these two documents listed under entries #2 and #3:
+
+[cols="1a,6a",width="70%"]
+|===
+|2.
+|xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+
+|〃
+|xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+
+|3.
+|xref:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+
+|〃
+|xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+
+|〃
+|xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|===
+
+For each entry, the first document listed will have its corresponding Acten Designation entry number
+written in the upper right corner of the first page. It will be border by an hand drawn
+square. For examplem, the first document for entry #22 is xref:doc-02.adoc#doc-index-2-1[Bericht
+Amts Bückeburg]. The upper right corner of its first page has "2" enclosed with a square border:
+
+image::example-entry-num-on-doc.jpg[link=self]
+
+[NOTE]
+===
+*#10* in the case file is *not a memo*; it’s the *Obligation (the sealed
+promissory note itself)*. Originals of *promissory notes* were often
+*kept in a separate “obligations” series* and, after repayment,
+*returned to the debtor*—so they commonly *don’t carry* the file’s boxed
+corner number and may not be physically in the case file anymore.
+_That’s why #10 has no boxed number in your file._
+===
+
+== The “NC \####” Numbers — the Rentkammer’s *docket number* (treasury handling number)
+
+* Think of this as the treasury’s *stamp-pad number for the year* (a
+running “docket” sequence).
+* It was written *by a Rentkammer clerk* *when* the treasury handled or
+posted an item (e.g., recorded repayment, prepared a receipt, arranged
+delivery back to the debtor).
+* In your 1845 follow-ups you see *NC 2444 / NC 2696* etc. They’re *Nachträge*
+(follow-ups) added later to close the loan. These are *later (1845)* treasury
+actions (repayment, receipt, return), so they *don’t appear* in the 1841–1842
+contents list and *don’t have* boxed corner numbers. 
+
+_(Historians disagree on the exact expansion of “NC”—you’ll see people
+gloss it as “No. Cammer(al)” or similar—but what matters is its
+*function*: the Rentkammer’s own annual docket number.)_
+
+== The "Nr pr: \####" Number — the *protocol/ledger entry number*
+
+* Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
+actions*).
+* When the action was written into that *book*, the entry got a *serial
+number*.
+* A clerk often jotted that number back onto the document as *"Nr pr: ++####++*
+(read: “Number in the protocol (book): \####”).
+* In your file you saw *“Nr pr: 1274”*—that means *this transaction is
+recorded under line/entry 1274 in the office’s ledger*. That’s all it
+means.
+
+== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+
+* *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
+* *Function:* a *mail/registry template line* indicating the item
+*receives a registry number and date*.
+* On many petitions/minutes it’s *not filled on that line* (no room is
+normal); the *actual number/date live elsewhere*:
+* in the *registry book* itself,
+* or as a *different notation* on the page (e.g., *Nr pr: 1274*),
+* or in a *different system* (e.g., the *NC* stamp).
+* So your observation is right: after “Nro” there’s *no space*—because
+clerks *weren’t* always writing the number right there. It’s a *rubric*,
+not a fill-in blank on these copies.
+
+== Summary
+
+* *1841–1842 core file*: contents list (#1–#10). Most items are
+*internal letters/reports*, so they show a *boxed corner number* on
+their first page. *#10* is the *Obligation* (sealed *promissory
+note*)—usually *not* boxed and often *returned* after repayment.
+* *1845 follow-ups (NC 2444, NC 2696)*: Rentkammer *treasury actions* to
+close the loan—*record repayment*, *issue receipt*, *approve mortgage
+cancellation*, *deliver the original back* to Krückeberg. These have *NC
+numbers*, *not* boxed corner numbers, because they weren’t part of the
+original 1841–42 table of contents.
+* *A lone “Nr pr: 1274”* appears where the *ledger entry* was
+referenced. It’s normal that it shows on *only one leaf*—you just need
+it once to point to the book line.
+
+= How you can label things in your edition (suggested wording)
+
+* *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — *original sealed *promissory
+note*; later returned to debtor upon repayment; see 1845 follow-ups.*
+* *NC 2444 (Apr 1845)* — *Rentkammer docket (treasury) follow-up to #10: repayment/liquidation recorded.*
+* *NC 2696 (5 May 1845)* — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
+delivery of the original *promissory note* to Krückeberg.*
+* *Nr pr: 1274* — *Protocol/ledger entry number under which this action was written in the office ledger.*
+* *Nro g. d.* — *Registry rubric “No. … given on [date]”; number/date recorded in the registry book (not filled
+on this line).*
+
