@@ -22,10 +22,8 @@ in xref:docs-1-and-2-analysis.adoc[] into `numbering-1.adoc`, which will be spli
 
 Both pages--background/overview and case file organization/numbering can be part of an Introduction.
 
-* Then change xref:docs-1-and-2-analysis.adoc[] to be more specific to documents 1 and 2. Be sure to use this
-xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
-summarize the numbering systems.
-
-* Be sure to explain the Acten Designation.
-
-* Explain what *"Nro g.d."* means
+1. Then change xref:docs-1-and-2-analysis.adoc[] to be more specific to documents 1 and 2. Be sure to use this
+   xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
+   summarize the numbering systems.
+2. Add the details in the last two or three sections of `numbering-howto.adoc` to the relevant individual
+   documenrts.
