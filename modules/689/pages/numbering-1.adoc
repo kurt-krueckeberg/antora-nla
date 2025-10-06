@@ -42,7 +42,7 @@ _That’s why #10 has no boxed number in your file._
 TODO: Explain what each of the ten entries means. Explain what each column
 means, why one column spans several rows of the #1- #10 content items.
 
-=== “NC ####” — the Rentkammer’s *docket number* (treasury handling number)
+=== “NC \####” — the Rentkammer’s *docket number* (treasury handling number)
 
 * Think of this as the treasury’s *stamp-pad number for the year* (a
 running “docket” sequence).
