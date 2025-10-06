@@ -30,7 +30,7 @@ When a case file was opened (here, 1841–1842), a clerk wrote a table of conten
 of one or more documents; for example, the contents list has these two documents listed
 under entry #2:
 
-[cols="1a,6a",width="80%"]
+[cols="1a,6a",width="70%"]
 |===
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
