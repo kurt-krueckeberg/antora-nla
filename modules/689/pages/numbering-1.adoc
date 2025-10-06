@@ -23,7 +23,7 @@ Rentkammer handled:
 There so different numbers and stamps on the pages because *different offices/books* 
 were keeping control of the same transaction. These are the most important ones:
 
-==== Acten-Designation (your 10-row list) — the file’s own “table of contents”
+=== Acten-Designation (your 10-row list) — the file’s own “table of contents”
 
 When a case file was opened (here, 1841–1842), a clerk wrote a table of contents, a
 *contents list*: *#1 … #10* with brief titles.
@@ -42,7 +42,7 @@ _That’s why #10 has no boxed number in your file._
 TODO: Explain what each of the ten entries means. Explain what each column
 means, why one column spans several rows of the #1- #10 content items.
 
-==== “NC ####” — the Rentkammer’s *docket number* (treasury handling number)
+=== “NC ####” — the Rentkammer’s *docket number* (treasury handling number)
 
 * Think of this as the treasury’s *stamp-pad number for the year* (a
 running “docket” sequence).
@@ -60,7 +60,7 @@ gloss it as “No. Cammer(al)” or similar—but what matters is its
 
 TODO: Ask/get a definition of "docket".
 
-==== “Nr pr: ####” — the *protocol/ledger entry number*
+=== “Nr pr: ####” — the *protocol/ledger entry number*
 
 * Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
 actions*).
@@ -72,7 +72,7 @@ number*.
 recorded under line/entry 1274 in the office’s ledger*. That’s all it
 means.
 
-==== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+=== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
 
 * *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
 * *Function:* a *mail/registry template line* indicating the item
@@ -86,7 +86,7 @@ normal); the *actual number/date live elsewhere*:
 clerks *weren’t* always writing the number right there. It’s a *rubric*,
 not a fill-in blank on these copies.
 
-==== Other page markings
+=== Other page markings
 
 * *“Conc. G. W. Fuchs.”* = _Concordat_ (“collated; agrees with the
 original”) + clerk’s name/initials. It appears on the *office copy*, not
