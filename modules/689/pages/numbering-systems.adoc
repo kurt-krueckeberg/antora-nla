@@ -35,14 +35,14 @@ Amts Bückeburg]. The upper right corner of its first page has "2" enclosed with
 image::example-entry-num-on-doc.jpg[link=self]
 
 [NOTE]
-===
+====
 *#10* in the case file is *not a memo*; it’s the *Obligation (the sealed
 promissory note itself)*. Originals of *promissory notes* were often
 *kept in a separate “obligations” series* and, after repayment,
 *returned to the debtor*—so they commonly *don’t carry* the file’s boxed
 corner number and may not be physically in the case file anymore.
 _That’s why #10 has no boxed number in your file._
-===
+====
 
 == The “NC \####” Numbers — the Rentkammer’s *docket number* (treasury handling number)
 
