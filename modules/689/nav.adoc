@@ -1,7 +1,7 @@
 .xref:index.adoc[]
 //* xref:narrative.adoc[]
 //* Case File
-* xref:analyze.adoc[]
+//* xref:analyze.adoc[]
 * xref:overview.adoc[]
 * xref:cover.adoc[]
 * xref:glossary.adoc[]
