@@ -5,7 +5,7 @@
 Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
 it had a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued
 high-level orders, and it had several administrative offices that ran day-to-day business. Two that matter in this
-case are: 1.) the *Bückeburg Amt*, the district office and court for local matters, and the *Rentkammer* (also
+case are: 1.) the *Bückeburg Amt*, the district office and court for local matters, and the 2.) *Rentkammer* (also
 written Rentcammer), the *state treasury and finance department*.
 
 Rentkammer handled:
