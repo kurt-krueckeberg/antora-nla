@@ -1,6 +1,6 @@
 = Understanding the Rentcammer Filing System in Schaumburg-Lippe
 
-== 1) What was Schaumburg-Lippe and how did its government work (very briefly)?
+== What was Schaumburg-Lippe and how did its government work (very briefly)?
 
 Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
 it had a *Princely court* consisting of the ruler and his central chancellery located in Bückeburg that issued
