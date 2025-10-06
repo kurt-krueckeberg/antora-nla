@@ -13,10 +13,16 @@ Johann Heinrich Krückeberg.
 
 TODO:
 
-* Merge xref:numbering-1.adoc[] and xref:numbering-howto.adoc[], which discuss the same basics of the
-numbering systems. Focus on the clearest, easiest to understand explanation.
+* Use the first part of xref:numbering-1.adoc[] as background or overview. The second part -- case file
+organization and numbering--and have the `numbering-howto.adoc` xref:numbering-howto.adoc[table] added to
+it, and then made a  separate page. Finally merge in any explanations about the numbering systems found
+in xref:docs-1-and-2-analysis.adoc[] into `numbering-1.adoc`, which will be split into two pages: 
+* background/overview and 
+* case file organizaiton/numbering. 
 
-* Then merge into xref:docs-1-and-2-analysis.adoc[] the essences of the simplified document. Be sure to use this
+Both pages--background/overview and case file organization/numbering can be part of an Introduction.
+
+* Then change xref:docs-1-and-2-analysis.adoc[] to be more specific to documents 1 and 2. Be sure to use this
 xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
 summarize the numbering systems.
 
