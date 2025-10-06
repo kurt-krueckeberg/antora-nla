@@ -3,7 +3,6 @@
 
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
-
 .Rescript Explained
 ****
 A Rescript is abbreviated in the Acten Desingation, as " “Rescr.” or “KRes.” (Kammer-Rescript). in the Acten
