@@ -66,8 +66,8 @@ TODO: Ask/get a definition of "docket".
 actions*).
 * When the action was written into that *book*, the entry got a *serial
 number*.
-* A clerk often jotted that number back onto the document as *“Nr pr:
-\####”* (read: “Number in the protocol (book): ####”).
+* A clerk often jotted that number back onto the document as *“Nr pr: \####”*
+(read: “Number in the protocol (book): \####”).
 * In your file you saw *“Nr pr: 1274”*—that means *this transaction is
 recorded under line/entry 1274 in the office’s ledger*. That’s all it
 means.
