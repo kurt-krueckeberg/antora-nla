@@ -46,6 +46,8 @@ _That’s why #10 has no boxed number in your file._
 
 == The “NC \####” Numbers — the Rentkammer’s *docket number* (treasury handling number)
 
+image:nc-xxxx.jpg[link=self]
+
 * Think of this as the treasury’s *stamp-pad number for the year* (a
 running “docket” sequence).
 * It was written *by a Rentkammer clerk* *when* the treasury handled or
