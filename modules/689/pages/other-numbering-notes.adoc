@@ -15,16 +15,6 @@ _That’s why #10 has no boxed number in your file._
 Different desks used *different books* to track the same matter. Each book created its *own* number/mark. They
 use *parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
 
-[cols="1a,3a,4a,3a",options="header,autowidth"]
-|===
-|Mark on page | Belongs to (which book/desk) | What it identifies | Where the number/date live
-
-|*Nro g. d.*
-|*Registry rubric* = *Numero gegeben den* (“No. … given on [date]”)
-|Signals the item receives a registry number & date
-|Often *not filled on that line*; the number/date are in the registry book or appear elsewhere (e.g., as *Nr pr: …* or alongside an outgoing/incoming stamp)
-|===
-
 *Key takeaways about numbering systems*:
 
 * *They are parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
