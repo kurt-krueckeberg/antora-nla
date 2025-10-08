@@ -1,3 +1,5 @@
+= Analyze This Way
+
 Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388,
 but simplify the the analysis to this: 
 . numbering systems used:NC, Nr Pr
@@ -8,22 +10,8 @@ but simplify the the analysis to this:
 . What is the upshot or conclusion of the document?
 . What is the RC response?
 
-These questions should be tied to what is being said in the document and what is happening and how it affects
-Johann Heinrich Krückeberg.
+== TODO:
 
-TODO:
+Merge xref:numbering-systems.adoc[Case File Organization and Document Numbering Systems] and
+xref:docs-1-and-2-analysis.adoc[Analysis of Document Numbering Systems]
 
-* Use the first part of xref:numbering-1.adoc[] as background or overview. The second part -- case file
-organization and numbering--and have the `numbering-howto.adoc` xref:numbering-howto.adoc[table] added to
-it, and then made a  separate page. Finally merge in any explanations about the numbering systems found
-in xref:docs-1-and-2-analysis.adoc[] into `numbering-1.adoc`, which will be split into two pages: 
-* background/overview and 
-* case file organizaiton/numbering. 
-
-Both pages--background/overview and case file organization/numbering can be part of an Introduction.
-
-1. Then change xref:docs-1-and-2-analysis.adoc[] to be more specific to documents 1 and 2. Be sure to use this
-   xref:numbering-howto.adoc#3-why-there-are-multiple-numbersstamps-on-the-same-sheets[table] to illustrate and
-   summarize the numbering systems.
-2. Add the details in the last two or three sections of `numbering-howto.adoc` to the relevant individual
-   documenrts.

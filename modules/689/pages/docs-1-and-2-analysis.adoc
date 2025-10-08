@@ -1,4 +1,4 @@
-= Analysis of Document Numbering Systems
+= Analysis of Documents #1 and  #2
 
 == 1. What Document 1 (petition) shows
 
