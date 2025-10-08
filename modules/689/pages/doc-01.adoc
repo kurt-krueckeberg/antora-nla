@@ -91,7 +91,7 @@ NC 4381                             pr. in Cam 2 Oct 1841
 
                      Durchlauchtigster Fürst,
                      Gnädigst regierender Fürst
- D                   und Herr!             
+ D[initial]          und Herr!             
 
 RC.
 b.m. zum Amtsbericht
@@ -139,6 +139,11 @@ NC 4381                   presented in Cammer 2 Oct 1841
 
 
 Most Serene Prince, gracious reigning Prince and Lord,
+
+_Rent Chamber_
+_to be attached to the Amt’s report._
+_Bückeburg, 4 October 1841_
+_Spreng_
 
 My late father—and, after his death, my mother, who continued my
 father’s trade as a shoemaker—incurred a substantial leather
