@@ -10,7 +10,7 @@ corner number and may not be physically in the case file anymore.
 _That’s why #10 has no boxed number in your file._
 ====
 
-=== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
 
 * *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
 * *Function:* a *mail/registry template line* indicating the item
