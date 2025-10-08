@@ -90,7 +90,7 @@ image::nr-pr.jpg[link=self]
 
 === Distinction Between the Two Systems
 
-* The *NC number* was an *operational docket number*, assigned upon handling or expedition of an item.  
+* The *NC number* was simply a running number the Rentkammer gave to each document as it came across their desk.
 * The *Nr pr.* was a *protocol register number*, assigned upon entry into the official ledger.  
 * Not all documents carry both numbers:  
   - Some petitions show both an NC and a Nr pr.  
