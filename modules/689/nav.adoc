@@ -3,10 +3,9 @@
 //* Case File
 //* xref:analyze.adoc[]
 * xref:overview.adoc[]
+* xref:case-file-organization.adoc[]
 * xref:cover.adoc[]
 * xref:glossary.adoc[]
-* xref:numbering-systems.adoc[]
-//* xref:numbering-howto.adoc[]
 * xref:amt-decree.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
 * xref:content-list.adoc[]
