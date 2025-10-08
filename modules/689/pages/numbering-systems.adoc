@@ -52,7 +52,7 @@ used parallel numbering systems to track petitions, reports, rescripts, and rela
 Understanding these systems is crucial for interpreting archival documents, since
 each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
 
-=== The “NC ####” Numbers — Chamber Docket / Expedition Numbers
+=== The “NC \####” Numbers — Chamber Docket / Expedition Numbers
 
 image::nc-xxxx.jpg[link=self]
 
@@ -69,7 +69,7 @@ image::nc-xxxx.jpg[link=self]
 NOTE: Historians debate the literal expansion of “NC” (e.g., *No. Cammeral*), but
 what matters is its function as the *annual docket number of the Rentkammer*.
 
-=== The “Nr pr. ####” Numbers — Protocol / Register Numbers
+=== The “Nr pr. \####” Numbers — Protocol / Register Numbers
 
 image::nr-pr.jpg[link=self]
 
@@ -86,7 +86,7 @@ image::nr-pr.jpg[link=self]
 * *RC* = shorthand for *Rentkammer*.  
   - Example: "`RC Rescr.`" = *Rentkammer-Rescript*, a formal directive or decision.  
 * *RC comment* = Margin note from a Rentkammer clerk or councillor directing the next step (e.g., forward to Amt).  
-* *ad NC* = “in reference to NC ####”, linking a later act to its original NC-numbered petition.  
+* *ad NC* = “in reference to NC \####”, linking a later act to its original NC-numbered petition.  
 
 === Distinction Between the Two Systems
 
