@@ -1,0 +1,56 @@
+= Understanding the Rentcammer Filing System in Schaumburg-Lippe
+
+[NOTE]
+====
+*#10* in the Acten Designation is *not a memo*; it’s the *Obligation (the sealed
+promissory note itself)*. Originals of *promissory notes* were often
+*kept in a separate “obligations” series* and, after repayment,
+*returned to the debtor*—so they commonly *don’t carry* the file’s boxed
+corner number and may not be physically in the case file anymore.
+_That’s why #10 has no boxed number in your file._
+====
+
+=== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+
+* *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
+* *Function:* a *mail/registry template line* indicating the item
+*receives a registry number and date*.
+* On many petitions/minutes it’s *not filled on that line* (no room is
+normal); the *actual number/date live elsewhere*:
+* in the *registry book* itself,
+* or as a *different notation* on the page (e.g., *Nr pr: 1274*),
+* or in a *different system* (e.g., the *NC* stamp).
+* So your observation is right: after “Nro” there’s *no space*—because
+clerks *weren’t* always writing the number right there. It’s a *rubric*,
+not a fill-in blank on these copies.
+
+== Why there are multiple numbers/stamps on the same sheets
+
+Different desks used *different books* to track the same matter. Each book created its *own* number/mark. They
+use *parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
+
+[cols="1a,3a,4a,3a",options="header,autowidth"]
+|===
+|Mark on page | Belongs to (which book/desk) | What it identifies | Where the number/date live
+
+|*Nro g. d.*
+|*Registry rubric* = *Numero gegeben den* (“No. … given on [date]”)
+|Signals the item receives a registry number & date
+|Often *not filled on that line*; the number/date are in the registry book or appear elsewhere (e.g., as *Nr pr: …* or alongside an outgoing/incoming stamp)
+|===
+
+*Key takeaways about numbering systems*:
+
+* *They are parallel systems.* An *NC* number is *not* the same thing as *Nr pr* or the *boxed corner number*.
+* It’s normal that *only one* ledger/protocol number (e.g., *Nr pr: 1274*) shows on a single leaf.
+* *“Nro g. d.”* is frequently just a tight *rubric* on copies/minutes; the number/date are recorded in the registry
+book and/or noted elsewhere.
+
+
+== Other small marks you’ll see (quick glossary)
+
+* *Conc. + initials* (e.g., *Conc. G. W. Fuchs.*) — *Concordat*: “collated; agrees with the original,” attested by the clerk; written on the *office copy*.
+* *(L.S.)* — *locus sigilli* (“place of the seal”).
+* *F. p.* — in this archive best read as *Fürstliches Placet* (“by princely authorization/approval”), placed just before initials at the end of a text.
+
+
