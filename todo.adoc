@@ -4,3 +4,5 @@ Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df1
 
 Work thru the remaining documents to see how they flow, noting any new identitifiers.
 
+Consult other-numbering-notes.adoc
+
