@@ -256,7 +256,7 @@ Notes:
 
 == Concept Quittung
 
-[cols="1a,1a",frame=none,grid=none]
+[cols="1a,6a",frame=none,grid=none,width="60%"]
 |===
 |Transliteration | English translation & notes
 
