@@ -44,75 +44,72 @@ corner number and may not be physically in the case file anymore.
 _That’s why #10 has no boxed number in your file._
 ====
 
-== The “NC \####” Numbers — the Rentkammer’s *docket number* (treasury handling number)
+== Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
+
+=== Overview
+During the mid-19th century, the Rentkammer (Chamber Treasury) in Schaumburg-Lippe
+used parallel numbering systems to track petitions, reports, rescripts, and related acts.
+Understanding these systems is crucial for interpreting archival documents, since
+each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
+
+=== The “NC ####” Numbers — Chamber Docket / Expedition Numbers
 
 image::nc-xxxx.jpg[link=self]
 
-* Think of this as the treasury’s *stamp-pad number for the year* (a
-running “docket” sequence).
-* It was written *by a Rentkammer clerk* *when* the treasury handled or
-posted an item (e.g., recorded repayment, prepared a receipt, arranged
-delivery back to the debtor).
-* In your 1845 follow-ups you see *NC 2444 / NC 2696* etc. They’re *Nachträge*
-(follow-ups) added later to close the loan. These are *later (1845)* treasury
-actions (repayment, receipt, return), so they *don’t appear* in the 1841–1842
-contents list and *don’t have* boxed corner numbers. 
+* *Definition*: Sequential docket numbers assigned by the Rentkammer as items were logged and handled
+  during a given year.
+* *Usage*: Written by a clerk when the treasury posted or processed an act (petition, repayment, receipt, report).
+* *Function*: Marks the chronological order of handling. Multiple NC numbers may occur in a single case file,
+  since each discrete act received its own NC.
+* *Examples*:  
+  - NC 2444, NC 2696 = follow-up entries in 1845 to record repayments or receipts.  
+  - NC 4381 = Petition of Krückeberg, October 1841.  
+  - NC 4487 = Report of Amt Bückeburg, November 1841.
 
-_(Historians disagree on the exact expansion of “NC”—you’ll see people
-gloss it as “No. Cammer(al)” or similar—but what matters is its
-*function*: the Rentkammer’s own annual docket number.)_
+NOTE: Historians debate the literal expansion of “NC” (e.g., *No. Cammeral*), but
+what matters is its function as the *annual docket number of the Rentkammer*.
 
-== The "Nr pr: \####" Number — the *protocol/ledger entry number*
+=== The “Nr pr. ####” Numbers — Protocol / Register Numbers
 
 image::nr-pr.jpg[link=self]
 
-* Offices kept a *Protokollbuch* (think: a big line-by-line *ledger of
-actions*).
-* When the action was written into that *book*, the entry got a *serial
-number*.
-* A clerk often jotted that number back onto the document as *"Nr pr: ++####++*
-(read: “Number in the protocol (book): \####”).
-* In your file you saw *“Nr pr: 1274”*—that means *this transaction is
-recorded under line/entry 1274 in the office’s ledger*. That’s all it
-means.
+* *Definition*: The entry number in the Rentkammer’s *Protokollbuch* (protocol book), a line-by-line ledger
+  recording decisions and actions.
+* *Usage*: When an act was officially registered in the protocol, it was assigned a serial number.
+  Clerks often wrote that number back onto the document itself.
+* *Variants*: Appears as *Nr pr.* or *Num pr.*, with identical meaning.
+* *Function*: Represents the *contemporaneous registry number* for the case item,
+  distinct from the NC docket number.
 
-== “Nro g. d.” — the *registry rubric* (“No. … given on [date]”)
+=== Related Notations and Abbreviations
 
-* *Reads:* _Numero gegeben den_ → “No. … given on [date]”.
-* *Function:* a *mail/registry template line* indicating the item
-*receives a registry number and date*.
-* On many petitions/minutes it’s *not filled on that line* (no room is
-normal); the *actual number/date live elsewhere*:
-* in the *registry book* itself,
-* or as a *different notation* on the page (e.g., *Nr pr: 1274*),
-* or in a *different system* (e.g., the *NC* stamp).
-* So your observation is right: after “Nro” there’s *no space*—because
-clerks *weren’t* always writing the number right there. It’s a *rubric*,
-not a fill-in blank on these copies.
+* *RC* = shorthand for *Rentkammer*.  
+  - Example: "`RC Rescr.`" = *Rentkammer-Rescript*, a formal directive or decision.  
+* *RC comment* = Margin note from a Rentkammer clerk or councillor directing the next step (e.g., forward to Amt).  
+* *ad NC* = “in reference to NC ####”, linking a later act to its original NC-numbered petition.  
 
-== Summary
+=== Distinction Between the Two Systems
 
-* *1841–1842 core file*: contents list (#1–#10). Most items are
-*internal letters/reports*, so they show a *boxed corner number* on
-their first page. *#10* is the *Obligation* (sealed *promissory
-note*)—usually *not* boxed and often *returned* after repayment.
-* *1845 follow-ups (NC 2444, NC 2696)*: Rentkammer *treasury actions* to
-close the loan—*record repayment*, *issue receipt*, *approve mortgage
-cancellation*, *deliver the original back* to Krückeberg. These have *NC
-numbers*, *not* boxed corner numbers, because they weren’t part of the
-original 1841–42 table of contents.
-* *A lone “Nr pr: 1274”* appears where the *ledger entry* was
-referenced. It’s normal that it shows on *only one leaf*—you just need
-it once to point to the book line.
+* The *NC number* was an *operational docket number*, assigned upon handling or expedition of an item.  
+* The *Nr pr.* was a *protocol register number*, assigned upon entry into the official ledger.  
+* Not all documents carry both numbers:  
+  - Some petitions show both an NC and a Nr pr.  
+  - Others only show NC (if not formally protocolized).  
+  - Some case files contain follow-up NC entries but lack additional protocol numbers.
 
-== How you can label things in your edition (suggested wording)
+=== Worked Examples
 
-* *Acten-Designation #10 (Obligation, 12 Jan 1842, 200 Reichsthaler Courant)* — *original sealed *promissory
-note*; later returned to debtor upon repayment; see 1845 follow-ups.*
-* *NC 2444 (Apr 1845)* — *Rentkammer docket (treasury) follow-up to #10: repayment/liquidation recorded.*
-* *NC 2696 (5 May 1845)* — *Rentkammer docket follow-up to #10: receipt issued; mortgage cancellation approved;
-delivery of the original *promissory note* to Krückeberg.*
-* *Nr pr: 1274* — *Protocol/ledger entry number under which this action was written in the office ledger.*
-* *Nro g. d.* — *Registry rubric “No. … given on [date]”; number/date recorded in the registry book (not filled
-on this line).*
+* *Document 1* — Petition of Krückeberg:  
+  - NC 4381 (docket number)  
+  - Nr pr. 1274 (protocol entry)  
+  - Date: 2 Oct 1841, forwarded to Amt Bückeburg.  
 
+* *Document 2* — Report of Amt Bückeburg:  
+  - NC 4487 (docket number)  
+  - Registered under the same protocol reference as Document 1.  
+
+=== Conclusion
+The Rentkammer’s dual numbering system — NC docket numbers and Nr pr. protocol entries —
+provided both an operational sequence of handling and a permanent ledger reference.
+Together they allow today’s researcher to trace the administrative life-cycle of a petition
+from initial submission, through treasury handling, to final rescript or repayment closure.
