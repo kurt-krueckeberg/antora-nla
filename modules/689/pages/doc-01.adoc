@@ -94,7 +94,7 @@ NC 4381                             pr. in Cam 2 Oct 1841
  D[initial]          und Herr!             
 
 _RC.
-b.m. zum Amtsbericht
+b.m. [beizumachen] zum Amtsbericht
 B. 4 Oct 41
 Spreng_
 
@@ -180,3 +180,14 @@ with fee                                         tenant farmer Krückeberg
 filed                                            No. 10 in Berenbusch.
 ....
 |===
+
+=== Explanations
+
+“b.m. zum Amtsbericht” literally means: “to be attached to the Amt’s report.” "attach"
+It sounds passive (paper-clipping one document to another), but to the clerk Spreng, it
+was shorthand for a routing instruction: "This petition is to be sent to the Amt,
+and the Amt's report must come back with it attached."
+
+That's why in Document 2, the Amt's report opens with: "Auf Auf die anbei zurückerfolgende
+Bittschrift des Colons Krückeberg…” or “In response to the petition of Colon Krückeberg, herewith
+returned.”
