@@ -23,7 +23,6 @@ Rescr.  Rescript is simply the shortened form of the Latin Rescriptum, borrowed 
 into English.
 ****
 
-//[role="section-narrow"]
 == Transliteration 
 
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
@@ -181,6 +180,7 @@ transliteration (diplomatic accuracy) and render the English **to the Amt Bücke
 ====
 
 == English Version
+
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation (corrected)
 |===

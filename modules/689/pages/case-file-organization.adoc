@@ -11,6 +11,7 @@ for example, the contents list has these two documents listed under entries #2 a
 
 [cols="1a,6a",width="70%",options="noheader"]
 |===
+|Numbere|
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 
@@ -32,11 +33,12 @@ for example, the contents list has these two documents listed under entries #2 a
 
 === Cross-Referencing the Contents List to Documents
 
-For number in column one of the Acten Designation, the contents list, the first document listed will have
-its corresponding Acten Designation entry number written in the upper right corner of the first page.
-It will be bordered (or paritially bordered) by square. Take, for example, entry #2 in the contents list, 
-which is xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]. The upper right corner of the first page
-of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg] has *2* enclosed within a square border:
+For each number in column one of the contents list, the first document listed will have
+this number written in the upper right corner of the first page. It will be bordered (or
+paritially bordered) by square. Take, for example, entry #2 in the contents list, which is
+xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]. The upper right corner of the first
+page of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg] has *2* enclosed within
+a square border:
 
 image::example-entry-num-on-doc.jpg[link=self]
 
