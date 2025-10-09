@@ -180,7 +180,7 @@ why #10 has no boxed number in the case file._
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation (corrected)
 |===
-|Item No | Document Decription (left) | Subject note (right) | Place | Year | Mon | Z.
+|Item No | Document Decription | Subject note | Place | Year | Mon | Z.
 
 |1.
 |Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2]
