@@ -32,10 +32,11 @@ for example, the contents list has these two documents listed under entries #2 a
 
 === Cross-Referencing the Contents List to Documents
 
-For each entry, the first document listed will have its corresponding Acten Designation entry number
-written in the upper right corner of the first page. It will be bordered by square (or partial square).
-Take, for examplem, the first document for entry #2 is xref:doc-02.adoc#doc-index-2-1[Bericht
-Amts Bückeburg]. The upper right corner of its first page has *2* enclosed with a square border:
+For number in column one of the Acten Designation, the contents list, the first document listed will have
+its corresponding Acten Designation entry number written in the upper right corner of the first page.
+It will be bordered (or paritially bordered) by square. Take, for example, entry #2 in the contents list, 
+which is xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]. The upper right corner of the first page
+of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg] has *2* enclosed within a square border:
 
 image::example-entry-num-on-doc.jpg[link=self]
 
