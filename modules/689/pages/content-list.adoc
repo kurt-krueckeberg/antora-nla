@@ -1,6 +1,12 @@
 = Contents List
 :page-role: wide
 
+The first column *"No"* is a case item or grouping number for a cluster of related documents. Each number groups
+together the related petitions, reports, and official orders concerning a particular stage in the case, in which
+one aspect of the overall decision making process is under consideration. The description of the overall case, what
+the Rentcammer is trying to ultimately decided, is given by entry 1: the petition of Colon Krückeberg of No. 10
+Berenbusch for a loan of 200 Reichsthaler.
+
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 .Rescript Explained
@@ -174,15 +180,20 @@ into English.
 
 .Carifications
 ****
-Item *#10* in the case file is *not a memo*; it’s the *Obligation (the sealed promissory note itself)*. Originals
-of *promissory notes* were often *kept in a separate “obligations” series* and, after repayment, *returned to the
-debtor*—so they commonly *don’t carry* the file’s boxed corner number and may not be physically in the case file
-anymore.  _That’s why #10 has no boxed number in the case file._
+In entry *#3*'s *"Acten Designation (right)"* column "gegen" (in "gegen Verpfändung seiner sämmtlichen Ländereien")
+does not mean "against", its typically meaning, but rather "on condition of". The Rentcammer was willing to
+consider a loan but only against the pledge of his entire holding. The Chamber’s willingness to approve a loan was
+conditional upon his pledging all of his landholdings as collateral. 
 
 In item *#7* the *Cpt. K. Res. aus Amt Bückeburg*, *aus* is incorrect. The actual document itself has *an* not
 *aus*: *Concept an das Amt Bückeburg*, bears no *pr. in Cam.* (incoming-presented) mark, and carries the Kammer
 closing *Fürstl: p.*. *aus* is retained in the transliteration for accuracy, but rendered as *to the Amt Bückeburg*
 in the English translation, noting the likely clerical slip.
+
+Item *#10* in the case file is *not a memo*; it’s the *Obligation (the sealed promissory note itself)*. Originals
+of *promissory notes* were often *kept in a separate “obligations” series* and, after repayment, *returned to the
+debtor*—so they commonly *don’t carry* the file’s boxed corner number and may not be physically in the case file
+anymore.  _That’s why #10 has no boxed number in the case file._
 ****
 
 == English Version
@@ -335,14 +346,3 @@ in the English translation, noting the likely clerical slip.
 |===
 
 === Comments and Insights
-
-The first column *"No"* is a case item or grouping number for a cluster of related documents. Each number groups together
-the related petitions, reports, and official orders concerning a particular stage in the case, in which one aspect
-of the overall decision making process is under consideration. The description of the overall case, what the Rentcammer is
-trying to ultimately decided, is given by entry 1: the petition of Colon Krückeberg of No. 10 Berenbusch for a
-loan of 200 Reichsthaler.
-
-In entry 3's *"Acten Designation (right)"* "gegen" in "gegen Verpfändung seiner sämmtlichen Ländereien" does not mean
-"against", its typically meaning, but rather "on condition of". The Rentcammer was willing to consider a loan but only
-against the pledge of his entire holding. The Chamber’s willingness to approve a loan was conditional upon his pledging
-all of his landholdings as collateral. 
