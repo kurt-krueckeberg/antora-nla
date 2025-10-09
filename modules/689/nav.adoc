@@ -5,7 +5,7 @@
 * xref:cover.adoc[]
 * xref:amt-decree.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
-* xref:content-list.adoc[]
+* xref:content-list.adoc[Contents]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
 ** xref:doc-03.adoc[]
