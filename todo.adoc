@@ -2,7 +2,12 @@
 
 Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388,
 
-Work thru the remaining documents to see how they flow, noting any new identitifiers.
+TODO: Link document 2 and 3.
+
+* document 3 is Krückeberg follow-up request to the Amt's report. That report refused to support install payments
+that Krückeberg that would pay to Hempel and Sons. They had already decided the case warranted the seizure and
+forced sale of his property. They did agree to permit him to take out a loan from the government, so Hempel and
+Sons could be paid immediately, which he would have to pay back to the government.
 
 Consult other-numbering-notes.adoc
 
