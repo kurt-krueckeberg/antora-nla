@@ -76,15 +76,14 @@ The numbers increased throughout the year marking the chronological order of han
 
 === Related Notations and Abbreviations
 
-* *RC* = shorthand for *Rentkammer*.  
-  - Example: "`RC Rescr.`" = *Rentkammer-Rescript*, a formal directive or decision.  
+* *RC* = shorthand for *Rentkammer*.  Example: "RC Rescr." = *Rentkammer-Rescript*, a formal directive or decision.  
 * *RC comment* = Margin note from a Rentkammer clerk or councillor directing the next step (e.g., forward to Amt).  
 * *ad NC* = “in reference to NC \####”. It links a later follow-up document to an earlier one. 
 
 === Distinction Between the Two Systems
 
 * The *NC number* was simply a running number the Rentkammer gave to each document as it came across their desk.
-* The *Nr pr.* was a *protocol register number*, assigned upon entry into the official ledger.  
+* The *Nr pr.* was a *protocol number*, assigned upon entry into the official ledger.  
 
 === Conclusion
 
