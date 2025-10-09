@@ -260,18 +260,19 @@ Bbg. 15 Nov. 1841.
 
 F.p.
 
- [sets of initials]
-_Fr._
-_R._
-_Wh_
-_Lm_
-_L_
+
+[intials of those who worded text]
+_Lm_ _L_
+
+[initials of other Rentcammer officials]
+_Fr._ _R._ _Wh_
 
 _Expedirt                           
 Holste                
 17/11_.                  
              
 
+[text in bottom right]
 An
 Fürstliche Rentkammer.
 Des Colon Krückeberg
@@ -298,15 +299,17 @@ is denied.
 B[ücke]b[ur]g. 15 Nov. 1841.
 
 By princely authority
-[initials of those who worded text above]
-Lm        L
+
+[intials of those who worded text]
+_Lm_ _L_
 
 [initials of other Rentcammer officials]
-Fr.
-R. 
+_Fr._ _R._ _Wh_
 
-logged as dispatched by clerk Holste on 17 November 1841             
+_logged as dispatched by clerk Holste on 17 November 1841_             
 
+
+[text in bottom right]
 To the Princely Rentkammer.
 The most humble petition of Colon Krückeberg, No. 10 in Berenbusch,
 for the granting of a loan from the chamber treasury.
