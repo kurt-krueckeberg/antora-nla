@@ -36,7 +36,7 @@ Durchlauchtigster Fürst, Gnädigst regierender Fürst und Herr!
 [rok](clerk's initials)             
 
 
-Bl[att]. Seite 3.
+RC. Seite 3.
 
 
 Zur völligen Bezahlung der Schuld an die Hempel Söhne
@@ -92,6 +92,8 @@ Most Serene Prince, Gracious reigning Prince and Lord!
                   
 [rok](clerk's initials)             
 
+_RC. page 3_
+
 For the complete payment of the debt to the Hempel sons
 in Minden, I have been granted the consent for a loan
 of 200 rt, as the office has informed me, and I have
@@ -136,11 +138,10 @@ filed.
 [role="section-narrow"]
 === Summary
 
-On 15 November 1841, a Rentcammer ??clerk?? named Reck prepared a formal valuation of Krückeberg’s
-farmstead and buildings. After deducting debts, he calculated a net worth of 825 Reichsthaler, but judged it
-doubtful whether a further 200 rt loan would be secure. Although acknowledging loans had been made in worse cases,
-he recommended against approval, and the Gesuch (the petition for a loan by Johann Heinrich Krückeberg was marked
-to be refused.
+On 15 November 1841, a Rentcammer ??clerk?? named Reck prepared a formal valuation of Krückeberg’s farmstead and
+buildings. After deducting debts, he calculated a net worth of 825 Reichsthaler, but judged it doubtful whether a
+further 200 rt loan would be secure. Although acknowledging loans had been made in worse cases, he recommended
+against approval, and the Gesuch (the petition for a loan by Johann Heinrich Krückeberg was marked to be refused.
 
 The same-day note at the bottom, written in a different hand and introduced with the abbreviation "KC." for Kammer
 Collegium, shows that the Rentcammer’s board itself acted on the clerk’s opinion and formally resolved: “the
@@ -247,19 +248,28 @@ image::10-l.png[title="Click to Enlarge",link=self]
 ....
 St. 3gl.                              N. C. 5038.
 
-Cop[ia]t      
-an den Colon Krückeberg N. 10 in Berenbusch                           
+Copt      
+an den Colon Krück-
+eberg N. 10
+in Berenbusch                           
 
 Das Gesuch des p Krückeberg vom 11. d. M., um
 ein Darlehn von 200 rt aus der Kammerkasse
 findet keine Statt.
 Bbg. 15 Nov. 1841.
 
-Fr.                                
-R.                                   F.p.
-Expedirt                             Lm        L
+F.p.
+
+ [sets of initials]
+_Fr._
+_R._
+_Wh_
+_Lm_
+_L_
+
+_Expedirt                           
 Holste                
-17/11.                  
+17/11_.                  
              
 
 An
