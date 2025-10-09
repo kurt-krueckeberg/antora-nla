@@ -41,7 +41,7 @@ promissory note itself)*. Originals of *promissory notes* were often
 *kept in a separate “obligations” series* and, after repayment,
 *returned to the debtor*—so they commonly *don’t carry* the file’s boxed
 corner number and may not be physically in the case file anymore.
-_That’s why #10 has no boxed number in your file._
+_That’s why #10 has no boxed number in the case file._
 ====
 
 == Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
@@ -52,63 +52,48 @@ used parallel numbering systems to track petitions, reports, rescripts, and rela
 Understanding these systems is crucial for interpreting archival documents, since
 each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
 
-=== The “NC \####” Numbers — Chamber Docket / Expedition Numbers
-
-image::nc-xxxx.jpg[link=self]
-
-* *Definition*: Sequential docket numbers assigned by the Rentkammer as items were logged and handled
-  during a given year.
-* *Usage*: Written by a clerk when the treasury posted or processed an act (petition, repayment, receipt, report).
-* *Function*: Marks the chronological order of handling. Multiple NC numbers may occur in a single case file,
-  since each discrete act received its own NC.
-* *Examples*:  
-  - NC 2444, NC 2696 = follow-up entries in 1845 to record repayments or receipts.  
-  - NC 4381 = Petition of Krückeberg, October 1841.  
-  - NC 4487 = Report of Amt Bückeburg, November 1841.
-
-NOTE: Historians debate the literal expansion of “NC” (e.g., *No. Cammeral*), but
-what matters is its function as the *annual docket number of the Rentkammer*.
-
 === The “Nr pr. \####” Numbers — Protocol / Register Numbers
 
 image::nr-pr.jpg[link=self]
 
 * *Definition*: The entry number in the Rentkammer’s *Protokollbuch* (protocol book), a line-by-line ledger
   recording decisions and actions.
-* *Usage*: When an act was officially registered in the protocol, it was assigned a serial number.
-  Clerks often wrote that number back onto the document itself.
+
+A protocol number was assigned once when the case was formally undertaken by the Rentkammer. In the case involving
+Johann Heinrich Krückeberg request for a loan, *Nr pr: 1274* was written on the bottom of the first page of the of
+his Octoboer 2, 1841, xref:doc-01.adoc[Petition].  Every subsequent document in the case (reports, cover slips,
+rescripts, replies) still belonged to that protocol entry — but the number itself didn’t need to be re-written on
+every single sheet.  So, *“Nr pr. 1274”* is the umbrella identifier under which the whole Krückeberg loan matter
+was logged in the protocol book.  
+
 * *Variants*: Appears as *Nr pr.* or *Num pr.*, with identical meaning.
-* *Function*: Represents the *contemporaneous registry number* for the case item,
-  distinct from the NC docket number.
+
+=== The “NC \####” Numbers — Chamber Docket / Expedition Numbers
+
+image::nc-xxxx.jpg[link=self]
+
+The *NC ####* numbers appear in the upper left corner of the first page of each major document. They
+are merely sequential numbers assigned by the Rentkammer as items were logged and handled during a given year.
+These numbered increased through out the year. They mark the chronological order of handling. *Examples*:  
+
+* NC 2444, NC 2696 = follow*up entries in 1845 to record repayments or receipts.  
+* NC 4381 = Petition of Krückeberg, October 1841.  
+* NC 4487 = Report of Amt Bückeburg, November 1841.
 
 === Related Notations and Abbreviations
 
 * *RC* = shorthand for *Rentkammer*.  
   - Example: "`RC Rescr.`" = *Rentkammer-Rescript*, a formal directive or decision.  
 * *RC comment* = Margin note from a Rentkammer clerk or councillor directing the next step (e.g., forward to Amt).  
-* *ad NC* = “in reference to NC \####”, linking a later act to its original NC-numbered petition.  
+* *ad NC* = “in reference to NC \####”. It links a later follow-up document to an earlier one. 
 
 === Distinction Between the Two Systems
 
 * The *NC number* was simply a running number the Rentkammer gave to each document as it came across their desk.
 * The *Nr pr.* was a *protocol register number*, assigned upon entry into the official ledger.  
-* Not all documents carry both numbers:  
-  - Some petitions show both an NC and a Nr pr.  
-  - Others only show NC (if not formally protocolized).  
-  - Some case files contain follow-up NC entries but lack additional protocol numbers.
-
-=== Worked Examples
-
-* *Document 1* — Petition of Krückeberg:  
-  - NC 4381 (docket number)  
-  - Nr pr. 1274 (protocol entry)  
-  - Date: 2 Oct 1841, forwarded to Amt Bückeburg.  
-
-* *Document 2* — Report of Amt Bückeburg:  
-  - NC 4487 (docket number)  
-  - Registered under the same protocol reference as Document 1.  
 
 === Conclusion
+
 The Rentkammer’s dual numbering system — NC docket numbers and Nr pr. protocol entries —
 provided both an operational sequence of handling and a permanent ledger reference.
 Together they allow today’s researcher to trace the administrative life-cycle of a petition
