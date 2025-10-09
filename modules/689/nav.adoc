@@ -9,7 +9,6 @@
 * xref:amt-decree.adoc[]
 * xref:service-slip-july-10-1841.adoc[]
 * xref:content-list.adoc[]
-** xref:docs-1-and-2-analysis.adoc[]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
 ** xref:doc-03.adoc[]
@@ -20,3 +19,5 @@
 ** xref:doc-08.adoc[]
 ** xref:doc-09.adoc[]
 ** xref:doc-10.adoc[]
+* Analysis
+** xref:docs-1-and-2-analysis.adoc[]
