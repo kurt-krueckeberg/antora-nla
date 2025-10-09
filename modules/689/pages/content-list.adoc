@@ -1,33 +1,13 @@
 = Contents List
 :page-role: wide
 
-The first column *"No"* is a case item or grouping number for a cluster of related documents. Each number groups
+The first column of the contenst list is a number for a cluster of related documents. Each number groups
 together the related petitions, reports, and official orders concerning a particular stage in the case, in which
-one aspect of the overall decision making process is under consideration. The description of the overall case, what
-the Rentcammer is trying to ultimately decided, is given by entry 1: the petition of Colon Krückeberg of No. 10
-Berenbusch for a loan of 200 Reichsthaler.
+one aspect of the overall decision making process is under consideration. Entry #1 "The petition of Colon Krückeberg of No. 10
+Berenbusch for a loan of 200 Reichsthaler" describes not only the first document but the essense of the
+case.
 
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
-
-.Rescript Explained
-****
-A Rescript is abbreviated in the Acten Desingation, as " “Rescr.” or “KRes.” (Kammer-Rescript). in the Acten
-Designation. It   is a *written official reply or order* issued by a higher authority in response to a petition,
-report, or request.
-
-In a legal context: it’s an *authoritative decision communicated in writing*.  In a financial-administrative
-context, which is the case here, it’s a *formal directive, decree, or ruling.*
-
-The best translation is "Official Order of the Chamber” or “Decree of the Chamber”.
-
-*Etymology*:
-
-In classical and medieval Latin, *rescriptum*  literally means “something written back” (re-scribere). In
-Roman and later European law it *meant a written reply by the ruler* to a petition. German chancery practice
-inherited the term directly from Latin, and it shows up in 18th–19th century files as Rescriptum or abbreviated
-Rescr.  Rescript is simply the shortened form of the Latin Rescriptum, borrowed into German (Reskript) and then
-into English.
-****
 
 == Transliteration 
 
