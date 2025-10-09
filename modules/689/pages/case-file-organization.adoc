@@ -72,11 +72,7 @@ image::nc-xxxx.jpg[link=self]
 
 The *NC ####* numbers appear in the upper left corner of the first page of each major document. They
 are merely sequential numbers assigned by the Rentkammer as items were logged and handled during a given year.
-These numbered increased through out the year. They mark the chronological order of handling. *Examples*:  
-
-* NC 2444, NC 2696 = follow*up entries in 1845 to record repayments or receipts.  
-* NC 4381 = Petition of Krückeberg, October 1841.  
-* NC 4487 = Report of Amt Bückeburg, November 1841.
+The numbers increased throughout the year marking the chronological order of handling. 
 
 === Related Notations and Abbreviations
 
