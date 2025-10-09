@@ -2,10 +2,6 @@
 = 1: Petition of Colon Krückeberg No. 10 in Berenbusch
 :page-role: wide
 
-*TODO:* The document ends with "Nro g d." Waht does this mean? The same or nearly the same appears at the end
-of document 3, also a petition. But each has a different transliteration and translation.
-
-
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::02-r.png[title="Click to Enlarge",link=self]
