@@ -3,7 +3,6 @@
 //* Case File
 //* xref:analyze.adoc[]
 * xref:overview.adoc[]
-* xref:case-file-organization.adoc[]
 * xref:cover.adoc[]
 * xref:glossary.adoc[]
 * xref:amt-decree.adoc[]
@@ -20,4 +19,5 @@
 ** xref:doc-09.adoc[]
 ** xref:doc-10.adoc[]
 * Analysis
+* xref:case-file-organization.adoc[]
 ** xref:docs-1-and-2-analysis.adoc[]
