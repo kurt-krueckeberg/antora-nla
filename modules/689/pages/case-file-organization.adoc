@@ -77,6 +77,8 @@ The numbers increased throughout the year marking the chronological order of han
 === Related Notations and Abbreviations
 
 * *RC* = shorthand for *Rentkammer*.  Example: "RC Rescr." = *Rentkammer-Rescript*, a formal directive or decision.  
++
+image::15-r-vertical.png[link=self]
 * *RC comment* = Margin note from a Rentkammer clerk or councillor directing the next step (e.g., forward to Amt).  
 * *ad NC* = “in reference to NC \####”. It links a later follow-up document to an earlier one. 
 
