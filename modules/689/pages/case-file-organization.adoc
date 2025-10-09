@@ -31,7 +31,7 @@ for example, the contents list has these two documents listed under entries #2 a
 |xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |===
 
-=== Cross-Referencing the Contents List to Documents
+=== Cross-Referencing the Contents List to Its Documents
 
 For each number in column one of the contents list, the first document listed will have
 this number written in the upper right corner of the first page. It will be bordered (or
