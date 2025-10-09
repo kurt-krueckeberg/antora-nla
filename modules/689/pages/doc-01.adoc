@@ -93,10 +93,10 @@ NC 4381                             pr. in Cam 2 Oct 1841
                      Gnädigst regierender Fürst
  D[initial]          und Herr!             
 
-RC.
+_RC.
 b.m. zum Amtsbericht
 B. 4 Oct 41
-Spreng
+Spreng_
 
 Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
 die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
@@ -140,10 +140,10 @@ NC 4381                   presented in Cammer 2 Oct 1841
 
 Most Serene Prince, gracious reigning Prince and Lord,
 
-_Rent Chamber_
-_to be attached to the Amt’s report._
-_Bückeburg, 4 October 1841_
-_Spreng_
+_Rent Chamber
+to be attached to the Amt’s report.
+Bückeburg, 4 October 1841
+Spreng_
 
 My late father—and, after his death, my mother, who continued my
 father’s trade as a shoemaker—incurred a substantial leather
