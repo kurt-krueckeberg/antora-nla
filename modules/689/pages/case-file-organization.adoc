@@ -11,7 +11,7 @@ for example, the contents list has these two documents listed under entries #2 a
 
 [cols="1a,6a",width="70%",options="noheader"]
 |===
-|Numbere|
+|Number|Documents
 |1.
 |xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 
