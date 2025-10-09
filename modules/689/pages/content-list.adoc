@@ -1,10 +1,9 @@
 = Contents List
 :page-role: wide
 
-The number in the first column designates a cluster of related documents in which one aspect of the overall
-decision making process is under consideration. Entry #1 "The petition of Colon Krückeberg of No. 10 Berenbusch for
-a loan of 200 Reichsthaler" describes not only the first document but the overall case: should Johann Heinrich
-Krückeberg be granted a loan, so he can repay his enormous debt to Hempel and Sons?
+The number in the first column of the contents list designates a cluster of related documents in which one aspect
+of the overall decision making process is under consideration. The 2^nd^ column describes each document, the third
+column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
 
 image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
