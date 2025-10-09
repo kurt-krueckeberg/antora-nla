@@ -183,7 +183,7 @@ why #10 has no boxed number in the case file._
 |No | Document Decription | Subject note | Place | Year | Mon | Z.
 
 |1.
-|Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2]
+|xref:doc-01.adoc#doc-index-1-1[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
 |Approval of a loan of 200 r.
 |Bbg.
 |1841
@@ -191,7 +191,7 @@ why #10 has no boxed number in the case file._
 ^|2
 
 |2.
-|Report of the Office of Bückeburg
+|xref:doc-02.adoc#doc-index-2-1[Report of the Office of Bückeburg]
 .2+.^|Funds from the Chamber Treasury
 |〃
 |〃
@@ -199,14 +199,14 @@ why #10 has no boxed number in the case file._
 ^|7
 
 |〃
-|Official Order of the Chamber to the same
+|xref:doc-02.adoc#doc-index-2-2[Official Order of the Chamber to the same]
 |〃
 |〃
 |〃
 ^|14
 
 |3.
-|Petition of Colon Krückeberg
+|xref:doc-03.adoc#doc-index-3-1[Petition of Colon Krückeberg]
 .3+.^|on condition of pledging all of his lands [as collateral].
 |Bbg.
 |1841
@@ -214,21 +214,21 @@ why #10 has no boxed number in the case file._
 ^|11
 
 |〃
-|Report of the Privy Chamber Councillor Reck
+|xref:doc-03.adoc#doc-index-3-2[Report of the Privy Chamber Councillor Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|Official Order of the Chamber to Colon Krückeberg
+|xref:doc-03.adoc#doc-index-3-3[Official Order of the Chamber to Colon Krückeberg]
 |〃
 |〃
 |〃
 |
 
 |4.
-|Petition of Colon Krückeberg
+|xref:doc-04.adoc#doc-index-4-1[Petition of Colon Krückeberg]
 |
 |Bbg.
 |1841
@@ -236,7 +236,7 @@ why #10 has no boxed number in the case file._
 ^|21
 
 |〃
-|Official Order of the Chamber to Officer Creuzinger
+|xref:doc-04.adoc#doc-index-4-2[Official Order of the Chamber to Officer Creuzinger]
 <|Further petition concerning the sale of his lands on the Söhren pasture
 |〃
 |〃
@@ -244,7 +244,7 @@ why #10 has no boxed number in the case file._
 ^|25
 
 |5.
-|Report of Officer Creuzinger with attached site plan of the Söhren pasture
+|xref:doc-05.adoc#doc-index-5-1[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
 |
 |Bbg.
 |1841
@@ -252,7 +252,7 @@ why #10 has no boxed number in the case file._
 ^|10
 
 |6.
-|Report of Privy Chamber Councillor Reck
+|xref:doc-06.adoc#doc-index-6-1[Report of Privy Chamber Councillor Reck]
 |
 |〃
 |〃
@@ -260,7 +260,7 @@ why #10 has no boxed number in the case file._
 ^|16
 
 |〃
-|Highest Official Order of His Serene Highness
+|xref:doc-06.adoc#doc-index-6-2[Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
@@ -268,7 +268,7 @@ why #10 has no boxed number in the case file._
 ^|19
 
 |〃
-|Protocol by Councillor Reck and Highest Official Order of His Serene Highness
+|xref:doc-06.adoc#doc-index-6-3[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
@@ -276,7 +276,7 @@ why #10 has no boxed number in the case file._
 ^|23
 
 |7.
-|Official Order of the Chamber to the Office of Bückeburg
+|xref:doc-07.adoc#doc-index-7-1[Official Order of the Chamber to the Office of Bückeburg]
 |
 |Bbg.
 |1841
@@ -284,7 +284,7 @@ why #10 has no boxed number in the case file._
 ^|24
 
 |8.
-|Report of the Office of Bückeburg
+|xref:doc-08.adoc#doc-index-8-1[Report of the Office of Bückeburg]
 |
 |Bbg.
 |1842
@@ -292,7 +292,7 @@ why #10 has no boxed number in the case file._
 ^|2
 
 |〃
-|Official Order of the Chamber to the same
+|xref:doc-08.adoc#doc-index-8-2[Official Order of the Chamber to the same]
 |
 |〃
 |〃
@@ -300,7 +300,7 @@ why #10 has no boxed number in the case file._
 ^|20
 
 |〃
-|likewise to Privy Councillor Berger
+|xref:doc-08.adoc#doc-index-8-3[likewise to Privy Councillor Berger]
 |
 |〃
 |〃
@@ -308,7 +308,7 @@ why #10 has no boxed number in the case file._
 |
 
 |9.
-|Report of the Office of Bückeburg
+|xref:doc-09.adoc[Report of the Office of Bückeburg]
 |
 |Bbg.
 |1842
@@ -323,5 +323,3 @@ why #10 has no boxed number in the case file._
 |
 |
 |===
-
-=== Comments and Insights
