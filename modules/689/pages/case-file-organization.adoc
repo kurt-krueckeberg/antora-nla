@@ -79,7 +79,9 @@ The numbers increased throughout the year marking the chronological order of han
 * *RC* = shorthand for *Rentkammer*. In text in the image below begins with *RC*:  
 +
 image::15-r-vertical.png[title="Text begins with RC.",link=self]
-* *ad NC* or *ad Num Cam* = “in reference to NC \####”. It links a later follow-up document to an earlier one. 
+* *ad NC* or *ad Num Cam* = “in reference to NC \####”. It links a later follow-up document to an earlier one.
+In the image below, *ad* appears above *Num: Cam: 5702*, meaning "concerning the Rentcammer document numbered 
+5702". 
 +
 image::ad-nc.jpg[link=self]
 
