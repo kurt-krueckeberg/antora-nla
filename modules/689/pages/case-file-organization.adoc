@@ -44,8 +44,7 @@ image::example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
 === Overview
 During the mid-19th century, the Rentkammer (Chamber Treasury) in Schaumburg-Lippe
 used parallel numbering systems to track petitions, reports, rescripts, and related acts.
-Understanding these systems is crucial for interpreting archival documents, since
-each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
+Each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
 
 === The “Nr pr. \####” Numbers — Protocol / Register Numbers
 
