@@ -34,13 +34,10 @@ for example, the contents list has these two documents listed under entries #2 a
 === Cross-Referencing the Contents List to Its Documents
 
 For each number in column one of the contents list, the first document listed will have
-this number written in the upper right corner of the first page. It will be bordered (or
-paritially bordered) by square. Take, for example, entry #2 in the contents list, which is
-xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]. The upper right corner of the first
-page of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg] has *2* enclosed within
-a square border:
+this number written in the upper right corner of the first page. This is the first page
+of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]:
 
-image::example-entry-num-on-doc.jpg[link=self]
+image::example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
 
 == Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
 
