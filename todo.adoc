@@ -1,4 +1,8 @@
-= Analyze This Way
+== Document 8 has a different Num Pr number
+
+...than document 1.
+
+== Analyze This Way
 
 Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388,
 
