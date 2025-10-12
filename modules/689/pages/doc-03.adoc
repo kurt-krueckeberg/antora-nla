@@ -134,7 +134,7 @@ filed.
 
 The note _RC. Seite 3_ (Rentcammer page 3) refers to the third page in the set of three documents
 comprising #3 in the Acten Designation, the contents list, which is the 2^nd^ document, the 
-xref:doc-03.html#doc-index-3-2[Vortrag des GKR od Reck (Memorandum by Government Councillor von Reck)].
+xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck (Memorandum by Government Councillor von Reck)].
 
 [[doc-index-3-2]]
 == Valuation and Senior Government Councillor Reck's Opinion (15 November 1841)
