@@ -8,6 +8,8 @@
 * xref:content-list.adoc[Contents]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
+*** xref:doc-02.adoc#doc2-report[Report of Office of Bückeburg]
+*** xref:doc-02.adoc#[Official Order of the Rentcammer to the Office Bückeburg]
 ** xref:doc-03.adoc[]
 *** xref:doc-03.adoc#doc-index-3-1[Petition of Colon Krückeberg]
 *** xref:doc-03.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck]

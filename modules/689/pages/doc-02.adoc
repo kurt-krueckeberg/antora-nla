@@ -1,8 +1,11 @@
-= 2: Report of the Amt Bückeburg on Colon Krückeberg’s Debt and Loan Request (7 Oct 1841; entered 11 Oct 1841)
+= #2 Documents
+
+[[doc2-report]]
+== Report of the Amt Bückeburg (7 Oct 1841; entered 11 Oct 1841)
 :page-role: wide
 
 [role="section-narrow"]
-== Overview
+=== Overview
 
 This report was issued by the *Amt Bückeburg* on 7 October 1841 in response to an earlier petition by Colon Johann
 Heinrich Krückeberg of Berenbusch (No. 10). It was presented to the Fürstliche Rentkammer on 11 October 1841 and
@@ -17,16 +20,16 @@ The case file then includes two ancillary items:
 1. A cover slip recording the Rentkammer’s resolution and dispatch.  
 2. A rubric heading identifying the petition for filing purposes.
 
-== Timeline
+=== Timeline
 
 * 7 October 1841 — Report issued by the Amt Bückeburg.  
 * 11 October 1841 — Report presented at the Rentkammer, registered as N.C. 4487.  
 * 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.  
 * 17 November 1841 — Clerk Holste logs expedition of the decision.  
 
-== Amt Report (7 Oct 1841; pr. in Cam 11 Oct 1841)
+=== Amt Report (7 Oct 1841)
 
-=== Summary
+==== Summary
 
 The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing Hempel debt, rejected his request to
 pay it off in installments, but recommended that he be permitted to contract a loan of 190 Reichsthaler to settle
@@ -38,7 +41,7 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 |image::04-r-original.png[title="Click to Enlarge",link=self]
 |image::05-l.png[title="Click to Enlarge",link=self]
 |===
-
+*
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::05-r.png[title="Click to Enlarge",link=self]
@@ -209,7 +212,7 @@ acting on behalf of.
 |===
 
 [[doc-index-2-2]]
-== Cover Slip and Resolution (14 Oct 1841)
+== Official Order of the Chamber to the Amt (14 Oct 1841)
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
 in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
