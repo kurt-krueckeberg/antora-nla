@@ -13,16 +13,16 @@
 |Transliteration|Translation
 
 |
-....
-Stpl: 3 g                       N. C. 5702.
+[verse]
+[top, left] Stpl: 3 g
 
-Concept
-an das Amt Bückeburg
+[top mid-page] N. C. 5702.
+
+Concept an das Amt Bückeburg
 
 [Wh]           
                 
-[cap Bhösselnd  
-29/12]          
+[cap Bhösselnd 29/12]          
 
 Darlehn für den Colon Krückeberg No 10 in Berenbusch betr:
 
@@ -45,9 +45,12 @@ Lm   L
 |
 [verse]
 ____
-Office Draft to the Amt Bückeburg
+[top, left] Stpl: 3 g
 
-Here’s a clear, layman-friendly translation (avoiding “Obligation”):
+[top mid-page] N. C. 5702.
+
+
+Office Draft to the Amt Bückeburg
 
 *Re: Loan for Colon Krückeberg, No. 10 in Berenbusch*
 
