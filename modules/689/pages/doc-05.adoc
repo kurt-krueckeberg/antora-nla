@@ -1,6 +1,7 @@
 [[doc-index-5-1]]
-= Documendt 5: Evaluation of the Krückeberg Parcel (Berenbusch): Flooding, Use, and Value for Potential Sale in Debt Proceedings (10 Dec 1841)
+= #5 Document: Report of Officer Creuzinger with attached site plan of the Söhren pasture
 :page-role: wide
+
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -113,8 +114,8 @@ Baum d 10ten Decbr 1841.
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 NC. 5587
 presented in Cam[mer] 11 Dec 1841
 
@@ -176,5 +177,5 @@ difficult situation.
 Baum Dec. 10, 1841.
 
 [Creuzinger]
-____
+....
 |===
