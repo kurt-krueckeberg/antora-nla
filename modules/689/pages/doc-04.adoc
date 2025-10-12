@@ -52,14 +52,14 @@ what price, and a copy of this instruction was entered into the case file.
 NC. 5263               pr. in Cam 24 Nov.    4
 3 gl. Sthl[Stempelsteuer]
 
-        Durchlautigster Gnädigster Fürst und Herr
-        Durchlauchtigster Fürst
-
 [rdk]
 ....
 
 [verse]
 ____
+Durchlautigster Gnädigster Fürst und Herr
+Durchlauchtigster Fürst
+
 Ich finde mich notgedrungen dem Durchläutigsten Fürst
 untertänigst zu bitten da ich wegen Leder Schulden von meinem
 Eltern, an die Hempelsöhne in Minden noch einen langwierigen
@@ -106,14 +106,14 @@ ____
 ....
 NC. 5263   presented in the Chamber on 24 November 1841        
 3 gr. stamp duty
+
+[rdk] (clerk’s initials)
 ....
 
 [verse]
 ____
 Most Serene, Most Gracious Prince and Lord, 
 Most Serene Prince, 
-
-[rdk] (clerk’s initials)
 
 I find myself compelled to most humbly petition Your Serene
 Highness, since, because of leather debts of my parents to the
