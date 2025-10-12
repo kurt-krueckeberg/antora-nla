@@ -8,7 +8,10 @@
 * xref:content-list.adoc[Contents]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
-** xref:doc-03.adoc[]
+** Item 3:
+*** xref:doc-03.adoc[]
+*** xref:doc-03.adoc#doc-index-3-2[]
+*** xref:doc-03.adoc#doc-index-3-3[]
 ** xref:doc-04.adoc[]
 ** xref:doc-05.adoc[]
 ** xref:doc-06.adoc[]
