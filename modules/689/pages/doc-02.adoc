@@ -1,7 +1,7 @@
 = #2 Documents
 
 [[doc-index-2-1]]
-== Report of the Amt Bückeburg (7 Oct 1841)
+== Report of the Office of Bückeburg (7 Oct 1841)
 :page-role: wide
 
 [role="section-narrow"]
@@ -211,7 +211,7 @@ acting on behalf of.
 |===
 
 [[doc-index-2-2]]
-== Official Order of the Chamber to the Office Bückeburg (14 Oct 1841)
+== Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
 in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
