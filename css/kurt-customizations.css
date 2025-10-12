@@ -9,20 +9,12 @@ body.wide .doc
    }
 }
 
-
-/* Define a [role="nongray"] for [literal] and [verse] blocks */
-.literalblock.nongray > .content,
-.literalblock.nongray > .content > pre,
-.verseblock.nongray > pre.content {
-  background: none !important;
-  border: 0 !important;
-  box-shadow: none !important;
-  padding: 0 !important;            /* optional */
-}
-.literalblock.nongray,
-.verseblock.nongray {
-  --color-pre-bg: transparent !important;
-  --pre-bg: transparent !important;
+/* Revised micro-CSS for [verse.role=para] */
+body.wide .verseblock.para pre.content {
+  white-space: normal;   /* normal paragraph flow (no per-line <br>) */
+  font-style: normal;    /* prevent unwanted italics */
+  font-size: 0.9375rem;  /* matches Antora table text size more closely */
+  line-height: 1.5;      /* comfortable line spacing */
 }
 
 /* When ':page-role: wide' is used, images will have shadwow-border. */

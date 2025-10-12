@@ -47,8 +47,8 @@ what price, and a copy of this instruction was entered into the case file.
 |Transliteration|Translation
 
 |
-//[verse]
-//____
+[verse.role=para]
+____
 [upper left]  NC. 5263  
 [upper right] pr. in Cam 24 Nov.    4
 
@@ -98,11 +98,11 @@ Untertänigster Colon Krückeberg
 Nro 10 in Berenbusch
 d 21ten November
 1841
-//____
+____
 
 |
-//[verse]
-//____
+[verse.role=para]
+____
 [upper left]  NC. 5263
 [upper right] presented in the Chamber on 24 November 1841        
 
@@ -151,7 +151,7 @@ Your most humble servant,
 Colon Krückeberg  
 No. 10 in Berenbusch  
 21 November 1841
-//____
+____
 |===
 
 [[doc-index-4-2]]
