@@ -38,13 +38,14 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|14
 
 |3.
-|xref:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+|xref:doc-03.adoc#doc-index-3-1[Vorst[ellung\]. des Colons Krückeberg]
 .3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
 |Nov.
 ^|11
 
+[[item3-2nd-doc]]
 |〃
 |xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
 |〃
@@ -213,7 +214,7 @@ why #10 has no boxed number in the case file._
 ^|11
 
 |〃
-|xref:doc-03.adoc#doc-index-3-2[Report of the Privy Chamber Councillor Reck]
+|xref:doc-03.adoc#doc-index-3-2[Memorandum of the Privy Chamber Councillor von Reck]
 |〃
 |〃
 |〃
