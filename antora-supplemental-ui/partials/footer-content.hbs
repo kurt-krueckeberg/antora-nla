@@ -4,7 +4,9 @@
     This website is licensed under the Creative Commons
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>
     {{#with (resolvePage 'nla-docs::license.adoc')}}
-      · <a href="{{{relativize @root.page.url url}}}">License &amp; Reuse</a>
-    {{~/with~}}
+      <a href="{{@root.siteRootPath}}{{url}}">License &amp; Reuse</a>
+    {{else}}
+      <span style="opacity:.7">License &amp; Reuse (not found)</span>
+    {{/with}}
   </p>
 </footer>
