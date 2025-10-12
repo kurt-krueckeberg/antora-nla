@@ -1,7 +1,7 @@
-[[doc-index-7-1]]
  = #7 Document: Official Order of the Chamber to the Office of Bückeburg
 :page-role: wide
 
+[[doc-index-7-1]]
 [cols="1a,1a",grid=none,frame=none,options="noheader"]
 |===
 |image::17-r.png[title="Click to Enlarge",link=self]
