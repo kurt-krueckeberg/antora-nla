@@ -47,16 +47,15 @@ what price, and a copy of this instruction was entered into the case file.
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
-....
-NC. 5263               pr. in Cam 24 Nov.    4
+[verse]
+____
+[upper left]  NC. 5263  
+[upper right] pr. in Cam 24 Nov.    4
+
 3 gl. Sthl[Stempelsteuer]
 
 [rdk]
-....
 
-[verse]
-____
 Durchlautigster Gnädigster Fürst und Herr
 Durchlauchtigster Fürst
 
@@ -102,16 +101,16 @@ d 21ten November
 ____
 
 |
-[literal,subs="verbatim,quotes"]
-....
-NC. 5263   presented in the Chamber on 24 November 1841        
+[verse]
+____
+[upper left]  NC. 5263
+[upper right] presented in the Chamber on 24 November 1841        
+
 3 gr. stamp duty
 
 [rdk] (clerk’s initials)
-....
 
-[verse]
-____
+
 Most Serene, Most Gracious Prince and Lord, 
 Most Serene Prince, 
 
