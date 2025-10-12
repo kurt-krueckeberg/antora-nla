@@ -5,15 +5,18 @@
 And use {nbsp} within [verse] blocks. Left-align the text and use descriptions of the positions
 to indicate where the text is.
 
-
 == Document 4
 
-USe chatgpt to analys the 2nd document in #4 and its:
+Use chatgpt to analys the block of text to the bottom of the 2nd document that continues
+onto the next page.
 
-. three blocks of text
-. the initials
-. the 2rd block written in a different hand
-. The unclear H[??] initial and whether it occurs in a nother document?
+. the three initials looks familiar. They are likely the 3 Rentcammer officials. Check
+other documents for the same initals. Find clearer versions
+. this 2nd block of text written in a different hand
+
+== Document 6
+
+The headers I have chosen don't match the descriptions given in the Acten Designation.
 
 == Document 8 has a different Num Pr number
 
