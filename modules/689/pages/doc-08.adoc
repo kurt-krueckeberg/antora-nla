@@ -1,16 +1,16 @@
-= 8: Report from the Amt Bückeburg (12 Jan 1842), Reply (20 Jan 1843), Likewise to Treasurer Berger (20 Jan 1842)
+= #8 Documents
 :page-role: wide
 
 [[doc-index-8-1]]
+== Report from the Office Bückeburg (12 Jan 1842)
+
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::18-r.png[title="Click to Enlarge",link=self]
 |
 |===
 
-== Transliteration and Translation
-
-=== Report from the Office of Bückeburg
+=== Transliteration and Translation
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -85,16 +85,14 @@ Bückeburg, 20 Jan. 1842.
 ____
 |===
 
-== Next Pages
+[[doc-index-8-2]]
+== Official Order of the Rentcammer to the Office of Bückeburg (date?????)
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::19-l.png[title="Click to Enlarge",link=self]
 |image::19-r.png[title="Click to Enlarge",link=self]
 |===
-
-[[doc-index-8-2]]
-=== Office Draft to the Amt Bückeburg
 
 [cols="1a,1a".options="noheader",frame=none,grid=none]
 |===
@@ -160,7 +158,13 @@ ____
 |===
 
 [[doc-index-8-3]]
-=== Office Draft to the Treasurer Berger
+== Official Order to the Treasurer Berger (date ????)
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::19-l.png[title="Click to Enlarge",link=self]
+|image::19-r.png[title="Click to Enlarge",link=self]
+|===
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -209,8 +213,7 @@ calculated from the day of disbursement of the capital, is to be
 collected annually from Krückeberg and credited to the Treasury.
 
 P.N.
-The capital was paid out on 25 Jan.
-1842.
+The capital was paid out on 25 Jan. 1842.
 [Poppelbaum]
 ____
 |===
