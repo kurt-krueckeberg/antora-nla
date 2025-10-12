@@ -1,4 +1,4 @@
-= #3
+= #3 Documents
 :page-role: wide
 
 [[doc-index-3-1]]
