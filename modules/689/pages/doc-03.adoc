@@ -1,4 +1,4 @@
-= 3: Petition of Colon Krückeberg
+= Item 3
 :page-role: wide
 
 [[doc-index-3-1]]
