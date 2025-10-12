@@ -168,7 +168,8 @@ ____
 |===
 |Transliteration|Translation
 
-|[verse]
+|
+[verse]
 ____
 So traurig die Lage des Krückeberg
 seÿn mag, da sehe ich doch nicht ein, wie
@@ -236,6 +237,8 @@ Durchlauchtigsten
 Gnädigsten Regierenden
 Fürst
 und Landes Herren
+____
+
 |
 [literal,subs="verbatim,quotes"]
 ....
