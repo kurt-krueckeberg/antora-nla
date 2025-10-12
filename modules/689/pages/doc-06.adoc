@@ -182,9 +182,8 @@ ____
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::17-l.png[title="Click to Enlarge",link=self]
-|*Vertical text in prior image rotated right* +
 
-image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
+|
 |===
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
