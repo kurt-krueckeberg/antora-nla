@@ -9,14 +9,6 @@ body.wide .doc
    }
 }
 
-/* Revised micro-CSS for [verse.role=para] */
-body.wide .verseblock.para pre.content {
-  white-space: normal;   /* normal paragraph flow (no per-line <br>) */
-  font-style: normal;    /* prevent unwanted italics */
-  font-size: 0.9375rem;  /* matches Antora table text size more closely */
-  line-height: 1.5;      /* comfortable line spacing */
-}
-
 /* When ':page-role: wide' is used, images will have shadwow-border. */
 /* body.wide .imageblock img {*/
 body.article .imageblock img {
