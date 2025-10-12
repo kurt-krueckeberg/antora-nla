@@ -117,7 +117,7 @@ Most Serene Prince,
 I find myself compelled to most humbly petition Your Serene
 Highness, since, because of leather debts of my parents to the
 firm of Hempel & Sons in Minden, I am now hard pressed in a long
-lawsuit to make payment.  I have already made every effort to
+lawsuit to make payment. I have already made every effort to
 raise the money, but in so short a time I can find no one who can
 lend it.  I have been permitted to provide judicially approved
 collateral, and I have also sought from the High-Princely
@@ -236,6 +236,7 @@ Durchlauchtigsten
 Gnädigsten Regierenden
 Fürst
 und Landes Herren
+____
 |
 [literal,subs="verbatim,quotes"]
 ....
