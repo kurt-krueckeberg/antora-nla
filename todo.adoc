@@ -1,6 +1,6 @@
 = todoes
 
-== Swith to [verse] blocks 
+== Either swith to [verse] blocks OR dispense with tables.
 
 And use {nbsp} within the [verse] blocks and use this approach:
 
