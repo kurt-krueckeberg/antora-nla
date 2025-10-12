@@ -1,12 +1,19 @@
 = todoes
 
-== Either swith to [verse] blocks OR dispense with tables.
+== Switch to [verse] blocks
 
-And use {nbsp} within the [verse] blocks and use this approach:
+And use {nbsp} within [verse] blocks. Left-align the text and use descriptions of the positions
+to indicate where the text is.
 
-In plain AsciiDoc, the best you can have the text automatically wrap is to approximate structure logically (e.g.,
-group marginal notes below the main text and label them “Left margin,” “Bottom note,” “Right corner,” etc.) while
-preserving content and sequence rather than exact placement.
+
+== Document 4
+
+USe chatgpt to analys the 2nd document in #4 and its:
+
+. three blocks of text
+. the initials
+. the 2rd block written in a different hand
+. The unclear H[??] initial and whether it occurs in a nother document?
 
 == Document 8 has a different Num Pr number
 
