@@ -49,7 +49,7 @@ what price, and a copy of this instruction was entered into the case file.
 |
 [verse]
 ____
-[upper left]  NC. 5263  
+[upper left]  NC. 5203  
 [upper right] pr. in Cam 24 Nov.    4
 
 3 gl. Sthl[Stempelsteuer]
@@ -103,7 +103,7 @@ ____
 |
 [verse]
 ____
-[upper left]  NC. 5263
+[upper left]  NC. 5203
 [upper right] presented in the Chamber on 24 November 1841        
 
 3 gr. stamp duty
