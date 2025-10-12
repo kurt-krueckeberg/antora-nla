@@ -1,5 +1,7 @@
+= #4 Documents
+
 [[doc-index-4-1]]
-= 4: Krückeberg’s Second Petition and the Rentkammer’s Decision (21–25 Nov 1841)
+== Krückeberg’s Second Petition (21 Nov 1841)
 :page-role: wide
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
@@ -9,7 +11,7 @@
 |===
 
 [role="section-narrow"]
-== Overview
+=== Overview
 
 On 21 November 1841, Colon Krückeberg of No. 10 Berenbusch submitted a second petition directly to the Prince of
 Schaumburg-Lippe. He described his plight: the leather debt inherited from his parents had led to long litigation;
@@ -32,15 +34,13 @@ Söhren lands, suggesting instead that Krückeberg try to sell them privately. T
 Oberförster Kreutzinger to provide an expert report on whether the Söhren lands might be worth purchasing and at
 what price, and a copy of this instruction was entered into the case file.
 
-== Timeline
+=== Timeline
 
 * 21 Nov 1841 — Krückeberg submits second petition to the Prince.  
 * 25 Nov 1841 — Rentkammer decision by Reck: no loan; possible inquiry about Söhren lands.  
 * 25 Nov 1841 — Instruction sent to Oberförster Kreutzinger; file copy entered into case record.  
 
-== Transliteration and Translation
-
-=== Krückeberg’s Petition (21 Nov 1841)
+=== Transliteration and Translation of Krückeberg’s Petition (21 Nov 1841)
 
 [cols="1a,1a",frame=none,grid=none]
 |===
@@ -151,7 +151,8 @@ ____
 |===
 
 [[doc-index-4-2]]
-=== Rentkammer Decision and Instruction (25 Nov 1841)
+== Official Order of the Chamber to Officer Creuzinger (25 Nov 1841)
+ 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
 |image::11-r.png[title="Click to Enlarge",link=self]
@@ -228,8 +229,8 @@ Epp Lot[??]         Abschrift eines obigen Gegenstand
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 *Main opinion (Renkamnmer assessor Reck):*
 So sad as Krückeberg’s situation may be, I still do not see how
 he can be helped. To approve a loan where the security is so
@@ -276,7 +277,7 @@ For the record, Lm   L
 
 To the Most Serene,  
 Most Gracious Reigning Prince and Lord of the Land
-____
+....
 |===
 
 

@@ -1,6 +1,6 @@
 = #2 Documents
 
-[[doc2-report]]
+[[doc-index-2-1]]
 == Report of the Amt Bückeburg (7 Oct 1841; entered 11 Oct 1841)
 :page-role: wide
 
@@ -48,7 +48,6 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 |
 |===
 
-[[doc-index-2-1]]
 === Transliteration and Translation
 
 [cols="1a,1a"]
