@@ -1,8 +1,8 @@
 = #4 Documents
+:page-role: wide
 
 [[doc-index-4-1]]
 == Krückeberg’s Second Petition (21 Nov 1841)
-:page-role: wide
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===
