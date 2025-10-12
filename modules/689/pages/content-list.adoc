@@ -214,7 +214,7 @@ why #10 has no boxed number in the case file._
 ^|11
 
 |〃
-|xref:doc-03.adoc#doc-index-3-2[Memorandum of the Privy Chamber Councillor von Reck]
+|xref:doc-03.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck]
 |〃
 |〃
 |〃
