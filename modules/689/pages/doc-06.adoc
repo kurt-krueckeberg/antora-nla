@@ -1,8 +1,8 @@
-= 6: Report by Senior Councillor Reck, Sovereign Decree, Opinion of Councillor Reck and Decress of His Serene Highness
+= #6 Documents
 :page-role: wide
 
 [[doc-index-6-1]]
-== Report of Senior Government Councillor Reck (16 Dec, 1841)
+== Report of Senior Government Councillor von Reck (16 Dec, 1841)
 
 [cols="1a,1a"]
 |===
@@ -120,13 +120,14 @@ ____
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
-....
+[verse]
+____
 NC 5702               
 
 [rok]
 
-           E[ingegangen]. in d. K. 21 Dec 1841
+E[ingegangen]. in d. K. 21 Dec 1841
+
 Der Wiederankauf dieses Grundstückes für den früheren
 Verkaufs-Preis ist hiernach gewiß nicht vortheilhaft.  Es ist
 aber zu erwägen, daß der Vater des Suppl. in guten
@@ -142,7 +143,7 @@ findet, dem Krückeberg vorerst die erbetenen 200 Rthl zu leihen?
 Bbg 19 Dec 1841.
 
 Georg Wilhelm
-....
+____
 |
 [verse]
 ____
