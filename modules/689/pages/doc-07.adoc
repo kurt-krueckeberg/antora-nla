@@ -14,6 +14,7 @@
 
 |
 [verse]
+____
 [top, left] Stpl: 3 g
 
 [top mid-page] N. C. 5702.
@@ -41,7 +42,7 @@ Fürstl: p.
 
 
 Lm   L
-....
+____
 |
 [verse]
 ____
