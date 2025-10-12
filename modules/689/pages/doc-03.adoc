@@ -229,7 +229,9 @@ Reck
 |===
 
 [[doc-index-3-3]]
-== Cover Slip and Resolution (15 November 1841)
+== Rentcammer Resolution (15 November 1841)
+
+TODO: and Cover Slip?
 
 [role="section-narrow"]
 === Summary
