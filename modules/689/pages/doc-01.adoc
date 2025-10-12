@@ -1,5 +1,5 @@
 [[doc-index-1-1]]
-= 1: Petition of Colon Krückeberg No. 10 in Berenbusch
+= #1 Document: Petition of Colon Krückeberg No. 10 in Berenbusch
 :page-role: wide
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
