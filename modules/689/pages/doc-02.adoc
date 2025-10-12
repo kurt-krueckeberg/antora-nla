@@ -1,8 +1,8 @@
 = #2 Documents
+:page-role: wide
 
 [[doc-index-2-1]]
 == Report of the Office of Bückeburg (7 Oct 1841)
-:page-role: wide
 
 [role="section-narrow"]
 === Overview
