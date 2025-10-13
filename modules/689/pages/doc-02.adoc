@@ -36,13 +36,13 @@ pay it off in installments, but recommended that he be permitted to contract a l
 it. The Amt judged his farmstead and lands to offer sufficient security, despite existing debts of 700
 Reichsthaler. The Amt also noted that it had temporarily suspended the distraint order.  
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::04-r-original.png[title="Click to Enlarge",link=self]
 |image::05-l.png[title="Click to Enlarge",link=self]
 |===
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::05-r.png[title="Click to Enlarge",link=self]
 |

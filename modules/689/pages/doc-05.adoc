@@ -3,13 +3,13 @@
 :page-role: wide
 
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::12-r.png[title="Click to Enlarge",link=self]
 |image::13-l.png[title="Click to Enlarge",link=self]
 |===
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::13-r.png[title="Click to Enlarge",link=self]
 |image::14-l.png[title="Click to Enlarge",link=self]
@@ -19,12 +19,12 @@ image::14-r.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
-[cols="1a,1a",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5587                    pr in Cam 11 Dec 1841
 
@@ -114,7 +114,7 @@ Baum d 10ten Decbr 1841.
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5587
 presented in Cam[mer] 11 Dec 1841
