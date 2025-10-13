@@ -1,4 +1,10 @@
-= todoes
+= Todoes
+
+
+== Initials
+
+1. Amt background document: Hauck, Höcker
+
 
 == Switch to [verse] blocks
 
