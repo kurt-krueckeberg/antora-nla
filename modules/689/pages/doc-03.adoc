@@ -18,12 +18,12 @@ loan of 200 Reichsthaler from the chamber treasury.
 
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5038                             pr. in Cam 12 Nov. 41
 
@@ -79,7 +79,7 @@ progg[short for:protokollieren].
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5038            presented in the Chamber 12 Nov. [18]41
 
@@ -167,7 +167,7 @@ Chamber. It is not a vote tally.
 ====
 ****
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
@@ -245,12 +245,12 @@ image::10-l.png[title="Click to Enlarge",link=self]
 
 === Transliteration and Translation
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 St. 3gl.                              N. C. 5038.
 
@@ -289,10 +289,9 @@ eines Darlehns aus
 Kammerkasse.
 ....
 
-
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Stamped 3 Groschen. 
 N. C. 5038.
 
@@ -319,6 +318,6 @@ _logged as dispatched by clerk Holste on 17 November 1841_
 To the Princely Rentkammer.
 The most humble petition of Colon Krückeberg, No. 10 in Berenbusch,
 for the granting of a loan from the chamber treasury.
-____
+....
 |===
 
