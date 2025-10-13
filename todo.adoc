@@ -1,16 +1,20 @@
 = Todoes
 
+== Document 1
+
+Get rid of the separate tables for docketing and routing.
+
+== Document 10
+
+Complete its styling.
+
+
 == Initials
 
 Figure out the Amt intials vs the Rentcammer initials
 
 1. The Amt background document has these intials: Hauck, Höcke
 2. todo
-
-== Document 10
-
-Complete its styling.
-
 == Switch to [verse] blocks
 
 And use {nbsp} within [verse] blocks. Left-align the text and use descriptions of the positions
