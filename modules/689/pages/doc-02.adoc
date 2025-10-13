@@ -41,7 +41,7 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 |image::04-r-original.png[title="Click to Enlarge",link=self]
 |image::05-l.png[title="Click to Enlarge",link=self]
 |===
-*
+
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::05-r.png[title="Click to Enlarge",link=self]
@@ -50,7 +50,7 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 
 === Transliteration and Translation
 
-[cols="1a,1a"]
+[cols="1a,1a",frame=none]]
 |===
 |Transliteration|Translation
 
@@ -300,7 +300,7 @@ resolution.
 [role="section-narrow"]
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none,grid=none]
+[cols="1a,1a",frame=none]
 |===
 |Transliteration|Translation
 

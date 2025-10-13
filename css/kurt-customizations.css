@@ -37,6 +37,27 @@ img.scale-25 {
   height: auto;
 }
 
+/* Adding a border to literal blocks within tables. This is used
+ * for displaying the transliteration/translation tables. The steps:
+ * 1. Specify the table using: [.tightblock,cols="1a,1a",grid=none,frame=none]
+ *    
+ * 1. [literal.bordered] will cause the literblock to have a border
+ * 2. [.widepair,cols="1a,1a",frame=nonegrid=none]
+ *
+ *  
+ */
+
+/* Your dark border */
+.literalblock.bordered {
+  border: 3px solid #444;
+  border-radius: 4px;
+}
+
+/* Reduce cell padding for these paired tables */
+table.tableblock.widepair td {
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+}
 
 /* Making sections narrower */
 .literal-narrow {
