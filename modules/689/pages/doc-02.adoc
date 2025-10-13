@@ -36,13 +36,13 @@ pay it off in installments, but recommended that he be permitted to contract a l
 it. The Amt judged his farmstead and lands to offer sufficient security, despite existing debts of 700
 Reichsthaler. The Amt also noted that it had temporarily suspended the distraint order.  
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |image::04-r-original.png[title="Click to Enlarge",link=self]
 |image::05-l.png[title="Click to Enlarge",link=self]
 |===
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |image::05-r.png[title="Click to Enlarge",link=self]
 |
@@ -50,12 +50,12 @@ Reichsthaler. The Amt also noted that it had temporarily suspended the distraint
 
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none]]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 4487                        pr. in Cam 11 Oct 1841
 
@@ -138,7 +138,7 @@ Spreng_
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Chamber registry no. 4487; presented in the Chamber on 11 Oct 1841.
 
@@ -217,7 +217,7 @@ This cover slip records the Rentkammer’s resolution of 14 October 1841: the Am
 in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
 shows clerk Holste dispatched the decision on 17 November 1841.
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |image::06-l.png[title="Click to Enlarge",link=self]
 |
@@ -225,12 +225,12 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 
 === Transliteration and Translation
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
@@ -256,7 +256,7 @@ C. 1/                              N.P. 1274
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
@@ -291,7 +291,7 @@ Note: This rubric, written in a different hand and placed by itself in the lower
 page, is a docket label identifying the petition. It does not form part of the Amt’s report or the Rentkammer’s
 resolution.
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |image::08-l.png[title="Click to Enlarge",link=self]
 |
@@ -300,12 +300,12 @@ resolution.
 [role="section-narrow"]
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 An
 Fürstliche Rentkammer.
@@ -317,7 +317,7 @@ sens pp
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 To
 Princely Rent Chamber.
