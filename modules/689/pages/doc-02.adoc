@@ -225,7 +225,7 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none,grid=none]
+[cols="1a,1a"]
 |===
 |Transliteration|Translation
 
