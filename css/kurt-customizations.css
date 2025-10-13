@@ -37,13 +37,16 @@ img.scale-25 {
   height: auto;
 }
 
-/* Adding a border to literal blocks within tables. This is used
+/* CSS style for adding a border to literal blocks within tables. This is used
  * for displaying the transliteration/translation tables. The steps:
- * 1. Specify the table using: [.tightblock,cols="1a,1a",grid=none,frame=none]
- *    
- * 1. [literal.bordered] will cause the literblock to have a border
- * 2. [.widepair,cols="1a,1a",frame=nonegrid=none]
  *
+ * 1. Specify the table using: [.widepair,cols="1a,1a",grid=none,frame=none]
+ *
+ *    This increase the center gutter width between the adjacent cells.
+ *    grid=none,frame=none will eliminate the appearance of grid lines.
+ *    
+ * 2. [literal.bordered] -- This will cause the literblock to have a border
+ * that is solid, 3px wide border with slightly round corners
  *  
  */
 
