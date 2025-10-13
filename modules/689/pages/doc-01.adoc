@@ -58,6 +58,8 @@ s|Nr pr: 1274
 <|Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
 |===
 
+*TODO*: Rework this page and eliminate this table. Replace it with explanations.
+
 .Routing / marginal note — original · expanded German · English
 [cols="1a,2a,2a",options="header"]
 |===
@@ -75,12 +77,12 @@ B. 4 Oct 41
 |**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
 |===
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a"]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC 4381                             pr. in Cam 2 Oct 1841
 
@@ -129,7 +131,7 @@ progg[short for:protokollieren].
 ....
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC 4381                   presented in Cammer 2 Oct 1841
 
