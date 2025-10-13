@@ -8,13 +8,13 @@
 |
 |===
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 [top, left] Stpl: 3 g
 
 [top mid-page] N. C. 5702.
@@ -42,10 +42,10 @@ Fürstl: p.
 
 
 Lm   L
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 [top, left] Stpl: 3 g
 
 [top mid-page] N. C. 5702.
@@ -70,7 +70,7 @@ is to be informed* of this.
 
 
 [initials: Lm L]
-____
+....
 |===
 
 [NOTE]
