@@ -256,8 +256,8 @@ C. 1/                              N.P. 1274
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
 ------
@@ -280,7 +280,7 @@ By proxy (per procura)
 
 
 Fm        L
-____
+....
 |===
 
 == Filing Heading (Rubric)
@@ -317,13 +317,13 @@ sens pp
 ....
 
 |
-[verse]
-____
+[literal,subs="verbatim,quotes"]
+....
 To
 Princely Rent Chamber.
 of the Colon Krückeberg
 No. 10 in Berenbusch
 most humble petition
 for loan consent, etc
-____
+....
 |===
