@@ -1,10 +1,15 @@
 = Todoes
 
-
 == Initials
 
-1. Amt background document: Hauck, Höcker
+Figure out the Amt intials vs the Rentcammer initials
 
+1. The Amt background document has these intials: Hauck, Höcke
+2. todo
+
+== Document 10
+
+Complete its styling.
 
 == Switch to [verse] blocks
 
