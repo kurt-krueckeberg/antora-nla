@@ -4,7 +4,7 @@
 [[doc-index-6-1]]
 == Report of Senior Government Councillor von Reck (16 Dec, 1841)
 
-[cols="1a,1a"]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::15-r-original.png[title="Click to Enlarge",link=self]
 |*Vertical text in prior image rotated right*
@@ -14,12 +14,12 @@ image::15-r-vertical.png[title="Click to Enlarge",link=self]
 
 === Transliteration and Translation
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Ad NC 5587                   6
 
@@ -40,8 +40,8 @@ Reck
 Verte
 ....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 regarding NC 5587 [which is document 5]                   6 
 
 
@@ -58,22 +58,22 @@ given by Head Forester Kreuzinger.
 
 Reck
 turn over
-____
+....
 |===
 
 .Text in parenthesis in the left margin
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 ( 8 M. 90 QR für 835 r 
 8 M. à 50 r —— 400 r)
 ....
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 8 Morgen 90 square-Ruthen for 835 thalers;
 8 Morgen at 50 thalers per Morgen = 400 thalers.
@@ -82,12 +82,12 @@ ____
 
 [caption="Large Vertical text in left margin: "] 
 .Decision of Rentcammer
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
@@ -96,18 +96,18 @@ Bbg 16. Dec. 41
 ....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Decision: petitioner Krückeberg is to be denied.
 Bückeburg 16 Dec. 41
 (see at the end) sgined       Reck   
-____
+....
 |===
 
 [[doc-index-6-2]]
 == Decree of His Serene Highness' Government (19 Dec. 1841)
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::16-l.png[title="Click to Enlarge",link=self]
 |
@@ -115,13 +115,13 @@ ____
 
 === Transliteration and Translation
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 NC 5702               
 
 [rok]
@@ -143,10 +143,10 @@ findet, dem Krückeberg vorerst die erbetenen 200 Rthl zu leihen?
 Bbg 19 Dec 1841.
 
 Georg Wilhelm
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 NC 5702               
 
 [rok]
@@ -167,32 +167,32 @@ Chamber should for the time being lend Krückeberg the requested
 Bückeburg, 19 Dec 1841.
 
 Georg Wilhelm
-____
+....
 |===
 
 [[doc-index-6-3]]
 == Opinion of Councillor Reck and Decress of His Serence Highness (23 Dec. 1841)
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::16-l.png[title="Click to Enlarge",link=self]
 |image::16-r.png[title="Click to Enlarge",link=self]
 |===
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::17-l.png[title="Click to Enlarge",link=self]
 
 |
 |===
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 P.V.
 Soll dem p Krückeberg gründlich ge- helfen werden, so müsste
 diess wohl am sichersten dadurch geschehe, wenn demselben das
@@ -224,11 +224,11 @@ rtn wiedergekauft wurde.
 Bbg. 23. Decbr.
 
 Reck
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 per Vorstehung (by the authority of)
 If thorough assistance is to be given to Mr. Krückeberg, this
 would most likely be best achieved by taking back the disputed
@@ -257,25 +257,25 @@ use and appraised by Kreutzinger at 400 rt—were bought back for
 more than 800 rt.
 Bbg., 23 Dec. 1841.
 Reck
-____
+....
 |===
 
 === Left Margin Text in Parentheses
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 (Die Taxe wird indes wohl etwas niedrig seÿn.)
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 (However, the appraisal/valuation will likely be somewhat low.)
-____
+....
 |===
 
 === Prince of Schaumburg-Lippe Georg Wilhelm's Decision and Signature.
@@ -283,34 +283,34 @@ ____
 On the last page, written vertically in the left margin--rotated below so one can read it--is the decision of
 the Sovereign ruler of Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
-[cols="2a,1a",frame=none,grid=none,options="noheader"]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
 |
 |===
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
 rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
 würde, des Land anzunehmen und die Schuld darauf zu liquidiren.
 Bb 23 Dec.
 Georg Wilhelm
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 I approve, in accordance with the chamber’s petition, the loan of
 200 rt to Krückeberg, since there will still be time in future to
 accept the land and settle the debt upon it.
 Bbg., 23 Dec.
 Georg Wilhelm
-____
+....
 |===
 
