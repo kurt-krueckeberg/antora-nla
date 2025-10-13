@@ -77,7 +77,7 @@ B. 4 Oct 41
 |**Rent Chamber** — **to be attached to the Amt’s report**. **Bückeburg**, **4 October 1841**. — **Spreng**
 |===
 
-[.widepair,cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
