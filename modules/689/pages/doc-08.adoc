@@ -12,10 +12,10 @@
 
 === Transliteration and Translation
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC 274                       pr. in Cam 17 Jan. 1842     
 
@@ -53,8 +53,8 @@ Amt zu versehe[n]. Bbg. 20. Jan 42.
                       vert[retend]
 ....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 N. C. 274 — presented in the chamber on 17 Jan. 1842.
 
 [Fiscal oval hand-stamp]
@@ -82,7 +82,7 @@ payment order—however, not to Krückeberg but to the Amt (district
 office)
 Bückeburg, 20 Jan. 1842.
 *Reck, acting on behalf of the Rentkammer.*
-____
+....
 |===
 
 [[doc-index-8-2]]
@@ -94,10 +94,10 @@ ____
 |image::19-r.png[title="Click to Enlarge",link=self]
 |===
 
-[cols="1a,1a".options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a".options="noheader",frame=none,grid=none]
 |===
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Stpl. 3g               ad N. C. 274.
 
@@ -128,8 +128,8 @@ und in der Obligation das Nothig zu Verfügung und solche
 demnächst an der Kammer zu senden.
 ....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 *Stamp:* 3 groschen — *re:* Chamber file no. 274.
 
 *Office Draft to the Amt Bückeburg*
@@ -154,7 +154,7 @@ notation can be entered beneath it, the entry in the mortgage
 register can be obtained, and the necessary endorsements recorded
 in the promissory note; thereafter, please send it to the
 Chamber.
-____
+....
 |===
 
 [[doc-index-8-3]]
@@ -166,10 +166,10 @@ ____
 |image::19-r.png[title="Click to Enlarge",link=self]
 |===
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
+[.widepair,cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept an den Kammerrentmeister Berger                
                                
@@ -192,8 +192,8 @@ P.n.
 Das Capital ist am 25. Jan. 1842 ausgezahlt
 ....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Office Draft to the Treasurer Berger
 
 To Colon Krückeberg, No. 10 in Berenbusch, a capital sum of two
@@ -215,5 +215,5 @@ collected annually from Krückeberg and credited to the Treasury.
 P.N.
 The capital was paid out on 25 Jan. 1842.
 [Poppelbaum]
-____
+....
 |===

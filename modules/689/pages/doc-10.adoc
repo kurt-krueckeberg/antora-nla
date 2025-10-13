@@ -45,11 +45,12 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 |===
 
 *TODO*: Add explantory sentence before text like above.
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",grid=none,frame=none]
 |===
 |Transliteration|Translation
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift Anweisung der Kammer
 für den Kammerrentmeister Berger
@@ -108,11 +109,12 @@ the proper place in the chamber accounts and to support this expenditure with th
 *Sequence:* Written on intake; the minute/response (Reck) follows on 2 May 1845.
 |===
 
-[cols="1a,1a",options="header"]
+[.widepair,cols="1a,1a",options="header"]
 |===
 |Transliteration (diplomatic) |English translation
 
 |*Right-side request (large hand; includes heading)*
+[literal.bordered,subs="verbatim,quotes"]
 ....
 An
 Fürstl. Rentkammer

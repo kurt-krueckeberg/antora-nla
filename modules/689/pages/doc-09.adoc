@@ -8,12 +8,12 @@
 |===
 
 
-[cols="1a,1a",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC 818                          pr. im Cam 15 Febr 42
 
@@ -56,8 +56,8 @@ Schtt.
 ....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 NC 818 – Presented in the Chamber, 15 February 1842
 
 To the Princely Rent Chamber
@@ -88,5 +88,5 @@ By order of 5 May 1845, no. 2696, the enclosed promissory note
 has been acknowledged by receipt and delivered to chamber
 treasurer Berger for return to Krückeberg.
 [signed: Schtt.]
-____
+....
 |===
