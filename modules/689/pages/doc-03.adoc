@@ -172,6 +172,7 @@ Chamber. It is not a vote tally.
 |Transliteration|Translation
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Die Stelle des Krückeberg besteht
 
@@ -201,6 +202,7 @@ Bbg 15. Nov. 41.
 
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 The holding of Krückeberg consists of
 

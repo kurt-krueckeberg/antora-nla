@@ -1,8 +1,9 @@
 = Todoes
 
-== Document 1
+== Formatting
 
-Get rid of the separate tables for docketing and routing.
+* Get rid of the separate tables for docketing and routing.
+* Complete the reformatting of all transliterations/translations.
 
 == Document 10
 
