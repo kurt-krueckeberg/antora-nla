@@ -120,7 +120,7 @@ receipt.
 
 [.widepair,cols="1a,1a",options="header",frame=none,grid=none]
 |===
-|Transliteration (diplomatic) |English translation
+|Transliteration |English translation
 
 |*Right-side request (large hand; includes heading)*
 [literal.bordered,subs="verbatim,quotes"]
