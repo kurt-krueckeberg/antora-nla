@@ -277,14 +277,9 @@ Poppelbaum
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Approved.  
-Entered. The accrued interest from **12 Jan to 28 Apr 1845 (3½
-months)**, paid — **[initialed: DH]** — **2 thalers 12
-groschen**.  
+Entered. The accrued interest from *12 Jan to 28 Apr 1845 (3½ months)*,
+paid — *[initialed: DH]* — *2 Reichthalers 12 groschen*.  
 Poppelbaum.
-
-Notes:  
-* **DH** are large approval initials (a signature-like mark), not running text.  
-* **rt** = *Reichsthaler*, **gr** = *Groschen*.
 ....
 |===
 
