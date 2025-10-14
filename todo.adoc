@@ -7,8 +7,8 @@
 
 == Document 10
 
-Complete its styling.
-
+Make transliteration reflect the image as much as possilbe. Two table rows, one for left-side text, one for right,
+is fine.
 
 == Initials
 

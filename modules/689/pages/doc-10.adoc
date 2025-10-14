@@ -244,7 +244,8 @@ verte
 [literal.bordered,subs="verbatim,quotes"]
 ....
                    N.C. 2696
-Cpt an Kammerrentmeister Berger dahier
+
+Draft of a letter to Chamber Rentmaster Berger here [in Bückeburg].
         
 The obligation dated 12 January 1842 concerning the **200
 Reichsthaler Courant** loaned from the Chamber cash to Colonus
