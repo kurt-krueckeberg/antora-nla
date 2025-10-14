@@ -199,7 +199,7 @@ why #10 has no boxed number in the case file._
 ^|7
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Official Order of the Chamber to the same]
+|xref:doc-02.adoc#doc-index-2-2[Draft of Official Order of the Chamber to the same]
 |〃
 |〃
 |〃
@@ -221,7 +221,7 @@ why #10 has no boxed number in the case file._
 ^|15
 
 |〃
-|xref:doc-03.adoc#doc-index-3-3[Official Order of the Chamber to Colon Krückeberg]
+|xref:doc-03.adoc#doc-index-3-3[Draft of Official Order of the Chamber to Colon Krückeberg]
 |〃
 |〃
 |〃
@@ -236,7 +236,7 @@ why #10 has no boxed number in the case file._
 ^|21
 
 |〃
-|xref:doc-04.adoc#doc-index-4-2[Official Order of the Chamber to Officer Creuzinger]
+|xref:doc-04.adoc#doc-index-4-2[Draft of Official Order of the Chamber to Officer Creuzinger]
 <|Further petition concerning the sale of his lands on the Söhren pasture
 |〃
 |〃

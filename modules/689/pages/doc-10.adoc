@@ -220,6 +220,10 @@ TODO: Change this table to make it look like the one above with *Meaning*, *Plac
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+                   N.C. 2696
+
+Cpt an Kammerrentmeister Berger dahier
+       
 Die Obligation vom 12. Januar 1842 über die dem Col[on]. Krückeberg
 Nr. 10 in Berenbusch aus Kammerkasse geliehenen 200 x[Rthlr.]
 Cour[ant]. wird mit Quittung versehen dem p[er] Berger unter
@@ -239,6 +243,9 @@ verte
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+                   N.C. 2696
+Cpt an Kammerrentmeister Berger dahier
+        
 The obligation dated 12 January 1842 concerning the **200
 Reichsthaler Courant** loaned from the Chamber cash to Colonus
 Krückeberg No. 10 in Berenbusch is, with receipt, **hereby
