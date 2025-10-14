@@ -168,7 +168,8 @@ No. 10 in Berenbusch
 |===
 |Transliteration|Translation
 
-|[verse]
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 So traurig die Lage des Krückeberg
 seÿn mag, da sehe ich doch nicht ein, wie
