@@ -187,11 +187,10 @@ Bückeburg, 2 May 1845. — Reck
 ....
 |===
 
-
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::24-l.png[title="Click to Enlarge",link=self]
-|image::24-r.png[title="Click to Enlarge",link=self]
+|
 |===
 
 == NC 2696
@@ -281,6 +280,12 @@ Notes:
 |===
 
 == Concept Quittung
+
+[cols="1a,1a",options="noheader",frame=none,grid=none]
+|===
+|image::24-r.png[title="Click to Enlarge",link=self]
+|
+|===
 
 [cols="1a,6a",frame=none,grid=none,width="60%"]
 |===
