@@ -70,17 +70,25 @@ gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
 Quittung zu belegen.
 ....
 |
-Copy. Order of the Chamber for the chamber treasurer Berger +
-dated Bückeburg, 21 April 1845
+[literal.bordered,subs="verbatim,quotes"]
+....
+Copy. Order of the Chamber for the chamber treasurer Berger + dated
+Bückeburg, 21 April 1845
 
-The Princely Chamber of Revenues, pursuant to the deed of sale of 17 April of this year, has purchased from Colon
-Krückeberg No. 10 in Berenbusch a plot situated in the so-called Söhre, measuring 9 Morgen 19 Ruthen, for the sum
-of 858 Reichsthaler 10 Gute Groschen 2 Pfennige in current money at face value.
+The Princely Chamber of Revenues, pursuant to the deed of sale of 17
+April of this year, has purchased from Colon Krückeberg No. 10 in
+Berenbusch a plot situated in the so-called Söhre, measuring 9 Morgen 19
+Ruthen, for the sum of 858 Reichsthaler 10 Gute Groschen 2 Pfennige in
+current money at face value.
 
-Chamber treasurer Berger is instructed to pay out the above purchase funds to the seller against receipt—retaining,
-however, the loan of 200 Reichsthaler in current money at face value granted to Colon Krückeberg, pursuant to the
-promissory note of 12 January 1842, from the chamber treasury, together with interest—to record the disbursement at
-the proper place in the chamber accounts and to support this expenditure with that receipt.
+Chamber treasurer Berger is instructed to pay out the above purchase
+funds to the seller against receipt—retaining, however, the loan of 200
+Reichsthaler in current money at face value granted to Colon Krückeberg,
+pursuant to the promissory note of 12 January 1842, from the chamber
+treasury, together with interest—to record the disbursement at the proper
+place in the chamber accounts and to support this expenditure with that
+receipt.
+....
 |===
 
 
@@ -109,6 +117,7 @@ the proper place in the chamber accounts and to support this expenditure with th
 *Sequence:* Written on intake; the minute/response (Reck) follows on 2 May 1845.
 |===
 
+
 [.widepair,cols="1a,1a",options="header"]
 |===
 |Transliteration (diplomatic) |English translation
@@ -128,7 +137,10 @@ zurückgeben zu lassen.
 Bückeburg 29 Apr. 1845
 Berger
 ....
-|To the Princely Rent Chamber
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+To the Princely Rent Chamber
 
 Since Colon Krückeberg, No. 10 in Berenbusch, will repay the
 capital of **200 thalers in current money at face value** out of
@@ -137,8 +149,10 @@ Revenues**, I most humbly request that the **promissory note**
 for **200 thalers (current)**, dated 12 January 1842, be
 returned.  
 Bückeburg, 29 April 1845. — Berger
-
+....
 |*Left-side minute/response (small hand; Rentkammer; signed Reck)*
+
+[literal.bordered,subs="verbatim,quotes"]
 ....
 H.
 Die Obligation quitiert wäre mit beifolgender Quittung, daß der
@@ -155,6 +169,8 @@ sei.  Bburg 2/5 45
 Reck
 ....
 |
+[literal.bordered,subs="verbatim,quotes"]
+....
 The promissory note is to be **annotated with the following
 receipt text**, stating that Krückeberg has repaid the principal,
 together with arrears and current interest, by payment into the
@@ -168,6 +184,7 @@ repaid, together with arrears and current interest, and, in
 return, the full purchase price of **858 thalers 10 groschen 2
 pfennigs** is to be entered as an expenditure.  
 Bückeburg, 2 May 1845. — Reck
+....
 |===
 
 
@@ -201,6 +218,8 @@ TODO: Change this table to make it look like the one above with *Meaning*, *Plac
 |Transliteration | English translation & notes
 
 |
+[literal.bordered,subs="verbatim,quotes"]
+....
 ....
 Die Obligation vom 12. Januar 1842 über die dem Col[on]. Krückeberg
 Nr. 10 in Berenbusch aus Kammerkasse geliehenen 200 x[Rthlr.]
@@ -220,6 +239,8 @@ verte
 
 ....
 |
+[literal.bordered,subs="verbatim,quotes"]
+....
 The obligation dated 12 January 1842 concerning the **200
 Reichsthaler Courant** loaned from the Chamber cash to Colonus
 Krückeberg No. 10 in Berenbusch is, with receipt, **hereby
@@ -236,7 +257,9 @@ by princely authority
 
 Spm       L 
 turn over
+....
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Probatur.
 Eingetragen. Die Stückzinsen
@@ -245,6 +268,8 @@ gezahlt mit [initialed: DH] 2 rt 12 gr
 Poppelbaum
 ....
 |
+[literal.bordered,subs="verbatim,quotes"]
+....
 Approved.  
 Entered. The accrued interest from **12 Jan to 28 Apr 1845 (3½
 months)**, paid — **[initialed: DH]** — **2 thalers 12
@@ -254,6 +279,7 @@ Poppelbaum.
 Notes:  
 * **DH** are large approval initials (a signature-like mark), not running text.  
 * **rt** = *Reichsthaler*, **gr** = *Groschen*.
+....
 |===
 
 == Concept Quittung
@@ -284,6 +310,7 @@ Notes:
 |Transliteration | English translation & notes
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept Quittung.
 
@@ -299,6 +326,8 @@ L
 ....
 
 |
+[literal.bordered,subs="verbatim,quotes"]
+....
 Official Draft.
 
 Since Colon (tenant farmer) Krückeberg has repaid to the Chamber
@@ -311,4 +340,5 @@ Bburg (= Bückeburg), 5 May 1845.
 (L.S.) = *locus sigilli* (“place of the seal”).  
 F. p. (kept as-is; standard signature formula in these files).  
 L (routing/initial mark).
+....
 |===
