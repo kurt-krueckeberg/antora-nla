@@ -118,7 +118,7 @@ receipt.
 |===
 
 
-[.widepair,cols="1a,1a",options="header"]
+[.widepair,cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration (diplomatic) |English translation
 
@@ -137,7 +137,7 @@ zurückgeben zu lassen.
 Bückeburg 29 Apr. 1845
 Berger
 ....
-|
+|*Right-side request (large hand; includes heading)*
 [literal.bordered,subs="verbatim,quotes"]
 ....
 To the Princely Rent Chamber
@@ -168,7 +168,7 @@ vollständige Kaufgeld mit 858 p 10 G 2 Pf in Ausgabe zu stellen
 sei.  Bburg 2/5 45
 Reck
 ....
-|
+|*Left-side minute/response (small hand; Rentkammer; signed Reck)*
 [literal.bordered,subs="verbatim,quotes"]
 ....
 The promissory note is to be **annotated with the following
