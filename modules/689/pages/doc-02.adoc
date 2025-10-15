@@ -324,7 +324,46 @@ resolution.
 [role="section-narrow"]
 === Transliteration and Translation
 
-1^st^ image
+1^st^ image i
+The first image is essentially a billing note documenting what Krückeberg owed for:
+
+* having the Rentkammer’s decree written, registered, sealed, and dispatched,
+
+* and for receiving the official copy (the Gegen-Bescheid).
+
+These were small, fixed fees established in the Kanzleiordnung (Chancery Fee Ordinance) — standard administrative
+costs, not fines or penalties. Here is what each of them means:
+
+[%header,cols="1,2,3,3".width=60%]
+|===
+|Abbrev. |Word |Meaning |Type of Fee
+
+|Decr
+|Decret(gebühr)
+|Fee for issuing the *Decret* — the official decree, rescript, or order of the chamber (the decision document).
+|Decision / resolution fee
+
+|Exp
+|Expeditionsgebühr
+|Fee for the *Expedition* — the formal dispatch of the document to the recipient (clerical processing, sealing, and sending).
+|Dispatch fee
+
+|Mem
+|Memorialgebühr
+|Fee for the *Memorial entry* — entering the act into the office register or memorial ledger.
+|Registration fee
+
+|Act
+|Actengebühr
+|Fee for filing or maintaining the *Akte* (case file) itself.
+|Filing fee
+
+|Fol
+|Foliogebühr
+|Fee based on the number of *Folios* (pages) in the document.
+|Per-folio (per page) fee
+|===
+
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -333,25 +372,41 @@ resolution.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Colon Kruckeberg NW 10 in
-Berenbusch
+Colon Krückeberg N 10 in Berenbusch
 
-Decr__________________ 6                                                           
-e[?]__________________ 6
-  N___________________ 2
- och__________________ 4
- Fr___________________ 4 
-               _________
-                      22
-                 
-Das Gleichlautner gegen Bescheid ist
+
+Decr _______ 6½  
+Exp ________ 6  
+Mem ________ 2  
+Act ________ 4  
+Fol ________ 4  
+        ________  
+         22½
+
+Das Gleichlautende gegen Bescheid ist
 Insinuirt den 27ten July 1841
-Möller Amtsdiener.
+Möller Amtsdiener                 
 ....
 
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Colon Krückeberg N 10 in Berenbusch
+
+
+Decr _______ 6½  
+Exp ________ 6  
+Mem ________ 2  
+Act ________ 4  
+Fol ________ 4  
+        ________  
+         22½
+
+
+
+Das Gleichlautende gegen Bescheid ist
+Insinuirt den 27ten July 1841
+Möller Amtsdiener
 ....
 |===
 
