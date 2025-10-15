@@ -1,6 +1,9 @@
 = #8 Documents
 :page-role: wide
 
+*TODO:* This page needs work: ensure everything has been translitered, all the text 
+in the image, and it appears logically in the transliteration. Provide explanations.
+
 [[doc-index-8-1]]
 == Report from the Office Bückeburg (12 Jan 1842)
 
@@ -78,9 +81,9 @@ Hauck D^r^ Neuhsel Höcker *(district officer)*
 *R.C. (Rentkammer decision).* 
 The promissory note is to be confirmed, and then Chamber
 treasurer (Kammerrentmeister) Berger is to be furnished with a
-payment order—however, not to Krückeberg but to the Amt (district
-office)
+payment order—however, not to Krückeberg but to the Amt.
 Bückeburg, 20 Jan. 1842.
+
 *Reck, acting on behalf of the Rentkammer.*
 ....
 |===
@@ -101,8 +104,7 @@ Bückeburg, 20 Jan. 1842.
 ....
 Stpl. 3g               ad N. C. 274.
 
-Concept
-an das Amt Bückeburg      
+Concept an das Amt Bückeburg      
 
 R.        
 Wh.
