@@ -302,29 +302,16 @@ Fm        L
 ....
 |===
 
-== ???? ???? 
-
-The first image appears in the lower right corner of a left-hand page, whose opposite side is blank the, and the
-page opposite it, the left-hand page is the image shown above. The 2nd image is likewise in the lower right corner
-two pages from the 1st image.
-
-=== Summary
-
-???
-Note: This rubric, written in a different hand and placed by itself in the lower left corner of an otherwise blank
-page, is a docket label identifying the petition. It does not form part of the Amt’s report or the Rentkammer’s
-resolution.
+== Billing Note 
 
 [cols="1a,1a",frame=none,grid=none]
 |===
 |image::07-l.png[title="Click to Enlarge",link=self]
-|image::08-l.png[title="Click to Enlarge",link=self]
+|
 |===
 
-=== Transliteration and Translation
-
-1^st^ image i
-The first image is essentially a billing note documenting what Krückeberg owed for:
+The image is a postscript accounting note made after the decision had already been formally served.
+It is a billing note documenting what Krückeberg owed for:
 
 * having the Rentkammer’s decree written, registered, sealed, and dispatched,
 
@@ -332,6 +319,8 @@ The first image is essentially a billing note documenting what Krückeberg owed 
 
 These were small, fixed fees established in the Kanzleiordnung (Chancery Fee Ordinance) — standard administrative
 costs, not fines or penalties. Here is what each of them means:
+=== Transliteration and Translation
+
 
 [%header,cols="1,2,5,2",width=75%]
 |===
@@ -407,7 +396,13 @@ Möller Amtsdiener
 ....
 |===
 
-2^nd^ image
+== ????
+
+[cols="1a,1a",frame=none,grid=none]
+|===
+|image::08-l.png[title="Click to Enlarge",link=self]
+|
+|===
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
