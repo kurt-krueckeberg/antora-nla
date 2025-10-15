@@ -10,13 +10,11 @@
 
 == Transliteration and Translation
 
-=== Explanations
+=== Explanations of Abbreviations and Terms used:
 
-Abbreviations and terms used:
-
-*r.* = Reichstaler
-*behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
-*Amt* = district office.
+* *r.* = Reichstaler
+* *behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
+* *Amt* = district office.
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
