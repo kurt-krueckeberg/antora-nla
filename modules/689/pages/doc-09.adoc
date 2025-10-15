@@ -1,6 +1,8 @@
 = #9 Document: Report from the District Office of Bückeburg (8 Feb 1842)
 :page-role: wide
 
+*TODO:* The translation is missing the docketing present in the transliteration.
+
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
 |image::20-r.png[title="Click to Enlarge",link=self]
