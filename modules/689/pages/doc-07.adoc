@@ -8,6 +8,16 @@
 |
 |===
 
+== Transliteration and Translation
+
+=== Explanations
+
+Abbreviations and terms used:
+
+*r.* = Reichstaler
+*behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
+*Amt* = district office.
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
@@ -41,7 +51,7 @@ Bburg 24. Debr 1841.
 Fürstl: p.
 
 
-Lm   L
+[initials: Lm   L]
 ....
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -49,7 +59,6 @@ Lm   L
 [top, left] Stpl: 3 g
 
 [top mid-page] N. C. 5702.
-
 
 Office Draft to the Amt Bückeburg
 
@@ -73,9 +82,3 @@ is to be informed* of this.
 ....
 |===
 
-[NOTE]
-====
-*r.* = Reichstaler
-*behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
-*Amt* = district office.
-====
