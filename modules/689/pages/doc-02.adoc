@@ -375,12 +375,12 @@ costs, not fines or penalties. Here is what each of them means:
 Colon Krückeberg N 10 in Berenbusch
 
 
-Decr _______ 6½  
-Exp ________ 6  
-Mem ________ 2  
-Act ________ 4  
-Fol ________ 4  
-        ________  
+Decr ....... 6½  
+Exp ........ 6  
+Mem ........ 2  
+Act ........ 4  
+Fol ........ 4  
+        .......  
          22½
 
 Das Gleichlautende gegen Bescheid ist
