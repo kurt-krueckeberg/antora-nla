@@ -30,6 +30,8 @@ The case file then includes two ancillary items:
 === Explanations
 
 The notation in the left margin of the first page:
+
+[literal.borderd]
 ....
 Num Pr. 1274
   ad        
