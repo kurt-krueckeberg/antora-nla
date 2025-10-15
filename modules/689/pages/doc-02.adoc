@@ -225,7 +225,7 @@ acting on behalf of.
 |===
 
 [[doc-index-2-2]]
-== Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
+== Draft of Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
 in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
@@ -238,6 +238,8 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 |===
 
 === Transliteration and Translation
+
+*TODO:* Is *Copt* copy?
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -278,7 +280,7 @@ C. 1/                              N.P. 1274
 = 4/6.
 
 
-Copy from the Bückeburg Office.
+Draft from the Bückeburg Office.
 
 Petition of the farmer Krückeberg No. 10 in Berenbusch, 
 concerning the approval of a loan.
