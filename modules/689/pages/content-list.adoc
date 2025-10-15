@@ -292,7 +292,7 @@ why #10 has no boxed number in the case file._
 ^|2
 
 |〃
-|xref:doc-08.adoc#doc-index-8-2[Official Order of the Chamber to the same]
+|xref:doc-08.adoc#doc-index-8-2[Draft of Official Order of the Chamber to the same]
 |
 |〃
 |〃
