@@ -50,6 +50,9 @@ img.scale-25 {
  *  
  */
 
+.short-width {
+width: 30%;
+}	
 /* Your dark border */
 .literalblock.bordered {
   border: 2px solid #444;

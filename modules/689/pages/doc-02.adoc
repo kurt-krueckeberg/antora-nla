@@ -31,16 +31,16 @@ The case file then includes two ancillary items:
 
 === Explanations
 
-The notation in the left margin of the first page:
+The notation in the left margin of the first page
 
-[literal.bordered]
+[literal.bordered.short-width]
 ....
 Num Pr. 1274
   ad        
 N. C. 4381  
 ....
 
-means "concerning (*ad* = concerning) Rentcammer document number 4381, which belongs to case #1274 in the Rentcammer's
+means: "concerning (*ad* = concerning) Rentcammer document number 4381, which belongs to case #1274 in the Rentcammer's
 Protokollbuch (the ledger of Rentcammer case numbers)".
 
 == Amt Report (7 Oct 1841)
