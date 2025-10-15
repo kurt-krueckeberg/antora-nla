@@ -1,4 +1,4 @@
-= #7 Document: Official Order of the Chamber to the Office of Bückeburg
+= #7 Document: Draft of Official Order of the Chamber to the Office of Bückeburg
 :page-role: wide
 
 [[doc-index-7-1]]
