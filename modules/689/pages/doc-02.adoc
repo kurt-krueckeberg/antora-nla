@@ -312,8 +312,8 @@ resolution.
 
 [cols="1a,1a",frame=none,grid=none]
 |===
+|image::07-l.png[title="Click to Enlarge",link=self]
 |image::08-l.png[title="Click to Enlarge",link=self]
-|
 |===
 
 [role="section-narrow"]
