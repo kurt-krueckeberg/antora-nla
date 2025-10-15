@@ -1,6 +1,9 @@
 = #3 Documents
 :page-role: wide
 
+*TODO:* Re-read the summary and compare it to the text for clarity and accuracy. Make it 
+more succinct.
+
 [[doc-index-3-1]]
 == Petition of Colon Krückeberg (11 Nov. 1841)
 
