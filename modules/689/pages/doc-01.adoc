@@ -45,19 +45,6 @@ Signed by Amt officials Hauck and Höcker.
 
 == Transliteration and Translation
 
-.Docketing / administrative marks (added by clerks; not part of the body text)
-[cols="1a,4a",options="noheader",width="60%"]
-|===
-s|NC. 4381
-<|Registry/file number (NC-series). 
-
-s|pr. in Cam. 2 Oct. 1841
-<|“presented in the Chamber” (intake mark), dated **2 Oct 1841**.
-
-s|Nr pr: 1274
-<|Protocol/registry number of the Rentkammer; written at the bottom of p. 1.
-|===
-
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
@@ -138,7 +125,8 @@ installments of 5 thalers.
 There are already 700 thalers in officially authorized debts
 secured on my
 
-Nr. pr: 1274 [end of page 1]
+[Protocol/registry number of the Rentkammer;end of page 1]
+Nr. pr: 1274 
 
 holding (i.e., mortgages registered on the
 property); nevertheless, the only way I can deal with the Hempel
