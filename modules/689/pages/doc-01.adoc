@@ -45,7 +45,14 @@ Signed by Amt officials Hauck and Höcker.
 
 == Transliteration and Translation
 
-*Nr. pr: 1274*, which appears at the end of page one, is the  *protokoll* number.
+The notations *“Nr pr.”*, *“Nr Pr.”*, or *“Num pr.”* (you’ll see variations in capitalization) all refer to the
+*Protokollnummer*, the *protocol number* recorded in the Rentkammer’s official *Protokollbuch* (protocol book).  
+
+* Krückeberg's *petition* shown below, the first document in the case, triggered the formal opening of the case in
+  the chamber’s records.
+* A clerk then *recorded the essential details* of the petition and its initial handling in the Protokollbuch under entry 1274.
+* The number *1274* was then written on the petition itself so that, if anyone later consulted the loose papers,
+  they could look up the corresponding *protocol entry* (the official summary) in the ledger.
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
