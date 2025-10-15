@@ -334,7 +334,7 @@ The first image is essentially a billing note documenting what Krückeberg owed 
 These were small, fixed fees established in the Kanzleiordnung (Chancery Fee Ordinance) — standard administrative
 costs, not fines or penalties. Here is what each of them means:
 
-[%header,cols="1,2,3,3".width=60%]
+[%header,cols="1,2,3,3"]
 |===
 |Abbrev. |Word |Meaning |Type of Fee
 
