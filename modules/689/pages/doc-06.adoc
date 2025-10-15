@@ -75,8 +75,8 @@ turn over
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-8 Morgen 90 square-Ruthen for 835 thalers;
-8 Morgen at 50 thalers per Morgen = 400 thalers.
+8 Morgen 90 square-Ruthen for 835 Reichthalers;
+8 Morgen at 50 Reichthalers per Morgen = 400 Reichthalers.
 ....
 |===
 
