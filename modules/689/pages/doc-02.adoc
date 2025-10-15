@@ -302,10 +302,15 @@ Fm        L
 ....
 |===
 
-== Filing Heading (Rubric)
+== ???? ???? 
+
+The first image appears in the lower right corner of a left-hand page, whose opposite side is blank the, and the
+page opposite it, the left-hand page is the image shown above. The 2nd image is likewise in the lower right corner
+two pages from the 1st image.
 
 === Summary
 
+???
 Note: This rubric, written in a different hand and placed by itself in the lower left corner of an otherwise blank
 page, is a docket label identifying the petition. It does not form part of the Amt’s report or the Rentkammer’s
 resolution.
@@ -318,6 +323,39 @@ resolution.
 
 [role="section-narrow"]
 === Transliteration and Translation
+
+1^st^ image
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+Colon Kruckeberg NW 10 in
+Berenbusch
+
+Decr__________________ 6                                                           
+e[?]__________________ 6
+  N___________________ 2
+ och__________________ 4
+ Fr___________________ 4 
+               _________
+                      22
+                 
+Das Gleichlautner gegen Bescheid ist
+Insinuirt den 27ten July 1841
+Möller Amtsdiener.
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+|===
+
+2^nd^ image
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
