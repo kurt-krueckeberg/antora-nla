@@ -27,7 +27,17 @@ The case file then includes two ancillary items:
 * 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.  
 * 17 November 1841 — Clerk Holste logs expedition of the decision.  
 
+=== Explanations
 
+The notation in the left margin of the first page:
+....
+Num Pr. 1274
+  ad        
+N. C. 4381  
+....
+
+means "concerning (*ad*) Rentcammer document number 4381, which belongs to case #1274 in the Rentcammer's
+Protokollbuch", or ledger of Rentcammer case numbers.
 
 == Amt Report (7 Oct 1841)
 
