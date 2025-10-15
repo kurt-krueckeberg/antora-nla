@@ -27,9 +27,11 @@ The case file then includes two ancillary items:
 * 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.  
 * 17 November 1841 — Clerk Holste logs expedition of the decision.  
 
-=== Amt Report (7 Oct 1841)
 
-==== Summary
+
+== Amt Report (7 Oct 1841)
+
+=== Summary
 
 The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing Hempel debt, rejected his request to
 pay it off in installments, but recommended that he be permitted to contract a loan of 190 Reichsthaler to settle
