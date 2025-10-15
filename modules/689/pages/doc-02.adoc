@@ -304,7 +304,7 @@ Fm        L
 
 == Billing Note 
 
-The image is a postscript accounting note made after the decision had already been formally served.
+The image below is a postscript accounting note made after the decision had already been formally served.
 It is a billing note documenting what Krückeberg owed for:
 
 * having the Rentkammer’s decree written, registered, sealed, and dispatched,
@@ -388,10 +388,8 @@ Act ________ 4
 Fol ________ 4  
         ________  
             22½
-
-Das Gleichlautende gegen Bescheid ist
-Insinuirt den 27ten July 1841
-Möller Amtsdiener
+The identical counterpart of the decision was served on 27 July 1841.
+Möller, office servant.
 ....
 |===
 
