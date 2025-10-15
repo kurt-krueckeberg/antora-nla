@@ -43,6 +43,9 @@ The Amt issues its *decree (Decretum):*
 then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
 Signed by Amt officials Hauck and Höcker.
 
+[role="section-narrow"]
+== Explanation
+
 === The Protokollbuch and Protokoll Number
 
 The notations *“Nr pr.”*, *“Nr Pr.”*, or *“Num pr.”* (you’ll see variations in capitalization) all refer to the
@@ -54,6 +57,17 @@ The notations *“Nr pr.”*, *“Nr Pr.”*, or *“Num pr.”* (you’ll see v
 * The number *1274* was then written on the petition itself so that, if anyone later consulted the loose papers,
   they could look up the corresponding *protocol entry* (the official summary) in the ledger.
 
+=== "b.m. zum Amtsbericht” -- "to be attached"
+
+*“b.m. zum Amtsbericht”* appears in the Rentcammers's comment/note concerning the petition
+*b. m.* is short for *beizumachen*. It literally means: *“to be attached to the Amt’s report.”*
+"attach" sounds passive (paper-clipping one document to another), but to the clerk Spreng, it
+was shorthand for a routing instruction: "This petition is to be sent to the Amt,
+and the Amt's report must come back with it attached."
+
+That's why in Document 2, the Amt's report opens with: "Auf Auf die anbei zurückerfolgende
+Bittschrift des Colons Krückeberg…” or “In response to the petition of Colon Krückeberg, herewith
+returned.”
 
 == Transliteration and Translation
 [.widepair,cols="1a,1a",frame=none,grid=none]
@@ -158,14 +172,3 @@ with fee                                         tenant farmer Krückeberg
 filed                                            No. 10 in Berenbusch.
 ....
 |===
-
-=== Explanations
-
-“b.m. zum Amtsbericht” literally means: “to be attached to the Amt’s report.” "attach"
-It sounds passive (paper-clipping one document to another), but to the clerk Spreng, it
-was shorthand for a routing instruction: "This petition is to be sent to the Amt,
-and the Amt's report must come back with it attached."
-
-That's why in Document 2, the Amt's report opens with: "Auf Auf die anbei zurückerfolgende
-Bittschrift des Colons Krückeberg…” or “In response to the petition of Colon Krückeberg, herewith
-returned.”
