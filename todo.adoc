@@ -1,53 +1,26 @@
 = Todoes
 
-== Formatting
+== NLA Module 689
 
-* Get rid of the separate tables for docketing and routing.
-* Complete the reformatting of all transliterations/translations.
+Make sure:
+* transliterations and translations content matches
+* they are not missing content found in the image(s). 
+* they logically reflect the image's content
+* there are necessary explanations of terms
+* The initials are explained (see below)
+* There is an overall summary of synopsis
 
-== Document 10
-
-Make transliteration reflect the image as much as possilbe. Two table rows, one for left-side text, one for right,
-is fine.
-
-== Initials
+=== Initials
 
 Figure out the Amt intials vs the Rentcammer initials
 
 1. The Amt background document has these intials: Hauck, Höcke
-2. todo
-== Switch to [verse] blocks
+2. The Rentcammer has these intials: ?, ?, ?
 
-And use {nbsp} within [verse] blocks. Left-align the text and use descriptions of the positions
-to indicate where the text is.
+=== Explain Terms and Concepts
 
-== Document 4
+The terms in contents list, the glossary, and in the docketing information.
 
-Use chatgpt to analys the block of text to the bottom of the 2nd document that continues
-onto the next page.
+== Translations
 
-. the three initials looks familiar. They are likely the 3 Rentcammer officials. Check
-other documents for the same initals. Find clearer versions
-. this 2nd block of text written in a different hand
-
-== Document 6
-
-Do the headers I have chosen don't match the descriptions given in the Acten Designation?
-
-== Document 8 has a different Num Pr number
-
-...than document 1.
-
-== Analyze This Way
-
-Resume with "analyze.adoc" and this ChatGPT session: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388,
-
-TODO: Link document 2 and 3.
-
-* document 3 is Krückeberg follow-up request to the Amt's report. That report refused to support install payments
-that Krückeberg that would pay to Hempel and Sons. They had already decided the case warranted the seizure and
-forced sale of his property. They did agree to permit him to take out a loan from the government, so Hempel and
-Sons could be paid immediately, which he would have to pay back to the government.
-
-Consult other-numbering-notes.adoc
-
+Base the translation on transliteration with updated words for archaic words.
