@@ -10,6 +10,8 @@ Make sure:
 * The initials are explained (see below)
 * There is an overall summary of synopsis
 
+Chatgpt link for analyzing documents: https://chatgpt.com/c/68df17e0-6164-8323-9013-291141655388 
+
 === Initials
 
 Figure out the Amt intials vs the Rentcammer initials
