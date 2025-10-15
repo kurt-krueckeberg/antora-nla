@@ -43,7 +43,7 @@ The Amt issues its *decree (Decretum):*
 then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
 Signed by Amt officials Hauck and Höcker.
 
-== Transliteration and Translation
+=== The Protokollbuch and Protokoll Number
 
 The notations *“Nr pr.”*, *“Nr Pr.”*, or *“Num pr.”* (you’ll see variations in capitalization) all refer to the
 *Protokollnummer*, the *protocol number* recorded in the Rentkammer’s official *Protokollbuch* (protocol book).  
@@ -54,6 +54,8 @@ The notations *“Nr pr.”*, *“Nr Pr.”*, or *“Num pr.”* (you’ll see v
 * The number *1274* was then written on the petition itself so that, if anyone later consulted the loose papers,
   they could look up the corresponding *protocol entry* (the official summary) in the ledger.
 
+
+== Transliteration and Translation
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
