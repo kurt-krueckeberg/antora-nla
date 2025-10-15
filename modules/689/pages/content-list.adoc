@@ -276,7 +276,7 @@ why #10 has no boxed number in the case file._
 ^|23
 
 |7.
-|xref:doc-07.adoc#doc-index-7-1[Official Order of the Chamber to the Office of Bückeburg]
+|xref:doc-07.adoc#doc-index-7-1[Draft of Official Order of the Chamber to the Office of Bückeburg]
 |
 |Bbg.
 |1841
