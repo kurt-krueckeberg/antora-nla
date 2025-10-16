@@ -179,11 +179,11 @@ Chamber. It is not a vote tally.
 ....
 Die Stelle des Krückeberg besteht
 
-aus 10 Morgen a 100 rt_______1000 rt
-Catasterwerth der Gebäude_____525 rt
-                           _________   
+aus 10 Morgen a 100 rt.......1000 rt
+Catasterwerth der Gebäude.....525 rt
+                           .........   
                              1525 rt [total]
-davon ab Schulden.____________700 -
+davon ab Schulden.............700 -
                bleibt Werth   825 rt
 
 
@@ -209,11 +209,11 @@ Bbg 15. Nov. 41.
 ....
 The holding of Krückeberg consists of
 
-10 Morgen at 100 rt each ___________ 1000 rt
-Cadastral value of the buildings ____ 525 rt
-                                ____________
+10 Morgen at 100 rt each ........... 1000 rt
+Cadastral value of the buildings .... 525 rt
+                                ............
                                       1525 rt
-less debts ___________________________ 700 -
+less debts ........................... 700 -
                     remaining value    825 rt
 
 
