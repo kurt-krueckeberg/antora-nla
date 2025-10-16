@@ -23,9 +23,7 @@
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[top, left] Stpl: 3 g
-
-[top mid-page] N. C. 5702.
+Stpl: 3 g         N. C. 5702.
 
 Concept an das Amt Bückeburg
 
@@ -54,11 +52,13 @@ Fürstl: p.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[top, left] Stpl: 3 g
-
-[top mid-page] N. C. 5702.
+Stpl: 3 g            N. C. 5702.
 
 Office Draft to the Amt Bückeburg
+
+[Wh]           
+                
+[cap Bhösselnd 29/12]          
 
 *Re: Loan for Colon Krückeberg, No. 10 in Berenbusch*
 
