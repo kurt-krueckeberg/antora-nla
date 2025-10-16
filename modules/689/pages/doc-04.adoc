@@ -172,29 +172,22 @@ No. 10 in Berenbusch
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-So traurig die Lage des Krückeberg
-seÿn mag, da sehe ich doch nicht ein, wie
-ihm zu helfen. Ein Darlehn zu bewilligen,
-wo die Sicherheit so unzureichend, geht nicht
-an. Eben so unerfreulich erscheint es mir,
-daß das angekaufte Land in der Söhre
-wieder gekauft werde. Mag Krückeberg,
-wenn er überhaupt der Schulden wegen
-darüber disponiren kann, dieses Land
-anderweit zu verkaufen suchen.
-Meiner Ansicht kann es bei dem ab-
-schlägl[igen] Bescheid nur lediglich sein Be-
-werden behalten.
+So traurig die Lage des Krückeberg seÿn mag, da sehe ich doch
+nicht ein, wie ihm zu helfen. Ein Darlehn zu bewilligen, wo die
+Sicherheit so unzureichend, geht nicht an. Eben so unerfreulich
+erscheint es mir, daß das angekaufte Land in der Söhre wieder
+gekauft werde. Mag Krückeberg, wenn er überhaupt der Schulden
+wegen darüber disponiren kann, dieses Land anderweit zu
+verkaufen suchen.  Meiner Ansicht kann es bei dem
+abschlägl[igen] Bescheid nur lediglich sein Bewerden behalten.
 Bbg. 25. Novbr 41.
 
 Reck
 
-RC. Abschrift. dem Of. Kreutzinger
-zum baldigen gutienstlichen Bericht, ob
-das Land des Supplicanten in der Söhre
-seiner Lage u. Qualität nach zweckmä-
-ßig u. zu welchem Preise
-anzukaufen seÿn dürfte.
+RC. Abschrift. dem Of. Kreutzinger zum baldigen gutienstlichen
+Bericht, ob das Land des Supplicanten in der Söhre seiner Lage
+u. Qualität nach zweckmäßig u. zu welchem Preise anzukaufen
+seÿn dürfte.
 Bbg. 25. Nov. 41
 
 Reck
@@ -245,10 +238,11 @@ und Landes Herren
 So sad as Krückeberg’s situation may be, I still do not see how
 he can be helped. To approve a loan where the security is so
 insufficient is not possible. Just as unwelcome does it seem to
-me that the land in the Söhre which he purchased be bought back.
-If Krückeberg, on account of his debts, is at all able to dispose
-of it, let him seek to sell this land elsewhere. In my view, with
-the adverse decision it should simply remain as it is.
+me that the land in the Söhre which he purchased be bought
+back.  If Krückeberg, on account of his debts, is at all able
+to dispose of it, let him seek to sell this land elsewhere. In
+my view, with the adverse decision it should simply remain as
+it is.
 Bückeburg, 25 Nov. 1841.
 
 Reck
@@ -309,9 +303,3 @@ obtain further information about:
 
 This second note thus implements administrative follow-up. It doesn’t contradict the first; it supplements it by
 initiating the next procedural step.
-
-=== TODO
-
-Analyze the bottom text that continues onto the next page. From the three initials, there seem to have been 3
-individuals on the Rentcammer including Reck. The initials of the other can be better discerned from other
-documents.
