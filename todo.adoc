@@ -2,6 +2,12 @@
 
 == NLA Module 689
 
+=== How to Translate "Exp"/"expidiert"
+
+Translate it is "sent out by so-and-so on such-a-date"
+
+=== Other Thoughts
+
 Make sure:
 * transliterations and translations content matches
 * they are not missing content found in the image(s). 
