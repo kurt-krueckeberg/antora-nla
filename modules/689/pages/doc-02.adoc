@@ -393,6 +393,7 @@ Möller, office servant.
 ....
 |===
 
+[role="section-narrow"]
 == Rentkammer filing note (rubric) for #2 (in Acten Designation)
 
 This small note — typically written on a separate slip or at the top of the first page of a petition — functioned
@@ -422,11 +423,7 @@ correspondence.
 
 It likely appeared before the petition, but now appears after it when the case file leaves were bound.
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::08-l.png[title="Click to Enlarge",link=self]
-|
-|===
+image::08-l.png[title="Click to Enlarge",link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
