@@ -54,7 +54,7 @@ Zahlunganweisung, jedoch nicht an den Krückeberg, sondern an das
 Amt zu versehe[n]. Bbg. 20. Jan 42.
                      Reck
 
-                      vert[retend]
+                      vert
 ....
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -85,8 +85,10 @@ The promissory note is to be confirmed, and then Chamber
 treasurer (Kammerrentmeister) Berger is to be furnished with a
 payment order—however, not to Krückeberg but to the Amt.
 Bückeburg, 20 Jan. 1842.
+              Reck
 
-*Reck, acting on behalf of the Rentkammer.*
+
+           turn the page
 ....
 |===
 
