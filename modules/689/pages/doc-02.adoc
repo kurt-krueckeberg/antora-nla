@@ -393,7 +393,7 @@ Möller, office servant.
 ....
 |===
 
-== Petition Cover Note
+== Rentkammer filing note (rubric) for #2 (in Acten Designation)
 
 This small note — typically written on a separate slip or at the top of the first page of a petition — functioned
 as the formal address and subject line for filing the document in the Rentkammer’s registry (Kammer-Acten, or
@@ -401,15 +401,19 @@ as the formal address and subject line for filing the document in the Rentkammer
 
 It was meant for filing:
 
-* The phrasing switches to **genitive** — *“des Colon Krückeberg No 10 … unterthänigstes Gesuch um Anlehn dessens pp.”* — which reads like a **rubric** (“case of Colon Krückeberg…”) rather than the body of a petition.
-* It lacks **date, place, salutation, or signature**—all things you’d expect on a submitted petition or forwarding cover.
+* The phrasing switches to **genitive** — *“des Colon Krückeberg No 10 … unterthänigstes Gesuch um Anlehn dessens
+  pp.”* — which reads like a **rubric** (“case of Colon Krückeberg…”) rather than the body of a petition.
+* It lacks **date, place, salutation, or signature**—all things you’d expect on a submitted petition or forwarding
+  cover.
 * The **“pp.”** (perge-perge) and the very terse subject line are classic **registratur/docket** shorthand.
-* You found it as the **only text on otherwise blank pages**, exactly where offices placed an **Actenaufschrift / Rubrum / Umschlagzettel** to label a file segment.
+* You found it as the **only text on otherwise blank pages**, exactly where offices placed an **Actenaufschrift /
+  Rubrum / Umschlagzettel** to label a file segment.
 
 Workflow (typical in Schaumburg-Lippe ca. 1800):
 
 1. Petitioner submits a **Gesuch** (often via the local **Amt**).
-2. The Amt may add a brief forwarding note; then the **Rentkammer’s registratur** creates a **rubric** summarizing the case (petitioner, farm number, place, subject).
+2. The Amt may add a brief forwarding note; then the **Rentkammer’s registratur** creates a **rubric** summarizing
+   the case (petitioner, farm number, place, subject).
 3. That rubric sits at the front or on a slip attached to the bundle for **organization and indexing**.
 
 So: this slip **summarizes Document 2** (the loan petition) for the Rentkammer’s records. It may have been added at
@@ -417,8 +421,6 @@ the Amt or (more likely) at the **Rentkammer** on receipt, but its **purpose is 
 correspondence.
 
 It likely appeared before the petition, but now appears after it when the case file leaves were bound.
-
-TODO: IS this part of document 2 or document 3?
 
 [cols="1a,1a",frame=none,grid=none]
 |===
