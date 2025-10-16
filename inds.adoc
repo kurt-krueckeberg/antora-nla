@@ -1,3 +1,22 @@
 The Amt reports--
 
 Höcker is described in 
+
+[cols="1a,7a"]
+|===
+|Name(s)|Details
+
+|Möller|On the Billing Note for item #2, Möller is called xref:doc-02.adoc#doc-index-2-3[Amtsdiener], office servant
+
+|Höcker|In #4 "Krückeberg’s Second Petition", Höcker is called xref:doc-04.adoc#doc-index-4-1[Amtsassesor Höcker]
+
+|Hauck, +
+Dr Neuhsel, +
+Höcker|They sign xref:doc-02.adoc#doc-index-1-2[#2 Amt bericht] and xref:doc-08.adoc#doc-index-8-1[#4 Amt Bericht]
+
+|F. Sander, +
+A. Neuhsel, +
+Höcker|They sign xref:doc-09.adoc[#9 Amt bericht] 
+|===
+
+
