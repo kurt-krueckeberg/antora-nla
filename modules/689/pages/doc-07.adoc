@@ -47,7 +47,7 @@ Bburg 24. Debr 1841.
 Fürstl: p.
 
 
-[initials: Lm   L]
+[clerical initials:] Lm   L
 ....
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -76,7 +76,7 @@ is to be informed* of this.
 *By order of the Prince.*
 
 
-[initials: Lm L]
+[clerical initials:] Lm  L
 ....
 |===
 
