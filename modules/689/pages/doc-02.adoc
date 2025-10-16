@@ -302,6 +302,7 @@ Fm        L
 ....
 |===
 
+[role="section-narrow"]
 == Billing Note 
 
 The image below is a postscript accounting note made after the decision had already been formally served.
@@ -344,11 +345,7 @@ costs, not fines or penalties. Here is what each of them means:
 |Per-folio (per page) fee
 |===
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::07-l.png[title="Click to Enlarge",link=self]
-|
-|===
+image::07-l.png[title="Click to Enlarge",link=self]
 
 === Transliteration and Translation
 
