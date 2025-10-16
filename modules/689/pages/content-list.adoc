@@ -24,7 +24,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 |2.
 |xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
-.2+.^|Cour. aus Cammer-Casses
+.2+.^|Cour. aus Cammer-Casse
 |〃
 |〃
 |〃
