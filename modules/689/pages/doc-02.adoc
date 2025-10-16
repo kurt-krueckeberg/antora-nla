@@ -241,7 +241,7 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 
 === Transliteration and Translation
 
-*TODO:* Is *Copt* copy?
+*TODO:* Is *Copt* copy or Concept? The Act4en Desingation says it is Concpet.  "N.P. 1274" means "Nr pr. 1274".
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -438,7 +438,7 @@ Fürstliche Rentkammer.
 des Kolon Krucheberg
 Nro 10 in Berenbusch
 unterthänigstes Gesuch
-um Anlehns den-
+um Anlehns des-
 sens pp
 ....
 
