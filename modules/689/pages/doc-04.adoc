@@ -52,8 +52,7 @@ what price, and a copy of this instruction was entered into the case file.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[upper left]  NC. 5203  
-[upper right] pr. in Cam 24 Nov.    4
+NC. 5203                               pr. in Cam 24 Nov. 
 
 3 gl. Sthl[Stempelsteuer]
 
@@ -106,8 +105,7 @@ d 21ten November
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[upper left]  NC. 5203
-[upper right] presented in the Chamber on 24 November 1841        
+NC. 5203             presented in the Chamber on 24 November 1841        
 
 3 gr. stamp duty
 
@@ -191,7 +189,7 @@ Bbg. 25. Novbr 41.
 
 Reck
 
-RC. Abschriftl. dem Of. Kreutzinger
+RC. Abschrift. dem Of. Kreutzinger
 zum baldigen gutienstlichen Bericht, ob
 das Land des Supplicanten in der Söhre
 seiner Lage u. Qualität nach zweckmä-
@@ -242,7 +240,7 @@ Fürst
 und Landes Herren
 ....
 |
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 So sad as Krückeberg’s situation may be, I still do not see how
 he can be helped. To approve a loan where the security is so
@@ -255,8 +253,6 @@ Bückeburg, 25 Nov. 1841.
 
 Reck
 
-*RC instruction (Instructions of the Rentkammer officials,
-recorded in the case file):*
 RC. Copy to Head Forester Kreutzinger for a prompt official
 report whether the supplicant’s land in the Söhre, considering
 its location and quality, is advisable to purchase and at what
