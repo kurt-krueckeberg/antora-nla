@@ -30,19 +30,3 @@ routing (to Amt, to officer Creuzinger), "Expedirt" notes, initials.
 p[ropria]*; signatures of officials (Hauck, Dr. Neuhsel, Höcker, etc.).
 . *Marginalia & foliation* Later pencil folios vs. ink notes; keep
 separate from 1841 hands.
-
-== How to use it (fast workflow)
-
-* Make a one-line entry per document with: *[Date] – Type – From/To – Nr
-pr. – N.C. – Key decision/subject – Enclosures*.
-* Then build a *timeline* for 1841 and see if *N.C. numbers increase
-with the dates* (this will confirm the Chamber-docket hypothesis across
-Items 1–7).
-* Cross-check that *Item 3’s condition* ("on condition of pledging all
-his lands") is echoed in the relevant order/report language.
-* Verify *Item 4 row 2* really introduces the *sale request* wording
-("Gesuch um Verkauf … Söhren-Weide betr.") and that Item 5’s
-*Situations-Riß* is the named enclosure.
-
-If you want, I can turn this into a tiny AsciiDoc template you can paste
-under each item to keep notes uniformly.
