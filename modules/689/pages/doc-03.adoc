@@ -197,10 +197,10 @@ lediglich dem Ermessen der Cammer anheimgeben.
 Bbg 15. Novbr 41.
               Reck 
 
-RC. das Gesuch wäre
+_RC. das Gesuch wäre
 abzuschlagen.
 Bbg 15. Nov. 41.
-        Reck     vot[um]
+        Reck_     vot[um]
 ....
 
 
@@ -227,9 +227,9 @@ Bbg., 15 Nov. 1841.
 
 Reck
 
-RC. The petition should be rejected.
+_RC. The petition should be rejected.
 
-Reck
+Reck_
 ....
 |===
 
