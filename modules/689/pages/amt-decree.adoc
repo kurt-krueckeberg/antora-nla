@@ -1,4 +1,4 @@
-= Amt Bückeburg - Decree and Execution Order - 10/13 July 1841
+= Background: Amt Bückeburg - Decree and Execution Order - 10/13 July 1841
 :page-role: wide
 :doc-id: amt-decree.adoc
 :series: NLA BU, K 2, A Nr. 689
@@ -7,7 +7,6 @@
 :doc-date: 1841-07-10/1841-07-13
 :summary: Court decree ordering execution; bailiff Möller instructed; distraint threatened after 14 days
 :related-index: index-row-2
-
 
 [options="noheader",cols="1a,1a",frame=none,grid=none]
 |===

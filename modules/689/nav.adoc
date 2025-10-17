@@ -2,11 +2,9 @@
 //* xref:narrative.adoc[]
 //* Case File
 //* xref:analyze.adoc[]
-* xref:cover.adoc[]
 * xref:overview.adoc[]
 * xref:case-file-organization.adoc[]
-//** xref:glossary.adoc[]  <-- Rather merely or purely a glossary create an explanation of terms and concepts
-// building on the overview.adoc
+* xref:cover.adoc[]
 * xref:amt-decree.adoc[]
 * xref:content-list.adoc[Contents]
 ** xref:doc-01.adoc[]
