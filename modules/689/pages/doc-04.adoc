@@ -1,9 +1,6 @@
 = #4 Documents
 :page-role: wide
 
-*TODO:* Make sure transliteration and translation contain the same content and are presented
-logically and cleanly.
-
 [[doc-index-4-1]]
 == Krückeberg’s Second Petition (21 Nov 1841)
 
