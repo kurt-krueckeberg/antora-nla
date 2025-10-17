@@ -1,10 +1,6 @@
 = #8 Documents
 :page-role: wide
 
-*TODO:* This page needs work: ensure everything has been translitered, all the text 
-in the image, and it appears logically in the transliteration. Provide explanations
-and a summary that explains what is being communicated.
-
 [[doc-index-8-1]]
 == Report from the Office Bückeburg (12 Jan 1842)
 
