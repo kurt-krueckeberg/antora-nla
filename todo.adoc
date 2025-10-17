@@ -15,7 +15,10 @@ by searching for: pc '[Ee]xp' ~/nla/m/689/p/*.adoc
 
 Then Translate it as: "sent out by Holsteo on NOv. 17th"
 
-=== Create a page of explanation of terms and concepts
+=== Create a page for explanation of terms and concepts
+
+...like Rescript, dispoistive comments, an overview of the role of the Amt and Rentcammer, whether Krueckeberg
+finally appeals to "Ceasar".
 
 Add a glossary-like page, but rather than merely or purely a glossary, such a glossary.adoc, create an explanation of terms
 and concepts that builds on what is in glossary.adoc and overview.adocp[]
