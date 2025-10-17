@@ -1,8 +1,6 @@
 = #2 Documents
 :page-role: wide
 
-*TODO:* Confirm there is something called a "cover slip". Double check summaries/overview.
-
 [[doc-index-2-1]]
 == Report of the Office of Bückeburg (7 Oct 1841)
 
