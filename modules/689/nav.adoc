@@ -3,15 +3,18 @@
 //* Case File
 //* xref:analyze.adoc[]
 * xref:cover.adoc[]
-* xref:amt-decree.adoc[]
-* xref:service-slip-july-10-1841.adoc[]
+* xref:overview.adoc[]
 * xref:case-file-organization.adoc[]
-//** xref:glossary.adoc[]
+//** xref:glossary.adoc[]  <-- Rather merely or purely a glossary create an explanation of terms and concepts
+// building on the overview.adoc
+* xref:amt-decree.adoc[]
 * xref:content-list.adoc[Contents]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
 *** xref:doc-02.adoc#doc-index-2-1[Report of Office of Bückeburg (7 Oct. 1841)]
 *** xref:doc-02.adoc#doc-index-2-2[Draft of Official Order of the Rentcammer to the Office Bückeburg (14 Oct. 1841)]
+*** xref:doc-02.adoc#doc-index-2-3[Ancillary Billing note]
+*** xref:doc-02.adoc#doc-index-2-4[Ancillary Filing note]
 ** xref:doc-03.adoc[]
 *** xref:doc-03.adoc#doc-index-3-1[Petition of Colon Krückeberg (11 Nov. 1841)]
 *** xref:doc-03.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck (15 Nov. 1841)]
@@ -31,5 +34,4 @@
 *** xref:doc-08.adoc#doc-index-8-3[Draft of Official Order to Treasurer Berger (20 Jan 1842)]
 ** xref:doc-09.adoc[]
 ** xref:doc-10.adoc[]
-//* xref:overview.adoc[Analysis]
 //** xref:docs-1-and-2-analysis.adoc[]

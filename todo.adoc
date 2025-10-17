@@ -2,9 +2,25 @@
 
 == NLA Module 689
 
-=== How to Translate "Exp"/"expidiert"
+=== Do Tranlstion of  "Exp"/"expidiert"
 
-Translate it is "sent out by so-and-so on such-a-date"
+Find the instances of 'Exp' like, for example
+...
+Exp
+Holste (or some other name)
+17/11 (or some other date)
+...
+
+by searching for: pc '[Ee]xp' ~/nla/m/689/p/*.adoc
+
+Then Translate it as: "sent out by Holsteo on NOv. 17th"
+
+=== Create a page of explanation of terms and concepts
+
+Add a glossary-like page, but rather than merely or purely a glossary, such a glossary.adoc, create an explanation of terms
+and concepts that builds on what is in glossary.adoc and overview.adocp[]
+
+Add this page(s) to nav.adoc.
 
 === Other Thoughts
 
