@@ -6,7 +6,7 @@
 * xref:case-file-organization.adoc[]
 * xref:cover.adoc[]
 * xref:content-list.adoc[Contents]
-* xref:amt-decree.adoc[]
+** xref:amt-decree.adoc[]
 ** xref:doc-01.adoc[]
 ** xref:doc-02.adoc[]
 *** xref:doc-02.adoc#doc-index-2-1[Report of Office of Bückeburg (7 Oct. 1841)]
