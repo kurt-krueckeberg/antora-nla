@@ -34,8 +34,9 @@ for example, the contents list has these two documents listed under entries #2 a
 === Cross-Referencing the Contents List to Its Documents
 
 For each number in column one of the contents list, the first document listed will have
-this number written in the upper right corner of the first page. This is the first page
-of the xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]:
+this number written in the upper right corner of the first page. This first document for
+number 2 in the able above is the xref:amt-decree.adoc[Bericht Amts Bückeburg] (the Report
+of the Bückeburg Office), in and the upper right corner ofits  first page, you see *2*:
 
 image::example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
 
