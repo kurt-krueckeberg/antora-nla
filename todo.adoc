@@ -2,7 +2,7 @@
 
 == NLA Module 689
 
-=== Do Tranlstion of  "Exp"/"expidiert"
+=== Add the Translation for Instances of "Exp"/"expidiert"
 
 Find the instances of 'Exp' like, for example
 ...
@@ -13,15 +13,23 @@ Holste (or some other name)
 
 by searching for: pc '[Ee]xp' ~/nla/m/689/p/*.adoc
 
-Then Translate it as: "sent out by Holsteo on NOv. 17th"
+Translate it as: *"sent out by Holsteo on NOv. 17th"*
 
-=== Create a page for explanation of terms and concepts
+===  Provide a Description and Summary Each Content List Item
 
-...like Rescript, dispoistive comments, an overview of the role of the Amt and Rentcammer, whether Krueckeberg
-finally appeals to "Ceasar".
+Explain the case file. For each number item, use the subject (the right column)
+as the topic if it helps. Just work through the documents one by one and
+determine what they exist, what they say, and how the Rentcammer responds.
 
-Add a glossary-like page, but rather than merely or purely a glossary, such a glossary.adoc, create an explanation of terms
-and concepts that builds on what is in glossary.adoc and overview.adocp[]
+=== Lastly Create a page for explanation of terms and concepts
+
+Use the explanation above provide an explanation of terms (and concepts if
+needed) for Rescript, dispoistive comments, an overview of the role of the Amt
+and Rentcammer, whether Krueckeberg finally appeals to "Ceasar".
+
+To do this use the glossary-like page, but rather than merely or purely a
+glossary, such a glossary.adoc, create an explanation of terms and concepts that
+builds on what is in glossary.adoc and overview.adocp[]
 
 Add this page(s) to nav.adoc.
 

@@ -1,5 +1,0 @@
-= Decision Making Workflow
-
-The background document contains the default decision of the Amt. 
-
-== Terms
