@@ -1,4 +1,4 @@
-= Background: Amt Bückeburg - Decree and Execution Order - 10/13 July 1841
+= Background: Amt Bückeburg - Decree and Execution Order (10/13 July 1841)
 :page-role: wide
 :doc-id: amt-decree.adoc
 :series: NLA BU, K 2, A Nr. 689
