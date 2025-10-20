@@ -11,7 +11,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"|Bericht des Amts Bückeberg|"|"|"|26
 
-|"|Copt[Concept]: KRes[r]. an die Witwe Kruckeberg|"|"|Aug|4
+|"|Copt: KRes[r]. an die Witwe Kruckeberg|"|"|Aug|4
 
 |"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum|"|"|"|"
 
@@ -19,3 +19,33 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |2.|Bericht des Amts Bückeberg|"|"|"|7
 |===
+
+
+[cols="2,3,3",options="header"]
+|===
+|Nr. | Designatio Actorum (deutsch, mit aufgelösten Abkürzungen) | .translation | Designation of the Acts (English, expanded)
+
+|1.|Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch| |Petition of the widow Krückeberg, holding No. 10 in Berenbusch.
+|"|Bericht des Amts Bückeberg| |Report of the Office of Bückeberg.
+|"|Concept Rescript an die Wittwe Krückeberg| |Draft of the rescript to the widow Krückeberg.
+|"|Similiter: wapp[niert] Schmöe, Kahlhuth und Creuzinger zu Baum| |Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum.
+|"|Concept Rescript aus Amt Bückeberg| |Draft of the rescript originating from the Office of Bückeberg.
+|2.|Bericht des Amts Bückeberg| |Report of the Office of Bückeberg.
+|===
+
+[cols="3,3",options="header"]
+|===
+|Datum | Inhalt / Vorgang
+|8 Juli 1824 | Vorstellung (petition) eingereicht.
+|26 Juli 1824 | Bericht des Amts Bückeberg erstattet.
+|4 August 1824 | Concept des Reskripts aufgesetzt und wappniert.
+|7 August 1824 | Zweiter Bericht des Amts Bückeberg.
+|===
+
+[NOTE]
+====
+*wapp.* = „wappniert“, mit dem Amtssiegel versehen  
+*Sim.* = „Similiter“, lateinisch für „ebenso, gleichfalls“  
+*Copt.* = „Concept“, Entwurf eines Schreibens zur Aktenlage  
+====
+
