@@ -2,9 +2,10 @@
 
 image::cover.jpg[title=Click to Enlarge,link=self]
 
+[literal,subs="verbatim,quotes"]
 ....
 Bauerngüter x Colonien
-[.line-through]#Special#                           Rep:II
+[line-through]#Special#                           Rep:II
 B. Amt Bückeburg
 II Berenbusch [line-through]#No. 10#
 
