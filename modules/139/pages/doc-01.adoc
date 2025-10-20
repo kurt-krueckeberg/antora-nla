@@ -30,7 +30,7 @@
 // Hanny
 
 [cols="1a,1a",options="noheader"]
-|====
+|===
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
