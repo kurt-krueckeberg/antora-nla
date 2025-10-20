@@ -11,11 +11,11 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"|Bericht des Amts Bückeberg|"|"|"|26
 
-|"|Copt: KResch. an die Witwe Kruckeberg|"|"|Aug|4
+|"|Copt[Concept]: KRes[r]. an die Witwe Kruckeberg|"|"|Aug|4
 
-|"|Sim: aap Schmöe, Kahlhuth u Creuzinger zu Baum|"|"|"|"
+|"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum|"|"|"|"
 
-|"|Copt: KResr: aus Amt Bberg|"|"|"|"
+|"|Copt[Concept]: KResr: aus Amt Bberg|"|"|"|"
 
 |2.|Bericht des Amts Bückeberg|"|"|"|7
 |===
