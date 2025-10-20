@@ -1,0 +1,19 @@
+
+[cols="1,7,2,2,2"]
+|===
+|No.|Designatio Actorum.|Ort|Jahr|Monat|Tag
+
+|1.|Vorstellung der Witwe|Bburg|1824|July|8
+
+|"|Krückeberg No 10 Berenbusch|"|"|"|26
+
+|"|Bericht des Amts Bückeberg|||
+
+|"|Copt: KResch. an die Witwe Kruckeberg|||
+
+|"|Sim: aap Schmöe, Kahlhuth u Creuzinger zu Baum|||
+
+|"|Copt: KResr: aus Amt Bberg|||
+
+|2.|Bericht des Amts Bückeberg|||
+|===
