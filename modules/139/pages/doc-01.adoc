@@ -33,6 +33,8 @@
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
+|Transliteration |Translation
+
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -76,6 +78,7 @@ labor services owed from her holding.
 G. Schultze
 ....
 |===
+
 [NOTE]
 ====
 * *Burgrest-Handtage* -> compulsory labor days (feudal service obligations) owed
