@@ -4,9 +4,9 @@ image::cover.jpg[title=Click to Enlarge,link=self]
 
 ....
 Bauerngüter x Colonien
-[crossed out:]Special                           Rep:II
+[.line-through]#Special#                           Rep:II
 B. Amt Bückeburg
-II Berenbusch [crossed out:]No. 10
+II Berenbusch [line-through]#No. 10#
 
 
 
