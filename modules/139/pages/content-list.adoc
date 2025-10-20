@@ -7,17 +7,17 @@ image::01.png[title=Clock to Enlarge,link=self]
 |===
 |No.|Designatio Actorum.|Ort|Jahr|Monat|Tag
 
-|1.|Vorstellung der Witwe Krückeberg No 10 Berenbusch|Bburg|1824|July >|8
+|1.|Vorstellung der Witwe Krückeberg No 10 Berenbusch >|Bburg >|1824 >|July >|8
 
-|"|Bericht des Amts Bückeberg|"|"|" >|26
+|"|Bericht des Amts Bückeberg >|" >|" >|" >|26
 
-|"|Copt: KResc. an die Witwe Kruckeberg|"|"|Aug >|4
+|"|Copt: KResc. an die Witwe Kruckeberg >|" >|" >|Aug >|4
 
-|"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum|"|"|" >|"
+|"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum >|" >|" >|" >|"
 
-|"|Copt KResc: aus Amt Bberg|"|"|" >|"
+|"|Copt KResc: aus Amt Bberg >|" >|" >|" >|"
 
-|2.|Bericht des Amts Bückeberg|"|"|" >|7
+|2.|Bericht des Amts Bückeberg >|" >|" >|" >|7
 |===
 
 
@@ -26,18 +26,18 @@ image::01.png[title=Clock to Enlarge,link=self]
 |Nr.| Designatio Actorum | Designation of the Acts (English, expanded)|Place|Year|Month|Day
 
 |1.|Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch| Petition of the widow Krückeberg, holding No. 10
-in Berenbusch.|Bburg|1824|July >|8
+in Berenbusch. >|Bburg >|1824 >|July >|8
 
-|"|Bericht des Amts Bückeberg| Report of the Office of Bückeberg.|"|"|" >|26
+|"|Bericht des Amts Bückeberg| Report of the Office of Bückeberg. >|" >|" >|" >|26
 
-|"|Concept Rescript an die Wittwe Krückeberg| Draft of the rescript to the widow Krückeberg.|"|"|Aug >|4
+|"|Concept Rescript an die Wittwe Krückeberg| Draft of the rescript to the widow Krückeberg. >|" >|" >|Aug >|4
 
 |"|Similiter: wapp[niert] Schmöe, Kahlhuth und Creuzinger zu Baum| Likewise: sealed (with the official seal) and
-signed by Schmöe, Kahlhuth and Creuzinger of Baum.|"|"|" >|"
+signed by Schmöe, Kahlhuth and Creuzinger of Baum. >|" >|" >|" >|"
 
-|"|Concept Rescript aus Amt Bückeberg|Draft of the rescript originating from the Office of Bückeberg.|"|"|" >|"
+|"|Concept Rescript aus Amt Bückeberg|Draft of the rescript originating from the Office of Bückeberg. >|" >|" >|" >|"
 
-|2.|Bericht des Amts Bückeberg| Report of the Office of Bückeberg.|"|"|" >|7
+|2.|Bericht des Amts Bückeberg| Report of the Office of Bückeberg. >|" >|" >|" >|7
 |===
 
 [cols="3,3",options="header"]
