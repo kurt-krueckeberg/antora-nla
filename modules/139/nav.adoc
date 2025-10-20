@@ -1,8 +1,8 @@
 .xref:index.adoc[]
 * xref:cover.adoc[]
 * xref:content-list.adoc[]
-** #1 Documents
-*** xref:doc-01.adoc[]
+** xref:doc-01.adoc[]
+*** xref:doc-01.adoc#doc-index-1-1[Petition of the widow Krückeberg, holding No. 10 in Berenbusch]
 //*** xref:
 //*** xref:
 //*** xref:
