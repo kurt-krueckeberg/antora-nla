@@ -1,4 +1,11 @@
-=  
+= Petition of the widow Krückeberg, holding No. 10 in Berenbusch  
+:page-role: wide
+
+[cols="1a,1a"]
+|===
+|image::02-right-side-of-page.png[title=Click to Enlarge,link=self]
+|image::03-right-side-of-page.png[title=Click to Enlarge,link=self]
+|===
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -34,24 +41,92 @@ fast immer krank ge-
 wesen, so seÿ sie durch
 die vielen Ausgaben
 an Doctor, Apotheker,
-fast gang arm gewor-
+fast ganz arm gewor-
 den.
 
-Jetzt, falle ihr nun
+Jetzt falle ihr nun
 die Ableistung der von ihrer Stätte
 gehenden Burgrest-
 Handtage und die Forst-
-dienste sehr schwer
+dienste sehr schwer,
 indem sie selbige, da
 sie nunmehr 58 Jahr
-alt sey und selbige selbst
-nicht mehr verrichten könne.
+alt seÿ und selbige selbst
+nicht mehr verrichten könne,
 durch andere Leute für
 Geld abthun lassen
-muße. Fortan könne
-sie aber das Gold für
+müsse. Fortan könne
+sie aber das Geld für
 die Ableistung der
-Burgrest : und Forst-
+Burgrest- und Forst-
 Dienste nicht mehr an-
 schaffen, und sehe
-sich daher gnäthigt
+sich daher genöthigt,
+Fürstliche Rentkammer
+mit der unterthänigsten
+Bitte zu behelligen,
+ihr auf einige
+Jahre die von
+ihrer Stätte
+gehenden Burgrest-
+Handtage und
+Forstdienste gnä-
+digst zu erlassen.
+
+G. Schultze
+....
+
+[NOTE]
+====
+* *Burgrest-Handtage* -> compulsory labor days (feudal service obligations) owed
+  to the princely administration connected to castle or estate maintenance.
+* *Forstdienste* -> required forestry labor (woodcutting, hauling, planting).
+
+* *“Burgrest-Handtage”*
++
+_Burgrest_ basically means the “residual” labour owed to the castle or the territorial
+lord by a tenant (in this case the widow at Site No 10).
++
+_Handtage_ literally “hand-days”, meaning days of manual labour rather than cash payment.
++
+Together: “labour-days still owed to the castle/estate”. +
+→ So in your document she is saying: she is required to perform or arrange
+someone to perform certain manual work for the domain (castle estate) because of
+the tenure of her holding.
+
+* *“Forstdienste”*
++
+_Forst_ means forest (the lord’s woods).
++
+_Dienste_ means services/obligations.
++
+So: *“forest service duties”.* +
+-> These are manual jobs associated with the forest—cutting or hauling wood,
+clearing or maintaining forest land, maybe hauling timber for the estate—jobs
+owed by the tenant to the lord’s forest administration.
+
+* *Rentkammer* -> the fiscal/treasury office of the Prince of Schaumburg-Lippe.
+* *behelligen mit der unterthänigsten Bitte* -> formulaic expression meaning
+  *“to trouble [the authority] with the most humble petition.”*
+====
+
+Translation
+
+....
+The widow Krückeberg, No. 10 in Bärenbusch, declared:
+
+Her husband had died two years ago, and since during his lifetime he had been
+almost continually ill, she had, through the many expenses for doctor and
+apothecary, become nearly destitute.
+
+Now the performance of the Burgrest labor days and forestry services owed from
+her holding had become very difficult for her, since, being now fifty-eight
+years old and no longer able to perform them herself, she had to have them done
+by others for money.  Henceforth, however, she could no longer procure the money
+for the fulfillment of the Burgrest and forestry duties, and therefore found
+herself compelled to trouble the Princely Rent Chamber with the most humble
+request to graciously remit to her, for some years, the Burgrest and forestry
+labor services owed from her holding.
+
+G. Schultze
+....
