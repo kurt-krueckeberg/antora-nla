@@ -29,6 +29,8 @@
 // 
 // Hanny
 
+== Transliteration and Translation
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |
@@ -38,44 +40,18 @@ Die Witwe Krückeberg Nro 10.
 zu Bärenbusch gab zu ver-
 nehmen:
 
-Ihr Mann seÿ vor 2 Jah-
-ren gestorben, und da
-er beÿ seinen Lebzeiten
-fast immer krank ge-
-wesen, so seÿ sie durch
-die vielen Ausgaben
-an Doctor, Apotheker,
-fast ganz arm gewor-
-den.
+Ihr Mann seÿ vor 2 Jah- ren gestorben, und da er beÿ seinen Lebzeiten fast
+immer krank gewesen, so seÿ sie durch die vielen Ausgaben an Doctor,
+Apotheker, fast ganz arm geworden.
 
-Jetzt falle ihr nun
-die Ableistung der von ihrer Stätte
-gehenden Burgrest-
-Handtage und die Forst-
-dienste sehr schwer,
-indem sie selbige, da
-sie nunmehr 58 Jahr
-alt seÿ und selbige selbst
-nicht mehr verrichten könne,
-durch andere Leute für
-Geld abthun lassen
-müsse. Fortan könne
-sie aber das Geld für
-die Ableistung der
-Burgrest- und Forst-
-Dienste nicht mehr an-
-schaffen, und sehe
-sich daher genöthigt,
-Fürstliche Rentkammer
-mit der unterthänigsten
-Bitte zu behelligen,
-ihr auf einige
-Jahre die von
-ihrer Stätte
-gehenden Burgrest-
-Handtage und
-Forstdienste gnä-
-digst zu erlassen.
+Jetzt falle ihr nun die Ableistung der von ihrer Stätte gehenden Burgrest-
+Handtage und die Forstdienste sehr schwer, indem sie selbige, da sie
+nunmehr 58 Jahr alt seÿ und selbige selbst nicht mehr verrichten könne,
+durch andere Leute für Geld abthun lassen müsse. Fortan könne sie aber das
+Geld für die Ableistung der Burgrest- und ForstDienste nicht mehr an-
+schaffen, und sehe sich daher genöthigt, Fürstliche Rentkammer mit der
+unterthänigsten Bitte zu behelligen, ihr auf einige Jahre die von ihrer
+Stätte gehenden Burgrest- Handtage und Forstdienste gnädigst zu erlassen.
 
 G. Schultze
 ....
