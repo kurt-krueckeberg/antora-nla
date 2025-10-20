@@ -7,29 +7,33 @@
 |image::03-right-side-of-page.png[title=Click to Enlarge,link=self]
 |===
 
+//[literal.bordered,subs="verbatim,quotes"]
+//....
+// N. C. 2816.                Praes: 8 Jul. 24.
+// HKR Sp.
+// 
+//                                 Actum Bückeburg in Camera
+//                                den 8ten July 1874.
+// 
+// Dürftig.                       
+// 
+// 
+// R. C. b. m. zum Amtsbericht
+// B. 12 Jul 1824.
+//      Hemg
+// 
+// Præs. 31. Jul. a. c.
+// Hk. A. Sp.
+// 
+// N. pr. 602.
+// 
+// Hanny
+
+[cols="1a,1a",options="noheader"]
+|====
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N. C. 2816.                Praes: 8 Jul. 24.
-HKR Sp.
-
-                                Actum Bückeburg in Camera
-                               den 8ten July 1874.
-
-Dürftig.                       
-
-
-R. C. b. m. zum Amtsbericht
-B. 12 Jul 1824.
-     Hemg
-
-Præs. 31. Jul. a. c.
-Hk. A. Sp.
-
-N. pr. 602.
-
-Hanny
-
-
 Die Witwe Krückeberg Nro 10.
 zu Bärenbusch gab zu ver-
 nehmen:
@@ -75,7 +79,26 @@ digst zu erlassen.
 
 G. Schultze
 ....
+|
+....
+The widow Krückeberg, No. 10 in Bärenbusch, declared:
 
+Her husband had died two years ago, and since during his lifetime he had been
+almost continually ill, she had, through the many expenses for doctor and
+apothecary, become nearly destitute.
+
+Now the performance of the Burgrest labor days and forestry services owed from
+her holding had become very difficult for her, since, being now fifty-eight
+years old and no longer able to perform them herself, she had to have them done
+by others for money.  Henceforth, however, she could no longer procure the money
+for the fulfillment of the Burgrest and forestry duties, and therefore found
+herself compelled to trouble the Princely Rent Chamber with the most humble
+request to graciously remit to her, for some years, the Burgrest and forestry
+labor services owed from her holding.
+
+G. Schultze
+....
+|===
 [NOTE]
 ====
 * *Burgrest-Handtage* -> compulsory labor days (feudal service obligations) owed
@@ -109,24 +132,3 @@ owed by the tenant to the lord’s forest administration.
 * *behelligen mit der unterthänigsten Bitte* -> formulaic expression meaning
   *“to trouble [the authority] with the most humble petition.”*
 ====
-
-Translation
-
-....
-The widow Krückeberg, No. 10 in Bärenbusch, declared:
-
-Her husband had died two years ago, and since during his lifetime he had been
-almost continually ill, she had, through the many expenses for doctor and
-apothecary, become nearly destitute.
-
-Now the performance of the Burgrest labor days and forestry services owed from
-her holding had become very difficult for her, since, being now fifty-eight
-years old and no longer able to perform them herself, she had to have them done
-by others for money.  Henceforth, however, she could no longer procure the money
-for the fulfillment of the Burgrest and forestry duties, and therefore found
-herself compelled to trouble the Princely Rent Chamber with the most humble
-request to graciously remit to her, for some years, the Burgrest and forestry
-labor services owed from her holding.
-
-G. Schultze
-....
