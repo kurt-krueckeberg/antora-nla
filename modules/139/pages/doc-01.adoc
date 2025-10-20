@@ -29,7 +29,7 @@
 // 
 // Hanny
 
-[cols="1a,1a",options="noheader"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -80,6 +80,7 @@ digst zu erlassen.
 G. Schultze
 ....
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 The widow Krückeberg, No. 10 in Bärenbusch, declared:
 
