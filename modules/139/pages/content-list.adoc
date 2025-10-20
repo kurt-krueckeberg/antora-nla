@@ -21,7 +21,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 |===
 
 
-[cols="2,3,3",options="header"]
+[cols="1,4,1,4",options="header"]
 |===
 |Nr. | Designatio Actorum (deutsch, mit aufgelösten Abkürzungen) | .translation | Designation of the Acts (English, expanded)
 
