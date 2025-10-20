@@ -1,8 +1,8 @@
 = #1 Docments
+:page-role: wide
 
 [[doc-index-1-1]]
 == Petition of the widow Krückeberg, holding No. 10 in Berenbusch  
-:page-role: wide
 
 [cols="1a,1a"]
 |===
