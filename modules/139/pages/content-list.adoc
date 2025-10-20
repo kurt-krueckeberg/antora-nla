@@ -3,6 +3,7 @@
 
 image::01.png[title=Clock to Enlarge,link=self]
 
+.Diplomatic Literal Transliteration
 [cols="1,7,2,2,2,2"]
 |===
 |No.|Designatio Actorum. ^|Ort ^|Jahr ^|Monat ^|Tag
@@ -20,8 +21,8 @@ image::01.png[title=Clock to Enlarge,link=self]
 |2.|Bericht des Amts Bückeberg ^|" ^|" ^|" >|7
 |===
 
-
-[cols="2%,40%,40%,5%,5%,5%,3%",options="header"]
+.Expanded Transliteration with Translation
+[cols="2%,35%,45%,5%,5%,5%,3%",options="header"]
 |===
 |Nr.| Designatio Actorum | Designation of the Acts (English, expanded) ^|Place ^|Year ^|Month ^|Day
 
@@ -39,20 +40,3 @@ signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
 
 |2.|Bericht des Amts Bückeberg| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
 |===
-
-[cols="3,3",options="header"]
-|===
-|Datum | Inhalt / Vorgang
-|8 Juli 1824 | Vorstellung (petition) eingereicht.
-|26 Juli 1824 | Bericht des Amts Bückeberg erstattet.
-|4 August 1824 | Concept des Reskripts aufgesetzt und wappniert.
-|7 August 1824 | Zweiter Bericht des Amts Bückeberg.
-|===
-
-[NOTE]
-====
-*wapp.* = „wappniert“, mit dem Amtssiegel versehen  
-*Sim.* = „Similiter“, lateinisch für „ebenso, gleichfalls“  
-*Copt.* = „Concept“, Entwurf eines Schreibens zur Aktenlage  
-====
-
