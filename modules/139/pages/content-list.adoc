@@ -5,7 +5,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 [cols="1,7,2,2,2,2"]
 |===
-|No.|Designatio Actorum.|Ort|Jahr|Monat|Tag
+|No.|Designatio Actorum. >|Ort >|Jahr >|Monat >|Tag
 
 |1.|Vorstellung der Witwe Krückeberg No 10 Berenbusch >|Bburg >|1824 >|July >|8
 
@@ -23,7 +23,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 [cols="2%,40%,40%,5%,5%,5%,3%",options="header"]
 |===
-|Nr.| Designatio Actorum | Designation of the Acts (English, expanded)|Place|Year|Month|Day
+|Nr.| Designatio Actorum | Designation of the Acts (English, expanded) >|Place >|Year >|Month >|Day
 
 |1.|Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch| Petition of the widow Krückeberg, holding No. 10
 in Berenbusch. >|Bburg >|1824 >|July >|8
