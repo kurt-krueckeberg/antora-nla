@@ -21,6 +21,13 @@ image::01.png[title=Clock to Enlarge,link=self]
 |2.|Bericht des Amts Bückeberg ^|" ^|" ^|" >|7
 |===
 
+[NOTE]
+====
+*wapp.* = “wappniert,” meaning “sealed with the official seal”  
+*Sim.* = “Similiter,” Latin for “likewise” or “in the same way”  
+*Copt.* = “Concept,” meaning “draft of a document for the record”
+====
+
 .Expanded Transliteration with Translation
 [cols="2%,35%,45%,5%,5%,5%,3%",options="header"]
 |===
