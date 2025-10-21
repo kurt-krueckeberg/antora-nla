@@ -28,6 +28,9 @@ first page and continues on the right side of the back page.
 
 === Transliteration and Translation
 
+The transliteration of the petition has had its minimal grammar modernized and it spellings 
+updated as well.
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration |Translation
