@@ -25,6 +25,8 @@ first page and continues on the right side of the back page.
 
 .Explantion of Burgrest labor days and Forest service
 **** 
+[NOTE]
+====
 * *Burgrest-Handtage* -> compulsory labor days (feudal service obligations) owed
   to the princely administration connected to castle or estate maintenance.
 * *Forstdienste* -> required forestry labor (woodcutting, hauling, planting).
@@ -54,6 +56,7 @@ owed by the tenant to the lord’s forest administration.
 
 * *behelligen mit der unterthänigsten Bitte* -> formulaic expression meaning
   *“to trouble [the authority] with the most humble petition.”*
+====
 ****
 
 [cols="1a,1a"]
