@@ -53,6 +53,14 @@ first page and continues on the right side of the back page.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+N. C. 2816.                Praes: 8 Jul. 24.
+HKR Sp.[likely initials of Rentcammer officials]
+
+                           Actum Bückeburg in Camera
+                           den 8ten July 1874.
+Dürftig.                       
+
+
 Die Witwe Krückeberg Nro 10. zu Bärenbusch gab zu vernehmen:
 
 Ihr Mann seÿ vor 2 Jah- ren gestorben, und da er beÿ seinen Lebzeiten fast
@@ -73,6 +81,16 @@ G. Schultze
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+N. C. 2816.                presented: 8 Jul. 24.
+HKR Sp.[likely initials of Rentcammer officials:
+        Höcker, [Reck / Spreng], Spang.]
+
+                          Recorded at the Chamber in
+                          Bückeburg on 8 July 1824.
+
+Poor/needy/in need[annotation]
+
+
 The widow Krückeberg, No. 10 in Bärenbusch, declares:
 
 Her husband died two years ago, and since during his lifetime he was almost
@@ -126,9 +144,10 @@ owed by the tenant to the lord’s forest administration.
 ====
 
 [[doc-index-1-2]]
-=== Dispositive R.C. comments?
+== Report from the Bückeburg Office 
 
-This is the text on the left side of the first page.
+The report of the Bückeburg local government office appears on the left side of the first page opposite the
+petition of the widow Krückeberg.
 
 [cols="1a,1a"]
 |===
@@ -136,7 +155,7 @@ This is the text on the left side of the first page.
 |
 |===
 
-==== Translation and Transliteration
+=== Translation and Transliteration
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -173,7 +192,8 @@ Georg Wilhelm.   Verte
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-R.C. memorandum concerning the Office report  
+Rentkammer note: case assigned to me for handling the report from the
+Office of Bückeburg
 B. 12 July 1824  
 Spang  
 
@@ -189,6 +209,14 @@ entirely impoverished, she therefore deserves to be recommended for the
 most gracious approval of any relief that might ease her condition.
 Bückeburg, 26 July 1824.
 Habicht. Sander.
+
+
+Rentkammer resolution (2 August 1824):
+It is hereby approved that the widow Krückeberg shall be granted
+exemption from the Burgrest and forestry labor services for a period of
+three years.
+Approved — Spang.
+By authority of Prince Georg Wilhelm.
 
 R.C. — For three years, exemption from
 Burgrest and forestry service is to be granted.
