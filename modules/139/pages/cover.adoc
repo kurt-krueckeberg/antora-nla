@@ -1,15 +1,17 @@
 = Case File Cover
+:page-role: wide
 
 image::cover.jpg[title=Click to Enlarge,link=self]
 
-[literal,subs="verbatim,quotes"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Bauerngüter x Colonien
-[line-through]#Special#                           Rep:II
+[line-through]#Special#                    Rep:II
 B. Amt Bückeburg
 II Berenbusch [line-through]#No. 10#
-
-
 
 
 
@@ -27,3 +29,30 @@ Fürstenthume Schaumburg
 
 Berenbusch No. 10
 ....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+Farm Estates and Settlements
+[line-through]#Special#                           File: II
+Office of Bückeburg
+II  Berenbusch  [line-through]#No. 10#
+
+
+
+
+                 RECORDS
+Farm Estates and Settlements in
+the Principality of Schaumburg
+
+                       in kind
+1824–               Holding (Site) No. 10 in
+                    Berenbusch, Office of
+                    Bückeburg
+
+
+
+
+Berenbusch No. 10
+....
+|===
