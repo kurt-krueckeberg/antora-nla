@@ -53,6 +53,10 @@ the Principality of Schaumburg
 Berenbusch No. 10
 ....
 |===
+
+[role="narrow-width"]
+=== Terms
+
 [width="100%",cols="6%,94%",options="header",frame=none,gird=none]
 |===
 |Term |Meaning
