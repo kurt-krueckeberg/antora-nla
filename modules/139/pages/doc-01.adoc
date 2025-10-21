@@ -1,10 +1,17 @@
 = #1 Docments
 :page-role: wide
 
+
+[cols="1a,1a"]
+|===
+|image::02.png[title=Click to Enlarge,link=self]
+|image::03-l.png[title=Click to Enlarge,link=self]
+|===
+
 [[doc-index-1-1]]
 == Petition of the widow Krückeberg, holding No. 10 in Berenbusch  
 
-Right Side Text
+The petition of window Krückeberg is one two pages
 
 [cols="1a,1a"]
 |===
