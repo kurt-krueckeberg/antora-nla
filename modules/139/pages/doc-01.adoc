@@ -210,11 +210,9 @@ a clerk’s instruction to verify whether the widow (the Supplikantin)
 still holds the parcel of pasture (Stück Land) that her late husband
 had once bought from the Chamber.
 
-[cols="1a,1a"]
-|===
-|image::03-left-side-of-page.png[title=Click to Enlarge,link=self]
-|
-|===
+== Reminder Instruction and Note
+
+image::03-left-side-of-page.png[algin=left,width=50%,title=Click to Enlarge,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
