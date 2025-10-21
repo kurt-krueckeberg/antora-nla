@@ -119,7 +119,7 @@ owed by the tenant to the lord’s forest administration.
 ====
 
 [[doc-index-1-2]]
-== ???
+=== Dispositive R.C. comments?
 
 Left Side Text
 
@@ -129,13 +129,10 @@ Left Side Text
 |
 |===
 
-=== Translation and Transliteration
+==== Translation and Transliteration
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
+Diplomatic version:
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
                  R. C. b. m. zum Amtsbericht
@@ -166,19 +163,12 @@ verdient. Beckeberg
 26. Jul. 1824.
 Habicht. Sander.
 
-R. C. auf 3 Jahr wäre Freÿheit von Bierqvast.
-u Forstdienst zu bewillig
+R. C. auf 3 Jahr wäre Freÿheit von Burgrest-
+und Forstdienst zu bewillig
              L. 2 Aug 24
 Bewilligt            Spang 
 Georg Wilhelm.   Verte
 ....
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-
-....
-|===
-
 
 Corrected version:
 
@@ -225,7 +215,32 @@ Georg Wilhelm.  Verte
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+R.C. memorandum concerning the Office report  
+B. 12 July 1824  
+Spang  
 
+Presented 31 July a.e.  
+Hk. A. Sp.  
+
+No. pr. 602  
+
+Because of the several years of severe illness
+of the petitioner’s late husband, and because
+the costly domestic and foreign medical help
+that she sought in the joint effort to save him
+has left the petitioner entirely impoverished,
+she therefore deserves to be recommended
+for the most gracious approval of any relief
+that might ease her condition.
+Bückeburg, 26 July 1824.
+Habicht. Sander.
+
+R.C. — For three years, exemption from
+Burgrest and forestry service is to be granted.
+L. 2 August 1824.
+Approved.
+Spang.
+Georg Wilhelm.  Verte.
 ....
 |===
 
