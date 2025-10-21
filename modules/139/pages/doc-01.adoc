@@ -178,3 +178,55 @@ Georg Wilhelm.   Verte
 
 ....
 |===
+
+
+Corrected version:
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+                 R. C. b. m. zum Amtsbericht
+                    B. 12 Jul 1824
+                          Spang
+
+Præs. 31. Jul. a. e.
+Hk. A. Sp.    
+
+N. pr. 602
+
+Durch die mehrere Jahre lang  
+angedauerte schwere Kränk-  
+heit des daran verstorbe-  
+nen Ehemannes der Suppli-  
+cantin und daß ihr,  
+zu dessen gemeinschaftlicher Rettung,  
+versuchte kostspielige ein- und ausländische  
+ärztliche Hülfe der  
+Supplicantin in Allem  
+ganz zurückgekommen ist,  
+so daß sie jeder ihr  
+Lage erleichtern mögenden  
+gnädigsten Bewilligung  
+empfohlen zu werden  
+verdient. Bückeburg,  
+26. Jul. 1824.  
+Habicht. Sander.  
+
+R. C. auf 3 Jahr wäre Freiheit von Burgrest-  
+und Forstdienst zu bewilligen.  
+L. 2 Aug. 24  
+Bewilligt   Spang  
+Georg Wilhelm.  Verte
+....
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+|===
+
+
