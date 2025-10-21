@@ -6,8 +6,6 @@ on the left side of the first page is the petition of widow Krückeberg, who is 
 difficulties and as a result she can't perform the feudal duties owed to the state of a *"colonist"* (farmstead
 holder), the  *Burgrest labor days* and the *forestry services*. This is manual labor and she is 58 years old.
 
-*TODO:* Explain memorandum and the report of the Bückeberg office.
-
 [cols="1a,1a"]
 |===
 |image::02.png[title=Click to Enlarge,link=self]
