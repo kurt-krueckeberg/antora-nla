@@ -143,6 +143,10 @@ side of the back page.
 
 Diplomatic version:
 
+[cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
                  R. C. b. m. zum Amtsbericht
@@ -179,6 +183,7 @@ und Forstdienst zu bewillig
 Bewilligt            Spang 
 Georg Wilhelm.   Verte
 ....
+|===
 
 Corrected version:
 
