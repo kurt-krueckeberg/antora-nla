@@ -4,6 +4,8 @@
 [[doc-index-1-1]]
 == Petition of the widow Krückeberg, holding No. 10 in Berenbusch  
 
+Right Side Text
+
 [cols="1a,1a"]
 |===
 |image::02-right-side-of-page.png[title=Click to Enlarge,link=self]
@@ -31,7 +33,7 @@
 // N. pr. 602.
 // 
 // Hanny
-== Right Side Text
+
 
 === Transliteration and Translation
 
@@ -116,7 +118,10 @@ owed by the tenant to the lord’s forest administration.
   *“to trouble [the authority] with the most humble petition.”*
 ====
 
-== Left Side Text
+[[doc-index-1-2]]
+== ???
+
+Left Side Text
 
 [cols="1a,1a"]
 |===
