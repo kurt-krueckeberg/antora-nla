@@ -31,8 +31,9 @@
 // N. pr. 602.
 // 
 // Hanny
+== Right Side Text
 
-== Transliteration and Translation
+=== Transliteration and Translation
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -111,7 +112,64 @@ So: *“forest service duties”.* +
 clearing or maintaining forest land, maybe hauling timber for the estate—jobs
 owed by the tenant to the lord’s forest administration.
 
-* *Rentkammer* -> the fiscal/treasury office of the Prince of Schaumburg-Lippe.
 * *behelligen mit der unterthänigsten Bitte* -> formulaic expression meaning
   *“to trouble [the authority] with the most humble petition.”*
 ====
+
+== Left Side Text
+
+[cols="1a,1a"]
+|===
+|image::02-left-side-of-page.png[title=Click to Enlarge,link=self]
+|
+|===
+
+=== Translation and Transliteration
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+                 R. C. b. m. zum Amtsbericht
+                    B. 12 Jul 1824
+                          Spang
+
+Præs. 31. Jul. a. e.
+Hk. A. Sp.    
+
+N. pr. 602
+
+Durch die mehrere Jahre lang
+angedauerte schwere Kränk-
+heit des daran verstorbe-
+nen Ehemannes der Suppli-
+cautei und das ihr
+zu dessen gemeinschten Ret-
+tung versuchte Kostschw.
+lige ein- und ausländische
+ärztliche Hülfte, ist der
+Supplicantin in Allem
+ganz zurückgekommen,
+so daß sie jeder ihre
+Lage erleichtern mögenle-
+gnädigster Bewilligung,
+empfohlen zu werden.
+verdient. Beckeberg
+26. Jul. 1824.
+Habicht. Sander.
+
+R. C. auf 3 Jahr wäre Freÿheit von Bierqvast.
+u Forstdienst zu bewillig
+             L. 2 Aug 24
+Bewilligt            Spang 
+Georg Wilhelm.   Verte
+....
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+|===
