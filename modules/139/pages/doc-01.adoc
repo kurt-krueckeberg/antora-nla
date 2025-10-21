@@ -53,8 +53,7 @@ first page and continues on the right side of the back page.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Die Witwe Krückeberg Nro 10.
-zu Bärenbusch gab zu vernehmen:
+Die Witwe Krückeberg Nro 10. zu Bärenbusch gab zu vernehmen:
 
 Ihr Mann seÿ vor 2 Jah- ren gestorben, und da er beÿ seinen Lebzeiten fast
 immer krank gewesen, so seÿ sie durch die vielen Ausgaben an Doctor,
@@ -74,8 +73,7 @@ G. Schultze
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-The widow Krückeberg, No. 10
-in Bärenbusch, declares:
+The widow Krückeberg, No. 10 in Bärenbusch, declares:
 
 Her husband died two years ago, and since during his lifetime he was almost
 continually ill, she has, through the many expenses for doctor and
