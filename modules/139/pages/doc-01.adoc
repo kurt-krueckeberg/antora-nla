@@ -1,6 +1,7 @@
 = #1 Docments
 :page-role: wide
 
+The first two pages in the case file.
 
 [cols="1a,1a"]
 |===
@@ -11,7 +12,8 @@
 [[doc-index-1-1]]
 == Petition of the widow Krückeberg, holding No. 10 in Berenbusch  
 
-The petition of window Krückeberg is one two pages
+The petition of window Krückeberg is on two pages. It begins on the right of the
+first page and continues on the right side of the back page.
 
 [cols="1a,1a"]
 |===
@@ -128,12 +130,13 @@ owed by the tenant to the lord’s forest administration.
 [[doc-index-1-2]]
 === Dispositive R.C. comments?
 
-Left Side Text
+This is the text on the left side of the first page that continues onto the left
+side of the back page.
 
 [cols="1a,1a"]
 |===
 |image::02-left-side-of-page.png[title=Click to Enlarge,link=self]
-|
+|image::03-left-side-of-page.png[title=Click to Enlarge,link=self]
 |===
 
 ==== Translation and Transliteration
