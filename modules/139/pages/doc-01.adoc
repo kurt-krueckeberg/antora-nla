@@ -128,13 +128,12 @@ owed by the tenant to the lord’s forest administration.
 [[doc-index-1-2]]
 === Dispositive R.C. comments?
 
-This is the text on the left side of the first page that continues onto the left
-side of the back page.
+This is the text on the left side of the first page.
 
 [cols="1a,1a"]
 |===
 |image::02-left-side-of-page.png[title=Click to Enlarge,link=self]
-|image::03-left-side-of-page.png[title=Click to Enlarge,link=self]
+|
 |===
 
 ==== Translation and Transliteration
@@ -201,3 +200,35 @@ Georg Wilhelm.  Verte.
 |===
 
 
+This is the text on the left side of the back page.
+
+[cols="1a,1a"]
+|===
+|image::03-left-side-of-page.png[title=Click to Enlarge,link=self]
+|
+|===
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration | Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+Fürstliche Rentkammer
+mit der unterthänigsten
+Bitte zu behelligen:
+ihr auf einige
+Jahre die von
+ihrer Stätte
+gehenden Burgrest-
+Handtage und
+Forstdienste gnä-
+digst zu erlassen
+G. Schultze
+....
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+|===
