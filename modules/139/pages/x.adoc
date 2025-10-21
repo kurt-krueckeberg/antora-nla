@@ -1,0 +1,3 @@
+= Test
+
+image::03-l.png[A descriptive caption for my image,width=50%]

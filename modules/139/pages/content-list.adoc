@@ -10,7 +10,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Witwe Krückeberg No 10 Berenbusch] ^|Bburg ^|1824 ^|July >|8
 
-|"|xref:doc-01.adoc#doc-index-1-1[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
+|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
 
 |"|Copt: KResc. an die Witwe Kruckeberg ^|" ^|" ^|Aug >|4
 
@@ -36,7 +36,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 |1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]| Petition of the widow Krückeberg, holding No. 10
 in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 
-|"|xref:doc-01.adoc#doc-index-1-1[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
+|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
 
 |"|Concept Rescript an die Wittwe Krückeberg| Draft of the rescript to the widow Krückeberg. ^|" ^|" ^|Aug >|4
 
