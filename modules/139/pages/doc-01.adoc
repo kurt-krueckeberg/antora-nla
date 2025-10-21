@@ -147,6 +147,7 @@ Diplomatic version:
 |===
 |Transliteration |
 
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
                  R. C. b. m. zum Amtsbericht
