@@ -58,7 +58,7 @@ Berenbusch No. 10
 ....
 |===
 
-[role="narrow-width"]
+[role="narrow"]
 === Terms
 
 [width="100%",cols="6%,94%",options="header",frame=none,gird=none]
