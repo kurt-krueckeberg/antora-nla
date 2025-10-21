@@ -1,7 +1,12 @@
 = #1 Docments
 :page-role: wide
 
-The first two pages in the case file.
+The two images below give an overview of the content on the first two pages in the case file. The text on the left
+side of the first page is the petition of widow Krückeberg, who is needy and facing financial difficulties and
+requests to be relieved of the feudal duties owed to the state of *Burgrest labor days* and the *forestry services*.
+She is 58 years old and this is manual labor.
+
+*TODO:* Explain memorandum and the report of the Bückeberg office.
 
 [cols="1a,1a"]
 |===
