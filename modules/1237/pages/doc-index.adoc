@@ -1,7 +1,7 @@
 = Document Index
 :page-role: wide
 
-[role="section-narrow"]
+[role="narrow"]
 == What this table means in the context of the Case File
 
 This table serves as a *document index* or table or contents. It was compiled by the Vormundschaftliche Cammer, which

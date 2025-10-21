@@ -3,7 +3,7 @@
 
 image::03-right-page-left-margin-text.png[link=self]
 
-[role="section-narrow"]
+[role="narrow"]
 == Explanation
  
 The *marginal note* in the image is a response to the remitted xref:doc2-report.adoc[Land
@@ -57,7 +57,7 @@ M[aas]
 ____
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 == Glossary of Terms and Archaic Spellings
 
 *Vormundschaftliche Kammer*:: Literally "Guardianship Chamber", but in the context of early modern German

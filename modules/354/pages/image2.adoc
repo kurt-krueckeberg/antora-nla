@@ -70,7 +70,7 @@ month of December of this year.
 ____
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 == Glossary of Terms
 
 [cols="1,3", options="header"]

@@ -15,7 +15,7 @@
 |image::04-l.png[title="Click to Enlarge",link=self]
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 == Overview and Summary
 
 On *10 July 1841* at the *Amt Bückeburg*, the creditor *Hempel & Söhne of Minden* pressed their case against

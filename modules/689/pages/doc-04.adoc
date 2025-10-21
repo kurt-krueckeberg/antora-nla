@@ -10,7 +10,7 @@
 |image::11-l.png[title="Click to Enlarge",link=self]
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 === Overview
 
 On 21 November 1841, Colon Krückeberg of No. 10 Berenbusch submitted a second petition directly to the Prince of
@@ -268,7 +268,7 @@ Most Gracious Reigning Prince and Lord of the Land
 ....
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 === Analysis
 
 This page contains two administrative dispositions (Verfügungen) written and signed by Reck—one expressing his

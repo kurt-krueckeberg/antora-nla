@@ -128,7 +128,7 @@ H. Habicht.     Stölting
 ____
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 === Glossary of Terms and Archaic Spellings
 
 *Vormundschaftliche Kammer*:: Literally "Guardianship Chamber", but in the context of early modern German

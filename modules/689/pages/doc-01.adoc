@@ -9,7 +9,7 @@
 |image::03-l-original.png[title="Click to Enlarge",link=self]
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 == Overview
 
 On *2 October 1841* in Bückeburg, *Johann Heinrich Krückeberg* (Colon No. 10, Berenbusch) submits a *petition
@@ -43,7 +43,7 @@ The Amt issues its *decree (Decretum):*
 then upon further request of the plaintiffs, *seizure of property (Auspfandung)* will immediately be decreed and carried out.  
 Signed by Amt officials Hauck and Höcker.
 
-[role="section-narrow"]
+[role="narrow"]
 == Explanation
 
 === The Protokollbuch and Protokoll Number

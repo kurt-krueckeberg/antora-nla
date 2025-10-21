@@ -4,7 +4,7 @@
 [[doc-index-2-1]]
 == Report of the Office of Bückeburg (7 Oct 1841)
 
-[role="section-narrow"]
+[role="narrow"]
 === Overview
 
 This report was issued by the *Amt Bückeburg* on 7 October 1841 in response to an earlier petition by Colon Johann
@@ -298,7 +298,7 @@ This document has been officially recorded and put on file
 |===
 
 [[doc-index-2-3]]
-[role="section-narrow"]
+[role="narrow"]
 == Billing Note 
 
 The image below is a postscript accounting note made after the decision had already been formally served.
@@ -387,7 +387,7 @@ Möller, office servant.
 |===
 
 [[doc-index-2-4]]
-[role="section-narrow"]
+[role="narrow"]
 == Rentkammer filing note (rubric) for #2 (in Acten Designation)
 
 This small note — typically written on a separate slip or at the top of the first page of a petition — functioned

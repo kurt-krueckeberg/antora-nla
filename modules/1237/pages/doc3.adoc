@@ -135,7 +135,7 @@ ____
 *In place of "per procurationem"* means: signed on behalf of the authority by delegated officials, in lieu of the
 principal's own signature.
 
-[role="section-narrow"]
+[role="narrow"]
 === Glossary of Terms
 
 ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative

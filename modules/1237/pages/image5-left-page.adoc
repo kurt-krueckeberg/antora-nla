@@ -49,7 +49,7 @@ Rent Chamber
 ____
 |===
 
-[role="section-narrow"]
+[role="narrow"]
 === Glossary of Terms
 
 unterthänigst:: Historically spelled with an "h", now written **untertänigst** in modern German. A highly formal, deferential expression meaning *most humbly* or *most submissively*. Common in petitions and official requests to authorities in the 18th–19th centuries.
