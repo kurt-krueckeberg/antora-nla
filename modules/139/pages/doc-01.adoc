@@ -131,12 +131,7 @@ owed by the tenant to the lord’s forest administration.
 The report of the Bückeburg local government office appears on the left side of the first page opposite the
 petition of the widow Krückeberg.
 
-image::02-left-side-of-page.png[algin=left,title=Click to Enlarge,width=50%,link=self]
-//[cols="1a,1a"]
-//|===
-//|image::02-left-side-of-page.png[title=Click to Enlarge,link=self]
-//|
-//|===
+image::02-left-side-of-page.png[align=left,title=Click to Enlarge,width=50%,link=self]
 
 === Translation and Transliteration
 
