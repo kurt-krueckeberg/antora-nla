@@ -2,7 +2,7 @@
 rm -rf public
 npx antora local-playbook.yml 
 cp  fonts/* public/_/font/
-/usr/bin/rm -rf /var/www/krueckeberg.org/nla/*
-/usr/bin/cp -r public /var/www/krueckeberg.org/nla
-/usr/bin/chown -R root:www-data /var/www/krueckeberg.org/nla
-/usr/bin/chmod -R g+w /var/www/krueckeberg.org/nla
+/usr/bin/rm -rf /var/www/krueckeberg.org/b/*
+/usr/bin/cp -r public /var/www/krueckeberg.org/b
+/usr/bin/chown -R root:www-data /var/www/krueckeberg.org/b
+/usr/bin/chmod -R g+w /var/www/krueckeberg.org/b
