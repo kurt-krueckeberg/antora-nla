@@ -200,7 +200,10 @@ Georg Wilhelm.  Verte.
 |===
 
 
-This is the text on the left side of the back page.
+This is the text on the left side of the back page. It is evidently
+a clerk’s instruction to verify whether the widow (the Supplikantin)
+still holds the parcel of pasture (Stück Land) that her late husband
+had once bought from the Chamber.
 
 [cols="1a,1a"]
 |===
@@ -215,23 +218,30 @@ This is the text on the left side of the back page.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Fürstliche Rentkammer
-mit der unterthänigsten
-Bitte zu behelligen:
-ihr auf einige
-Jahre die von
-ihrer Stätte
-gehenden Burgrest-
-Handtage und
-Forstdienste gnä-
-digst zu erlassen
-G. Schultze
+....
+Es ist auch nach Bericht darüber zu
+fordern, ob Supplikantin das
+Stück Land von der Söhren noch
+besitzt, welches der Krückeberg
+für 800 rthl von der Cammer
+gekauft hat?
 
+geh.
 
 Vert.
 ....
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+....
+It is also to be requested by report
+whether the petitioner still possesses
+the piece of land near the Söhren
+which Krückeberg purchased
+from the Chamber for 800 rix-dollars.
+
+[initials]
+
+See overleaf.
 ....
 |===
