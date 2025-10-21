@@ -218,12 +218,9 @@ had once bought from the Chamber.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Es ist auch nach Bericht darüber zu
-fordern, ob Supplikantin das
-Stück Land von der Söhren noch
-besitzt, welches der Krückeberg
-für 800 rthl von der Cammer
-gekauft hat?
+Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
+Land von der Söhren noch besitzt, welches der Krückeberg für 800 rthl von
+der Cammer gekauft hat?
 
 geh.
 
@@ -232,14 +229,15 @@ Vert.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-It is also to be requested by report
-whether the petitioner still possesses
-the piece of land near the Söhren
-which Krückeberg purchased
+It is also to be requested by report whether the petitioner still
+possesses the piece of land near the Söhren which Krückeberg purchased
 from the Chamber for 800 rix-dollars.
 
-[initials]
+(attached)
 
 See overleaf.
 ....
 |===
+
+NOTE: *(attached)* means: “This note has been attached (filed together) with the rest of the Krückeberg case
+documents.”
