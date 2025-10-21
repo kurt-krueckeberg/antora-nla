@@ -3,8 +3,12 @@
 
 image::cover.jpg[title=Click to Enlarge,link=self]
 
+== Translation and Transliteration
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
+|Transliteration|Translation
+
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
