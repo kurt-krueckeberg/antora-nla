@@ -192,6 +192,9 @@ had once bought from the Chamber.
 
 == Reminder Instruction and Note
 
+This is apparently a sort of "post-it" note reminder of what further to
+request in the Amt report.
+
 image::03-left-side-of-page.png[algin=left,width=50%,title=Click to Enlarge,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
