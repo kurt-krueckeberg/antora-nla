@@ -3,7 +3,7 @@
 image::04-r.png[title=Click to Enlarge,link=slef]
 
 ....
-Nr. 2935                    Præs: 8. Aug. 1824.
+r. 2935                    Præs: 8. Aug. 1824.
 voriger Referent.
 
 An
@@ -31,3 +31,8 @@ Bückeburg 7. August 1824.
 
 Sander
 ....
+
+[NOTE]
+====
+* *8/C* = "8 x 100" -> 800. *8/C* was shorthand for 800.
+====
