@@ -33,7 +33,8 @@ image::01.png[title=Clock to Enlarge,link=self]
 |===
 |Nr.| Designatio Actorum | Designation of the Acts (English, expanded) ^|Place ^|Year ^|Month ^|Day
 
-|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]| Petition of the widow Krückeberg, holding No. 10
+|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]| Petition of the
+widow Krückeberg, farmstead No. 10
 in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
