@@ -16,9 +16,8 @@ All three are closely linked procedural notes written at the same stage of the c
 * The second, the copies (Similiter) to subordinate officials 
 * The third, a follow-up instruction to the Amt itself.
  
-Each is extremely short — just a few lines — and none needed its own sheet. Because they form one conceptum (a
-single batch of outgoing rescripts), the clerk assigned the same *N.C. 2816* and *N.P. 602* identifiers to
-the entire page.
+Because each is extremely short — just a few lines — and none needed its own sheet, the clerk assigned the
+same *N.C. 2816* and *N.P. 602* identifiers to the entire page.
 
 [[doc-index-2-1]]
 == Draft of the rescript to the widow Krückeberg (4 Aug. 1824)
