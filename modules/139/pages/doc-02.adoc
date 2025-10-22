@@ -3,6 +3,10 @@
 
 image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
+
+[.narrow]
+== Summary
+
 This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
 the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
 
