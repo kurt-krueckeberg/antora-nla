@@ -11,9 +11,9 @@ xref:contents-list.adoc[contents list].
 |===
 
 [.narrow]
-== Overview
+== Overview of First Two Document in #1 in Content List
 
-The two images below give an overview of the content of the first two brief documents in the case file:
+The two images above give an overview of the content of the first two brief documents in the case file:
 
 * The petition of the widow Krückeberg, and
 * the Report of the Bückeberg Amt
