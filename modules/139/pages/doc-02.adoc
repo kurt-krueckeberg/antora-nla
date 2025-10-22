@@ -9,7 +9,7 @@ image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
 ....
 Concept                                Höchsten Orts ist der Witwe
-Bu die Witwe Krückeberg                Krückeberg Nor. 10 in Bä- 
+An die Witwe Krückeberg                Krückeberg Nor. 10 in Bä- 
 Nro. 10                                renbusch auf dreÿ Jahre
 in Bärenbusch.                         Freÿheit von Burgrest- und
                                        Forstdeinst genädigst bewil-
@@ -27,6 +27,7 @@ Oberförster Creuzinger
             Baum.                      AKaas.
 
 
+*TODO:* Add horizontal signature
 Boines
 Winde
 Sp.
