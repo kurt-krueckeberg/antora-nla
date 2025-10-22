@@ -95,6 +95,9 @@ Boiness
 Winde
 Sp.
 Tamerlin
+
+N.C. 2816
+N.P. 602
 ....
 
 |
@@ -112,6 +115,7 @@ Boines
 Winde
 Sp.
 Tamerlin
+
 N.C. 2816
 N.P. 602
 ....
@@ -131,29 +135,38 @@ N.P. 602
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N.C. 2816
-N. P. 602.
-                                        Concept aus Amt Bückeburg
+Boines   
+Sp.      
+Tamerlin 
 
-Boines                                  Das Amt wird, auf den Be-
-Sp.                                     richt vom 26. v. M., beauftragt
-Tamerlin                                noch zu berichten, ob die Witwe
-                                        Krückeberg N. 10 zu Bären-
-                                        busch das Stück Land von
-                                        der Söhre noch besitzt, wel-
-                                        ches ihr verstorbener Mann
-Exp Alveÿ                               für 800 r. von der Kammer
-                                        gekauft hat? —
-                                        Bbg. eodem
-                                        F. p.
+Concept aus Amt Bückeburg
+
+Das Amt wird, auf den Be-
+richt vom 26. v. M., beauftragt
+noch zu berichten, ob die Witwe
+Krückeberg N. 10 zu Bären-
+busch das Stück Land von
+der Söhre noch besitzt, wel-
+ches ihr verstorbener Mann
+für 800 r. von der Kammer
+gekauft hat?
+
+[Exp Alveÿ]
+
+Bbg. eodem
+F. p.
                                         
-                                  
-                                        A Kaas  
+
+A Kaas  
 ....
 
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Boines   
+Sp.      
+Tamerlin 
+
 Concept from the Office of Bückeburg
 
 The Office is instructed, on the basis
