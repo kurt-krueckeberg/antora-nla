@@ -9,7 +9,7 @@ image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
 ....
 Concept                                Höchsten Orts ist der Witwe
-An die Witwe Krückeberg                Krückeberg Nor. 10 in Bä- 
+An die Witwe Krückeberg                Krückeberg Nro. 10 in Bä- 
 Nro. 10                                renbusch auf dreÿ Jahre
 in Bärenbusch.                         Freÿheit von Burgrest- und
                                        Forstdeinst genädigst bewil-
@@ -18,13 +18,13 @@ in Bärenbusch.                         Freÿheit von Burgrest- und
                                        F.p.
  
 
-Com. in extracten dem Gehülfs-
-schreiber Schmöl
+Conc. in extracten dem Gehülfs-
+schreiber Schmöe
 dem Amte Bückeburg
 Verwalter Stahlhuth
    u.
 Oberförster Creuzinger
-            Baum.                      AKaas.
+         [zu]   Baum.                    AKaas.
 
 
 *TODO:* Add horizontal signature
@@ -44,12 +44,20 @@ Tamerlin                                noch zu berichten, ob die Witwe
                                         Krückeberg N. 10 zu Bären-
                                         busch das Stück Land von
                                         der Söhre noch besitzt, wel-
-                                        ches ihr verstorbenen Mann
+                                        ches ihr verstorbener Mann
  Exp Alveÿ                              für 800 r. von der Kammer
                                         gekauft hat? —
-                                        Bbg.. eodem
+                                        Bbg. eodem
                                         F. p.
                                         
                                   
                                         A Kaas  
 ....
+
+[NOTE]
+====
+* *"26. v. M."* -- stands for *"26. vorigen Monats" (of the previous month)* 
+* *"800 r." -- = *“800 rthl.” (Rixthaler)*
+* *"eodem"* -- = *"on the same day"*
+* *"Exp"* -- = *"Expidiert"*
+====
