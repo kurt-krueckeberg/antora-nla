@@ -122,7 +122,7 @@ N.P. 602
 
 [NOTE]
 ====
-* *“in extract” = “as official copies (extracts)”
+* *“in extract”* = “as official copies (extracts)”
 ====
 
 [.narrow] 
