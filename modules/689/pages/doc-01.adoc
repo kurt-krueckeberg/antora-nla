@@ -2,9 +2,6 @@
 = #1 Document: Petition of Colon Krückeberg No. 10 in Berenbusch (2 Oct. 1841)
 :page-role: wide
 
-There are five documents in the cluster of documents designated as #1 in the xref:contents-list.adoc[Contents
-List].
-
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::02-r.png[title="Click to Enlarge",link=self]
