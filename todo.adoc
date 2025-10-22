@@ -1,5 +1,11 @@
 = Todoes
 
+There are potentially other records that might hold important info:
+
+Navigation on Arcinsys:
+Archives in Niedersachsen and Bremen->Niedersächsisches Landesarchiv->Nds Landesarchiv,Abt. Bückeburg->
+Amt Bückeburg (mit Amt Arensburg)->Akten
+
 == NLA 139 Module
 
 Fix the layout and margins so that, if possible, the images for each transliteration/translation pair
