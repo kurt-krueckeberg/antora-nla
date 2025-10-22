@@ -3,18 +3,20 @@
 
 image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
-The image has the last three documents that comprise the cluster of five related documents grouped as #1
+The image has the last three documents of the five related documents grouped as #1
 in the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
 
-. Draft of the rescript to the widow Krückeberg 
-. Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum.
-. Draft of the rescript originating from the Office of Bückeberg.
+. *Draft of the rescript to the widow Krückeberg* 
+. *Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum*.
+. *Draft of the rescript originating from the Office of Bückeberg*
 
 All three are closely linked procedural notes written at the same stage of the case:
 
-* The first is the resolution to the petitioner.
+* The first is the resolution to the petitioner: the prince has granted her three years' service excemption
+from the *Burgrest labor days* and the *forestry services*. 
 * The second, the copies (Similiter) to subordinate officials 
-* The third, a follow-up instruction to the Amt itself.
+* The third, a follow-up instruction to the Amt itself that directed the Office of Bückeburg to
+provide an additional report about the Söhren land purchase.
  
 Because each is extremely short — just a few lines — and none needed its own sheet, the clerk assigned the
 same *N.C. 2816* and *N.P. 602* identifiers to the entire page.
@@ -99,6 +101,11 @@ N.C. 2816
 N.P. 602
 ....
 
+[NOTE]
+====
+* *“in extract” = “as official copies (extracts)”
+====
+
 == Draft of the rescript originating from the Office of Bückeberg.
 
 ....
@@ -121,6 +128,26 @@ Exp Alveÿ                               für 800 r. von der Kammer
                                   
                                         A Kaas  
 ....
+
+....
+Concept from the Office of Bückeburg
+
+The Office is instructed, on the basis
+of the report of the 26th of the previous
+month, to report further whether the
+widow Krückeberg, No. 10 in Bärenbusch,
+still possesses the piece of land near
+the Söhren which her late husband
+purchased from the Chamber for 800
+rixthalers.
+
+[Dispatched by Alveÿ]
+
+Bückeburg, same date.
+For the record.
+A. Kaas
+....
+
 
 [NOTE]
 ====
