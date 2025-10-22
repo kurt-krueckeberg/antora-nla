@@ -24,7 +24,7 @@ provide an additional report about the Söhren land purchase.
 Because each is extremely short — just a few lines — and none needed its own sheet, the clerk assigned the
 same *N.C. 2816* and *N.P. 602* identifiers to the entire page.
 
-[[doc-index-2-1]]
+[[doc-index-1-3]]
 == Draft of the rescript to the widow Krückeberg (4 Aug. 1824)
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
@@ -71,7 +71,8 @@ A. Kaas
 ....
 |===
 
-== Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum.
+[[doc-index-1-4]]
+== Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -132,7 +133,8 @@ This means that copies of the same resolutions, the "Draft of the rescript to th
 “in extract” to these officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four clerks: Boiness,
 Winde, Sp. and Tamerlin; and sent out (expidiert) by Alvei, who mailed it (or logged its mailing).
 
-== Draft of the rescript originating from the Office of Bückeberg.
+[[doc-index-1-5]]
+== Draft of the rescript originating from the Office of Bückeberg (24 Aug. 1824)
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===

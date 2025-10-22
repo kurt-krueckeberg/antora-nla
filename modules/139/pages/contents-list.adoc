@@ -12,7 +12,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
 
-|"|Copt: KResc. an die Witwe Kruckeberg ^|" ^|" ^|Aug >|4
+|"|xref:docCopt: KResc. an die Witwe Kruckeberg ^|" ^|" ^|Aug >|4
 
 |"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum ^|" ^|" ^|" >|"
 
