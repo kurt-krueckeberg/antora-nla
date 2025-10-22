@@ -1,10 +1,16 @@
 = Todoes
 
+== Other Potential Sources
+
 There are potentially other records that might hold important info:
 
-Navigation on Arcinsys:
-Archives in Niedersachsen and Bremen->Niedersächsisches Landesarchiv->Nds Landesarchiv,Abt. Bückeburg->
+Navigate on Arcinsys to: Archives in Niedersachsen and Bremen->Niedersächsisches Landesarchiv->Nds Landesarchiv,Abt. Bückeburg->
 Amt Bückeburg (mit Amt Arensburg)->Akten
+                                 ->and other
+
+Request:
+There is "Farmstead no. 14 Berenbusch"/"Die Stätte Nr. 14 zu Berenbusch" for the years "1783 - 1792". This was Carl
+Friedrich Krüxckebergs Wohnort.
 
 == NLA 139 Module
 
