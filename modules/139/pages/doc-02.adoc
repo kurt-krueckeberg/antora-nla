@@ -1,7 +1,9 @@
 = #2 Documents
+:page-role: wide
 
 image::04-r.png[title=Click to Enlarge,link=slef]
 
+[[doc-index-2-1]]
 == Report from the Bückeburg Office (7 Aug. 1842)
  
 [.widepair,cols="1a,1a",frame=none,grid=none]
