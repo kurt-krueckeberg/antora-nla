@@ -3,8 +3,8 @@
 
 image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
-The image has the last three documents of the five related documents grouped as #1
-in the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
+This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
+the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
 
 . *Draft of the rescript to the widow Krückeberg* 
 . *Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum*.
@@ -24,6 +24,12 @@ same *N.C. 2816* and *N.P. 602* identifiers to the entire page.
 [[doc-index-2-1]]
 == Draft of the rescript to the widow Krückeberg (4 Aug. 1824)
 
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept
 An die Witwe Krückeberg
@@ -42,6 +48,8 @@ F.p.
 AKaas.
 ....
 
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept
 
@@ -58,8 +66,7 @@ Bückeburg, 4 August 1824.
 For the record.
 A. Kaas
 ....
-
-
+|===
  
 == Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum.
 
@@ -67,6 +74,12 @@ This means that copies of the same resolutions, the "Draft of the rescript to th
 “in extract” to these officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four clerks: Boiness,
 Winde, Sp. and Tamerlin; and sent out (expidiert) by Alvei, who mailed it (or logged its mailing).
 
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Conc. in extracten dem Gehülfs-
 schreiber Schmöe
@@ -84,6 +97,8 @@ Sp.
 Tamerlin
 ....
 
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept, in extract, to the assistant clerk
 Schmöe, to the Office of Bückeburg,
@@ -100,6 +115,7 @@ Tamerlin
 N.C. 2816
 N.P. 602
 ....
+|===
 
 [NOTE]
 ====
@@ -108,6 +124,12 @@ N.P. 602
 
 == Draft of the rescript originating from the Office of Bückeberg.
 
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N.C. 2816
 N. P. 602.
@@ -129,6 +151,8 @@ Exp Alveÿ                               für 800 r. von der Kammer
                                         A Kaas  
 ....
 
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Concept from the Office of Bückeburg
 
@@ -147,7 +171,7 @@ Bückeburg, same date.
 For the record.
 A. Kaas
 ....
-
+|===
 
 [NOTE]
 ====

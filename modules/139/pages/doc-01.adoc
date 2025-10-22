@@ -1,6 +1,8 @@
 = #1 Docments
 :page-role: wide
 
+image::03-l.png[align=leftmtitle=Click to Enlarge,link=self]
+
 The two images below give an overview of the content of the first two brief documents in the case file:
 
 * The petition of the widow Krückeberg, and
