@@ -1,8 +1,13 @@
 = Todoes
 
+== NLA 139 Module
+
+Fix the layout and margins so that, if possible, the images for each transliteration/translation pair
+also appears when you click on the navigation.
+
 == NLA Module 689
 
-=== Add the Translation for Instances of "Exp"/"expidiert"
+=== Double Check: Did I Add the Translation for Instances of "Exp"/"expidiert"
 
 Find the instances of 'Exp' like, for example
 ...
