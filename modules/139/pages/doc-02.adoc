@@ -88,16 +88,14 @@ _after receipt_ by the Rentkammer registry.
 
 ==== ✅ Summary
 
-[width="100%",cols="15%,14%,41%,30%",options="header",]
+[width="100%",cols="15%,14%,41%,30%",options="header"]
 |===
 |Mark |Written by |Meaning |Function
 |*Nr. 2935* |Rentkammer clerk |Incoming number in Chamber’s register
 |Assigned on receipt
 
-|*N.C. 2816* |Amt clerk |Chamber’s case number, repeated for reference
-|Ensures correct filing
+|*N.C. 2816* |Amt clerk |Chamber’s case number, repeated for reference |Ensures correct filing
 
-|*Nr. pr. 698* |Amt clerk |Amt’s own protocol/presentation number |Local
-tracking of outgoing letter
+|*Nr. pr. 698* |Amt clerk |Amt’s own protocol/presentation number |Local tracking of outgoing letter
 |===
 
