@@ -2,6 +2,12 @@
 
 image::04-r.png[title=Click to Enlarge,link=slef]
 
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 r. 2935                    Præs: 8. Aug. 1824.
 voriger Referent.
@@ -31,8 +37,67 @@ Bückeburg 7. August 1824.
 
 Sander
 ....
+|
+[literal.bordered,subs="verbatim,quotes"]
+No. 2935                    Presented: 8 August 1824.
+former rapporteur.
+
+To
+the Princely Rent Chamber
+
+Report
+of the Offices of Bückeburg and Arensburg
+
+N.C. 2816.          filed
+No. pr. 698.
+
+re:
+Farmstead No. 10 in
+Bärenbusch.
+
+In response to the Most Gracious Rescript of the 4th and
+of the present month’s 7th, we most humbly report
+that the widow Krückeberg, tenant of the referenced
+farmstead, still possesses the parcel of land near the
+Söhren which her late husband purchased from the
+Princely Chamber for 800 rixthalers. A portion of it
+she has leased out.
+Bückeburg, 7 August 1824.
+
+Sander
+
+
+|====
 
 [NOTE]
 ====
 * *8/C* = "8 x 100" -> 800. *8/C* was shorthand for 800.
 ====
+
+=== Comments of Document Identifiers
+
+The document identifiers were written by:
+
+* *"`N.C. 2816`"* — written by the _Amt_ clerk, repeating the
+Rentkammer’s file number.
+* *"`Nr. pr. 698`"* — the _Amt_’s own internal protocol number for this
+outgoing report.
+* Both written in the _Amt_ hand (Sander’s or his clerk’s).
+* The *top-left "`Nr. 2935`"* and *"`Præs. 8 Aug 1824`"* were then added
+_after receipt_ by the Rentkammer registry.
+
+==== ✅ Summary
+
+[width="100%",cols="15%,14%,41%,30%",options="header",]
+|===
+|Mark |Written by |Meaning |Function
+|*Nr. 2935* |Rentkammer clerk |Incoming number in Chamber’s register
+|Assigned on receipt
+
+|*N.C. 2816* |Amt clerk |Chamber’s case number, repeated for reference
+|Ensures correct filing
+
+|*Nr. pr. 698* |Amt clerk |Amt’s own protocol/presentation number |Local
+tracking of outgoing letter
+|===
+
