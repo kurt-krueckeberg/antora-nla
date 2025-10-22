@@ -3,7 +3,6 @@
 
 image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
-
 [.narrow]
 == Summary
 
@@ -132,6 +131,7 @@ N.P. 602
 This means that copies of the same resolutions, the "Draft of the rescript to the widow Krückeberg", were sent
 “in extract” to these officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four clerks: Boiness,
 Winde, Sp. and Tamerlin; and sent out (expidiert) by Alvei, who mailed it (or logged its mailing).
+
 == Draft of the rescript originating from the Office of Bückeberg.
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
