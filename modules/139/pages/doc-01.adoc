@@ -235,7 +235,7 @@ See overleaf.
 NOTE: *(attached)* means: “This note has been attached (filed together) with the rest of the Krückeberg case
 documents.”
 
-== Last Three Documents
+== The Last Three Documents in #1
 
 image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 
