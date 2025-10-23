@@ -101,49 +101,107 @@ _after receipt_ by the Rentkammer registry.
 == N.C. 5839
 
 image::05-r.png[algin=left,title=Click to Enlarge,link=self]
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
 
+|
 [literal.bordered,subs="verbatim,quotes"]
-....
-NC. 5399                pr. mC. 15/9. 49
+----
+N.C. 5399                             pr. m.C. 15/9 49
 
-[Stempel:]3GR.
+[Stempel:] 3 Gr.
 
-N. Pr. 1429
-    ad
-N. C. 4997.
+N.Pr. 1429  
+ad  
+N.C. 4997.  
 
-An Fürstliche Rentkammer Bericht vom Amte Bückeburg.
+An  
+Fürstliche Rentkammer  
+Bericht vom Amte Bückeburg.  
 
-Betr. Gesuch des Colons Krückeberg N. 10. in Berenbusch um Erlaubniß zum
-Verkaufe seiner Stätte.
+Betr. Gesuch des Colons Krückeberg  
+No. 10 in Berenbusch um Erlaubniß zum  
+Verkaufe seiner Stätte.  
 
-Nach Eingang Kammeral-Rescripts vom 23 v. M.
-haben wir mit Ausfertigung des Kaufcon-
-tractes verfahren und ihn am 5ten d. M.
-von den Contrahenten vollziehen lassen.
-Wir verfehlen nicht, den Contract hierneben
-zur Bestätigung vorzulegen, und senden
-zugleich hierneben 12 mg.† Stempelstrafe
-ein, welche wir vom Colon Krückeberg
-haben einziehen lassen und deren richtigen
-Empfang wir uns bescheinigen zu wollen
-bitten.
-Bückelung 8 Septbr 1849
-Gröm
+Nach Eingang Kammeral-Rescripts vom 23 v. M.  
+haben wir mit Ausfertigung des Kauf-  
+contracts verfahren und ihn am 5ten d. M.  
+von den Contrahenten vollziehen lassen.  
+Wir verfehlen nicht, den Contract hierneben  
+zur Bestätigung vorzulegen, und senden  
+zugleich hierneben 12 mg.† Stempelstrafe  
+ein, welche wir vom Colon Krückeberg  
+haben einziehen lassen und deren richtigen  
+Empfang wir uns bescheinigen zu wollen  
+bitten.  
 
-† sind angehettet.
+Bückeburg 8 Septbr 1849  
+Gröm  
 
-Lm
-Arof.
+† sind angeheftet.  
 
-Probeten
+Lm  
+Arof.  
 
-[N7?] Der Kaufbrief wäre zu bestätigen
-und retlose zu remittiren.
-die Lasten wären zu erweisen[.?]
-Detur Empfangsbescheinigung über
-12 und; fiel Vereinnahmungs-
-anweisung
-Bbg 20/9 49
-Barkhause.
-....
+[left margin:] Probeten  
+
+N 7 Der Kaufbrief wäre zu bestätigen  
+und retlose zu remittiren.  
+Die Lasten wären zu erweisen  
+Detur Empfangsbescheinigung über  
+12 mg. samt Vereinnahmungsanweisung.  
+Bbg 20/9 49  
+Barkhausen.
+----
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+----
+N.C. 5399                             pr. m.C. 15/9 49
+
+[Stempel:] 3 Gr.
+
+N.Pr. 1429  
+ad  
+N.C. 4997.  
+
+An  
+Fürstliche Rentkammer  
+Bericht vom Amte Bückeburg.  
+
+Betr. Gesuch des Colons Krückeberg  
+No. 10 in Berenbusch um Erlaubniß zum  
+Verkaufe seiner Stätte.  
+
+Nach Eingang Kammeral-Rescripts vom 23 v. M.  
+haben wir mit Ausfertigung des Kauf-  
+contracts verfahren und ihn am 5ten d. M.  
+von den Contrahenten vollziehen lassen.  
+Wir verfehlen nicht, den Contract hierneben  
+zur Bestätigung vorzulegen, und senden  
+zugleich hierneben 12 mg.† Stempelstrafe  
+ein, welche wir vom Colon Krückeberg  
+haben einziehen lassen und deren richtigen  
+Empfang wir uns bescheinigen zu wollen  
+bitten.  
+
+Bückeburg 8 Septbr 1849  
+Gröm  
+
+† sind angeheftet.  
+
+Lm  
+Arof.  
+
+[left margin:] Probeten  
+
+N 7 Der Kaufbrief wäre zu bestätigen  
+und retlose zu remittiren.  
+Die Lasten wären zu erweisen  
+Detur Empfangsbescheinigung über  
+12 mg. samt Vereinnahmungsanweisung.  
+Bbg 20/9 49  
+Barkhausen.
+----
+|===
