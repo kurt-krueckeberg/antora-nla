@@ -1,6 +1,5 @@
 = #2 Later Documents
-
-== #2: N.C. 5399 (20 Sep. 1849)
+:page-role: wide
 
 [cols="1a,1a"]
 |===
@@ -8,6 +7,8 @@
 |image::06-r.png[title=Click to Enlarge,link=self]
 |===
 
+
+== #2: N.C. 5399 (20 Sep. 1849)
 ....
                                  N.C. 5399.                    
 Stpl. 3 mg.                      N.P.1429.
