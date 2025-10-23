@@ -1,9 +1,8 @@
 = Todoes
 
-== GET CLARIFICATION ON WHAT "Concept" Means!!!
+== Reorder pages 
 
-A Draft is a minute, a brief not (as of summary or recommendation), a memorandum, a usually
-brief not written for interoffice circulation.
+Using the file names. List them in the order they appear on the website. Match this order on Transkribus.
 
 == Other Potential Sources
 
