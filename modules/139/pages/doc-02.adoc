@@ -98,7 +98,7 @@ _after receipt_ by the Rentkammer registry.
 |*Nr. pr. 698* |Amt clerk |Amt’s own protocol/presentation number |Local tracking of outgoing letter
 |===
 
-== N.C. 5839
+== Report of Amt Bückeburg on ___ to Rentkammer on N.C. 5839 (15 Sept. 1849)
 
 image::05-r.png[algin=left,title=Click to Enlarge,link=self]
 [.widepair,cols="1a,1a",frame=none,grid=none]
@@ -120,7 +120,7 @@ An
 Fürstliche Rentkammer  
 Bericht vom Amte Bückeburg.  
 
-Betr. Gesuch des Colons Krückeberg  No. 10 in Berenbusch um Erlaubniß zum
+Betr. Gesuch des Colons Krückeberg No. 10 in Berenbusch um Erlaubniß zum
 Verkaufe seiner Stätte.  
 
 Nach Eingang Kammeral-Rescripts vom 23 v. M. haben wir mit Ausfertigung
