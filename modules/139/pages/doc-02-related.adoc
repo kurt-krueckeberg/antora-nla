@@ -4,7 +4,7 @@ Stpl. 3 mg.                      N.P.1429.
 ....
 
 
-
+[left-side:]
 Cpt an das Amt Bückeburg.
 
 Die im Kaufbriefe angegebenen Präständen, als:
@@ -22,10 +22,11 @@ fait.
 
 Exp. Lohren
 
+[right-side:]
 Gesuch des Col. Krückeberg Nr. 10 in Berenbusch um Erlaubniß zum Verkauf seiner
 Stätte betr:
 
-
+[right-side:]
 Der wegen obigen Gegenstandes unterm 8. d. Mts eingesandte Kaufbrief wird bestätigt hierneben
 remittirt und dem Amte der Eingang von 12 ag. Stempelstrafe Hiermit bescheinigt.
 Bburg, 20. Sept. 1849.
