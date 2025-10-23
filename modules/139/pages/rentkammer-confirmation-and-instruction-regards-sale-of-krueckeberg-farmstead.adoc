@@ -40,9 +40,7 @@ Spreng
 5 Erndtetage.
 Rinne
 
-Barth
-Why
-
+Barth Why
 /ret. cop.
 fait.
 
@@ -51,9 +49,7 @@ Exp. Lohren
 Cpt
 confirmationis.
 
-Gri
-Barth
-Why
+[clerk initials:]Gri Barth Why
 
 Vorstehender Kaufbrief wird hiermit genehmigt und bestätigt.
 Bburg, 20. Sept. 1849.
@@ -63,11 +59,7 @@ Lm      L
 Cpt an H. Rmst. Werner hies[elbst]. 
 Probatur.
 
-Barth
-Wh
-Gri
-Not
-Stefleur
+[clerk initials:] Barth Wh Gri Not Stefleur
 
 Sie werden angewiesen, die hierbei nachgezeigten 12 ggr. vom Colon
 Krückeberg berg No. 10 in Berenbusch verwirkte Stempelstrafe gehörigen
@@ -117,9 +109,7 @@ Dispatched: Lohren.
 [Memorandum]
 of the confirmation.
 
-Gri
-Barth
-Wh(y)
+[clark initials:] Gri Barth Wh(y)
 
 The foregoing purchase deed is hereby approved and confirmed.
 Bückeburg, 20 September 1849.
@@ -130,11 +120,7 @@ Lm      L
 [Memorandum] to Mr. Rentmeister Werner here.
 Approved.
 
-Barth
-Wh
-Gri
-Not.
-Stefleur
+[clerk initials:] Barth Wh Gri Not Stefleur
 
 You are instructed to collect, in the proper place, the herein-noted
 stamp penalty of twelve Mariengroschen incurred by Colon Krückeberg, No.
