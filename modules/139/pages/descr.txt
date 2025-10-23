@@ -1,0 +1,139 @@
+I have uploaded an image from a 20 September 1849 Scahumburg-Lippe Rentcammer document.
+It is very "busy", that is, there are lots of initials and other
+unfamiliar notations on it. It will attempt to describe the various
+blocks of text and then give my transliterations of this areas or blocks
+of text. After reading the description below, examine the image and
+proofread the transliterations given below in AsciiDoc literal blocks.
+Here are now those descriptions and literal blocks.
+
+First, in the top center of the document are two document identifiers
+and in the upper left is a financial charge. Here is the transliteration
+as an AsciiDoc literal block:
+
+....
+                                 N.C. 5399.                    
+Stpl. 3 mg.                      N.P.1429.
+....
+
+Next, below "Stpl. 3 mg." on the left side of the page is:
+
+....
+Cpt
+an das Amt. Bückeburg.
+....
+
+Below this, again on the left side of the page, is this block of text
+signed by 'Rieding', which is written in a smaller hand:
+
+....
+Die im Kaufbriefe angegebenen
+Präständen, als:
+Amtsgefälle
+1 Rauchhuhn u.
+Wächtergeld
+sind richtig.
+          Rieding
+....
+
+On the right side of the page opposite the two blocks of text just
+described, which are on the left side, is this text:
+
+....
+Gesuch des Col. Krückeberg
+Nr. 10 in Berenbusch um Er-
+laubniß zum Verkauf seiner
+Stätte betr:
+....
+
+Below the text above on the right side of the page is the text of the
+"Gesuch", which is signed by "Spreng":
+
+....
+Der wegen obigen Gegenstandes
+unterm 8. d. Mts eingesandte Kauf-
+brief wird bestätigt hierneben
+remittirt und dem Amte der
+Eingang von 12 ag. Stempelstrafe
+Hiermit bescheinigt.
+Bburg, 20. Sept. 1849.
+F.p.
+Spreng
+....
+
+On the left side of the page opposite the start of the "Gesuch" text
+shown immediately above is this brief text written in a smaller hand:
+....
+Desgl:
+12 Burgfesten 
+  u.
+5 Erndtetage.
+Rinne
+....
+
+To the right of the text above situated just to the left of the main text
+of the "Gesuch" are two initials and under them is long slanted line
+(shown by using the "/" character) under which is some text:
+
+....
+Barkh
+Why
+
+/ret. cop.
+fait.
+....
+
+To the left of "/et/ cop." is this text:
+
+....
+Exp. Lohren
+....
+
+Further down on the left side, opposite the signature of "Spreng", who
+signed the "Gesuch" is:
+
+....
+Cpt
+confirmationis.
+....
+Beneath it are three initals or signature that are hard to make out:
+
+....
+Chri
+Baski
+Why
+....
+
+Opposite these signatures on the left side is this block of text on the
+right side:
+....
+Vorstehender Kaufbrief wird hiermit genehmigt und bestätigt.
+Bburg, 20. Sept. 1849.
+(L.S.) F.p.
+Lm      L
+....
+
+Now, on the left side not quite below the last line of the block of text
+above is this text:
+....
+Cpt
+an dH. KRmste Werner hiese
+Probatur.
+....
+
+And beneath is, still on the left side, are five initials or surnames:
+
+....
+Jarks
+Exa
+Not.
+Stefleuve
+Barks
+Why
+.... 
+
+Finally, opposite the signatures/initials above, on the right side is
+this text:
+
+....
+Sie werden angewiesen, nun hierbei erfolgenden 12 mg. vom Colon Krückeberg
+....
