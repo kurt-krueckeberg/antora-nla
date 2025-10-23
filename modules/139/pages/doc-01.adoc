@@ -246,9 +246,9 @@ image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
 the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
 
-. *Draft of the rescript to the widow Krückeberg* 
+. *Memorandum of the rescript to the widow Krückeberg* 
 . *Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum*.
-. *Draft of the rescript originating from the Office of Bückeberg*
+. *Memorandum of the rescript originating from the Office of Bückeberg*
 
 All three are closely linked procedural notes written at the same stage of the case:
 
@@ -262,7 +262,7 @@ Because each is extremely short — just a few lines — and none needed its own
 same *N.C. 2816* and *N.P. 602* identifiers to the entire page.
 
 [[doc-index-1-3]]
-== Draft of the rescript to the widow Krückeberg (4 Aug. 1824)
+== Memorandum of the rescript to the widow Krückeberg (4 Aug. 1824)
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -366,12 +366,12 @@ N.P. 602
 [.narrow] 
 === Explanation
 
-This means that copies of the same resolutions, the "Draft of the rescript to the widow Krückeberg", were sent
+This means that copies of the same resolutions, the "Memorandum of the rescript to the widow Krückeberg", were sent
 “in extract” to these officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four clerks: Boiness,
 Winde, Sp. and Tamerlin; and sent out (expidiert) by Alvei, who mailed it (or logged its mailing).
 
 [[doc-index-1-5]]
-== Draft of the rescript originating from the Office of Bückeberg (24 Aug. 1824)
+== Memorandum of the rescript originating from the Office of Bückeberg (24 Aug. 1824)
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
