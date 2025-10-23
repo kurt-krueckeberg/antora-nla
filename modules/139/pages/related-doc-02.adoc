@@ -120,7 +120,7 @@ five harvest days.
 
 Barth     Why
 
-Returned copy made.
+copy retained.
 
 Dispatched by Lohren.
 
@@ -144,8 +144,8 @@ Approved.
 
 Barth
 Why
-Examined.
-Noted.
+Gri
+Not
 Stefleur
 Wh
 
