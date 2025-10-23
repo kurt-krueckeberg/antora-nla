@@ -9,3 +9,4 @@
 *** xref:doc-01.adoc#doc-index-1-5[Draft of the rescript originating from the Office of Bückeberg (4 Aug. 1824)]
 ** xref:doc-02.adoc[]
 *** xref:doc-02.adoc#doc-index-2-1[Report from the Bückeberg Office (7 Aug. 1824)]
+*** xref:related-doc-02.adoc[]
