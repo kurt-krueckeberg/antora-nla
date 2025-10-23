@@ -8,6 +8,6 @@
 *** xref:doc-01.adoc#doc-index-1-4[Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)]
 *** xref:doc-01.adoc#doc-index-1-5[Draft of the rescript originating from the Office of Bückeberg (4 Aug. 1824)]
 ** xref:doc-02.adoc[]
-** Other Later Documents
-*** xref:amt-report-on-krueckeberg-petition-to-sell-his-farmstead.adoc[]
-*** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
+* Other Later Documents
+** xref:amt-report-on-krueckeberg-petition-to-sell-his-farmstead.adoc[]
+** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
