@@ -1,3 +1,13 @@
+= #2 Later Documents
+
+== #2: N.C. 5399 (20 Sep. 1849)
+
+[cols="1a,1a"]
+|===
+|image::06-l.png[title=Click to Enlarge,link=self]
+|image::06-r.png[title=Click to Enlarge,link=self]
+|===
+
 ....
                                  N.C. 5399.                    
 Stpl. 3 mg.                      N.P.1429.
@@ -70,23 +80,13 @@ Stefleuve
 Barks
 Why
 
-[right-side]
+[right-side: continues onto next image]
 Sie werden angewiesen, nun hierbei erfolgenden 12 mg. vom Colon Krückeberg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[from next image:]
+Nr. 10 in Berenbusch verwirkte Stempelstrafe gehörigen Orts zu
+vereinnahmen und Quittung an die Kammer zu schicken.
+Bbg. 20/9. 49.
+F. p.
+Lm            L
 ....
 
