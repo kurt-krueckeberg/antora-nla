@@ -1,4 +1,7 @@
 = NC 4731
+:page-role: wide
+
+image::07-l.png[link=self]
 
 ....
 NC 4731                                 Jst. ml. 8/8.49.
