@@ -13,5 +13,4 @@
 ** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
 ** xref:nc-4731.adoc[]
 ** xref:abschrift.adoc[]
-** xref:an-hochstfuerstliche.adoc[]
 ** xref:amt-report-22-aug-1849.adoc[]
