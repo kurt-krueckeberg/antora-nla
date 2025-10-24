@@ -42,8 +42,6 @@ Barkhausen.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ----
-[literal.bordered,subs="verbatim,quotes"]
-----
 NC 4731. Registered 8 August 1849.
 Registry No. 1313. Presented to the Amt on 15 August 1849.
 Stamp fee: 3 Groschen.
