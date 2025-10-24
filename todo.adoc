@@ -1,9 +1,5 @@
 = Todoes
 
-== Reorder pages 
-
-Using the file names. List them in the order they appear on the website. Match this order on Transkribus.
-
 == Other Potential Sources
 
 There are potentially other records that might hold important info:
