@@ -13,3 +13,5 @@
 ** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
 ** xref:nc-4731.adoc[]
 ** xref:abschrift.adoc[]
+** xref:an-hochstfuerstliche.adoc[]
+** xref:nc-4997.adoc[]
