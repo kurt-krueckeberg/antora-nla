@@ -1,4 +1,5 @@
 = Petition of Colon Krückeberg for PErmission to Sell his Farmstead (23 Aug. 1849)
+:page-role: wide
 
 image::11-l.png[link=self]
 
