@@ -3,31 +3,63 @@
 
 image::07-r.png[link=self]
 
-....
-NC 4731                                 Jst. ml. 8/8.49.
+NOTE: This transliteration corrects spelling errors in the original, and it
+changed the arachic contraction "ichlso" to "ich also".
+
+[cols="1a,1a"]
+|===
+|
+[literal.bordered,subs="verbatim,quotes"]
+----
+NC 4731                                 Jst. ml. 8/8 49.
 Nr. pr. 1313                            Pr. am Amt 15/8 49
-Stp. 3g.
+Stpl. 3 g.
 
 
-L  Eine Unterfahnigste Bitte an Hochfürstliche Renntkammer
+L  Eine untertänigste Bitte an die Hochfürstliche Rentkammer.
 
-W. Ich bin willens, Meine Coloni zu verkaufen, und nach Amehrika
-   auszuwandern, und bin mit den Käufer Einlieger Borneman
-   von Nordholtz wegen dem Kaufpreiß Einig, welches wir den
-   Amte angezeigt haben und da ich willens bin auf den 15ten
-   September abzureisen, weil auf den 15ten September ein
-   Schiff zu meiner Reise abgeht, und ich mein inventarium
-   noch zu verkaufen habe, und übrigens zu entrichten habe; so
-   Bitte ich Hochfürstliche Rentkammer um Schleunige nachricht
-   so bald als möglich, Untertähnigst Bitte ichlso[ich also]
-   
-   Untertähnigster Colon Krückeberg Nro 10 in Behrenbusch
-                           d 8ten August 1849
+W. Ich bin willens, meine Kolonie zu verkaufen und nach Amerika
+   auszuwandern und bin mit dem Käufer, Einlieger Bornemann
+   von Nordholz, wegen des Kaufpreises einig, welches wir dem
+   Amte angezeigt haben. Und da ich willens bin, am 15ten
+   September abzureisen, weil am 15ten September ein
+   Schiff zu meiner Reise abgeht und ich mein Inventarium
+   noch zu verkaufen habe und übrigens noch Abgaben zu entrichten habe;
+   so bitte ich die Hochfürstliche Rentkammer um schleunige Nachricht,
+   so bald als möglich. Untertänigst bitte ich also.
 
-                     NC 7 Tr. m. zum Berichte an das
-                     Amt Bückeburg 12 mpt Stempel
-                     strafe sind einzuziehen und
-                     eingesenden
-                     Bbg 13/8 49
-                     Barkhausen
-....
+   Untertänigster Kolon Krückeberg Nr. 10 in Berenbusch.
+                                    d. 8ten August 1849.
+
+
+NC 7. Tr. m. zum Berichte an das
+Amt Bückeburg. 12 mpt Stempelstrafe
+sind einzuziehen und eingesendet.
+Bbg. 13/8 49.
+Barkhausen.
+----
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+----
+A most humble petition to the High Princely Rent Chamber.
+
+I have decided to sell my farm and to emigrate to America, and I am in agreement
+with the buyer, the cottager Bornemann from Nordholz, regarding the purchase
+price, which we have already reported to the Amt. And since I intend to depart
+on the 15th of September, because a ship for my journey leaves on the 15th of
+September, and because I still must sell my inventory and also settle the
+remaining obligations, I therefore request a prompt reply from the High
+Princely Rent Chamber as soon as possible. I remain, most humbly requesting
+accordingly.
+
+Most humble colonist Krückeberg, No. 10 in Berenbusch.
+Dated the 8th of August, 1849.
+
+
+NC 7. Forwarded for report to the Amt Bückeburg. A stamp penalty of
+12 Mariengroschen is to be collected and transmitted.
+Bückeburg, 13 August 1849.
+Barkhausen.
+----
+|===
