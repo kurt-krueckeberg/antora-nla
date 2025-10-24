@@ -1,16 +1,17 @@
 = Latest
+:page-roel: wide
 
 [cols="1a,1a",options="noheader"]
 |===
-|image::11-r.png
-|image::12-l.png
+|image::11-r.png[link=self]
+|image::12-l.png[link=self]
 |===
 
 
 [cols="1a,1a",options="noheader"]
 |===
-|image::12-r.png
-|image::13-l.png
+|image::12-r.png[link=self]
+|image::13-l.png[link=self]
 |===
 
 
