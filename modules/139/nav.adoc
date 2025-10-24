@@ -11,6 +11,6 @@
 * Other Later Documents
 ** xref:amt-report-on-krueckeberg-petition-to-sell-his-farmstead.adoc[]
 ** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
-** xref:nc-4731.adoc[]
-** xref:abschrift.adoc[]
+** xref:petition-to-sell-his-farmstead-8-aug-1849.adoc[] 
+** xref:actum-bueckeburg-amt-21-aug-1849.adoc[]
 ** xref:amt-report-22-aug-1849.adoc[]
