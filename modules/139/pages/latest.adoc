@@ -9,8 +9,8 @@
 
 [cols="1a,1a",options="noheader"]
 |===
-image::12-r.png
-image::13-l.png
+|image::12-r.png
+|image::13-l.png
 |===
 
 
