@@ -66,3 +66,17 @@ Bückeburg, 13 August 1849.
 Barkhausen.
 ----
 |===
+
+
+== Cover Note
+:page-role: wide
+
+image::10-l.png[link=self]
+
+=== Transliteration
+
+....
+An
+Hochfürstliche Renntkammer
+Bückeburg
+....
