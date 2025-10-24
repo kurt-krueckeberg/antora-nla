@@ -1,0 +1,12 @@
+= An Hochfürstliche Renntkammer Bückeburg
+:page-role: wide
+
+image::10-l.png[link=self]
+
+== Transliteration
+
+....
+An
+Hochfürstliche Renntkammer
+Bückeburg
+....
