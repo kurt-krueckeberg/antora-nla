@@ -1,5 +1,5 @@
 = Latest
-:page-roel: wide
+:page-role: wide
 
 [cols="1a,1a",options="noheader"]
 |===
