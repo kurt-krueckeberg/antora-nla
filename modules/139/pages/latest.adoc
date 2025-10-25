@@ -4,7 +4,7 @@
 [cols="1a,1a",options="noheader"]
 |===
 |image::11-r.png[title=page 1,link=self]
-|image::12-l.png[titel=page 2,link=self]
+|image::12-l.png[title=page 2,link=self]
 |===
 
 
