@@ -6,13 +6,10 @@
 * xref:doc-index.adoc[]
 * xref:doc1-overview.adoc[]
 ** xref:doc1-full.adoc[]
-** Breakdown: Header, Petition, Forestry, Note
+** Breakdown: Petition, Forestry, Note
 *** xref:doc1-petition.adoc[]
 *** xref:doc1-forestry-assessment.adoc[]
 *** xref:doc1-admin-note.adoc[]
-//** xref:image2-petition.adoc[]
-//** xref:image2-forestry-assessment.adoc[]
-//** xref:image2-admin-note.adoc[]
 * xref:doc2-overview.adoc[] 
 ** xref:doc2-full.adoc[]
 ** Breadown: Report, Reaction
