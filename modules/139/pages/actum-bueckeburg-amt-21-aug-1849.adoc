@@ -18,7 +18,7 @@
 == Narrative Summary
 
 ++++
-<details class="narrow">
+<details>
   <summary><strong>Show / hide Hearing Confirming the Sale</strong></summary>
 ++++
 

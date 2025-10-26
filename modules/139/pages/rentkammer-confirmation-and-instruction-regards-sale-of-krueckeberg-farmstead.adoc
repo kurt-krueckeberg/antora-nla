@@ -11,7 +11,7 @@
 == Narrative Summary
 
 ++++
-<details class="narrow">
+<details>
   <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
 ++++
 
