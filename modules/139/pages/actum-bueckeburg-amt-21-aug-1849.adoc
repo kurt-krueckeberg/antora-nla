@@ -1,4 +1,4 @@
-= Done at the Amt Bückeburg, on 21 August 1849. 
+= Hearing Confirming the Sale of Krückeberg’s Farmstead Prior to Emigration (21 August 1849) 
 :page-role: wide
 
 [cols="1a,1a",options=noheader"]
@@ -13,6 +13,40 @@
 |image::09-r.png[title=Click to Enlarge,link=self]
 |
 |===
+
+== Narrative Summary
+
+++++
+<details class="narrow">
+  <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
+++++
+
+
+This document records a formal hearing before the Amt Bückeburg on 21
+August 1849 regarding the sale of Stätte (farmstead) No. 10 in Berenbusch.
+Colon Krückeberg and the prospective buyer, the Einlieger (cottager)
+Wilhelm Bornemann of Nordholz, both appeared in person. Krückeberg declared
+that the farmstead, consisting of a dwelling house, bakehouse,
+approximately 1¾ morgens of garden land, and the associated yard, has been
+sold to Bornemann for 700 Reichsthaler. He also listed the regular dues and
+labor obligations attached to the property.
+
+It was stated that Bornemann will assume all ongoing obligations from the
+date of transfer and that he will pay the purchase price by taking over the
+existing debts on the farmstead and paying the remainder in cash.
+Krückeberg requested that the Amt grant approval for the sale, prepare the
+purchase deed, and publicly notify his creditors so they may register their
+claims to be paid from the sale proceeds.
+
+Bornemann affirmed that he agrees to the terms of the sale, that he
+possesses assets amounting to 150 Reichsthaler, and that he will borrow the
+remainder needed for the purchase from Colon Rinne of Evesen. The record is
+concluded with signatures (or marks) of the parties and attestation by the
+Amt official Höcker.
+
+++++
+</details>
+++++
 
 == Transliteration and Translation
 
