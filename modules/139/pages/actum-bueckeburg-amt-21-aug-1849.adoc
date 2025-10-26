@@ -19,7 +19,7 @@
 
 ++++
 <details class="narrow">
-  <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
+  <summary><strong>Show / hide Hearing Confirming the Sale</strong></summary>
 ++++
 
 
