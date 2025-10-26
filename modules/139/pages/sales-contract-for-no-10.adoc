@@ -14,6 +14,7 @@
 |image::13-l.png[title=page 4,link=self]
 |===
 
+[.narrow]
 == Explanation of the Sales Contract
 
 This document records the formal sale of Stätte No. 10 in Berenbusch by Colon
@@ -63,7 +64,7 @@ holder—a significant upward shift in rural status and responsibility.
 | **Landfolgen / Wachten / Dorfsfolgen** | Collective village labor and communal service obligations (road repair, fire watch, bridge maintenance, etc.).
 |===
  
-
+== Transliteration and Translation
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |
