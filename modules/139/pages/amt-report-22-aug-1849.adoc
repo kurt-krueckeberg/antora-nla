@@ -1,7 +1,32 @@
 = Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Farmstead (22 August 1849)
 :page-role: wide
 
-image::10-r.png[link=self] 
+image::10-r.png[title="(Click to Enlarge),link=self] 
+
+== Narrative Summary
+
+++++
+<details class="narrow">
+  <summary><strong>Show / hide Explanation of Amt Report</strong></summary>
+++++
+
+This document is a formal report sent from the Amt Bückeburg to the
+Princely Fiscal Chamber in response to the petition of Colon Krückeberg of
+Stätte No. 10 in Berenbusch, who has requested permission to sell his
+farmstead.  The Amt notes that it has received Krückeberg’s petition and
+that the matter is confirmed in an attached protocol from the previous day.
+The Amt states that it has no objections to the granting of the requested
+permission. It further informs the Fiscal Chamber that Krückeberg intends
+to emigrate to America and plans to depart as early as the 13th of the
+coming month. The Amt therefore asks for a prompt decision from the Fiscal
+Chamber. Finally, the Amt reports that, in accordance with an earlier
+resolution dated the 13th of the month, it will collect a 12 Mariengroschen
+stamp duty from Krückeberg and will forward the amount. The document is
+issued from Bückeburg on 22 August 1849 and signed by Höner.
+
+++++
+</details>
+++++
 
 == Transliteration and Translation
 
