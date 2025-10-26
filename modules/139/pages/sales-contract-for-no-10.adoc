@@ -45,7 +45,8 @@ In practical terms, this contract documents Krückeberg’s departure from the
 village social order and Bornemann’s accession into the position of *Kolonat*
 holder—a significant upward shift in rural status and responsibility.
 
-=== Glossary of Terms
+<details>
+<summary>Glossary of Terms</summary>
 
 [cols="1,2"]
 |===
