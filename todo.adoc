@@ -4,7 +4,13 @@
 
 == Organize 139's doc1 and doc2
 
-So that the Documet #1 page is less busy and better organized.
+So that the Document #1 page is less busy and better organized:
+* provide a default width -- using `[.narrow]` -- of the petition of widow Krückeberg as well
+as the Rentkammers dispositive comment.
+* Determine the difference between a note noted as "Concept/Cpt" and one note using "N.C."
+* Use h2 and h3 labels are that precise.
+* If needed, include a narrative summary.
+
 For doc #2, which tries to summarize the NC numbers, remove this and instead
 create a separated page based on ~/nla/rentcammer-headers-explained.md
 
