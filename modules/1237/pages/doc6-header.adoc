@@ -1,0 +1,40 @@
+= Document 6: Header
+:page-role: wide
+
+image::11-header.png[align=left,link=self]
+
+== Transliteration and Translation
+
+[cols="1a,2a"]
+|===
+|Translation|Translation
+
+|
+[verse]
+____
+Concept Cammeral: Kaufbriefs
+für den Colon Kruckeberg  
+Nr: 10 zu Berenbusch über  
+einen Platz zur Vergrößerung  
+seines Gartens.
+____
+
+|
+[verse]
+____
+Chamber Deed of Sale [issued in place of a formal purchase deed]
+for the Tenant Farmer Krückeberg
+No. 10 in Berenbusch
+concerning a plot for the enlargement
+of his garden.
+____
+|===
+
+=== Explanatory Notes
+
+In this context, "Concept" (German: Concept or Conceptus in older administrative usage) does not mean “idea” in the
+modern sense.
+
+*Cammeral*:: Of the Chamber (Vormundschaftliche Rentkammer).
+*Kaufbrief*:: Purchase deed
+*Colon*:: Tenant farmer / hereditary holder.
