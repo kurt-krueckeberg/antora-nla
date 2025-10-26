@@ -2,6 +2,34 @@
 :page-role: wide
 
 image::05-r.png[algin=left,title=Click to Enlarge,link=self]
+
+[.narrow]
+== Narrative Summary
+
+++++
+<details>
+<summary><strong></strong></summary>
+++++
+
+This document is a report from the Amt Bückeburg to the Princely Rentkammer
+regarding the sale of Stätte (farmstead) No. 10 in Berenbusch. The Amt
+states that, following receipt of the Kammer’s directive of August 23, the
+purchase contract was formally drawn up and signed by both parties on
+September 5. The Amt now forwards the completed contract to the Rentkammer
+for official confirmation. The report also notes that the 12 Mariengroschen
+stamp fee required in connection with the contract has been collected from
+Colon Krückeberg and is being submitted along with the deed. The Amt
+requests formal acknowledgment of the receipt of this payment. A marginal
+note dated September 20 instructs that the purchase deed is to be confirmed
+and returned once processed, and that proof of the dues and obligations
+attached to the property is to be provided.
+
+++++
+</details>
+++++
+
+== Transliteration and Translation
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration |Translation
