@@ -64,10 +64,11 @@ holder—a significant upward shift in rural status and responsibility.
 |===
  
 
-[cols="1,1"]
+[cols="1a,1a"]
 |===
-| [literal]
-----
+|
+[literal]
+....
 Abschrift
 
 Kund und zu wissen sei hiermit, daß
@@ -166,10 +167,10 @@ Fürstlich Schaumburg-Lippes Amt.
 Hocker        König
 
 (L.S.)
-----
+....
 
 | [literal]
-----
+....
 Copy
 
 Let it be known hereby that a purchase contract
@@ -251,5 +252,5 @@ Princely Schaumburg-Lippe Amt.
 Hocker        König
 
 (Seal)
-----
+....
 |===
