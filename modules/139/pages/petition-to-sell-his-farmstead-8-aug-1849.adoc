@@ -91,6 +91,7 @@ Barkhausen.
 ....
 |===
 
+[.narrow]
 == Cover Note
 :page-role: wide
 
@@ -98,6 +99,19 @@ image::10-l.png[link=self]
 
 === Transliteration
 
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
-An Hochfürstliche Renntkammer Bückeburg
+An Hochfürstliche Rentkammer Bückeburg
 ....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+To the Princely Fiscal Chamber in Bückeburg
+....
+|===
