@@ -3,6 +3,25 @@
 
 image::11-l.png[link=self]
 
+== Document Summary
+
+++++
+<details>
+<summary><strong>Show/hide summary</strong></details>
+++++
+
+This document is the formal approval for the sale of Stätte (farmstead) No. 10 in Berenbusch, which Colon
+Krückeberg has requested permission to sell. Referring to the official report received from the Amt Bückeburg on
+the 22nd of the month, the Princely Fiscal Chamber grants consent for the sale. The approval is issued at Bückeburg
+on 23 August 1849 and is signed by the Rentkammer official Spreng. Further clerical notations indicate internal
+processing and routing (including “Exp” for dispatch).
+
+++++
+</details>
+++++
+
+== Transliteration and Translation
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration |Translation
