@@ -4,9 +4,14 @@ You’re right to want this in plain, human terms. Here’s a clean, self-contai
 
 Think of land as having two layers:
 
-1. **The prince’s estate (the “lordship”)** kept a big block of land and rights. That block is often called the **demesne**: fields, meadows, woods, and the income tied to them that legally belonged to the ruler.
+1. **The prince’s estate (the “lordship”)** kept a big block of land and
+   rights. That block is often called the **demesne**: fields, meadows,
+   woods, and the income tied to them that legally belonged to the ruler.
 
-2. **Families ran farms on that land** under long-standing rights. A family that ran a full farm was often called a **Meier** (you’ll also see **Meyer**) or, in your area, a **Colon**. In practice here, *Meier* and *Colon* are near-synonyms:
+2. **Families ran farms on that land** under long-standing rights. A family
+   that ran a full farm was often called a **Meier** (you’ll also see
+   **Meyer**) or, in your area, a **Colon**. In practice here, *Meier* and
+   *Colon* are near-synonyms:
 
    * A **Meier/Colon** ran a numbered farm (e.g., “No. 10”) for the lordship.
    * He didn’t “own” the farm the way a modern homeowner owns a house, but his **right to run it was inherited in the family**, usually with fixed dues (money, produce, sometimes work days).
