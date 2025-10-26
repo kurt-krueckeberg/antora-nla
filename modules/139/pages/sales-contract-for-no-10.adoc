@@ -17,7 +17,7 @@
 == Explanation of the Sales Contract
 
 ++++
-<details>
+<details class="narrow">
   <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
 ++++
 
@@ -53,10 +53,11 @@ holder—a significant upward shift in rural status and responsibility.
 </details>
 ++++
 
+[.narrow]
 == Glossary of Terms
 
 ++++
-<details>
+<details class="narrow">
   <summary><strong>Show / hide Glossary</strong></summary>
 ++++
 

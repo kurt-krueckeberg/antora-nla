@@ -6,7 +6,7 @@ image::10-r.png[title="(Click to Enlarge),link=self]
 == Narrative Summary
 
 ++++
-<details>
+<details class="narrow">
   <summary><strong>Show / hide Explanation of Amt Report</strong></summary>
 ++++
 

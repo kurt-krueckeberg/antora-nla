@@ -6,7 +6,7 @@ image::11-l.png[link=self]
 == Document Summary
 
 ++++
-<details>
+<details class="narrow">
 <summary><strong>Show/hide summary</strong></summary>
 ++++
 
