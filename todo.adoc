@@ -2,6 +2,14 @@
 
 == Understand `~/nla/m/139/p/NC-numbers-explained.md`
 
+== Organize 139's doc1 and doc2
+
+So that the Documet #1 page is less busy and better organized.
+For doc #2, which tries to summarize the NC numbers, remove this and instead
+create a separated page based on ~/nla/rentcammer-headers-explained.md
+
+Create a tentative page for ~/nla/land-use-explanation.md  
+
 == Other Potential Sources
 
 There are potentially other records that might hold important info:
