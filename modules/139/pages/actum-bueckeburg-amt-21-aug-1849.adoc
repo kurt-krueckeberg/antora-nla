@@ -14,6 +14,7 @@
 |
 |===
 
+[.narrow]
 == Narrative Summary
 
 ++++
@@ -175,6 +176,7 @@ Mark of + + + of Wilhelm
 ....
 |===
 
+[.narrow]
 == Cover Note to the Document
 
 image::10-l.png[link=self]
