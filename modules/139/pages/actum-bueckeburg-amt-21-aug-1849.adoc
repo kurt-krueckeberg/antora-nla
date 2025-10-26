@@ -141,16 +141,22 @@ Mark of + + + of Wilhelm
 ....
 |===
 
-
-=== Cover Note to Document Above
+== Cover Note to the Document
 
 image::10-l.png[link=self]
 
-==== Transliteration
+=== Transliteration and Translation
 
+[.widepair,cols="1a,1a",options=noheader,frame=none,grid=none]
+|===
+|
 ....
-An
-Hochfürstliche Renntkammer
-Bückeburg
+An Hochfürstliche Renntkammer Bückeburg
 ....
+|
+....
+To the Princely Fiscal Chamber in Bückeburg
+....
+|===
+
 

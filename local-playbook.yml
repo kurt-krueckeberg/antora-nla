@@ -13,6 +13,8 @@ content:
       edit_url: false
 asciidoc:
   attributes:
+    toc: ""
+    toclevels: "3"
     experimental: ""
     idprefix: ""
     idseparator: "-"

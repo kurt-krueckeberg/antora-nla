@@ -17,6 +17,11 @@
 [.narrow]
 == Explanation of the Sales Contract
 
+++++
+<details class="narrow">
+  <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
+++++
+
 This document records the formal sale of Stätte No. 10 in Berenbusch by Colon
 Krückeberg to the Einlieger (cottager) Wilhelm Bornemann. The sale was made in
 anticipation of Krückeberg’s emigration to America. Because the farmstead was a
@@ -45,8 +50,16 @@ In practical terms, this contract documents Krückeberg’s departure from the
 village social order and Bornemann’s accession into the position of *Kolonat*
 holder—a significant upward shift in rural status and responsibility.
 
-<details>
-<summary>Glossary of Terms</summary>
+++++
+</details>
+++++
+
+== Glossary of Terms
+
+++++
+<details class="narrow">
+  <summary><strong>Show / hide Glossary</strong></summary>
+++++
 
 [cols="1,2"]
 |===
@@ -64,6 +77,10 @@ holder—a significant upward shift in rural status and responsibility.
 | **Wächtergeld** | Payment toward the village watchman/night-watch system.
 | **Landfolgen / Wachten / Dorfsfolgen** | Collective village labor and communal service obligations (road repair, fire watch, bridge maintenance, etc.).
 |===
+
+++++
+</details>
+++++
  
 == Transliteration and Translation
 [.widepair,cols="1a,1a",frame=none,grid=none]
