@@ -64,10 +64,10 @@ holder—a significant upward shift in rural status and responsibility.
 |===
  
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |
-[literal]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift
 
@@ -169,7 +169,8 @@ Hocker        König
 (L.S.)
 ....
 
-| [literal]
+|
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Copy
 
