@@ -7,8 +7,7 @@
 |image::12-l.png[[title=page 2 (Click to Enlarge),link=self]
 |===
 
-
-[cols="1a (Click to Enlarge),1a",options="noheader"]
+[cols="1a,1a",options="noheader"]
 |===
 |image::12-r.png[[title=page 3 (Click to Enlarge),link=self]
 |image::13-l.png[[title=page 4 (Click to Enlarge),link=self]
