@@ -6,8 +6,8 @@ image::11-l.png[link=self]
 == Document Summary
 
 ++++
-<details>
-<summary><strong>Show/hide summary</strong></details>
+<details class="narrow">
+<summary><strong>Show/hide summary</strong></summary>
 ++++
 
 This document is the formal approval for the sale of Stätte (farmstead) No. 10 in Berenbusch, which Colon
