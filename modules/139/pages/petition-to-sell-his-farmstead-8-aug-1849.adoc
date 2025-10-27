@@ -1,8 +1,6 @@
 = Petition of Colon Krückeberg for Permission to Sell His Farmstead (8 August 1849)
 :page-role: wide
 
-image::07-r.png[link=self]
-
 [.narrow]
 == Narrative Summary
 
@@ -28,6 +26,8 @@ be collected and remitted.
 ++++
 
 == Transliteration and Translation
+
+image::07-r.png[link=self]
 
 NOTE: This transliteration changed the arachic contraction "ichlso" to "ich also".
 
