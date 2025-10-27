@@ -78,6 +78,11 @@ table.tableblock.widepair td {
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
 
+.wide-again {
+    max-width: 85rem;
+}
+
+
 .narrow {
     max-width: 95ch;
 }

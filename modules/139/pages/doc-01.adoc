@@ -33,6 +33,7 @@ of her holding.
 ====
 ****
 
+[.wide-again]
 === Transliteration and Translation
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
