@@ -3,8 +3,6 @@
 
 There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
 
-xref:contents-list.adoc[contents list].
-
 [cols="1a,1a"]
 |===
 |image::02.png[title=Click to Enlarge,link=self]
@@ -45,11 +43,11 @@ of her holding.
 ====
 ****
 
-[cols="1a,1a"]
-|===
-|image::02-right-side-of-page.png[title=Click to Enlarge,link=self]
-|image::03-right-side-of-page.png[title=Click to Enlarge,link=self]
-|===
+//[cols="1a,1a"]
+//|===
+//|image::02-right-side-of-page.png[title=Click to Enlarge,link=self]
+//|image::03-right-side-of-page.png[title=Click to Enlarge,link=self]
+//|===
 
 === Transliteration and Translation
 
