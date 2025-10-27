@@ -31,6 +31,8 @@ The report is signed Sander at Bückeburg on 7 August 1824.
  
 == Transliteration and Translation
 
+image::04-r.png[title=Click to Enlarge,link=self]
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration |Translation
