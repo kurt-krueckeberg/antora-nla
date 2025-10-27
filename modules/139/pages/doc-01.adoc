@@ -1,7 +1,7 @@
 = #1 Docments
 :page-role: wide
 
-== First Two (of Five) Documents
+== First Two (of the Cluster of Five) Documents Labelled #1
 
 There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
 
