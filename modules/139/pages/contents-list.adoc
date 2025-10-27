@@ -10,24 +10,24 @@ the 1822 documents, but these were not recorded in the table of contents.
 
 image::01.png[title=Clock to Enlarge,link=self]
 
-.Diplomatic Literal Transliteration
-[cols="1,7,2,2,2,2"]
-|===
-|No.|Designatio Actorum. ^|Ort ^|Jahr ^|Monat ^|Tag
-
-|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Witwe Krückeberg No 10 Berenbusch] ^|Bburg ^|1824 ^|July >|8
-
-|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
-
-|"|xref:doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
-
-|"|xref:doc-01.adoc#doc-index-1-4[Sim[iliter\]: wapp[niert\] Schmöe, Kahlhuth u Creuzinger zu Baum] ^|" ^|" ^|" >|"
-
-|"|xref:doc-01.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
-
-|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
-|===
-
+//.Diplomatic Literal Transliteration
+//[cols="1,7,2,2,2,2"]
+//|===
+//|No.|Designatio Actorum. ^|Ort ^|Jahr ^|Monat ^|Tag
+//
+//|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Witwe Krückeberg No 10 Berenbusch] ^|Bburg ^|1824 ^|July >|8
+//
+//|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
+//
+//|"|xref:doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
+//
+//|"|xref:doc-01.adoc#doc-index-1-4[Sim[iliter\]: wapp[niert\] Schmöe, Kahlhuth u Creuzinger zu Baum] ^|" ^|" ^|" >|"
+//
+//|"|xref:doc-01.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
+//
+//|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
+//|===
+  
 [NOTE]
 ====
 *wapp.* = “wappniert,” meaning “sealed with the official seal”  
