@@ -359,14 +359,16 @@ N.P. 602
 [NOTE]
 ====
 * *“in extract”* = “as official copies (extracts)”
+
+This means that copies of the same resolutions, the "Memorandum of the
+rescript to the widow Krückeberg", were sent “in extract” to these
+officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four
+clerks: Boiness, Winde, Sp. and Tamerlin; and sent out (expidiert) by
+Alvei, who mailed it (or logged its mailing).
 ====
 
 [.narrow] 
 === Explanation
-
-This means that copies of the same resolutions, the "Memorandum of the rescript to the widow Krückeberg", were sent
-“in extract” to these officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four clerks: Boiness,
-Winde, Sp. and Tamerlin; and sent out (expidiert) by Alvei, who mailed it (or logged its mailing).
 
 [[doc-index-1-5]]
 === Memorandum of the rescript originating from the Office of Bückeberg (24 Aug. 1824)
