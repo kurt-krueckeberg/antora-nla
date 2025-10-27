@@ -269,13 +269,10 @@ image::03-r.png[width=75%,align=left,title=Click to Enlarge,link=self]
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Concept
-An die Witwe Krückeberg
-Nro. 10
-in Bärenbusch.
+Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
 
 Höchsten Orts ist der Witwe Krückeberg Nro. 10 in Bärenbusch auf dreÿ
-Jahre Freÿheit von Burgrest- und Forstdeinst genädigst bewil- ligt
+Jahre Freÿheit von Burgrest- und Forstdeinst genädigst bewilligt
 Bbg. 4. Aug. 1824.
 F.p.
 
@@ -287,8 +284,7 @@ AKaas.
 ....
 Concept
 
-To the widow Krückeberg,
-No. 10 in Bärenbusch.
+To the widow Krückeberg No. 10 in Bärenbusch.
 
 By the highest authority, the widow Krückeberg, No. 10 in Bärenbusch,
 has been graciously granted exemption from Burgrest and forestry service

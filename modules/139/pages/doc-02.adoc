@@ -1,13 +1,12 @@
 = #2 Document: Report from the Bückeburg Office (7 Aug. 1842)
 :page-role: wide
 
-image::04-r.png[title=Click to Enlarge,link=self]
-
-== Transliteration and Translation
+[.narrow]
+== Report from the Bückeburg Office 
 
 ++++
 <details>
-<summary>Hide / show summary</summary>
+<summary><strong>Hide / show summary</strong></summary>
 ++++
 
 This is a report written by the Amt Bückeburg (with Amt Arensburg
@@ -30,6 +29,8 @@ The report is signed Sander at Bückeburg on 7 August 1824.
 </details>
 ++++
  
+== Transliteration and Translation
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration |Translation
