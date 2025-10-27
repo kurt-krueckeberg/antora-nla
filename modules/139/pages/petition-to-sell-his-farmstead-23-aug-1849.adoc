@@ -1,8 +1,7 @@
 = Petition of Colon Krückeberg for Permission to Sell his Farmstead (23 Aug. 1849)
 :page-role: wide
 
-image::11-l.png[link=self]
-
+[.narrow]
 == Document Summary
 
 ++++
@@ -21,6 +20,9 @@ processing and routing (including “Exp” for dispatch).
 ++++
 
 == Transliteration and Translation
+
+
+image::11-l.png[link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
