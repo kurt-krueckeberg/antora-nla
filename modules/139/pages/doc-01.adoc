@@ -9,6 +9,11 @@ There are a cluster of five documents in #1 in the xref:contents-list.adoc[Desig
 [[doc-index-1-1]]
 === Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch (8 July 1824) 
 
+++++
+<details>
+<summary>Hide / show summary</summary>
+++++
+
 The petition of window Krückeberg begins on the right of the first page and continues on the right side of the back page. 
 The widow Krückeberg is needy and facing financial difficulties. She is 58 years old and she can’t perform the feudal
 duties of the *Burgrest labor days* and the *forestry services* owed to the state of a *"colonist"* (farmstead
@@ -27,6 +32,10 @@ someone to perform certain manual work for the domain because of the tenure
 of her holding.
 ====
 ****
+
+++++
+</details>
+++++
 
 === Transliteration and Translation
 
