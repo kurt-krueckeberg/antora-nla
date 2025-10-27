@@ -19,13 +19,13 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
 
-|"|xref:#doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
+|"|xref:doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
 
-|"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum ^|" ^|" ^|" >|"
+|"|xref:doc-01.adoc#doc-index-1-4[Sim[iliter\]: wapp[niert\] Schmöe, Kahlhuth u Creuzinger zu Baum] ^|" ^|" ^|" >|"
 
-|"|Copt KResc: aus Amt Bberg ^|" ^|" ^|" >|"
+|"|xref:doc-01.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
 
-|2.|Bericht des Amts Bückeberg ^|" ^|" ^|" >|7
+|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
 |===
 
 [NOTE]
@@ -46,12 +46,12 @@ in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
 
-|"|xref:#doc-01.adoc#doc-index-1-3[Concept Rescript an die Wittwe Krückeberg]|Rough draft of the official reply (Rescript) to the widow Krückeberg. ^|" ^|" ^|Aug >|4
+|"|xref:doc-01.adoc#doc-index-1-3[Concept Rescript an die Wittwe Krückeberg]|Rough draft of the official reply (Rescript) to the widow Krückeberg. ^|" ^|" ^|Aug >|4
 
-|"|Similiter: wapp[niert] Schmöe, Kahlhuth und Creuzinger zu Baum| Likewise: sealed (with the official seal) and
+|"|xref:doc-01.adoc#doc-index-1-4[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]| Likewise: sealed (with the official seal) and
 signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
 
-|"|Concept Rescript aus Amt Bückeberg|Memorandum of the rescript originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
+|"|xref:doc-01.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Memorandum of the rescript originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
 
-|2.|Bericht des Amts Bückeberg| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
+|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
 |===
