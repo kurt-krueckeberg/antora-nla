@@ -51,7 +51,7 @@ in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 |"|xref:doc-01.adoc#doc-index-1-4[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]| Likewise: sealed (with the official seal) and
 signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
 
-|"|xref:doc-01.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Memorandum of the rescript originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
+|"|xref:doc-01.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Rough draft of the official reply (rescript)( originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
 
 |2.|xref:doc-02.adoc[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
 |===
