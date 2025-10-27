@@ -10,9 +10,11 @@ Below are images of the first two.
 |image::03-l.png[title=Click to Enlarge,link=self]
 |===
 
+== First Two (of Five) Documents
+
 [.narrow]
 [[doc-index-1-1]]
-== Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch (8 July 1824) 
+=== Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch (8 July 1824) 
 
 The petition of window Krückeberg begins on the right of the first page and continues on the right side of the back page. 
 The widow Krückeberg is needy and facing financial difficulties. She is 58 years old and she can’t perform the feudal
@@ -33,7 +35,6 @@ of her holding.
 ====
 ****
 
-[.wide-again]
 === Transliteration and Translation
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
