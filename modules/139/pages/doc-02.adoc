@@ -12,7 +12,7 @@ image::04-r.png[title=Click to Enlarge,link=self]
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-r. 2935                    Præs: 8. Aug. 1824.
+N. 2935                    Præs: 8. Aug. 1824.
 voriger Referent.
 
 An
