@@ -19,7 +19,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
 
-|"|xref:docCopt: KResc. an die Witwe Kruckeberg ^|" ^|" ^|Aug >|4
+|"|xref:#doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
 
 |"|Sim[iliter]: wapp[niert] Schmöe, Kahlhuth u Creuzinger zu Baum ^|" ^|" ^|" >|"
 
@@ -46,7 +46,7 @@ in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 
 |"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
 
-|"|Concept Rescript an die Wittwe Krückeberg| Memorandum of the rescript to the widow Krückeberg. ^|" ^|" ^|Aug >|4
+|"|xref:#doc-01.adoc#doc-index-1-3[Concept Rescript an die Wittwe Krückeberg]|Rough draft of the official reply (Rescript) to the widow Krückeberg. ^|" ^|" ^|Aug >|4
 
 |"|Similiter: wapp[niert] Schmöe, Kahlhuth und Creuzinger zu Baum| Likewise: sealed (with the official seal) and
 signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
