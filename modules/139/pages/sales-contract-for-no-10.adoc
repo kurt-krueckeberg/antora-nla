@@ -1,18 +1,6 @@
 = Purchase Contract for Stätte No. 10 in Berenbusch (5 Sep. 1849)
 :page-role: wide
 
-[cols="1a,1a",options="noheader"]
-|===
-|image::11-r.png[title=page 1 (Click to Enlarge),link=self]
-|image::12-l.png[title=page 2 (Click to Enlarge),link=self]
-|===
-
-[cols="1a,1a",options="noheader"]
-|===
-|image::12-r.png[title=page 3 (Click to Enlarge),link=self]
-|image::13-l.png[title=page 4 (Click to Enlarge),link=self]
-|===
-
 [.narrow]
 == Explanation of the Sales Contract
 
@@ -83,6 +71,19 @@ holder—a significant upward shift in rural status and responsibility.
 ++++
  
 == Transliteration and Translation
+
+[cols="1a,1a",options="noheader"]
+|===
+|image::11-r.png[title=page 1 (Click to Enlarge),link=self]
+|image::12-l.png[title=page 2 (Click to Enlarge),link=self]
+|===
+
+[cols="1a,1a",options="noheader"]
+|===
+|image::12-r.png[title=page 3 (Click to Enlarge),link=self]
+|image::13-l.png[title=page 4 (Click to Enlarge),link=self]
+|===
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |
