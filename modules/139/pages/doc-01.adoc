@@ -187,7 +187,7 @@ By authority of Prince Georg Wilhelm.
 
 ++++
 <details>
-<summary><strong>Hide / show summary</summary>
+<summary><strong>Hide / show summary</strong></summary>
 ++++
 
 The text appears on the left side of the back page. It is evidently
