@@ -1,7 +1,8 @@
 = #1 Docments
 :page-role: wide
 
-The images below show the first two documents in the cluster of five documents designated as #1 in the
+There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
+
 xref:contents-list.adoc[contents list].
 
 [cols="1a,1a"]
