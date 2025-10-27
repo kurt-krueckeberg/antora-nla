@@ -2,6 +2,7 @@
 :page-role: wide
 
 There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
+Below are images of the first two.
 
 [cols="1a,1a"]
 |===
