@@ -310,13 +310,8 @@ A. Kaas
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Conc. in extracten dem Gehülfs-
-schreiber Schmöe
-dem Amte Bückeburg
-Verwalter Stahlhuth
-   u.
-Oberförster Creuzinger
-         [zu]   Baum.
+Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
+Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu]  Baum.
 
 Exp. Alveÿ
 
@@ -332,11 +327,9 @@ N.P. 602
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Concept, in extract, to the assistant clerk
-Schmöe, to the Office of Bückeburg,
-administrator Stahlhuth,
-and chief forester Creuzinger
-at Baum.
+Concept, in extract, to the assistant clerk Schmöe, to the Office of
+Bückeburg, administrator Stahlhuth, and chief forester Creuzinger at
+Baum.
 
 [Dispatched by Alveÿ]
 
