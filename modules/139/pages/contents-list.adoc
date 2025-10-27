@@ -1,9 +1,9 @@
 = Contents List
 :page-role: wide
 
-The *Designatio Actorum* shown below is the table of contents. All the documents listed in it are
-from 1822 and concern the petition of the needy widow Krückeberg who petitions the Rentcammer for
-relief from the obligations of manual labor required of her as a property owner. 
+The *Designatio Actorum* shown below is the table of contents for the case file. All the documents
+listed in it are from 1822 and concern the petition of the needy widow Krückeberg who petitions the
+Rentcammer for relief from the obligations of manual labor required of her as a property owner. 
 
 The case file also has several documents from 1849, when the property was sold, that are filed after
 the 1822, but these were not recorded in the table of contents.
