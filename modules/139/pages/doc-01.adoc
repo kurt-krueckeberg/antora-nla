@@ -33,16 +33,7 @@ of her holding.
 ====
 ****
 
-//[cols="1a,1a"]
-//|===
-//|image::02-right-side-of-page.png[title=Click to Enlarge,link=self]
-//|image::03-right-side-of-page.png[title=Click to Enlarge,link=self]
-//|===
-
 === Transliteration and Translation
-
-The transliteration of the petition has had its minimal grammar modernized and it spellings 
-updated as well.
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
