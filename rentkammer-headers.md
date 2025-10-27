@@ -1,15 +1,19 @@
 # Rentkammer Header Examples
 
-Here's a plain-language explanation of the three headers and
-how to understand them:
+Here are three Rentkammer headers explained.
 
 ## **Header 1:**
 
-    Cam: Nr: 662.
-    Res Cam
-    zum Forstamts Bericht.
-    praes: 30. May 1798.
-    B. 14. Jun. 1798
+nla/m/1237/doc1-full.adoc
+
+```
+Cam: Nr: 662.                       Nr: 1.
+
+Res Cam
+zum Forstamts Bericht.              praes: 30. May 1798. 
+B. 14. Jun. 1798
+            MK
+```
 
 This header refers to a separate case numbered **662** in the records of
 the **Cammer** (a central administrative or financial office).
