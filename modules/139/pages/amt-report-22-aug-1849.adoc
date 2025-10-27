@@ -1,8 +1,7 @@
 = Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Farmstead (22 August 1849)
 :page-role: wide
 
-image::10-r.png[title="(Click to Enlarge),link=self] 
-
+[.narrow]
 == Narrative Summary
 
 ++++
@@ -29,6 +28,8 @@ issued from Bückeburg on 22 August 1849 and signed by Höner.
 ++++
 
 == Transliteration and Translation
+
+image::10-r.png[title="(Click to Enlarge),link=self] 
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===

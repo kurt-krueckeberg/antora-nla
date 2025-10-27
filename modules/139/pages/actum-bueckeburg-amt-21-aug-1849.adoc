@@ -1,19 +1,6 @@
 = Hearing Confirming the Sale of Krückeberg’s Farmstead Prior to Emigration (21 August 1849) 
 :page-role: wide
 
-[cols="1a,1a",options=noheader"]
-|===
-|image::08-r.png[title=Click to Enlarge,link=self]
-|image::09-l.png[title=Click to Enlarge,link=self]
-|===
-
-
-[cols="1a,1a",options=noheader"]
-|===
-|image::09-r.png[title=Click to Enlarge,link=self]
-|
-|===
-
 [.narrow]
 == Narrative Summary
 
@@ -21,7 +8,6 @@
 <details class="narrow">
   <summary><strong>Show / hide Hearing Confirming the Sale</strong></summary>
 ++++
-
 
 This document records a formal hearing before the Amt Bückeburg on 21
 August 1849 regarding the sale of Stätte (farmstead) No. 10 in Berenbusch.
@@ -50,6 +36,20 @@ Amt official Höcker.
 ++++
 
 == Transliteration and Translation
+
+[cols="1a,1a",options=noheader"]
+|===
+|image::08-r.png[title=Click to Enlarge,link=self]
+|image::09-l.png[title=Click to Enlarge,link=self]
+|===
+
+
+[cols="1a,1a",options=noheader"]
+|===
+|image::09-r.png[title=Click to Enlarge,link=self]
+|
+|===
+
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
