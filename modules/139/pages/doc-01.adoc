@@ -1,16 +1,9 @@
 = #1 Docments
 :page-role: wide
 
-There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
-Below are images of the first two.
-
-[cols="1a,1a"]
-|===
-|image::02.png[title=Click to Enlarge,link=self]
-|image::03-l.png[title=Click to Enlarge,link=self]
-|===
-
 == First Two (of Five) Documents
+
+There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
 
 [.narrow]
 [[doc-index-1-1]]
@@ -36,6 +29,12 @@ of her holding.
 ****
 
 === Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|image::02.png[title=Click to Enlarge,link=self]
+|image::03-l.png[title=Click to Enlarge,link=self]
+|===
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
