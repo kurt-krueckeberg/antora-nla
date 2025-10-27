@@ -1,6 +1,12 @@
 = Todoes
 
-== Understand `~/nla/m/139/p/NC-numbers-explained.md`
+== Understand Terms and Numberings
+
+`~/nla/m/139/p/NC-numbers-explained.md`
+
+Terms: Rescript, Concept, etc.
+
+See ./*.md files.
 
 == Organize 139's doc1 and doc2
 
