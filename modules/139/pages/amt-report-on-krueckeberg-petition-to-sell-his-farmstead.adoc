@@ -1,8 +1,6 @@
 = Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead (15 Sept. 1849)
 :page-role: wide
 
-image::05-r.png[algin=left,title=Click to Enlarge,link=self]
-
 [.narrow]
 == Narrative Summary
 
@@ -29,6 +27,8 @@ attached to the property is to be provided.
 ++++
 
 == Transliteration and Translation
+
+image::05-r.png[algin=left,title=Click to Enlarge,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
