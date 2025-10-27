@@ -4,6 +4,31 @@
 image::04-r.png[title=Click to Enlarge,link=self]
 
 == Transliteration and Translation
+
+++++
+<details>
+<summary>Hide / show summary</summary>
+++++
+
+This is a report written by the Amt Bückeburg (with Amt Arensburg
+referenced, as usual in joint reporting) to the Rentkammer on 7 August
+1824. It is responding to an earlier order from the Rentkammer dated 4 and
+7 August 1824.
+
+The report states that the widow Krückeberg, who holds Stätte (homestead)
+No. 10 in Berenbusch, still possesses the piece of land “before the Söhre”
+— land that her late husband had purchased from the Fürstliche Kammer for 8
+Groschen Rthlr. (8/Carolins / 8 Reichsthaler Carolins, depending on
+notation).
+
+The Amts note that she still owns this land, though she has leased out part
+of it to someone else.
+
+The report is signed Sander at Bückeburg on 7 August 1824.
+
+++++
+</details>
+++++
  
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
