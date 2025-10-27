@@ -6,7 +6,7 @@
 
 ++++
 <details class="narrow">
-<summary><strong></strong></summary>
+<summary><strong>Hide / show summary</strong></summary>
 ++++
 
 This document is a report from the Amt Bückeburg to the Princely Rentkammer
