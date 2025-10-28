@@ -1,0 +1,83 @@
+= Rentkammer Documents Explained
+
+== Meaning of the "N.C." Numbers in Upper Left Corner
+
+The *"N.C."* or *"NC"* numbers (for example *NC 483*, *NC 5038*, *NC 5702*, *NC 4381*, etc.)
+are **running registry numbers** used by Rentkammer clerks to track every piece of incoming
+and outgoing correspondence handled by the chamber.
+
+They stand for *"Numerus Cammeralis"* (sometimes written *No. Cam.* or *Nr. Cam.*),
+which literally means *"Chamber Number."*
+
+=== Purpose
+
+* Each time a new petition, report, or letter arrived at the Rentkammer, a clerk wrote
+  **"N.C." plus the next available number** in the upper-left corner of the document.
+* That same number was recorded in a **register book** (*Register der Kammer-Acta*)
+  with a short note about what the document contained.
+* Drafts (*Concepte*), replies (*Rescripte*), and later documents referring to the same
+  matter often carried that same number, or sometimes a new one if it became a separate
+  sub-case.
+* The numbering continued through the years across the entire Rentkammer record series,
+  so higher numbers (like *NC 5702*) simply mean later entries in the long-running
+  sequence.
+
+=== Why These Numbers Appear on the Case Files
+
+The N.C. numbers on your 1824–1849 Bückeburg case files show that:
+
+* The documents were **officially registered** when they entered or left the Rentkammer.
+* They could be **looked up** in the chamber’s **numerical register book**, which listed
+  brief summaries for each N.C. number.
+* The same case might accumulate **several N.C. numbers** over time as new reports or
+  rescripts were added.
+
+=== In Short (for general readers)
+
+The **"N.C. number"** was the Rentkammer’s **filing or tracking number**—like a receipt
+number written on each letter—so the clerks could keep track of all the papers that
+came in and went out.
+
+== Rentkammer Document Terms: *RC*, *Concept* and *Rescript*
+
+What is the difference between the "`RC`" text and that of Cpt/Concept? And
+what does *Rescript* mean?
+
+=== RC
+
+*"`RC`" (or "`R.C.`")* on Rentkammer documents marks *internal notes*
+written *on the incoming document itself*. These are the *Rentkammer’s
+instructions or decisions* about how to proceed with the case (e.g.,
+"`send back to Amt for valuation,`" "`prepare rescript,`" etc.). They
+are *dated and signed* by the Rentkammer official or clerk.
+
+In summary: *RC* = *internal decision note* written on an incoming
+document;
+
+=== Cpt/Concept
+
+*"`Cpt`" / "`Concept`"* marks a *draft of an outgoing communication* (a
+rescript, instruction, approval, refusal, etc.). It is the *text that
+will be sent out*, but *still in draft form*, usually before being
+copied cleanly and issued officially. → *Draft of what the Rentkammer
+will send outward.*
+
+In summary: *Cpt/Concept* = *draft of the outgoing reply* produced as a
+result of that decision.
+
+==== "`Cpt/Concept`" only Appears on Certain Document
+
+It *only appears when the Rentkammer is preparing an outgoing response*.
+If no outgoing letter is needed, you will see *RC notes only*, with *no
+Concept*.
+
+It appears *only* when the Rentkammer is *issuing an outgoing
+communication* (a *Rescript*, an *Order*, a *Decree*, a *Request for
+further information*, etc.). You *will not* see "`Cpt`" on petitions,
+Amt reports, contracts, or receipts — unless some clerk *reused the back
+of those sheets* to draft something (which occasionally happens).
+
+=== Rescript
+
+*Rescript* means an *official reply* from the Rentkammer.
+
