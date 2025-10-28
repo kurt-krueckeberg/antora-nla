@@ -1,12 +1,11 @@
 = Todoes
 
-== Understand Terms and Numberings
+== Merge Rentkammer Document Explanations
 
-`~/nla/m/139/p/NC-numbers-explained.md`
+Merge into one explanation to be placed in `~/nla/m/common/pages` the information in the files:
 
-Terms: Rescript, Concept, etc.
-
-See ./*.md files.
+* xref:689:case-file-organization.adoc[]
+* xref:common:retnkammer-docs-explained.adoc[].
 
 == Organize 139's doc1 and doc2
 
