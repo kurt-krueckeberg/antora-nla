@@ -3,6 +3,7 @@
 //* Case File
 //* xref:analyze.adoc[]
 * xref:rentcammer-and-amt.adoc[]
+* xref:common:x.adoc[]
 //* xref:case-file-organization.adoc[]
 * xref:common:case-file-docs-explained.adoc[]
 * xref:cover.adoc[]
