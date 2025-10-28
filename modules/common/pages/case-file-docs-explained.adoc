@@ -71,7 +71,7 @@ was logged in the protocol book.
 
 image::689:nc-xxxx.jpg[link=self]
 
-The *NC \####* numbers appear in the upper left corner of the first page
+The *NC ####* numbers appear in the upper left corner of the first page
 of each major document. They are merely sequential numbers assigned by
 the Rentkammer as items were logged and handled during a given year.
 The numbers increased throughout the year marking the chronological
