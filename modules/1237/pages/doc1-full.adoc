@@ -110,38 +110,23 @@ petition, is the large text in the image.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Der verlangte Platz liegt
-in der Dorf Straße von
-Berenbusch, ist
-ein kleiner
-Winkel, der ohne
-allen Nachteil
-ausgewiesen
-werden kann. — Die darauf stehenden
-Pappelen wären dann von Seiten der Forst
-zu verkaufen, und der Krückeberg hätte sich
-verbindlich zu machen an einem anderen
-Platze im Förste für jeden zu fällende Pappel
-dreÿ Stetz-Stangen wieder zu pflanzen,
+Der verlangte Platz liegt in der Dorf Straße von Berenbusch, ist ein
+kleiner Winkel, der ohne allen Nachteil ausgewiesen werden kann. — Die
+darauf stehenden Pappelen wären dann von Seiten der Forst zu verkaufen,
+und der Krückeberg hätte sich verbindlich zu machen an einem anderen
+Platze im Förste für jeden zu fällende Pappel dreÿ Stetz-Stangen wieder
+zu pflanzen.
                                   Maas forstenste
 ....
 
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-The requested plot lies
-in the village street of
-Berenbusch, and is
-a small
-corner that may be
-granted without causing
-any disadvantage.
-— The poplars standing
-there are to be sold by the forestry office,
-and Krückeberg is to be
-obligated to replant, in another
-location in the forest, three saplings 
-for each poplar that is felled.
+The requested plot lies in the village street of Berenbusch, and is a
+small corner that may be granted without causing any disadvantage.  — The
+poplars standing there are to be sold by the forestry office, and
+Krückeberg is to be obligated to replant, in another location in the
+forest, three saplings for each poplar that is felled.
 
                    Maas, Forestry Officier
 ....
