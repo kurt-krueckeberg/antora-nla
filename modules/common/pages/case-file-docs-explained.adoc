@@ -1,4 +1,4 @@
-= Case File Organization and Document Identifiers
+= Case File Documents Explained
 
 There so different numbers and stamps on the pages because *different offices/books* 
 were keeping control of the same transaction. These are the most important ones:
@@ -71,7 +71,7 @@ was logged in the protocol book.
 
 image::689:nc-xxxx.jpg[link=self]
 
-The *NC ####* numbers appear in the upper left corner of the first page
+The *NC \####* numbers appear in the upper left corner of the first page
 of each major document. They are merely sequential numbers assigned by
 the Rentkammer as items were logged and handled during a given year.
 The numbers increased throughout the year marking the chronological
@@ -101,7 +101,7 @@ provided both an operational sequence of handling and a permanent ledger referen
 Together they allow today’s researcher to trace the administrative life-cycle of a petition
 from initial submission, through treasury handling, to final rescript or repayment closure.
 
-== Meaning of "ad NC"
+== Meaning of "ad NC \####"
 
 *ad NC \####* or *ad Num Cam \####* means “in reference to NC \####”. It links a
 later follow-up document to an earlier one.  In the image below, for example,
