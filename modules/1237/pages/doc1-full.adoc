@@ -1,50 +1,31 @@
 = Full Document View
 :page-role: wide
 
-== Document Header
+== Jobst Heinrich Krückeberg's Petition
 
-The document header has a left-side and right-side section:
+[cols="1a,1a",options="noheader",frame="none",grid="none"]
+|===
+|image::02.png[align=left,sclae=25,link=self]
 
-[caption="Document header: "]
-.added by the Vormundschaftliche Cammer to Document 1.
-[cols="1a,1a",options="header",frame=none,grid=none]
+|image::03-left-page.png[algin=left,scale=25,link=self]
+|===
+
+[.widepair,cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Cam: Nr: 662.                       Nr: 1.
 
 Res Cam
 zum Forstamts Bericht.              praes: 30. May 1798. 
 B. 14. Jun. 1798
-            MK
-....
 
-|
-....
-Chamber: No. 662                                  No. 1.
-
-Filed by the Chamber                             
-regarding the Forestry Office report              presented: 30 May 1798
-B[ückeburg] 14. Jun. 1798
-       MK[initials of Cammer official]
-....
-|===
+           MK
 
 
-== Jobst Heinrich Krückeberg's Petition
-
-The petition begins on the first page of document #1 and continues on its backside.
-It is the smaller text seen in both xref:doc1-overview.adoc[images].
-
-[cols="1a,1a",options="header",frame="none",grid="none"]
-|===
-|Transliteration|Translation
-
-|
-[verse]
-____
 Durchlauchtigste Fürstin!
 
 Gnädigst Regierende Fürstin und Frau
@@ -74,11 +55,19 @@ In tiefster Ehrfurcht verharre ich
 Ewr. Durchlauchten
     und
 Ewr. Hochgräflichen Gnaden
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
+Chamber: No. 662                                  No. 1.
+
+Filed by the Chamber                             
+regarding the Forestry Office report              presented: 30 May 1798
+Bückeburg 14. Jun. 1798
+
+       MK[initials of Cammer official]
+
 Most Serene Princess!
 Most Gracious Ruling Princess and Lady
 High-born Count!
@@ -102,7 +91,8 @@ possible and measured for this purpose.
 With deepest respect, I remain before
 Your Serene Highness and
 Your High Comital Grace.
-____
+
+....
 |===
 
 == Scribe’s Authentication
