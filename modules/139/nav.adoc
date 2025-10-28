@@ -1,6 +1,6 @@
 .xref:index.adoc[]
 * xref:cover.adoc[]
-* xref:common:rentkammer-docs-explained.adoc[]
+* xref:common:case-file-docs-explained.adoc[]
 * xref:contents-list.adoc[]
 ** xref:doc-01.adoc[]
 *** xref:doc-01.adoc#doc-index-1-1[Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)]

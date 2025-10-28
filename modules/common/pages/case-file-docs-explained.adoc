@@ -67,7 +67,7 @@ was logged in the protocol book.
 
 * *Variants*: Appears as *Nr pr.* or *Num pr.*, with identical meaning.
 
-=== The “NC \####” Numbers — Chamber Docket / Expedition Numbers
+=== The “NC \####” Numbers 
 
 image::689:nc-xxxx.jpg[link=self]
 
