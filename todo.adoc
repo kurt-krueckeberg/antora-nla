@@ -1,14 +1,5 @@
 = Todoes
 
-== Merge Rentkammer Document Explanations
-
-Merge into one explanation the information in the files:
-
-* xref:689:case-file-organization.adoc[]
-* xref:common:retnkammer-docs-explained.adoc[].
-
-place it in `~/nla/m/common/pages`.
-
 == Organize 139's doc1 and doc2
 
 Document #1 page is very busy and poorly organized. It is not readily understandable, not 'friendly'.
