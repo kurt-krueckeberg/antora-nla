@@ -1,5 +1,9 @@
 = Todoes
 
+== 1237
+
+Redo documents and navigation line m/139.
+
 == Organize 139's doc1 and doc2
 
 Document #1 page is very busy and poorly organized. It is not readily understandable, not 'friendly'.
