@@ -108,7 +108,7 @@ later follow-up document to an earlier one.  In the image below, for example,
 *ad* appears above *Num: Cam: 5702*, and the meaing is: "concerning the
 Rentcammer document numbered 5702".  
 
-image::689:ad-nc.jpg[link=self].
+image::689:ad-nc.jpg[link=self]
 
 == Rentkammer Document Terms: *RC*, *Concept* and *Rescript*
 

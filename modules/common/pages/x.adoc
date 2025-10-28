@@ -1,4 +1,6 @@
 = Test 
 
-image::689:ad-nc.jpg[link=self].
+image::689:ad-nc.jpg[title=Test,link=self]
+
+image::689:example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
 
