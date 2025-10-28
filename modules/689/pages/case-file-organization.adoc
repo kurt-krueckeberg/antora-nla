@@ -13,32 +13,32 @@ for example, the contents list has these two documents listed under entries #2 a
 |===
 |Number|Documents
 |1.
-|xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|xref:689:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 
 |2.
-|xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+|xref:689:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+|xref:689:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 
 |3.
-|xref:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+|xref:689:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
 
 |〃
-|xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+|xref:689:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
 
 |〃
-|xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|xref:689:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |===
 
 === Cross-Referencing the Contents List to Its Documents
 
 For each number in column one of the contents list, the first document listed will have
 this number written in the upper right corner of the first page. This first document for
-*number 2* in the able above is the xref:amt-decree.adoc[Bericht Amts Bückeburg] (the Report
+*number 2* in the able above is the xref:689:amt-decree.adoc[Bericht Amts Bückeburg] (the Report
 of the Bückeburg Office); in the upper right corner of its first page, *2* is written:
 
-image::example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
+image::689:example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
 
 == Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
 
@@ -49,14 +49,14 @@ Each number served a distinct bureaucratic purpose and helps reconstruct the flo
 
 === The “Nr pr. \####” Numbers — Protocol / Register Numbers
 
-image::nr-pr.jpg[link=self]
+image::689:nr-pr.jpg[link=self]
 
 * *Definition*: The entry number in the Rentkammer’s *Protokollbuch* (protocol book), a line-by-line ledger
   recording decisions and actions.
 
 A protocol number was assigned once when the case was formally undertaken by the Rentkammer. In the case involving
 Johann Heinrich Krückeberg request for a loan, *Nr pr: 1274* was written on the bottom of the first page of the of
-his Octoboer 2, 1841, xref:doc-01.adoc[Petition].  Every subsequent document in the case (reports, cover slips,
+his Octoboer 2, 1841, xref:689:doc-01.adoc[Petition].  Every subsequent document in the case (reports, cover slips,
 rescripts, replies) still belonged to that protocol entry — but the number itself didn’t need to be re-written on
 every single sheet.  So, *“Nr pr. 1274”* is the umbrella identifier under which the whole Krückeberg loan matter
 was logged in the protocol book.  
@@ -65,7 +65,7 @@ was logged in the protocol book.
 
 === The “NC \####” Numbers — Chamber Docket / Expedition Numbers
 
-image::nc-xxxx.jpg[link=self]
+image::689:nc-xxxx.jpg[link=self]
 
 The *NC ####* numbers appear in the upper left corner of the first page of each major document. They
 are merely sequential numbers assigned by the Rentkammer as items were logged and handled during a given year.
@@ -75,12 +75,12 @@ The numbers increased throughout the year marking the chronological order of han
 
 * *RC* = shorthand for *Rentkammer*. In text in the image below begins with *RC*:  
 +
-image::15-r-vertical.png[title="Text begins with RC.",link=self]
+image::689:15-r-vertical.png[title="Text begins with RC.",link=self]
 * *ad NC* or *ad Num Cam* = “in reference to NC \####”. It links a later follow-up document to an earlier one.
 In the image below, *ad* appears above *Num: Cam: 5702*, meaning "concerning the Rentcammer document numbered 
 5702". 
 +
-image::ad-nc.jpg[link=self]
+image::689:ad-nc.jpg[link=self]
 
 === Distinction Between the Two Systems
 
