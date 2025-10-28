@@ -10,10 +10,10 @@
 |image::03-left-page.png[algin=left,scale=25,link=self]
 |===
 
-[.widepair,cols="1a,1a",options="header",frame=none,grid=none]
-|===
-|Transliteration|Translation
+=== Transliteration and Translation
 
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -55,6 +55,14 @@ In tiefster Ehrfurcht verharre ich
 Ewr. Durchlauchten
     und
 Ewr. Hochgräflichen Gnaden
+
+
+
+Supplic.
+Bückeburg d. 29t. Mai 1798.
+                                         unterschriebner
+Lindemann geh.                           Col. Krückeberg N. 10 zu Berenbusch
+pro St[atuent].
 ....
 
 |
@@ -92,48 +100,25 @@ With deepest respect, I remain before
 Your Serene Highness and
 Your High Comital Grace.
 
-....
-|===
 
-== Scribe’s Authentication
 
-The scribe's authenticatioin appears at the bottom of the backside of the page below the 2^nd^ half of 
-the petition.
-
-[cols="1a,1a",options="header",frame="none",grid="none"]
-|===
-|Transliteration|Translation
-
-|
-....
-Supplic.
-Bückeburg d. 29t. Mai 1798.
-                                         unterschriebner
-Lindemann geh.                           Col. Krückeberg N. 10 zu Berenbusch
-pro St[atuent].
-....
-
-|
-....
 Petition.  
 Bückeburg, May 29, 1798.              
                                            signed  
 Lindemann, written on behalf of            Col. Krückeberg No. 10 at Berenbusch
 by order.
-....                                   
+....
 |===
 
 == Forestry Office Assessment Regarding Land Expansion
 
 The Forestry report, which the Cammer would have requested after reviewing the petition, is the large text in the image.
 
-[cols="a,a"]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
-|Transliteration|Translation
-
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Der verlangte Platz liegt
 in der Dorf Straße von
 Berenbusch, ist
@@ -148,11 +133,11 @@ verbindlich zu machen an einem anderen
 Platze im Förste für jeden zu fällende Pappel
 dreÿ Stetz-Stangen wieder zu pflanzen,
                                   Maas forstenste
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 The requested plot lies
 in the village street of
 Berenbusch, and is
@@ -168,32 +153,30 @@ location in the forest, three saplings
 for each poplar that is felled.
 
                    Maas, Forestry Officier
-____
+....
 |===
 
 == Adminstrative Note
 
 The administrative note is written vertical along the left edge below the Land Assessment.
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|Transliteration|Translation
-
 | 
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Res Cam. Brevi manu dem  
 Amts zum Berichte. B. 18  
 
 Febr 1799    MKaas
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Res Cam. Delivered by hand  
 to the Amt (office) for [the purpose of] reporting.
 
 18  Febr 1799    MKaas
-____
+....
 |===
