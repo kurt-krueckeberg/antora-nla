@@ -51,7 +51,7 @@ During the mid-19th century, the Rentkammer (Chamber Treasury) in Schaumburg-Lip
 used parallel numbering systems to track petitions, reports, rescripts, and related acts.
 Each number served a distinct bureaucratic purpose and helps reconstruct the flow of a case file.
 
-=== The “Nr pr. \####” Numbers — Protocol / Register Numbers
+=== The “Nr pr. &#35;&#35;&#35;&#35;” Numbers — Protocol / Register Numbers
 
 image::689:nr-pr.jpg[link=self]
 
@@ -67,11 +67,11 @@ was logged in the protocol book.
 
 * *Variants*: Appears as *Nr pr.* or *Num pr.*, with identical meaning.
 
-=== The “NC \####” Numbers 
+=== The “NC &#35;&#35;&#35;&#35;” Numbers 
 
 image::689:nc-xxxx.jpg[link=self]
 
-The *NC \####* numbers appear in the upper left corner of the first page
+The *NC  &#35;&#35;&#35;&#35;* numbers appear in the upper left corner of the first page
 of each major document. They are merely sequential numbers assigned by
 the Rentkammer as items were logged and handled during a given year.
 The numbers increased throughout the year marking the chronological
@@ -101,9 +101,9 @@ provided both an operational sequence of handling and a permanent ledger referen
 Together they allow today’s researcher to trace the administrative life-cycle of a petition
 from initial submission, through treasury handling, to final rescript or repayment closure.
 
-== Meaning of "ad NC \####"
+== Meaning of "ad NC  &#35;&#35;&#35;&#35;"
 
-*ad NC \\####* or *ad Num Cam \####* means “in reference to NC \####”. It links a
+*ad NC &#35;&#35;&#35;&#35;* or *ad Num Cam &#35;&#35;&#35;&#35;* means “in reference to NC &#35;&#35;&#35;&#35;”. It links a
 later follow-up document to an earlier one.  In the image below, for example,
 *ad* appears above *Num: Cam: 5702*, and the meaing is: "concerning the
 Rentcammer document numbered 5702".  
