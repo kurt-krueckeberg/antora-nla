@@ -6,7 +6,7 @@
 
 ++++
 <details class="narrow">
-<summary><strong> Hide /down narrative overview</strong></summary>
+<summary><strong> Hide / show narrative overview</strong></summary>
 ++++
 
 [discrete]
