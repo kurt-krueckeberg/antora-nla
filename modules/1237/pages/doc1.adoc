@@ -1,11 +1,12 @@
-= Document #1: Jobst Heinrich Krückeberg Petition (plus Forestry Assessment andAdmininstrative Note) (date?) 
+= Document #1: Jobst Heinrich Krückeberg Petition (date?)
 :page-role: wide
 
+++++
+<details class="narrow">
+<summary><strong> Hide /down narrative overview</string></summary>
+++++
+
 [.narrow]
-++++
-<details>
-<summary><strong> Hide /down narrative overview</summary>
-++++
 == Document 1: Narrative Overview
 
 === 1. The Petition is Initiated at the Amt (≤ 29 May 1798)
