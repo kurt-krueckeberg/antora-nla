@@ -7,7 +7,7 @@
 ++++
 
 [.narrow]
-== Document 1: Narrative Overview
+== Narrative Overview
 
 === 1. The Petition is Initiated at the Amt (≤ 29 May 1798)
 
