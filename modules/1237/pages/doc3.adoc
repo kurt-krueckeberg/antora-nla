@@ -4,8 +4,10 @@
 [role="narrow"]
 == Narrative Overview
 
+.*Show / hide narrative overview*
 [%collapsible]
 ====
+
 [discrete]
 === *Recapitulation: Cammer Reaction to Document 2 (10 March 1799)*
 
@@ -29,7 +31,6 @@ office
 ** have the plot surveyed by a sworn surveyor
 ** and report its size back to the Cammer.
 ====
-
 
 .Meaning of Vormundschaftlice (Custodial) Cammer
 ****
