@@ -4,11 +4,9 @@
 [.narrow]
 == Narrative Overview
 
-++++
-<details class="narrow">
-<summary><strong> Hide / show narrative overview</strong></summary>
-++++
-
+.*Show / hide narrative overview*
+[%collapsible]
+====
 [discrete]
 === *1. The Petition is Initiated at the Amt (≤ 29 May 1798)*
 
@@ -80,10 +78,7 @@ This Latin-German phrase roughly means:
 > “By order of the Cammer, hand-delivered to the Amt for a report.”
 
 This suggests that the Cammer returned the entire case file, including the petition and forestry report, to the Amt — possibly to inform Krückeberg or to request a response or implementation.
-
-++++
-</details>
-++++
+====
 
 [[doc-index-1-1]]
 == Jobst Heinrich Krückeberg's Petition
