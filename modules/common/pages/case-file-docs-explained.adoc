@@ -41,7 +41,7 @@ this number written in the upper right corner of the first page. This first docu
 *#2* in the able above is the xref:689:amt-decree.adoc[Bericht Amts Bückeburg] (Report
 of the Bückeburg Office); in the upper right corner of its first page, *2* is written:
 
-image::689:example-entry-num-on-doc.jpg[title="2" visible in right corner,link=self]
+image::689:example-entry-num-on-doc.jpg[title="pr in Cam 11 OCt 1841 (2 visible in right corner),link=self]
 
 == Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
 
