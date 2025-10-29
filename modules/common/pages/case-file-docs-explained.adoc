@@ -149,7 +149,10 @@ further information*, etc.). You *will not* see "`Cpt`" on petitions,
 Amt reports, contracts, or receipts — unless some clerk *reused the back
 of those sheets* to draft something (which occasionally happens).
 
-=== Rescript
+=== Rescript and Rescript Camerale
 
-*Rescript* means an *official reply* from the Rentkammer.
+* *Rescript* - means an *official reply* from the Rentkammer.
+* *Res Cam*  — abbreviation for *Rescriptum Camerale*, the Rentkammer’s written
+reply or directive usually entered on or beside the same page the document
+presented in the Rentcammer.
 
