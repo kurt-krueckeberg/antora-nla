@@ -2,10 +2,14 @@
 
 == 1237
 
+TODO:
 Where does the "cover note" in `~/nla/m/1237/pages/image5-left-page.adoc` logically belong?
 Did it go with the Petition, with doc1, or with the Amt Report, doc2?
 
 Currently, it comes after doc2.adoc.
+
+TODO:
+For 1237, determine if Rentcammer or Vormundliche is best per occurance.
 
 == Organize 139's doc1 and doc2
 
