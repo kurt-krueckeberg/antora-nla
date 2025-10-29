@@ -2,7 +2,7 @@
 
 == 1237
 
-Redo documents and navigation line m/139.
+Redo documents and navigation line in m/1237.
 
 == Organize 139's doc1 and doc2
 
