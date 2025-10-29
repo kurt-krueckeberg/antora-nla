@@ -7,7 +7,7 @@
 ** xref:doc1.adoc[]
 *** xref:doc1.adoc#doc-index-1-1[Petition]
 *** xref:doc1.adoc#forestry-assessment[Forestry Assessment]
-*** xref:doc1.adoc#admin-note[Administrative Note]
+*** xref:doc1.adoc#admin-note[Rentkammer Resolutiont]
 ** xref:doc2.adoc[]
 *** xref:doc2.adoc#doc-index-2-1[Land Assignment Report]
 *** xref:doc2.adoc#official-reply[Official Reply]
