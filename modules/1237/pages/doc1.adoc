@@ -194,7 +194,7 @@ by order.
 == Forestry Office Assessment Regarding Land Expansion
 
 The Forestry report, which the Cammer would have requested after reviewing the
-petition, is the large text in the image.
+petition, is the large text in the image. 
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
