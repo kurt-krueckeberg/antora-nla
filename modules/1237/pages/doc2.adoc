@@ -63,19 +63,20 @@ Kammer), giving administrative directives:
 |image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 |===
 
-The local government offices for Bückeburg and Arnesberg prepared Document 2 in March 1799 to inform the Cammer
-that they had reviewed the forestry report that the Cammmer had written onto Document 1, the Petition, and sent
-back to the Ämter (plural of offices).
+The local government offices for Bückeburg and Arnesberg prepared Document 2
+in March 1799 to inform the Cammer that they had reviewed the forestry report
+that the Cammmer had written onto Document 1, the Petition, and sent back to
+the Ämter (plural of offices).
 
 === Transliteration and Translation
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Cam: N: 53.                pr: 6. Merz 1799           2   
 Forst-Sachen  
 
@@ -85,42 +86,29 @@ der Aemter Bückeburg und Arensburg.
 Betr.  
 Ausweisung  
 
-In der Anlage remittiren wir die  
-Vorstellung des Brinksitzers Jobst  
-Henr: Krückeberg N 10 zu Beren-  
-busch mit der Anzeige, daß unter  
-den Einwohnern der Dorfschaften  
-Berenbusch, Nordtholtz und Evesen  
-nur allein der sehr wohl begütherte  
-Köter Weiland et. zu Berenbusch  
-sich als unzufrieden über die vor-  
-habende Ausweisung bezeigt hat.  
-indem er eines Theils selbsten  
-diesen Platz zu überkommen wünscht  
-und andern Theils vorgiebt, daß  
-ihm der Weg zur Einfahrt seiner  
-Früchte zu sehr beengt würde.  
+In der Anlage remittiren wir die  Vorstellung des Brinksitzers Jobst
+Henr: Krückeberg N 10 zu Berenbusch mit der Anzeige, daß unter den
+Einwohnern der Dorfschaften Berenbusch, Nordtholtz und Evesen nur allein
+der sehr wohl begütherte Köter Weiland et. zu Berenbusch sich als
+unzufrieden über die vorhabende Ausweisung bezeigt hat. indem er eines
+Theils selbsten diesen Platz zu überkommen wünscht und andern Theils
+vorgiebt, daß ihm der Weg zur Einfahrt seiner Früchte zu sehr beengt
+würde.  
 
-Wir werden bey der Ausmeßung  
-dieses näher beurtheilen und  
-dahin seyn, daß ihm wegen der  
-Einfahrt keine gegründete Be-  
-schwerde übrig bleibt. Vorzüglich 
-veranlaßt ihn die wegzu nehmende
-Bepflanzung dieses Platzes mit
-Weiden Bäumen zum geäußerten
-Wiederspruch [Widerspruch] der also, weil der-
-selbe diesen Platz eigenmächtiger
-Weise bepflanzt hat, nicht vor
-der Art ist, daß deshalb der
-gebethenen Ausweisung nicht zu
-deferire stehe mögte.
+Wir werden beÿ der Ausmeßung dieses näher beurtheilen und  dahin seÿn,
+daß ihm wegen der Einfahrt keine gegründete Beschwerde übrig bleibt.
+Vorzüglich veranlaßt ihn die wegzu nehmende Bepflanzung dieses Platzes
+mit Weiden Bäumen zum geäußerten Wiederspruch [Widerspruch] der also,
+weil derselbe diesen Platz eigenmächtiger Weise bepflanzt hat, nicht vor
+der Art ist, daß deshalb der gebethenen Ausweisung nicht zu deferire
+stehe mögte.
+
 L Buckeburg 27ten Febr.
 1799                   H. Habicht.           Stölting
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Chamber No. 53                presented March 6, 1799
 Forestry Matters  
 
@@ -128,38 +116,25 @@ Report to the Guardianship Chamber from the Offices of Bückeburg and Arensburg
 
 Re: Land Assignment  
 
-Attached we remit the petition of the smallholder Jobst  
-Henr[ich] Krückeberg No. 10 in Beren-  
-busch along with the report that among  
-the residents of the villages  
-Berenbusch, Nordholz, and Evesen  
-only the very well-to-do  
-Köter (tenant smallholder) Weiland of Berenbusch  
-has expressed dissatisfaction about the  
-proposed assignment,  
-since on the one hand he himself  
-wishes to obtain this plot,  
-and on the other hand claims that  
-his access route for transporting his  
-harvests would be overly restricted.  
+Attached we remit the petition of the smallholder Jobst Henr[ich]
+Krückeberg No. 10 in Berenbusch along with the report that among the
+residents of the villages Berenbusch, Nordholz, and Evesen only the very
+well-to-do Köter (tenant smallholder) Weiland of Berenbusch has expressed
+dissatisfaction about the proposed assignment, since on the one hand he
+himself wishes to obtain this plot, and on the other hand claims that his
+access route for transporting his harvests would be overly restricted. 
 
-We will assess this more closely  
-during the surveying process and  
-and will ensure that no valid objection
-remains regarding his access route to the
-road.
+We will assess this more closely during the surveying process and and
+will ensure that no valid objection remains regarding his access route to
+the road.
 
-In particular, what prompted his  
-objection is the planting  
-of this plot with willow trees,  
-which he had undertaken on his own  
-initiative. However, this  
-does not constitute  
-a valid reason to refuse  
-the requested assignment.  
+In particular, what prompted his objection is the planting of this plot
+with willow trees, which he had undertaken on his own initiative.
+However, this does not constitute a valid reason to refuse the requested
+assignment. 
 
-Bückeburg, February 27,  
-1799  
+Bückeburg, February 27, 
+1799 
 H. Habicht.     Stölting
 ____
 |===
@@ -169,13 +144,13 @@ ____
 
 This reaction is written onto the left side of Document 2 to give feedback.
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Res Cam  
 Der Platz ist also  
 auszuweisen, und da verschiedene  
@@ -193,11 +168,11 @@ B. 10.
 März  
 
 M
-____
+....
 
 |
-[verse, Response from the Gräflich vormundschaftliche Cammer* (Comital Guardianship Chamber)]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 The plot is therefore to be allocated, and since
 various residents in Berenbusch are said to have
 enlarged their gardens on their own authority, the
@@ -206,7 +181,7 @@ this and report accordingly.
 
 B[ückeburg], 10 March
 M[aas]
-____
+....
 |===
 
 
