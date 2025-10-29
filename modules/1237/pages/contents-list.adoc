@@ -1,4 +1,4 @@
-= Document Index
+= Contents List
 :page-role: wide
 
 [role="narrow"]
