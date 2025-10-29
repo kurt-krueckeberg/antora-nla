@@ -223,10 +223,10 @@ forest, three saplings for each poplar that is felled.
 ....
 |===
 
-[[admin-note]]
+[[kammer-resolution]]
 == Adminstrative Note
 
-The administrative note is written vertical along the left edge below the Land Assessment.
+The Cammer resolution is written vertical along the left edge below the Land Assessment.
 
 image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
 
@@ -235,15 +235,15 @@ image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
 | 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res Cam. Brevi manu dem Amts zum Berichte. B. 18  
+Res[criptum] Cam[merale] Brevi manu dem Amts zum Berichte.
 
-Febr 1799    MKaas
+B. 18 Febr 1799    MKaas
 ....
 
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res Cam. Delivered by hand  to the Amt (office) for [the purpose of]
+Rentkammer Resolution. Delivered by hand to the Amt for [the purpose of]
 reporting.
 
 18  Febr 1799    MKaas
