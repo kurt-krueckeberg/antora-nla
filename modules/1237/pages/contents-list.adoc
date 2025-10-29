@@ -2,34 +2,8 @@
 :page-role: wide
 
 [role="narrow"]
-== What this table means in the context of the Case File
 
-This table serves as a *document index* or table or contents. It was compiled by the Vormundschaftliche Cammer, which
-maintained and archived the case file, including the original incoming documents from the Amt, the Cammer’s own
-responses, and any appended material. The Vormundschaftliche Cammer (guardianship Chamber) was the higher,
-state-level, decision-making body. In smaller German principalities like Schaumburg-Lippe, the *Vormundschaftliche
-Cammer* typically functioned as a kind of higher-level civil authority—combining:
-
-* estate management
-* guardianship over minors and wards of the state
-* fiscal oversight
-* and responsibility for legal and property matters not handled by local offices (Ämter).
-
-Each row in the table corresponds to a specific item (such as a petition, report, or land survey), and the columns
-identify:
-
-* *the document number*
-* *a brief description of the document’s contents or subject*
-* *the office that authored or handled the document*
-* *the date it was created (year, month, and day)*
-
-The column labeled *"Designatio Actorum"* — Latin for *description of the acts or documents* — provides a short
-summary of each document's content.
-
-By reading this table, a clerk at the time could quickly understand the *structure and contents of the case file* without
-having to examine every page in full.
-
-== The Document Index
+== The Designatio Actorum (Table of Contents)
 
 image::01.png[link=self]
 
