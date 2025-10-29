@@ -1,5 +1,25 @@
-= Vormundschaftliche Cammer Directive
+= Custodial Cammer Directive
 :page-role: wide
+
+== What Vormundschaftliche Rentcammer Means
+
+.Meaning of Vormundschaftlice (Custodial) Cammer
+****
+The *period of regency (Vormundschaftsregierung = Custodial Government)*
+in *Schaumburg-Lippe* occurred after the death of *Count Philipp
+Ernst* in *1787* and lasted until *1807*.
+
+Between *1787 – 1807, after Count Philipp Ernst’s death, his son *Georg
+Wilhelm* was still a minor. The government was therefore carried out
+under a _Regency Council_ (Vormundschaftliche Regierung or
+Vormundschaftliche Cammer). This regency oversaw administration and
+financial affairs — many documents from this period (including land
+petitions, Ausweisungen, and Rentkammer files) are labeled _„An die
+vormundschaftliche Cammer“_ or _„Vormundschaftliche Regierung“_.
+
+In *1807:* Georg Wilhelm reached majority and assumed full rule as *Count
+(later Prince) Georg Wilhelm zu Schaumburg-Lippe*, ending the regency.
+****
 
 == Images and Their Content
 
