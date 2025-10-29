@@ -151,20 +151,14 @@ This reaction is written onto the left side of Document 2 to give feedback.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res Cam  
-Der Platz ist also  
-auszuweisen, und da verschiedene  
-Einwohner in Berenbusch ihre  
-Gärten eigenmächtig vergrößert  
-haben sollen; so haben die Beamte  
-darüber  
-nähere  
-Auskunft  
-einzuziehen  
-und darüber  
-zu berichten.  
+Res[criptum] Cam[merale] 
 
-B. 10.  
+Der Platz ist also auszuweisen, und da verschiedene Einwohner in
+Berenbusch ihre Gärten eigenmächtig vergrößert haben sollen; so haben
+die Beamte darüber nähere Auskunft einzuziehen und darüber zu
+berichten. 
+
+B. 10. 
 März  
 
 M
@@ -173,6 +167,8 @@ M
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Rentkammer Resolution:
+
 The plot is therefore to be allocated, and since
 various residents in Berenbusch are said to have
 enlarged their gardens on their own authority, the
