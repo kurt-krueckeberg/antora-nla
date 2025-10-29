@@ -6,6 +6,9 @@
 * xref:doc-index.adoc[]
 * xref:doc1-overview.adoc[]
 ** xref:doc1.adoc[]
+*** xref:doc1.adoc#doc-index-1-1[]
+*** xref:doc1.adoc#forestry-assessment[]
+*** xref:doc1.adoc#admin-note[]
 * xref:doc2-overview.adoc[] 
 ** xref:doc2-full.adoc[]
 ** Breadown: Report, Reaction
