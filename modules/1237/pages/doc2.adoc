@@ -136,7 +136,7 @@ assignment.
 Bückeburg, February 27, 
 1799 
 H. Habicht.     Stölting
-____
+....
 |===
 
 [[official-reply]]
