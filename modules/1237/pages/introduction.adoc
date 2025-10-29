@@ -2,7 +2,8 @@
 
 This case files includes documents that passed through **two different “Kammern”** (chambers):
 
-1. **The Vormundschaftliche Kammer** handled the **legal/guardianship side** — ensuring that a petitioner (for example, a widow, heir, or someone with limited rights) could legally hold or alter land.
+1. **The Vormundschaftliche Kammer** handled the **legal/guardianship side** — ensuring that a petitioner (for example, a widow,
+heir, or someone with limited rights) could legally hold or alter land.
 2. **The Rentkammer** handled the **financial and property administration** — confirming surveys, collecting fees, and issuing or approving contracts.
 
 So what you have is **one case file**, but it **contains correspondence that circulated between two divisions** of
@@ -16,3 +17,7 @@ This was common in Schaumburg-Lippe:
 It’s one case file — but its documents show how the matter moved **from the Vormundschaftliche Kammer** (legal
 oversight) **to the Rentkammer** (fiscal approval) before being finalized.
 
+Because the Vormundschaftliche Kammer (Custodial Chamber) handled legal permission for changes to land or property.
+
+In this case, before land could be assigned to Krückeberg, the Amt had to report to the Vormundschaftlich chamber to make sure
+everything was legally allowed — that no one’s rights were being harmed and the request was fair and proper.
