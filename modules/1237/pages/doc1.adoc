@@ -219,7 +219,7 @@ forest, three saplings for each poplar that is felled.
 |===
 
 [[rentkammer-resolution]]
-== Rentkammer Resolution
+== Vormundliche Kammer Resolution
 
 The Cammer resolution is written vertical along the left edge below the Land Assessment.
 
@@ -238,7 +238,7 @@ B. 18 Febr 1799    MKaas
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Rentkammer Resolution. Delivered by hand to the Amt for [the purpose of]
+TODO: CHANGE THIS: Vormundliche Kammer not Rentkammer. Delivered by hand to the Amt for [the purpose of]
 reporting.
 
 18  Febr 1799    MKaas
