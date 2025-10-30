@@ -9,14 +9,14 @@ image::05-left-page.png[link=self]
 
 == Transliteration and Translation
 
-[cols="1a,1a", options="header"]
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 | Transliteration
 | Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 der Colon Krückeberg Nr. 10  
 zu Berenbusch bittet unter-  
 thänigst:  
@@ -30,10 +30,10 @@ laßen.
 zur  
 vormundschaftlichen  
 Rentkammer  
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 The Colon Krückeberg No. 10  
 in Berenbusch humbly requests:  
 that the corner adjoining  
@@ -46,7 +46,7 @@ for purchase.
 To the  
 Guardianship  
 Rent Chamber  
-____
+....
 |===
 
 [role="narrow"]
