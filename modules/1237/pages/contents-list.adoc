@@ -26,36 +26,36 @@ image::01.png[link=self]
 (Day)
 
 |1.
-|Vorstellung des Colons +
+|xref:doc1.adoc[Vorstellung des Colons +
 Krückeberg No: 10 zu Beren- +
-busch, d.d.
-|Petition of tenant farmer Krückeberg No. 10 in Berenbusch, dated.
+busch, d.d.]
+|xref:doc1.adoc[Petition of tenant farmer Krückeberg No. 10 in Berenbusch, dated.]
 |Bburg
 |1798
 |May
 |29
 
 |2.
-|Desfallsiger Bericht der +
-Beamten zu Bückeburg, d.d.
-|Report on the matter from the Bückeburg officials, dated.
+|xref:doc2.adoc[Desfallsiger Bericht der +
+Beamten zu Bückeburg, d.d.]
+|xref:doc3.adoc[Report on the matter from the Bückeburg officials, dated.]
 |
 |1799
 |Febr
 |27
 
 |3.
-|Concept Cammer Rescripts +
-an gedachte Beamte, d.d.
-|Draft of the Chamber’s official reply to those aforementioned officials, dated …
+|xref:doc3.adoc[Concept Cammer Rescripts +
+an gedachte Beamte, d.d.]
+|xref:doc3.adoc[Draft of the Chamber’s official reply to those aforementioned officials, dated]
 |
 |1800
 |Mart
 |11
 
 |4.
-|Bericht von denselben Beamten
-|Report from the same officials.
+|xref:doc4.adoc[Bericht von denselben Beamten]
+|xref:doc4.adoc[Report from the same officials.]
 |
 |1800
 |Oct
