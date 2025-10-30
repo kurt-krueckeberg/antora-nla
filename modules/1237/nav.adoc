@@ -14,7 +14,6 @@
 *** xref:doc2.adoc#official-reply[Custodial Kammer? Resolution]
 ** xref:image5-left-page.adoc[]
 ** xref:doc3.adoc[]
-//** xref:doc4-overview.adoc[]
 ** xref:doc4.adoc[]
 ** xref:reminder-note.adoc[]
 ** xref:doc4pt5-overview.adoc[]
