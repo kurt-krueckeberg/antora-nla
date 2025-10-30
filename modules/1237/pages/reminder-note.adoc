@@ -12,7 +12,7 @@ This is a common bureaucratic phrasing used to refer back to a previous document
 
 * **"des Kam. Rescripts dd 15 April 1799"**
 +
-_"of the Chamber rescript dated 15 April 1799"_
+_"of the Chamber official reply (Rescript) dated 15 April 1799"_
 +
 An explicit reference to a previously issued decision or directive. This is likely the document being “recalled” in the line above.
 
@@ -60,7 +60,7 @@ ____
 [verse]
 ____
 Re: No. 322  
-Chamber directive  
+Chamber Resolution  
 as in No. 317.  
 
 It should also be recalled  
