@@ -1,9 +1,44 @@
 = Document 4: Submission of Geometric Drawing of Proposed Parcels to be Allocated
 :page-role: wide
 
-Document No. 4 (numbered "4" in the upper-right corner) is a formal report from the Ämter Bückeburg and Arensburg
-to the Vormundschaftliche Kammer, proposing that Jobst Heinrich Krückeberg be granted two parcels of land. This
-document states:
+[.narrow]
+== Narrative Overview
+
+.Narrative Overview
+[%collapsible]
+====
+On **18 October 1800**, the Ämter of Bückeburg and Arensburg sent a
+formal report to the Vormundschaftliche Kammer, responding to the
+Cammer’s directive of **11 March 1799** (Document 3). The header notes
+the Cammer file number *Cam: Nr: 322* and classifies the matter under
+*Forstsachen* (“forestry matters”). The margin note *Betr.  Ausweisung*
+(“Subject: Allocation”) specifies the purpose.
+
+The Ämter enclosed the **geometric survey drawing** for the two plots
+granted to Jobst Heinrich Krückeberg, No. 10 in Berenbusch, for enlarging
+his garden and farmyard:
+
+* **19 rods 44 feet** (garden expansion) **1 rod 90 feet** (farmyard
+  expansion)
+
+In total, this corresponds to the areas established earlier by the sworn
+surveyor (see Document 4½).
+
+The Ämter proposed that Krückeberg be required to pay an **annual ground
+rent** (*Rottzins*), starting on **Michaelmas** (29 September) of the
+current year (**1800**), in the amount of **2 Reichsthaler and 1
+Pfennig**, excluding any exchange fees (*agio*).
+
+The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
+====
+
+[.narrow]
+== Transmission of Survey Drawing and Recommendation (October 18, 1800)
+
+Document No. 4 (numbered "4" in the upper-right corner) is a formal
+report from the Ämter Bückeburg and Arensburg to the Vormundschaftliche
+Kammer (Guardianship Chamber), proposing that Jobst Heinrich Krückeberg
+be granted two parcels of land. This document states:
 
 [quote]
 ____
@@ -11,10 +46,12 @@ ____
 (“As we submit the geometric drawing…”)
 ____
 
-This indicates that the drawing was sent together with that report — that is, it was enclosed with Document 4.
+This indicates that the drawing was sent together with that report — that
+is, it was enclosed with Document 4.
 
-Document No. 4½ (numbered "4½" in the upper-right corner) contains that very drawing, signed by Lieutenant Funck,
-a sworn surveyor. It is described in the Document Index as:
+Document No. 4½ (numbered "4½" in the upper-right corner) contains that
+very drawing, signed by Lieutenant Funck, a sworn surveyor. It is
+described in the Document Index as:
 
 [quote]
 ____
@@ -22,81 +59,70 @@ ____
 (“associated report by Lieutenant Funck”)
 ____
 
-This means it is supplementary (“dazu gehörig”) to the preceding document — i.e., an enclosure to Document 4.
-
-image::06-right-page.png[link=self]
+This means it is supplementary (“dazu gehörig”) to the preceding document
+— i.e., an enclosure to Document 4.
 
 == Transliteration and Translation
+
+image::06-right-page.png[link=self]
 
 [cols="1a,1a",options="header",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
-Cam: Nr: 322. Forstsachen  
+....
+Cam:Nr:322. Forstsachen
 
-An Vormundschaftliche Kammer Bericht der Aemter Bückeburg und Arensburg  
+An Vormundschaftliche Kammer Bericht              
+der Aemter Bückeburg und Arnesburg
 
-ad ter                       
-Rescr: d. 11ten Merz 1799         
+        ad ter                     Betr.     
+   Rescr:no 11 Merz          Ausweisung 
+              1799                                  
+                  
+                             p[räsentiert]. 24 8br 1800  
 
-Betr.  
-Ausweisung
 
-                            p. 24 8br 1800  
-
-Indem wir die geometrische Zeichnung  
-über die dem Jobst Henrich  
-Krückeberg No. 10 zu Berenbusch  
-zur Vergrößerung seines Gartens  
-und Hofraums ad 19 Ruthen 44 Fuß  
-dec: und 1 Ruthe 90 Fuß Flächengehalts  
-ausgewiesene Plätze unterthänigst  
-übersenden, so bringen wir in ohnziel-  
-gebigen Vorschlag, daß derselbe  
-davon und zwar auf Michaeli d.  
-I. zum erstenmal alljährl. 2 R. 1 ß  
-Rottzinß excl. agio zu entrichten  
-angewiesen werden möge.  
+Indem wir die geometrische Zeichnung über die dem Jobst Henrich
+Krückeberg No. 10 zu Berenbusch zur Vergrößerung seines Gartens und
+Hofraums ad 19 Ruthen 44 Fuß dec: und 1 Ruthe 90 Fuß Flächengehalts
+ausgewiesene Plätze unterthänigst übersenden, so bringen wir in ohnziel-
+gebigen Vorschlag, daß derselbe davon und zwar auf Michaeli d. 
+I. zum erstenmal alljährl. 2 R. 1 ß Rottzinß excl. agio zu entrichten
+angewiesen werden möge. 
 
 S. Bückeburg, 18ten Oct. 1800.  
 
-                         J. H. Hablick    Stöling
-____
+                   J. H. Hablick    Stöling
+....
 
 |
-[verse]
-____
+....
 Cammeral No. 322. Forestry Matters  
 
-To the Guardianship Chamber: Report from the Offices of Bückeburg and Arensburg
-regarding Directive dated 11 March 1799      
+To the Guardianship Chamber: Report from the Offices of Bückeburg and
+Arensburg regarding Directive dated 11 March 1799      
 
 Subject  
 Land Allocation
-                                     p. 24, October 1800  
+                                 presented 24, October 1800  
 
-We respectfully submit the geometric drawing
-of the parcels allocated to Jobst Henrich
-Krückeberg No. 10 of Berenbusch
-for the enlargement of his garden
-and farmyard, measuring 19 rods (Ruthen) 44 feet
-(decimal) and 1 rod (Ruthe) 90 feet in area,
-and we make the proposal, without further negotiation,
-that he be assigned this land with the obligation
-to pay an annual clearing rent of
-2 Reichstaler 1 Groschen, excluding agio,
+We respectfully submit the geometric drawing of the parcels allocated to
+Jobst Henrich Krückeberg No. 10 of Berenbusch for the enlargement of his
+garden and farmyard, measuring 19 rods (Ruthen) 44 feet (decimal) and 1
+rod (Ruthe) 90 feet in area, and we make the proposal, without further
+negotiation, that he be assigned this land with the obligation to pay an
+annual clearing rent of 2 Reichstaler 1 Groschen, excluding agio,
 beginning at Michaelmas of the present year.
 
 From Bückeburg, 18 October 1800.
 
                          J. H. Hablick    Stöling
-____
+....
 |===
 
-[role="narrow"]
+[.narrow]
 === Glossary of Terms
 
 Cam: Nr.:: Abbreviation of *Cammeral Nummer* (Chamber Number) — an internal file number for bureaucratic or
