@@ -66,11 +66,10 @@ This means it is supplementary (“dazu gehörig”) to the preceding document
 
 image::06-right-page.png[link=self]
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none.options="noheader"]
 |===
-|Transliteration|Translation
-
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Cam:Nr:322. Forstsachen
 
@@ -98,6 +97,7 @@ S. Bückeburg, 18ten Oct. 1800.
 ....
 
 |
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Cammeral No. 322. Forestry Matters  
 
