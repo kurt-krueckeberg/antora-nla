@@ -9,7 +9,7 @@ Document 5's header tells us it is the Vormundschaftliche Cammer's official repl
 contained the submission of the geometric drawings of the parcels to be prospectively allocated to Jobst
 Heinrich Krückeberg along with the Ämters recommendation that Jobst Heinrich "be assigned this land."
 
-When Document 4 was sent to the Cammer, they xref:doc4-header.adoc[registered it] as "Cam: Nr. 322 Forstsachen (
+When Document 4 was sent to the Cammer, they xref:doc4.adoc[registered it] as "Cam: Nr. 322 Forstsachen (
 Cammer No. 322 Forestry Matters)." When they sent Docment 5, their official reply, they linked it back to
 Document 4 by writing "ad mr. D: 322. S.S. (Regarding case D:322, as above)" in the upper left corner. 
 
