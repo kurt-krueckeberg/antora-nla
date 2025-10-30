@@ -47,7 +47,7 @@ Beamten zu Bückeburg, d.d.]
 |3.
 |xref:doc3.adoc[Concept Cammer Rescripts +
 an gedachte Beamte, d.d.]
-|xref:doc3.adoc[Draft of the Chamber’s official reply to those aforementioned officials, dated]
+|xref:doc3.adoc[Draft of the Chamber’s official resolution to those aforementioned officials, dated]
 |
 |1800
 |Mart
@@ -75,7 +75,7 @@ von Lieutenant Funck
 an die Beamten zu Bückeburg +
 desgl. an den Cammerwahr- +
 meister Barkmann, d.d.
-|Draft instructions from the fiscal office to the Bückeburg officials, and likewise to the fiscal treasurer Barkmann.
+|Draft of Chamber's official resolutions to the Bückeburg officials, and likewise to the fiscal treasurer Barkmann.
 |
 |
 |
@@ -86,7 +86,8 @@ meister Barkmann, d.d.
 für den Colon Krückeberg No. 10 +
 zu Berenbusch über einen Platz +
 zur Vergrößerung seines Gartens
-|Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the enlargement of his garden.
+|Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the
+enlargement of his garden.
 |
 |
 |Dec
