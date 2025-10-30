@@ -93,6 +93,7 @@ zur Vergrößerung seines Gartens
 |1
 |===
 
+[.narrow]
 == Glossary of Terms
 
 Designation Actorum:: Latin for *"record of proceedings"* or *"designation of the records"*. More loosely: *"list
