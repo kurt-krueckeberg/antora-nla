@@ -62,60 +62,39 @@ image::06-left-page.png[link=self]
 
 The complete text and its translation:
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-| Transliteration
-| Translation
-
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 ad nr: Cam: 53. S. S. [Signatum Supra]     
 Concept Cammer: Rescript
 an die Beamten zu Buckeburg
 
 V. G. G. [Verehrungswürdig Gehorsamst Gegeben]
 Wir haben auf Euren unterm
-27. Febr: d. J. an Unserstatt-
-ten Bericht resolvirt, daß dem
-Brücksitzer Krückeberg Nro. 10
-zu Berenbusch der nachgesuchte
-in der Dorfsstraße daselbst
-bey seinem Garten belegene Platz zu deßen
-Vergrößerung unter der
-Bedingung ausgewiesen werden
-soll, daß die darauf stehenden
-Weiden und Pappeln von Seiten
-Unsers Forstdepartements
+27. Febr: d. J. an Unserstattten Bericht resolvirt, daß dem Brücksitzer
+Krückeberg Nro. 10 zu Berenbusch der nachgesuchte in der Dorfsstraße
+daselbst bey seinem Garten belegene Platz zu deßen Vergrößerung unter der
+Bedingung ausgewiesen werden soll, daß die darauf stehenden Weiden und
+Pappeln von Seiten Unsers Forstdepartements
 
 Espp: Schwarze
 
-verkauft worden, und der
-Colon Krückeberg sich ver-
-bindlich zu machen hat, an
-einem andern Platz im Forste
-für jede zu fällende Pappel
-oder Weidenbaum dreÿ Setz-
-stangen wieder anzupflanzen,
-Ihr habt daher demselben dieses
-und daß er für die Quadrat:
-Rute des ihm‡ zu überlaßenden
+verkauft worden, und der Colon Krückeberg sich ver- bindlich zu machen
+hat, an einem andern Platz im Forste für jede zu fällende Pappel oder
+Weidenbaum dreÿ Setz- stangen wieder anzupflanzen, Ihr habt daher
+demselben dieses und daß er für die Quadrat: Rute des ihm‡ zu
+überlaßenden
 
 ‡solchergestalt
 
-Platzes 24. Mariengroschen
-zuzahlen habe, bekannt zu
-machen, und wenn er sich
-hierzru verstehen will, werdet
-Ihr sodann den Platz in Gegen-
-wart des Försters Talkmann
-mit Rücksicht auf den Weg zur Einfahrt für
-den Colonen Weiland Nr: 1, zu Berenbusch
-durch einen beeidigten Land-
-meßer vermessen lassen und
-von deßen Größe nach Ruten-
-zahl an Uns berichten. Wir
-sind Euch in Gnaden gewogen
+Platzes 24. Mariengroschen zuzahlen habe, bekannt zu machen, und wenn er
+sich hierzru verstehen will, werdet Ihr sodann den Platz in Gegenwart
+des Försters Talkmann mit Rücksicht auf den Weg zur Einfahrt für den
+Colonen Weiland Nr: 1, zu Berenbusch durch einen beeidigten Landmeßer
+vermessen lassen und von deßen Größe nach Rutenzahl an Uns berichten.
+Wir sind Euch in Gnaden gewogen
 Bückeburg d. 11. Merz 1799.
 Anstatt pp
 
@@ -128,44 +107,36 @@ Emmerwarth     v. Landesberg
 
 
 Wippermann
-____
+....
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Regarding No. 53 from the Chamber (supra scripta — as noted above)
 Draft of Chamber Directive
 to the officials in Bückeburg
 
-Most Honored Lords, In response to
-your report submitted to our attention
-on February 27 of this year, We have
-resolved that the smallholder Krückeberg No.
-10 in Berenbusch shall be allocated the
-requested plot of land located in [or adjacent
-to] the village street there, adjacent to his
-garden, for the purpose of expansion,
-under the condition that the willows
-and poplars standing on it, which are to be
-sold by Our Forestry Department
+Most Honored Lords, In response to your report submitted to our attention
+on February 27 of this year, We have resolved that the smallholder
+Krückeberg No. 10 in Berenbusch shall be allocated the requested plot of
+land located in [or adjacent to] the village street there, adjacent to
+his garden, for the purpose of expansion, under the condition that the
+willows and poplars standing on it, which are to be sold by Our Forestry
+Department
 
 [signed] Schwarze
 
-be removed, and that the colonist Krückeberg
-is obligated to replant three saplings for
-every felled poplar or willow tree at another
-site in the forest.  You are therefore to inform
-him of this, and that he is to pay 24 Mariengroschen
-per square rod for the plot to be transferred to him‡.
+be removed, and that the colonist Krückeberg is obligated to replant
+three saplings for every felled poplar or willow tree at another site in
+the forest. You are therefore to inform him of this, and that he is to
+pay 24 Mariengroschen per square rod for the plot to be transferred to
+him‡.
 
 ‡in this manner 
 
-If he agrees to this, then you shall, in
-the presence of the forester Talkmann,
-and taking into account the driveway/access
-for the colonist Weiland, No.
-1 in Berenbusch, have the plot surveyed
-by a sworn surveyor, and report its size
-in square rods to us. 
+If he agrees to this, then you shall, in the presence of the forester
+Talkmann, and taking into account the driveway/access for the colonist
+Weiland, No. 1 in Berenbusch, have the plot surveyed by a sworn
+surveyor, and report its size in square rods to us. 
 
 We remain favorably disposed toward you.
 Bückeburg, March 11, 1799.
@@ -178,13 +149,13 @@ Emmerwarth     v. Landesberg
 
 
 Wippermann
-____
+....
 |===
 
 *In place of "per procurationem"* means: signed on behalf of the authority by delegated officials, in lieu of the
 principal's own signature.
 
-[role="narrow"]
+[.narrow]
 === Glossary of Terms
 
 ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative
