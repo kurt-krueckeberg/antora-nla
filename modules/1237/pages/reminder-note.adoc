@@ -1,80 +1,78 @@
 = Reminder Note Regarding Chamber Directive on Berenbusch Woodland Boundaries (Oct 27, 1800)
 :page-role: wide
 
-This text is a brief note regarding the previous document that was sent and also referencing yet another document.
-This can be seen from the contextual clues:
+[.narrow]
+== Summary
+
+This text is a brief note regarding the previous document that was sent and
+also referencing yet another document.  This can be seen from the contextual
+clues:
 
 * **"Auch wäre an den Inhalt…"**
 +
 _"It should also be recalled…"_
 +
-This is a common bureaucratic phrasing used to refer back to a previous document or instruction.
+This is a common bureaucratic phrasing used to refer back to a previous
+document or instruction.
 
 * **"des Kam. Rescripts dd 15 April 1799"**
 +
 _"of the Chamber official reply (Rescript) dated 15 April 1799"_
 +
-An explicit reference to a previously issued decision or directive. This is likely the document being “recalled” in the line above.
+An explicit reference to a previously issued decision or directive. This is
+likely the document being “recalled” in the line above.
 
 * **"wie ad Nro. 317"**
 +
 _"as with No. 317"_
 +
-A cross-reference to another case or communication, suggesting that the current note should be understood in the same context or handled in the same manner as document No. 317.
+A cross-reference to another case or communication, suggesting that the
+current note should be understood in the same context or handled in the same
+manner as document No. 317.
 
 * **"ad Nro. 322"**
 +
 _"regarding No. 322"_
 +
-Indicates that this marginal note or reminder is filed under dossier No. 322 — the same number as the main report seen in the previous image.
+Indicates that this marginal note or reminder is filed under dossier No. 322
+— the same number as the main report seen in the previous image.
 
 image::07-right-page.png[link=self]
 
 == Transliteration and Translation
 
-[cols="1a,1a"]
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|Transliteration|Translation
-
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 ad Nro. 322  
 Res Cam.  
 wie ad Nro. 317.  
 
-Auch wäre an den Inhalt  
-des Cam. Rescripts dd  
-15. April 1799 in Betreff  
-der Hecken– und  
-Befriedigungs–Ausrückung  
-der Wald–Angrenzer  
-des Dorfs Berenbusch  
-zu erinnern. B. 27.  
-Octbr 1800  
+Auch wäre an den Inhalt des Cam. Rescripts dd 15. April 1799 in Betreff
+der Hecken– und Befriedigungs–Ausrückung der Wald–Angrenzer des Dorfs
+Berenbusch zu erinnern.
+B. 27. Octbr 1800 
 
-        M. K.
-____
+    M. K.
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Re: No. 322  
 Chamber Resolution  
 as in No. 317.  
 
-It should also be recalled  
-that the contents of the Chamber  
-Directive dated 15 April 1799  
-concerning the hedgerows and  
-demarcation of boundaries  
-for the forest-adjacent  
-lands of the village of Berenbusch  
-still apply.  
-Recorded 27 October 1800  
+It should also be recalled that the contents of the Chamber Directive
+dated 15 April 1799 concerning the hedgerows and demarcation of
+boundaries for the forest-adjacent lands of the village of Berenbusch
+still apply. 
+Recorded 27 October 1800 
 
-        M. K.
-____
+    M. K.
+....
 |===
 
 [.narrow]
