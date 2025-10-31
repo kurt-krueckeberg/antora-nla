@@ -10,90 +10,65 @@
 [[rescript1]]
 == Terms Confirmed
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 ad nr. D: 322. S. S.   
-Concept Cammer : Rescripts  
-an die Beamte zu Buckeburg  
-  
-V. G. G.  
-Wir laßen Euch auf Euren Bericht  
-vom 18. d. M. in Ansehung der dem  
-Colon Kruckeberg Nr: 10 zu Beren-  
-busch, behuf zur Vergrößerung  
-seines Hofraums und Gartens zu  
-respective 19 Nuten 44 Fus dei¬  
-u: 1 Rüte 90 Fus ausgegaßenen  
-Plätze, und des davon zu Michaelis  
-dieses Jahrs zum erstenmahl  
-und künftig jährlich mit zweÿy Mg.  
-1 d. zu entrichtenden Rottzinses  
-hiedurch ohnverhalten: daß Wir  
-die Ausweisung dieser Plätze unter  
+Concept Cammer: Rescripts an die Beamte zu Buckeburg  
+ 
+V. G. G. 
+Wir laßen Euch auf Euren Bericht vom 18. d. M. in Ansehung der dem Colon
+Kruckeberg Nr: 10 zu Berenbusch, behuf zur Vergrößerung seines
+Hofraums und Gartens zu respective 19 Nuten 44 Fus dei- 
+u: 1 Rüte 90 Fus ausgegaßenen Plätze, und des davon zu Michaelis dieses
+Jahrs zum erstenmahl und künftig jährlich mit zweÿy Mg. 1 d. zu
+entrichtenden Rottzinses hiedurch ohnverhalten: daß Wir die Ausweisung
+dieser Plätze unter 
 
-Exp: p[er]: Bolte.  
+Exp: p[er]: Bolte. 
 
-den Euch durch Unser Rescript vom  
-11. Merz 1799, eröfneten Bedin-  
-gungen, sowie auch jenen Ansatz  
-des Rottzinses genehmiget haben.  
-Ihr habt also dahin zu sehen damit  
-der Colon Kruckeberg die ihm  
-von Euch ohne Zweifel bekannt  
-gemachten Bedingungen genau  
-erfüllen möge, wie denn derselbe  
-nunmehr das bestimte Kaufgeld  
-per 4 Rute mit 24 mgl: folglich  
-überhaupt vierzehn Rthlr  
-8 mgl: 1 d. an Unsere Lammeroasse  
-zuzahlen hat. Wir verbleiben,  
-Buckeburg d 27. October 1800  
-Anstatt p[er]  
-                 
+den Euch durch Unser Rescript vom 11. Merz 1799, eröfneten Bedingungen,
+sowie auch jenen Ansatz des Rottzinses genehmiget haben. Ihr habt also
+dahin zu sehen damit der Colon Kruckeberg die ihm von Euch ohne Zweifel
+bekannt gemachten Bedingungen genau erfüllen möge, wie denn derselbe
+nunmehr das bestimte Kaufgeld per 4 Rute mit 24 mgl: folglich überhaupt
+vierzehn Rthlr 8 mgl: 1 d. an Unsere Lammeroasse zuzahlen hat. Wir
+verbleiben, Buckeburg d 27. October 1800 Anstatt p[er] 
+          
 
                         Mkaas
                     Wint
 [J??] Danckwerk 
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Regarding No. D: 322, as noted above
 Draft: Cammer directive
 To the officials in Bückeburg
 
 Very Gracious Lords,
 
-In reply to your report of the 18th of this
-month regarding the land assigned to
-Colon(ist) Krückeberg, No. 10 in Berenbusch,
-for the enlargement of his farmyard and
-garden — namely, a plot of 19 rods 44 feet
-and another of 1 rod 90 feet — and noting
-that, beginning at Michaelmas (29 September)
-of this year, and thereafter annually, a ground
-rent of 2 Mariengroschen and 1 Pfennig is to
-be paid:
+In reply to your report of the 18th of this month regarding the land
+assigned to Colon(ist) Krückeberg, No. 10 in Berenbusch, for the
+enlargement of his farmyard and garden — namely, a plot of 19 rods 44 feet
+and another of 1 rod 90 feet — and noting that, beginning at Michaelmas
+(29 September) of this year, and thereafter annually, a ground rent of 2
+Mariengroschen and 1 Pfennig is to be paid:
 
-We hereby, without reservation, confirm that
-We have approved the allocation of these plots
-under the conditions communicated to you in
-Our rescript of 11 March 1799, as well as the
-proposed amount of ground rent.
+We hereby, without reservation, confirm that We have approved the
+allocation of these plots under the conditions communicated to you in Our
+rescript of 11 March 1799, as well as the proposed amount of ground rent.
 
-You are to ensure that Colon Krückeberg
-fulfills the conditions already made known to
-him. He must now pay the agreed purchase
-price at a rate of 24 Mariengroschen per rod,
-amounting in total to 14 Reichsthaler,
-8 Mariengroschen, and 1 Pfennig, into Our
-Chamber treasury.
+You are to ensure that Colon Krückeberg fulfills the conditions already
+made known to him. He must now pay the agreed purchase price at a rate of
+24 Mariengroschen per rod, amounting in total to 14 Reichsthaler, 8
+Mariengroschen, and 1 Pfennig, into Our Chamber treasury.
 
 (Dispatched by: Bolte)
 
@@ -104,20 +79,19 @@ On behalf of the Count [in place of “per procurationem”]
 Mkaas
 Wint
 [H.?] Danckwerk
-
-____
+....
 |===
 
 [[rescript2]]
 == Payment Ordered 
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Concept Cammer: Anweisung  
 an den Cammerrentmeister
 Stackmann
@@ -147,11 +121,11 @@ Wint
 
 
 Wipperman  
-____
+....
 
 |
-[verse]
-____
+[literal.bordered,subs="verbatim,quotes"]
+....
 Draft: Chamber Directive
 to the Chamber Rentmaster Stackmann
 
@@ -183,7 +157,7 @@ Wint
 
 
 Wippermann
-____
+....
 |===
 
 [NOTE]
