@@ -94,7 +94,7 @@ J. H. Hablick  Stöling
 |===
 
 [.narrow]
-=== Glossary of Terms
+== Glossary of Terms
 
 Cam: Nr.:: Abbreviation of *Cammeral Nummer* (Chamber Number) — an internal file number for bureaucratic or
 administrative tracking, often related to fiscal or forestry matters.
