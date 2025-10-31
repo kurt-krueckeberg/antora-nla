@@ -32,15 +32,13 @@ office
 ** and report its size back to the Cammer.
 ====
 
-== Images and Their Content
-
-The text on the right page of image 5 continues on the left page shown in image6:
-
-image::05-right-page.png[link=self]
-
-image::06-left-page.png[link=self]
-
 == Transliteration and Translation
+
+[cols="1a,1a",frame=none,grid=none,options='noheader']
+|===
+|image::05-right-page.png[link=self]
+|image::06-left-page.png[link=self]
+|===
 
 The complete text and its translation:
 
