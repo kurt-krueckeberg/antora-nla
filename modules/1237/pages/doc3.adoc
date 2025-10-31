@@ -138,7 +138,7 @@ Wippermann
 principal's own signature.
 
 [.narrow]
-=== Glossary of Terms
+== Glossary of Terms
 
 ad nr:: Latin abbreviation for *ad numerum*, meaning "to the number." Used in file routing and administrative
 referencing. It indicates the document concerns or belongs to a case or entry listed under a specific file number.
