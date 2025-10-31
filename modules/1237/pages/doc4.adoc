@@ -31,7 +31,7 @@ The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
 
 == Transliteration and Translation
 
-image::06-right-page.png[link=self]
+image::06-right-page.png[width=65%,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none.options="noheader"]
 |===
