@@ -12,7 +12,7 @@ xref:contents-list.adoc[logged] as an independent piece of correspondence, even 
 xref:doc4.adoc[document 4].
 
 NOTE: The surveyor completed his drawing over a year before it was enclosed in xref:doc4.adoc[document 4]. His drawing is
-date March 30, 1799, but Document 4, which is supplemented, is dated over a year later, October 18, 1800.
+date March 30, 1799, but Document 4, which it supplemented, is dated over a year later, October 18, 1800.
 
 == Transliteration and Translation
 
