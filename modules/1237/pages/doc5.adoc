@@ -1,5 +1,52 @@
-= Document 5: Cammer Directive (October 27, 1800)
+= Document 5: Draft of Chamber's Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann
 :page-role: wide
+
+[.narrow]
+== Narrative Overview
+
+[%collapsible]
+
+[discrete]
+=== *18 October 1800 – Local Officials' Report*
+
+The Ämter Bückeburg and Arensburg submitted a report to the Vormundschaftliche Cammer regarding the proposed
+allocation of additional land to **Jobst Heinrich Krückeberg**, tenant farmer (Colon) No. 10 in Berenbusch.  The
+land—two adjoining plots totaling **21 rods, 34 feet**—was to enlarge his farmyard and garden.  
+
+They proposed an annual *Rottzins* (ground rent) of **2 Mariengroschen, 1 Pfennig**, beginning *Michaelmas* (29
+September) 1800, and a purchase price of **2 Reichsthaler, 4 Mariengroschen per rod**.
+
+[discrete]
+=== *27 October 1800 – Official Reply 1: Approval of Land Assignment*
+
+The Cammer replied in its first Official Reply (Rescript; *ad nr. D: 322. S.S.*), formally approving:
+* The allocation of the two plots under the same terms set out in the Cammer’s earlier order of **11 March 1799**.
+* The proposed *Rottzins* of 2 Mariengroschen, 1 Pfennig annually.
+* The fixed purchase price totaling **14 Reichsthaler, 8 Mariengroschen, 1 Pfennig**, payable to the Cammer’s
+revenue office.
+
+The local officials were instructed to ensure Krückeberg fulfilled all stated conditions.
+
+[discrete]
+=== *27 October 1800 – Official Reply 2: Directive to Collect Purchase Price*
+
+In a second official reply (Rescript) on the same day, addressed to **Cammer Rentmaster Stackmann**, the Cammer ordered:
+
+* Collection of the purchase price from Krückeberg for the newly assigned plots, calculated at 24 Mariengroschen
+per rod (total 14 Reichsthaler, 8 Mariengroschen, 1 Pfennig).
+* Entry of the amount under the proper heading in the Cammer accounts.
+* Use of the Official Reply (Rescript) itself as the official accounting justification.
+
+The marginal note *Exp: per Bolte* records that the order was dispatched by the official Bolte.
+
+[discrete]
+=== *Significance*
+
+These two Offical Replies (Rescripts) represent the **final administrative stage** of the case:
+. **Rescript 1** – the Cammer’s formal approval of the land assignment.
+. **Rescript 2** – the instruction to collect and record payment.
+
+With these actions, the land enlargement for Krückeberg moved from **proposal to final execution**.
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -8,7 +55,7 @@
 |===
 
 [[rescript1]]
-== Terms Confirmed
+== Draft of Chamber's Official Resolutions to the Bückeburg Officials: Terms Confirmed 
 
 *TODO:* Recheck transliteration and redo translation.
 
@@ -90,7 +137,7 @@ Wint
 |===
 
 [[rescript2]]
-== Payment Ordered 
+== Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
