@@ -9,10 +9,7 @@
 ====
 On **18 October 1800**, the Ämter of Bückeburg and Arensburg sent a
 formal report to the Vormundschaftliche Kammer, responding to the
-Cammer’s directive of **11 March 1799** (Document 3). The header notes
-the Cammer file number *Cam: Nr: 322* and classifies the matter under
-*Forstsachen* (“forestry matters”). The margin note *Betr.  Ausweisung*
-(“Subject: Allocation”) specifies the purpose.
+Cammer’s directive of **11 March 1799** (Document 3). 
 
 The Ämter enclosed the **geometric survey drawing** for the two plots
 granted to Jobst Heinrich Krückeberg, No. 10 in Berenbusch, for enlarging
@@ -24,43 +21,13 @@ his garden and farmyard:
 In total, this corresponds to the areas established earlier by the sworn
 surveyor (see Document 4½).
 
-The Ämter proposed that Krückeberg be required to pay an **annual ground
-rent** (*Rottzins*), starting on **Michaelmas** (29 September) of the
-current year (**1800**), in the amount of **2 Reichsthaler and 1
+The Ämter proposed that Krückeberg be required to pay an **annual fee for
+the granted land** (*Rottzins*), starting on **Michaelmas** (29 September)
+of the current year (**1800**), in the amount of **2 Reichsthaler and 1
 Pfennig**, excluding any exchange fees (*agio*).
 
 The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
 ====
-
-[.narrow]
-== Transmission of Survey Drawing and Recommendation (October 18, 1800)
-
-Document No. 4 (numbered "4" in the upper-right corner) is a formal
-report from the Ämter Bückeburg and Arensburg to the Vormundschaftliche
-Kammer (Guardianship Chamber), proposing that Jobst Heinrich Krückeberg
-be granted two parcels of land. This document states:
-
-[quote]
-____
-„Indem wir die geometrische Zeichnung … übersenden…“
-(“As we submit the geometric drawing…”)
-____
-
-This indicates that the drawing was sent together with that report — that
-is, it was enclosed with Document 4.
-
-Document No. 4½ (numbered "4½" in the upper-right corner) contains that
-very drawing, signed by Lieutenant Funck, a sworn surveyor. It is
-described in the Document Index as:
-
-[quote]
-____
-„dazu gehöriger Bericht von Lieutenant Funck“
-(“associated report by Lieutenant Funck”)
-____
-
-This means it is supplementary (“dazu gehörig”) to the preceding document
-— i.e., an enclosure to Document 4.
 
 == Transliteration and Translation
 
