@@ -2,14 +2,13 @@
 
 == 1237
 
+Finish making 1237 look like 139.
+
 TODO:
 Where does the "cover note" in `~/nla/m/1237/pages/image5-left-page.adoc` logically belong?
 Did it go with the Petition, with doc1, or with the Amt Report, doc2?
 
 Currently, it comes after doc2.adoc.
-
-TODO:
-For 1237, determine if Rentcammer or Vormundliche is best per occurance.
 
 == Organize 139's doc1 and doc2
 
@@ -26,9 +25,7 @@ create a separated page for all the module (See below) based on ~/nla/rentcammer
 
 == For All the Modules
 
-* Provide an overall explanation of Rentkammer headers based on ~/nla/rentcammer-headers-explained.md. 
-
-* Determine the difference between a note noted as "Concept/Cpt" and one note using "N.C."
+* Determine the difference between a note noted as "Concept/Cpt" and one note using "R.C."
 
 * Create a tentative page for ~/nla/land-use-explanation.md  
 
