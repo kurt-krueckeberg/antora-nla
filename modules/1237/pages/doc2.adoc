@@ -147,7 +147,7 @@ This reaction is written onto the left side of Document 2 to give feedback.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res[criptum] Cam[merale] 
+Res Cam [Rescriptum Cammerale] 
 
 Der Platz ist also auszuweisen, und da verschiedene Einwohner in
 Berenbusch ihre Gärten eigenmächtig vergrößert haben sollen; so haben
@@ -165,13 +165,12 @@ M
 ....
 Official Resolution of the Chamber.
 
-The plot is therefore to be allocated, and since
-various residents in Berenbusch are said to have
-enlarged their gardens on their own authority, the
-officials are to obtain further information about
-this and report accordingly.
+The plot is therefore to be allocated, and since various residents in
+Berenbusch are said to have enlarged their gardens on their own authority,
+the officials are to obtain further information about this and report
+accordingly.
 
-B[ückeburg], 10 March
+Bückeburg, 10 March
 M[aas]
 ....
 |===

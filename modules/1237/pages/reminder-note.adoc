@@ -39,7 +39,7 @@ Indicates that this marginal note or reminder is filed under dossier No. 322
 
 == Transliteration and Translation
 
-image::07-right-page.png[width=55%,link=self]
+image::07-right-page.png[width=65%,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
