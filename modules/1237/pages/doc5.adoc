@@ -5,7 +5,7 @@
 == Narrative Overview
 
 [%collapsible]
-
+====
 [discrete]
 === *18 October 1800 – Local Officials' Report*
 
@@ -47,15 +47,16 @@ These two Offical Replies (Rescripts) represent the **final administrative stage
 . **Rescript 2** – the instruction to collect and record payment.
 
 With these actions, the land enlargement for Krückeberg moved from **proposal to final execution**.
+====
+
+[[rescript1]]
+== Draft of Chamber's Official Resolutions to the Bückeburg Officials: Terms Confirmed 
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::09-right-page.png[link=self]
 |image::10-left-page.png[link=self]
 |===
-
-[[rescript1]]
-== Draft of Chamber's Official Resolutions to the Bückeburg Officials: Terms Confirmed 
 
 *TODO:* Recheck transliteration and redo translation.
 
