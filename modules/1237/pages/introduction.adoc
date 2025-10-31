@@ -1,20 +1,64 @@
 = Introduction
 
-This case files includes documents that passed through **two different “Kammern”** (chambers):
+This case files includes documents that passed through *two different “Kammern”* (chambers):
 
-1. **The Vormundschaftliche Kammer** was the *“Guardianship and Legal Affairs Chamber”* — ensuring that a
-petitioner (for example, a widow, heir, or someone with limited rights) could legally hold or alter land.
-2. **The Rentkammer** handled the **financial and property administration** — confirming surveys, collecting
-fees, and issuing or approving contracts.
+1. *The Vormundschaftliche Kammer* was the *“Guardianship and Legal
+   Affairs Chamber”* — ensuring that a petitioner (for example, a widow,
+heir, or someone with limited rights) could legally hold or alter land.
+2. *The Rentkammer* handled the *financial and property administration*
+   — confirming surveys, collecting fees, and issuing or approving
+   contracts.
 
-This case file **contains correspondence that circulated between two divisions** of
-the same higher authority (the *Fürstliche Kammer*).
+This case file *contains correspondence that circulated between two
+divisions* of the same higher authority (the *Fürstliche Kammer*).
 
 This was common in Schaumburg-Lippe:
 
-* Both Kammern were housed within the same overall government chancery in Bückeburg.
-* Clerks filed the papers together because they related to the same property and person (Colon Krückeberg No. 10).
+* Both Kammern were housed within the same overall government chancery in
+  Bückeburg.
+* Clerks filed the papers together because they related to the same property
+  and person (Colon Krückeberg No. 10).
 
-Because the Vormundschaftliche Kammer (Custodial Chamber) handled legal permission for changes to land or property
-before land could be assigned to Krückeberg, the Amt had to report to the Vormundschaftlich chamber to make sure
-everything was legally allowed — that no one’s rights were being harmed and the request was fair and proper.
+Because the Vormundschaftliche Kammer (Custodial Chamber) handled legal
+permission for changes to land or property before land could be assigned to
+Krückeberg, the Amt had to report to the Vormundschaftlich chamber to make
+sure everything was legally allowed — that no one’s rights were being harmed
+and the request was fair and proper.
+
+== Individuals
+
+[cols="1,2,4",options="header"]
+|===
+| Name
+| Role
+| Notes
+
+| **Waag**
+| Senior Cammer official
+| Signs the Official Reply (Rescript) and the Anweisung; appears in multiple Cammer documents as an authorized issuer.
+
+| **Wintz**
+| Senior Cammer official
+| Co-signer of both the Official Reply (Rescript) and the Anweisung.
+
+| **J?? Danckwerk** 
+| Senior Cammer official
+| Co-signer of both the Official Reply (Rescript) and the Anweisung.
+
+| **Stackmann**
+| Cammerrentmeister (Cammer Treasurer)
+| Named in the body of the Anweisung as the official instructed to collect and record the purchase payment.
+
+| **Bolte**
+| Clerk or expeditor
+| Mentioned in the margin as "Cap: p: Bolte" and "Exp: per Boltesp" in the respective sections. Likely involved in formalizing or transmitting the documents.
+
+| **Mkaas**
+| Forestry Amt official
+| Signs the Anweisung. Name appears with others responsible for official validation.
+
+| **Wipperman**
+| Finalizing scribe or administrative witness
+| Appears at the bottom of the Anweisung, likely responsible for copying or recording the document.
+|===
+
