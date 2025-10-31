@@ -145,7 +145,8 @@ Cam:: Abbreviation of *Cammer* (or *Kammer* in modern German), meaning the **cha
 *Cammeralbehörde* (chamber office or finance office) in charge of managing land, taxation, forestry, and estate
 matters. "Cam: 53." indicates this document relates to file number 53 in the chamber's records.
 
-S. S.:: * *Sub Signatur*, *Supplementum*, or *Special-Sachen* (special matters), or an internal filing code used to denote
+S. S.:: S.S. is a Latin abbreviation for supra scripta, which literally means “written above.” It doesn’t point to
+something higher on the page — it points to an earlier entry in the same series or case file.
 
 Concept Cammer: Rescript:: Indicates this is a **conceptual draft (Concept)** of a **rescript** (a formal written
 reply or decree) issued by the **Cammer** (chamber office). Rescripts were typically responses to petitions or
