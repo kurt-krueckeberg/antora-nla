@@ -66,8 +66,10 @@ image::01.png[link=self]
 |
 
 |5.
-|Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann, d.d.
-|Draft of Chamber's official resolutions to the Bückeburg officials, and likewise to the fiscal treasurer Stackmann.
+|xref:doc5.adoc[Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann
+d.d.]
+|xref:doc5.adoc[Draft of Chamber's official resolutions to the Bückeburg officials, and likewise to the fiscal
+treasurer Stackmann, dated]
 |
 |
 |
