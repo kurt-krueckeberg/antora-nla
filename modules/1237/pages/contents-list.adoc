@@ -58,9 +58,8 @@ image::01.png[link=self]
 |18
 
 |4 ½.
-|dazu gehöriger Bericht +
-von Lieutenant Funck
-|Related report from Lieutenant Funck.
+|xref:doc4pt5.adoc[dazu gehöriger Bericht von Lieutenant Funck]
+|xref:doc4pt5.adoc[Related report from Lieutenant Funck]
 |
 |
 |
