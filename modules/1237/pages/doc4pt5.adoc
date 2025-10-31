@@ -1,4 +1,4 @@
-= Geometric Drawing of Two Parcels
+= Document 4½: Geometric Drawing of Two Parcels
 :page-role: wide
 
 image::08-right-page.png[link=self]
