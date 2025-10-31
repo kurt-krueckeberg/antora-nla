@@ -76,11 +76,10 @@ Cam:Nr:322. Forstsachen
 An Vormundschaftliche Kammer Bericht              
 der Aemter Bückeburg und Arnesburg
 
-        ad ter                     Betr.     
-   Rescr:no 11 Merz          Ausweisung 
-              1799                                  
-                  
-                             p[räsentiert]. 24 8br 1800  
+ad Rescr:no 11 Merz 1799.                                  
+
+Betr. Ausweisung                  
+p[räsentiert]. 24 8br 1800  
 
 
 Indem wir die geometrische Zeichnung über die dem Jobst Henrich
@@ -88,7 +87,7 @@ Krückeberg No. 10 zu Berenbusch zur Vergrößerung seines Gartens und
 Hofraums ad 19 Ruthen 44 Fuß dec: und 1 Ruthe 90 Fuß Flächengehalts
 ausgewiesene Plätze unterthänigst übersenden, so bringen wir in ohnziel-
 gebigen Vorschlag, daß derselbe davon und zwar auf Michaeli d. 
-I. zum erstenmal alljährl. 2 R. 1 ß Rottzinß excl. agio zu entrichten
+I. zum erstenmal alljährlich 2 R. 1 ß Rottzinß excl. agio zu entrichten
 angewiesen werden möge. 
 
 S. Bückeburg, 18ten Oct. 1800.  
@@ -99,26 +98,31 @@ S. Bückeburg, 18ten Oct. 1800.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Cammeral No. 322. Forestry Matters  
+Cam: No. 322. Forestry matters
 
-To the Guardianship Chamber: Report from the Offices of Bückeburg and
-Arensburg regarding Directive dated 11 March 1799      
+To
+the Guardianship Chamber
+from the Offices of Bückeburg and Arensburg
 
-Subject  
-Land Allocation
-                                 presented 24, October 1800  
+Regarding the decree of March 11, 1799
+Subject: Land allotment
 
-We respectfully submit the geometric drawing of the parcels allocated to
-Jobst Henrich Krückeberg No. 10 of Berenbusch for the enlargement of his
-garden and farmyard, measuring 19 rods (Ruthen) 44 feet (decimal) and 1
-rod (Ruthe) 90 feet in area, and we make the proposal, without further
-negotiation, that he be assigned this land with the obligation to pay an
-annual clearing rent of 2 Reichstaler 1 Groschen, excluding agio,
-beginning at Michaelmas of the present year.
+Submitted October 24, 1800
 
-From Bückeburg, 18 October 1800.
+In humbly transmitting the geometrical drawing
+concerning the parcels of land assigned to
+Jobst Henrich Krückeberg, No. 10 in Berenbusch,
+for the enlargement of his garden and
+farmyard—amounting to 19 rods 44 feet decimal
+and 1 rod 90 feet of surface area—
+we respectfully submit the obedient proposal
+that he be instructed to pay, beginning at Michaelmas of this year,
+an annual fee for the granted land of 2 Reichsthaler 1 Schilling,
+exclusive of exchange charges (*agio*).
 
-                         J. H. Hablick    Stöling
+Bückeburg, 18 October 1800.
+
+J. H. Hablick  Stöling
 ....
 |===
 
