@@ -10,6 +10,8 @@
 [[rescript1]]
 == Terms Confirmed
 
+*TODO:* Recheck transliteration and redo translation.
+
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
 |Transliteration|Translation
@@ -18,14 +20,14 @@
 [literal.bordered,subs="verbatim,quotes"]
 ....
 ad nr. D: 322. S. S.   
-Concept Cammer: Rescripts an die Beamte zu Buckeburg  
+Concept Cammer: Rescripts an die Beamte zu B[ckeburg  
  
 V. G. G. 
 
 Wir laßen Euch auf Euren Bericht vom 18. d. M. in Ansehung der dem Colon
-Kruckeberg Nr: 10 zu Berenbusch, behuf zur Vergrößerung seines
-Hofraums und Gartens zu respective 19 Nuten 44 Fus dei- 
-u: 1 Rüte 90 Fus ausgegaßenen Plätze, und des davon zu Michaelis dieses
+Krückeberg Nr: 10 zu Berenbusch, behuf zur Vergrößerung seines
+Hofraums und Gartens zu respective 19 Ruten 44 Fus decimal 
+und 1 Rute 90 Fus ausgegaßenen Plätze, und des davon zu Michaelis dieses
 Jahrs zum erstenmahl und künftig jährlich mit zweÿy Mg. 1 d. zu
 entrichtenden Rottzinses hiedurch ohnverhalten: daß Wir die Ausweisung
 dieser Plätze unter 
@@ -34,12 +36,12 @@ Exp: p[er]: Bolte.
 
 den Euch durch Unser Rescript vom 11. Merz 1799, eröfneten Bedingungen,
 sowie auch jenen Ansatz des Rottzinses genehmiget haben. Ihr habt also
-dahin zu sehen damit der Colon Kruckeberg die ihm von Euch ohne Zweifel
+dahin zu sehen damit der Colon Krückeberg die ihm von Euch ohne Zweifel
 bekannt gemachten Bedingungen genau erfüllen möge, wie denn derselbe
 nunmehr das bestimte Kaufgeld per 4 Rute mit 24 mgl: folglich überhaupt
-vierzehn Rthlr 8 mgl: 1 d. an Unsere Lammeroasse zuzahlen hat.
+vierzehn Rthlr 8 mgl: 1 d. an Unsere Cammercasse zuzahlen hat.
 
-Wir verbleiben, Buckeburg d 27. October 1800 Anstatt p[er] 
+Wir verbleiben p, Buckeburg d 27. October 1800 Anstatt p[er] 
           
 Mkaas
 Wint
