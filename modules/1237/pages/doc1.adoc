@@ -255,9 +255,9 @@ when the document was submitted to the Vormundschaftliche Kammer, the
 princely fiscal authority responsible for managing domains, finances, and
 inheritance matters in Schaumburg-Lippe.
 
-== Transliteration and Translation
+=== Transliteration and Translation
 
-image::05-left-page.png[width=65%,link=self]
+image::05-left-page.png[link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
