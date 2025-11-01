@@ -20,5 +20,4 @@
 ** xref:doc5.adoc[]
 *** xref:doc5.adoc#rescript1[Terms Confirmed]
 *** xref:doc5.adoc#rescript2[Payment Ordered]
-** xref:doc6-overview.adoc[]
-*** xref:doc6.adoc[]
+** xref:doc6.adoc[]
