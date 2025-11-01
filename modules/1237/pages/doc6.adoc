@@ -142,20 +142,6 @@ Wippermann
 [role="narrow"]
 == Glossary of Terms
 
-*Colon*:: A farmer or settler holding land, often hereditary, under a manorial or feudal system.
-
-*Nr: 10*:: House or plot number 10 — part of the village's local addressing system.
-
-*Amts Bückeburg*:: The jurisdictional district or administrative office located in Bückeburg.
-
-*Gräfl.*:: Abbreviation of _Gräflich_, meaning “Count’s” or “comital,” referring to a count’s authority or domain.
-
-*vormundschaftl.*:: Abbreviation of _vormundschaftlich_, meaning “guardianship-related”; referring here to the administration of estates under guardianship.
-
-*Rentcammer*:: A financial or administrative office responsible for managing revenue and property, akin to a treasury.
-
-*Cammercasse*:: The treasury or financial chest of the comital domain.
-
 *Kaufbrief*:: A purchase document or contract, confirming the official transfer of property.
 
 *käuflich überlaßen*:: To sell and transfer ownership officially.
@@ -164,35 +150,6 @@ Wippermann
 
 *Mariengroschen*:: A historical coin used in parts of Germany, often used in accounting in the 18th and early 19th centuries.
 
-*beeidigter Landmeßer*:: A sworn land surveyor.
-
 *Ruthen*, *Fus*, *dec:*, *gros*:: Archaic units of measurement: rods, feet, and likely abbreviations of _decimal_ and _gross_ respectively.
-
-*Rottzins*:: A type of feudal ground rent or lease payment tied to use of uncultivated or newly cleared land.
-
-*Kontribution*:: A form of tax or contribution owed by subjects, often used in military or general taxation contexts.
-
-*gewöhnliche und außerordentliche Abgaben*:: Regular and extraordinary levies or dues.
-
-*geschützet*:: Archaic spelling of _geschützt_, meaning protected.
-
-*zur Urkund*:: As legal confirmation or attestation.
-
-*statt Kaufebriefs*:: In place of a formal purchase deed/document.
-
-*beÿgedruckten*:: With the printed (or affixed) [seal] — “beÿ” is an archaic spelling of “bei” (at/with).
-
-*Cam̅ersiegel*:: The official seal of the comital treasury or chamber. The overline on the “m” indicates a contraction: “Cam̅er” = “Cammer”.
-
-*ausgefertiget*:: Archaic form of _ausgefertigt_, meaning issued or executed (in legal/administrative context).
-
-*Director und Räthe*:: Director and councillors — the officials empowered to authorize the document.
-
-*Expedirt p. Beÿer*:: Dispatched/processed by Beÿer; a note indicating the scribe or official responsible for drafting or processing the document.
-
-*Erben*:: Heirs.
-
-*Urkund*:: Deed or documentation.
-
 
 
