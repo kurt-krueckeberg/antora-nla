@@ -2,11 +2,9 @@
 
 == 1237
 
-Finish making 1237 look like 139.
 
-TODO:
-Where does the "Reminder Note in `~/nla/m/1237/pages/reminder-note.adoc` logically belong?
-Where does doc 4 1/4 go. It is in the TOC?
+The narrative summaries need to be checked. The html time line should have more detail like the
+timeline in doc1.adoc.
 
 == Organize 139's doc1 and doc2
 
