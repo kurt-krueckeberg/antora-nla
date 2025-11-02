@@ -46,7 +46,7 @@ Recorded 27 October 1800
 |===
 
 [.narrow]
-=== Glossary of Terms
+== Glossary of Terms
 
 Befriedigung:: In historical land administration, this refers to the "enclosure" or "fencing-in" of land—often to
 delineate property boundaries or to protect cultivated areas. It can also imply the legal securing or defining of
