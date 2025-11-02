@@ -17,9 +17,10 @@ Jobst Heinrich's request and to allocated land for him to purchase.
 [discrete]
 === *Offical Directive (11 March 1799) from Cammer to Ämter*
 
-On March 11. 1799, the official reply of Vormundschaftliche Cammer to the Ämter (offices) of Bückeburg and Arensburg was
-written. The header references (*"S.S"* in upper left, meaning *referenced above*) the document denoted by *"Cam:53"*,
-which is Document 2.
+On March 11. 1799, the official reply of Vormundschaftliche Cammer to the
+Ämter (offices) of Bückeburg and Arensburg was written. The header
+references (*"S.S"* in upper left, meaning *referenced above*) the document
+denoted by *"Cam:53"*, which is Document 2.
 
 The Cammer states:
 
@@ -52,28 +53,26 @@ Concept Cammer: Rescript
 an die Beamten zu Buckeburg
 
 V. G. G. [Verehrungswürdig Gehorsamst Gegeben]
-Wir haben auf Euren unterm
-27. Febr: d. J. an Unserstattten Bericht resolvirt, daß dem Brücksitzer
-Krückeberg Nro. 10 zu Berenbusch der nachgesuchte in der Dorfsstraße
-daselbst bey seinem Garten belegene Platz zu deßen Vergrößerung unter der
-Bedingung ausgewiesen werden soll, daß die darauf stehenden Weiden und
-Pappeln von Seiten Unsers Forstdepartements
+Wir haben auf Euren unterm 27. Febr: d. J. an Unserstattten Bericht
+resolvirt, daß dem Brücksitzer Krückeberg Nro. 10 zu Berenbusch der
+nachgesuchte in der Dorfsstraße daselbst bey seinem Garten belegene Platz
+zu deßen Vergrößerung unter der Bedingung ausgewiesen werden soll, daß die
+darauf stehenden Weiden und Pappeln von Seiten Unsers Forstdepartements
 
 Espp: Schwarze
 
-verkauft worden, und der Colon Krückeberg sich ver- bindlich zu machen
-hat, an einem andern Platz im Forste für jede zu fällende Pappel oder
-Weidenbaum dreÿ Setz- stangen wieder anzupflanzen, Ihr habt daher
-demselben dieses und daß er für die Quadrat: Rute des ihm‡ zu
-überlaßenden
+verkauft worden, und der Colon Krückeberg sich verbindlich zu machen hat,
+an einem andern Platz im Forste für jede zu fällende Pappel oder
+Weidenbaum dreÿ Setzstangen wieder anzupflanzen, Ihr habt daher demselben
+dieses und daß er für die Quadrat: Rute des ihm‡ zu überlaßenden
 
 ‡solchergestalt
 
 Platzes 24. Mariengroschen zuzahlen habe, bekannt zu machen, und wenn er
-sich hierzru verstehen will, werdet Ihr sodann den Platz in Gegenwart
-des Försters Talkmann mit Rücksicht auf den Weg zur Einfahrt für den
-Colonen Weiland Nr: 1, zu Berenbusch durch einen beeidigten Landmeßer
-vermessen lassen und von deßen Größe nach Rutenzahl an Uns berichten.
+sich hierzru verstehen will, werdet Ihr sodann den Platz in Gegenwart des
+Försters Talkmann mit Rücksicht auf den Weg zur Einfahrt für den Colonen
+Weiland Nr: 1, zu Berenbusch durch einen beeidigten Landmeßer vermessen
+lassen und von deßen Größe nach Rutenzahl an Uns berichten.
 Wir sind Euch in Gnaden gewogen
 Bückeburg d. 11. Merz 1799.
 Anstatt pp
