@@ -150,6 +150,7 @@ Wippermann
 
 *Mariengroschen*:: A historical coin used in parts of Germany, often used in accounting in the 18th and early 19th centuries.
 
-*Ruthen*, *Fus*, *dec:*, *gros*:: Archaic units of measurement: rods, feet, and likely abbreviations of _decimal_ and _gross_ respectively.
+*Ruthen*, *Fus*, *dec:*, *gros*:: Archaic units of measurement: rods, feet, and likely abbreviations of _decimal_
+and _gross_ respectively.
 
 
