@@ -2,9 +2,19 @@
 
 == 1237
 
+I have
+ 
+. html timeline page
+. an introduction.adoc page that discusses the state-level departments of Rentkammer and Vormundschaftliche Kammer, 
+. a landing page at index.adoc that gives an overall case overview
+. an extensive timeline in doc1.adoc that is pretty extensive.
 
-The narrative summaries need to be checked. The html time line should have more detail like the
+I don't have the big picture in one spot. Unity and consistence. Coherence in what is written.
+
+Furthermore, the narrative summaries need to be checked. The html time line should have more detail like the
 timeline in doc1.adoc.
+
+upshot: What does the case file say? What background is need to understand it?
 
 == Organize 139's doc1 and doc2
 
