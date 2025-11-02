@@ -8,13 +8,12 @@ Arcinsys catalog system of the Lower Saxony Archives. It resides in the Bückebu
 
 In May of 1798, Jobst Heinrich Krückeberg, no. 10 Berenbusch, a smallholder farmer (*Colon*) in the village of
 Berenbusch, petitioned the local authorities for permission to purchase small plots of land next to his home to
-enlarge both his garden and his farmyard.
+enlarge both his garden and his farmyard. It was approved two years later.
 
-Over the next two years, his request moved slowly through the layers of Schaumburg-Lippe’s local government. First,
-the *Amt* in Bückeburg recorded his petition and passed it to the *Vormundschaftliche Cammer* (Guardianship
-Chamber), the central decision-making office, also in Bückeburg. The Cammer sought the opinion of the Forestry
+First, the *Amt* in Bückeburg recorded his petition and passed it to the *Vormundschaftliche Cammer* (Guardianship
+Chamber), the central decision-making office, also in Bückeburg. The Amt sought the opinion of the Forestry
 Office, which confirmed that the land could be released if Krückeberg agreed to plant replacement trees for any
-felled poplars or willows.
+felled poplars or willows. The petition and the Forestry Office report were sent on to the Guardianship Chamber.
 
 By early 1799, the Cammer had decided in principle to grant the request, but only on certain conditions — payment
 of a set purchase price per square rod, replacement-planting obligations, and an annual land tax (*Rottzins*). The
@@ -26,7 +25,3 @@ conditions reaffirmed, and orders issued to the Cammer’s treasurer to collect 
 
 Finally, on *December 1, 1800*, the Cammer issued the formal *Kaufbrief* (deed of sale), transferring ownership of
 the plots to Krückeberg and his heirs, guaranteeing their protection against any future claims.
-
-What began as a simple request in 1798 thus became a two-year administrative process involving six official
-documents, multiple offices, and careful adherence to the bureaucratic formalities of the time.
-
