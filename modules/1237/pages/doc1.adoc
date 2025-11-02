@@ -302,11 +302,16 @@ Rent Chamber
 [role="narrow"]
 === Glossary of Terms
 
-unterthänigst:: Historically spelled with an "h", now written **untertänigst** in modern German. A highly formal, deferential expression meaning *most humbly* or *most submissively*. Common in petitions and official requests to authorities in the 18th–19th centuries.
+unterthänigst:: Historically spelled with an "h", now written **untertänigst** in modern German. A highly formal,
+deferential expression meaning *most humbly* or *most submissively*. Common in petitions and official requests to
+authorities in the 18th–19th centuries.
 
-überlassen:: To cede, assign, or transfer possession of something. In legal usage: to grant or make available, often used for land, rights, or duties.
+überlassen:: To cede, assign, or transfer possession of something. In legal usage: to grant or make available,
+often used for land, rights, or duties.
 
-vormundschaftlich:: Relating to **guardianship** (*Vormundschaft*), especially when dealing with matters of inheritance or state administration of minor wards or protected persons.
+vormundschaftlich:: Relating to **guardianship** (*Vormundschaft*), especially when dealing with matters of
+inheritance or state administration of minor wards or protected persons.
 
-Rentkammer:: Literally "Revenue Chamber" or "Finance Chamber" — the administrative office responsible for handling state lands, rents, and finances. In this context, likely a fiscal authority with oversight over land transfers.
+Rentkammer:: Literally "Revenue Chamber" or "Finance Chamber" — the administrative office responsible for handling
+state lands, rents, and finances. In this context, likely a fiscal authority with oversight over land transfers.
 
