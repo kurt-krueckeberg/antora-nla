@@ -51,7 +51,7 @@
 
   <div class="timeline-entry">
     <h4>30 May 1798</h4>
-    <p>Petition presented to the Chamber (“praes.” noted). Chamber processing begins.</p>
+    <p>Petition presented to the Chamber. Chamber processing begins.</p>
   </div>
 
   <div class="timeline-entry">
@@ -91,14 +91,13 @@
 
   <div class="timeline-entry">
     <h4>11 March 1799</h4>
-    <p>Chamber directive to the Ämter (Document 3): price set at 24 Mariengroschen per square rod; require replanting; order sworn survey (protect Weiland’s access).</p>
+    <p>Chamber directive to the Ämter (Document 3): price set at 24 Mariengroschen per square Rute; require replanting; order sworn survey (protect Weiland’s access).</p>
   </div>
 
   <div class="timeline-entry">
     <h4>30 March 1799</h4>
     <p>Sworn survey and plan by Lt. Funck with measurements (Document 4½).</p>
   </div>
-
   <div class="timeline-entry">
     <h4>18 October 1800</h4>
     <p>Joint report of the Ämter (Document 4): transmit plan; propose annual ground rent of 2 Mariengroschen 1 Pfennig from Michaelmas.</p>
@@ -106,6 +105,9 @@
 
   <div class="timeline-entry">
     <h4>27 October 1800</h4>
+    <p><em>Internal Chamber reminder note:</em> 
+    “ad Nro. 322 Res Cam. wie ad Nro. 317 …”
+    recalls the rescript of 15 April 1799 on hedge and boundary clearings near Berenbusch.</p>
     <p>Two Chamber rescripts (Document 5):</p>
     <ul>
       <li>Approve the land assignment and terms.</li>
@@ -115,7 +117,7 @@
 
   <div class="timeline-entry">
     <h4>December 1, 1800</h4>
-    <p>Chamber purchase deed issued in lieu of a sealed deed, transferring title to Krückeberg and his heirs (Document 6).</p>
+    <p>Chamber purchase deed issued on behalf of the Chamber, in place of sealed deed, transferring title to Krückeberg and his heirs (Document 6).</p>
   </div>
 </div>
 ++++
