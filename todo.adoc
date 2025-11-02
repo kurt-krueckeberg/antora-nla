@@ -5,10 +5,8 @@
 Finish making 1237 look like 139.
 
 TODO:
-Where does the "cover note" in `~/nla/m/1237/pages/image5-left-page.adoc` logically belong?
-Did it go with the Petition, with doc1, or with the Amt Report, doc2?
-
-Currently, it comes after doc2.adoc.
+Where does the "Reminder Note in `~/nla/m/1237/pages/reminder-note.adoc` logically belong?
+Where does doc 4 1/4 go. It is in the TOC?
 
 == Organize 139's doc1 and doc2
 
