@@ -276,9 +276,9 @@ Rent Chamber
 [[fiscal-chamber-resolution]]
 == Fiscal?? Chamber Resolution
 
-The the xref:#forestry-assessment[Forestry Assessment] represents the
-Cammer's official response, and this is noted by the vertical text along
-the left edge just below the Land Assessment.
+The xref:#forestry-assessment[Forestry Assessment] represents the
+Cammer's official response, and this is noted in the vertical text
+that appears along the left edge just below the Land Assessment.
 
 image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
 
@@ -301,7 +301,6 @@ reporting.
 18  Febr 1799    MKaas
 ....
 |===
-
 
 [role="narrow"]
 === Glossary of Terms
