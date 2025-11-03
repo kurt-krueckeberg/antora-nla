@@ -1,6 +1,6 @@
 = New Propective Narrative Timeline
 
-== *1. The Petition is Initiated at the Amt (≤ 29 May 1798)*
+== 1. The Petition is Initiated at the Amt (≤ 29 May 1798)
 
 On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist holding farmstead No. 10 in the village of
 _Berenbusch_, petitioned the _Amt in Bückeburg_ to purchase adjacent plots to enlarge hist garden and
@@ -15,7 +15,7 @@ ____
 
 This identifies Lindemann as the scribe of the petition, acting on Krückeberg’s behalf.
 
-== *2. The Petition is Forwarded to the Vormundschaftliche Cammer (30 May 1798)*
+== 2. The Petition is Forwarded to the Vormundschaftliche Cammer (30 May 1798)
 
 The cover note for the petition tells us it was forwarded to the Vormundschaftliche Kammer.
 
@@ -50,7 +50,7 @@ ____
 Cam: Nr: 662
 ____ 
 
-== *3. Forestry Assessment by MKaas (14 June 1798)*
+== 3. Forestry Assessment by MKaas (14 June 1798)
 
 Upon reviewing the petition, the Cammer apparently initiated a review process by consulting the _Forstamt_, the forestry
 authority, likely to ensure that the land Krückeberg requested would not unduly affect timber resources or
@@ -73,7 +73,7 @@ This shows the Forstamt found no major objections to the request.
 
 His signature, “MKaas,” appears at the end, likely followed by “Forstamt,” confirming his institutional affiliation.
 
-== *4. Return of the Document to the Amt (18 February 1799)*
+== 4. Return of the Document to the Amt (18 February 1799)
 
 Several months later, on 18 February 1799, MKaas added a short administrative note written vertically in the lower left corner:
 
