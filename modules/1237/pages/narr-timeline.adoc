@@ -1,5 +1,34 @@
 = New Propective Narrative Timeline
 
+== Chatgpt-generated, terse timeline
+
+[width="100%",cols="4%,17%,79%",options="header",]
+|===
+|Doc No. |Date |Key content / action
+
+|*3* |11 Mar 1799 |_Concept Cammer Rescript_ to the Amt Bückeburg,
+ordering implementation of the Chamber’s decision following the 27 Feb
+1799 Amt report. Signed "`Anstatt pp Hering Riehe MKaas Emmerwarth v.
+Landesberg.`"
+
+|*4* |18 Oct 1800 |_Report of the same officials_, apparently confirming
+execution or boundaries of the assigned plot.
+
+|*4½* |(undated) |_Lieutenant Funck’s report_ on measurement or
+valuation of the land. Usually attached to #4.
+
+|*5* |27 Oct 1800 |_Concept Cammer Rescript_ to the Amt Bückeburg and to
+Chamber treasurer Stackmann, authorizing preparation of the purchase
+deed; closing line "`Grafl: p MKaas Wint J. Danckwerth.`"
+
+|*6* |1 Dec 1800 |_Concept Kaufbrief_ (draft purchase letter) from the
+Rentkammer to Colon Krückeberg, finalizing the transfer of the small
+plot.
+
+|*7* |(if present—often cover note or filing slip) |Final filing or
+acknowledgment of execution.
+|===
+
 == 1. The Petition is Initiated at the Amt (29 May 1798)
 
 On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist holding farmstead No. 10 in the village of
