@@ -277,7 +277,7 @@ Rent Chamber
 == Fiscal?? Chamber Resolution
 
 The xref:#forestry-assessment[Forestry Assessment] represents the
-Cammer's official response. This is noted in the vertical text
+Cammer's official response. This is explained in the vertical text
 that appears along the left edge just below the Land Assessment.
 
 image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
