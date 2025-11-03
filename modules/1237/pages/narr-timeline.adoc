@@ -50,14 +50,13 @@ ____
 Cam: Nr: 662
 ____ 
 
-== 3. Forestry Assessment by MKaas (14 June 1798)
+=== 3. Forestry Assessment by MKaas (14 June 1798)
 
-Upon reviewing the petition, the Cammer apparently initiated a review process by consulting the _Forstamt_, the forestry
-authority, likely to ensure that the land Krückeberg requested would not unduly affect timber resources or
-regulated forest land.
+Upon reviewing the petition, the Cammer requested a _Forstamt_, the forestry authority, report likely to ensure
+that the land Krückeberg requested would not unduly affect timber resources or regulated forest land.
 
-An forestry official named _MKaas_ was tasked with preparing this report. On 14 June 1798, he authored an assessment, which
-appears directly below the left-side header of Document 1:
+A Foresty official named _MKaas_ wrote the report on 14 June 1798, which appears
+directly below the left-side header of Document 1:
 
 [quote]
 ____
@@ -71,8 +70,6 @@ MKaas concluded that:
 
 This shows the Forstamt found no major objections to the request.
 
-His signature, “MKaas,” appears at the end, likely followed by “Forstamt,” confirming his institutional affiliation.
-
 == 4. Return of the Document to the Amt (18 February 1799)
 
 Several months later, on 18 February 1799, MKaas added a short administrative note written vertically in the lower left corner:
@@ -85,17 +82,18 @@ Febr 1799
 MKaas  
 ____
 
-This Latin-German phrase roughly means:
+It translates as
 
-> “By order of the Cammer, hand-delivered to the Amt for a report.”
+[verse]
+____
+A short written order from the Chamber was sent to the Amt for its report.
+Bückeburg, 18 February 1799. MKaas.
+____
 
-This suggests that the Cammer returned the entire case file, including the petition and forestry report, to the Amt — possibly to inform Krückeberg or to request a response or implementation.
-===
+So a brief order goes to the Amt: “Report on this (same) matter.”
 
-[[doc-index-1-1]]
-== Jobst Heinrich Krückeberg's Petition
+== The  “Report by the officials at Bückeburg on this matter.” (27 February 1799) 
 
-The small handwritten text in the left and right images is the petition  written on behalf of Jobst Heinrich
-Krückeberg for enlarging his farmyard and garden. The larger text is the Forestry Office assessment of the impact
-of the request.
+TODO: 
+
 
