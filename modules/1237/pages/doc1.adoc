@@ -94,6 +94,53 @@ by order.
 ....
 |===
 
+[[petition-cover-note]]
+[.narrow]
+== Cover Note: Summary of Krückeberg's Petition to the Vormundschaftliche Kammer 
+
+This brief cover note summarizes Jobst Heinrich Krückeberg’s petition to
+acquire land adjacent to his garden. It likely served as a forwarding cover
+when the document was submitted to the Vormundschaftliche Kammer, the
+princely fiscal authority responsible for managing domains, finances, and
+inheritance matters in Schaumburg-Lippe.
+
+=== Transliteration and Translation
+
+image::05-left-page.png[link=self]
+
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+| Transliteration
+| Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+der Colon Krückeberg Nr. 10  
+zu Berenbusch bittet unter-  
+thänigst:  
+ihm die beÿ seinem Garten belegene Ecke gnädigst käuflich zu überlaßen. 
+  
+  
+zur  
+vormundschaftlichen  
+Rentkammer  
+....
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+The Colon Krückeberg No. 10  
+in Berenbusch humbly requests:  
+that the corner adjoining his garden be graciously made available for purchase.  
+  
+  
+To the  
+Guardianship  
+Rent Chamber  
+....
+|===
+
+
 [[forestry-assessment]]
 == Cammer Response: Forestry Office Assessment Regarding Land Expansion
 
@@ -139,53 +186,6 @@ forest, three saplings for each poplar that is felled.
                    MKaas, Forestry Officier
 ....
 |===
-
-[[petition-cover-note]]
-[.narrow]
-== Cover Note: Summary of Krückeberg's Petition to the Vormundschaftliche Kammer 
-
-This brief cover note  summarizes Jobst Heinrich Krückeberg’s petition to
-acquire land adjacent to his garden. It likely served as a forwarding cover
-when the document was submitted to the Vormundschaftliche Kammer, the
-princely fiscal authority responsible for managing domains, finances, and
-inheritance matters in Schaumburg-Lippe.
-
-=== Transliteration and Translation
-
-image::05-left-page.png[link=self]
-
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-| Transliteration
-| Translation
-
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-der Colon Krückeberg Nr. 10  
-zu Berenbusch bittet unter-  
-thänigst:  
-ihm die beÿ seinem Garten belegene Ecke gnädigst käuflich zu überlaßen. 
-  
-  
-zur  
-vormundschaftlichen  
-Rentkammer  
-....
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-The Colon Krückeberg No. 10  
-in Berenbusch humbly requests:  
-that the corner adjoining his garden be graciously made available for purchase.  
-  
-  
-To the  
-Guardianship  
-Rent Chamber  
-....
-|===
-
 [[marginal-notation]]
 == Mariginal Notation of the Brief Written Order to the Bückeburg Amt 
 
