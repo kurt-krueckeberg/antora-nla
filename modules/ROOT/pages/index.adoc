@@ -1,11 +1,8 @@
 = Ancestral Case Files: Krückeberg Documents from the Bückeburg Archives
  Dossiers
 
-This site documents the transcription, translation, and historical analysis of archival case files related to the
-Krückeberg family of Berenbusch, Schaumburg-Lippe. The materials span from the early 18th century—including a 1725
-bankruptcy case—to the late 18th century, with a 1798–1800 petition for land expansion.
-
-These are the case files examined on this website:
+This site contains transcriptions and translations of archival case files related to the
+Krückeberg family of Berenbusch, Schaumburg-Lippe.
 
 .Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
 [%header,cols="2,8a,2"]
