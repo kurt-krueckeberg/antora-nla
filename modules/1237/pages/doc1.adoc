@@ -201,10 +201,10 @@ On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
 written order from the Vormundschaftliche Kammer was sent to the Amt
 Bückeburg, instructing it to report on the case. The exact wording of that
 order and any enclosures (such as the Forestry Report) are not preserved;
-only this short reference and the Amt’s subsequent “Desfallsiger Bericht”
+only this short reference and the Amt’s subsequent xref:doc2.adoc[Report on the matter]
 (Document No. 2) remain.
 
-image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
+image::02-admin-note.png[title="Admin. Note (Click to Englarge),wdith=75%,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
