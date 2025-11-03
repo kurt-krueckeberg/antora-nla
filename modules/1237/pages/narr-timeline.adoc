@@ -20,7 +20,7 @@ This identifies Lindemann as the scribe of the petition, acting on Krückeberg�
 A cover note for the petition tells us it was forwarded to the Vormundschaftliche Kammer.
 
 [verse]
-----
+____
 The Colon Krückeberg No. 10  
 in Berenbusch humbly requests:  
 that the corner adjoining his garden be graciously made available for purchase.  
@@ -29,7 +29,7 @@ that the corner adjoining his garden be graciously made available for purchase.
 To the  
 Guardianship  
 Rent Chamber  
-----
+____
 
 On the next day — 30 May 1798 — the _Vormundschaftliche Cammer_ (a high-level chamber of financial and
 administrative oversight in Schaumburg-Lippe) received and logged the petition. This is noted in the
