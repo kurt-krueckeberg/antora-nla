@@ -218,33 +218,6 @@ forest, three saplings for each poplar that is felled.
 ....
 |===
 
-[[fiscal-chamber-resolution]]
-== Fiscal?? Chamber Resolution
-
-The Cammer resolution is written vertical along the left edge below the Land Assessment.
-
-image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
-
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-| 
-[literal.bordered,subs="verbatim,quotes"]
-....
-Res[criptum] Cam[merale] Brevi manu dem Amts zum Berichte.
-
-B. 18 Febr 1799    MKaas
-....
-
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-Offical Reply. Delivered by hand to the Amt for [the purpose of]
-reporting.
-
-18  Febr 1799    MKaas
-....
-|===
-
 [[petition-cover-note]]
 [.narrow]
 == Cover Note: Summary of Krückeberg's Petition to the Vormundschaftliche Kammer 
@@ -298,6 +271,34 @@ Guardianship
 Rent Chamber  
 ....
 |===
+
+[[fiscal-chamber-resolution]]
+== Fiscal?? Chamber Resolution
+
+The Cammer resolution is written vertical along the left edge below the Land Assessment.
+
+image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
+
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
+|===
+| 
+[literal.bordered,subs="verbatim,quotes"]
+....
+Res[criptum] Cam[merale] Brevi manu dem Amts zum Berichte.
+
+B. 18 Febr 1799    MKaas
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+Offical Reply. Delivered by hand to the Amt for [the purpose of]
+reporting.
+
+18  Febr 1799    MKaas
+....
+|===
+
 
 [role="narrow"]
 === Glossary of Terms

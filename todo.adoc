@@ -2,19 +2,15 @@
 
 == 1237
 
-I have
- 
-. html timeline page
-. an introduction.adoc page that discusses the state-level departments of Rentkammer and Vormundschaftliche Kammer, 
-. a landing page at index.adoc that gives an overall case overview
-. an extensive timeline in doc1.adoc that is pretty extensive.
+=== Fiscal Chamber Resolution in Document #1
 
-I don't have the big picture in one spot. Unity and consistence. Coherence in what is written.
+Decide where the section xref:~/nla/m/1237/doc1.adoc#fiscal-chamber-resolution[Fiscal Chamber Resolution]
+belongs?
 
-Furthermore, the narrative summaries need to be checked. The html time line should have more detail like the
-timeline in doc1.adoc.
+==== New Timeline
 
-upshot: What does the case file say? What background is need to understand it?
+Use `~/nla/m/1237/p/narr-timeline.adoc` as the new detailedd narrative timeline. Check its accuracy.
+Add to it the narratives from the other documents, checking their accuracy, too, against the text. 
 
 == Organize 139's doc1 and doc2
 
