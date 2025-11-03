@@ -1,6 +1,7 @@
 = Document 2: Land Assignment Report and Its Offical Response (Feb. 27, 1799)
 :page-role: wide
 
+[.narrow]
 == Document 2: Narrative Overview
 
 .*Show / hide narrative overview*
