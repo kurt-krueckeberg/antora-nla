@@ -8,6 +8,11 @@ Use `~/nla/m/1237/p/narr-timeline.adoc` as a completed thorough narrative timeli
 Add to it the narratives from the other documents, checking their accuracy, too, against
 the text. 
 
+
+=== MK signed the "Rescript Cammerale" on Dcoument #2
+
+Does this mean he is 1) a scribe or 2) both a forestry official and vormundschaftliche kammer official?
+
 == Organize 139's doc1 and doc2
 
 Document #1 page is very busy and poorly organized. It is not readily understandable, not 'friendly'.
