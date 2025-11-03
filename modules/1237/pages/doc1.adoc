@@ -186,10 +186,11 @@ by order.
 |===
 
 [[forestry-assessment]]
-== Forestry Office Assessment Regarding Land Expansion
+== Cammer Response: Forestry Office Assessment Regarding Land Expansion
 
-The Forestry report, which the Cammer would have requested after reviewing the
-petition, is the large text in the image. 
+The Cammer requested a Forestry report that was written by *MKass* of the 
+Forstamts, the foresty office. It is written in a large hand to the left
+of the petition. 
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -275,7 +276,9 @@ Rent Chamber
 [[fiscal-chamber-resolution]]
 == Fiscal?? Chamber Resolution
 
-The Cammer resolution is written vertical along the left edge below the Land Assessment.
+The the xref:#forestry-assessment[Forestry Assessment] represents the
+Cammer's official response, and this is noted by the vertical text along
+the left edge just below the Land Assessment.
 
 image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
 
