@@ -285,11 +285,14 @@ Rent Chamber
 |===
 
 [[fiscal-chamber-resolution]]
-== Fiscal?? Chamber Resolution
+== Mariginal Note of Brief Written Order to Amt Bückeburg
 
-The xref:#forestry-assessment[Forestry Assessment] represents the
-Cammer's official response. This is explained in the vertical text
-that appears along the left edge just below the Land Assessment.
+On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
+written order from the Vormundschaftliche Kammer was sent to the Amt
+Bückeburg, instructing it to report on the case. The exact wording of that
+order and any enclosures (such as the Forestry Report) are not preserved;
+only this short reference and the Amt’s subsequent “Desfallsiger Bericht”
+(Document No. 2) remain.
 
 image::02-admin-note.png[titel="Admin. Note (Click to Englarge),link=self]
 
@@ -310,20 +313,4 @@ A short written order from the Chamber was sent to the Amt for its report.
 Bückeburg, 18 February 1799. MKaas.
 ....
 |===
-
-[role="narrow"]
-=== Glossary of Terms
-
-unterthänigst:: Historically spelled with an "h", now written **untertänigst** in modern German. A highly formal,
-deferential expression meaning *most humbly* or *most submissively*. Common in petitions and official requests to
-authorities in the 18th–19th centuries.
-
-überlassen:: To cede, assign, or transfer possession of something. In legal usage: to grant or make available,
-often used for land, rights, or duties.
-
-vormundschaftlich:: Relating to **guardianship** (*Vormundschaft*), especially when dealing with matters of
-inheritance or state administration of minor wards or protected persons.
-
-Rentkammer:: Literally "Revenue Chamber" or "Finance Chamber" — the administrative office responsible for handling
-state lands, rents, and finances. In this context, likely a fiscal authority with oversight over land transfers.
 

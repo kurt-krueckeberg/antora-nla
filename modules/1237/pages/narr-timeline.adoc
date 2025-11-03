@@ -70,9 +70,14 @@ MKaas concluded that:
 
 This shows the Forstamt found no major objections to the request.
 
-== 4. Return of the Document to the Amt (18 February 1799)
+== 4. Mariginal Note of Brief Written Order to Amt Bückeburg (18 February 1799)
 
-Several months later, on 18 February 1799, MKaas added a short administrative note written vertically in the lower left corner:
+On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
+written order from the Vormundschaftliche Kammer was sent to the Amt
+Bückeburg, instructing it to report on the case. The exact wording of that
+order and any enclosures (such as the Forestry Report) are not preserved;
+only this short reference and the Amt’s subsequent “Desfallsiger Bericht”
+(Document No. 2) remain.
 
 [verse]
 ____
@@ -93,7 +98,4 @@ ____
 So a brief order goes to the Amt: “Report on this (same) matter.”
 
 == The  “Report by the officials at Bückeburg on this matter.” (27 February 1799) 
-
-TODO: 
-
 
