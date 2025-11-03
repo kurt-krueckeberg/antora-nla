@@ -39,7 +39,7 @@ upper right header as:
 [verse]
 ____
 Nr: 1  
-praes: 30. May 1798  
+presented: 30. May 1798  
 ____
 
 The number “1” suggests that this was the first case file in a sequence related to land requests or
@@ -84,8 +84,6 @@ ____
 A short written order from the Chamber was sent to the Amt for its report.
 Bückeburg, 18 February 1799. MKaas.
 ____
-
-So a brief order goes to the Amt: “Report on this (same) matter.”
 
 == The  “Report by the officials at Bückeburg on this matter.” (27 February 1799) 
 
