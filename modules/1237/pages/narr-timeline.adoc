@@ -2,12 +2,9 @@
 
 == *1. The Petition is Initiated at the Amt (≤ 29 May 1798)*
 
-In late May 1798, _Jobst Heinrich Krückeberg_, a tenant farmer holding farmstead No. 10 in the village of
-_Berenbusch_, approached the _Amt in Bückeburg_. His goal was to request additional land to expand his farmyard and
-garden.
-
-Krückeberg likely spoke to an official named _Lindemann_, who recorded the petition for him — a common practice for
-semi-literate or illiterate petitioners. Lindemann formalized the request and is noted in the final endorsement:
+On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist holding farmstead No. 10 in the village of
+_Berenbusch_, petitioned the _Amt in Bückeburg_ to purchase adjacent plots to enlarge hist garden and
+farmyard.  An official named _Lindemann_ recorded hist request and is noted in the final endorsement:
 
 [verse]
 ____
@@ -18,9 +15,26 @@ ____
 
 This identifies Lindemann as the scribe of the petition, acting on Krückeberg’s behalf.
 
-== *2. The Petition is Forwarded to the Cammer (30 May 1798)*
+== *2. The Petition is Forwarded to the Vormundschaftliche Cammer (30 May 1798)*
 
-On the next day — 30 May 1798 — the _Vormundschaftliche Cammer_ (a high-level chamber of financial and administrative oversight in Schaumburg-Lippe) received and logged the petition. This is noted in the upper right header as:
+The cover note for the petition tells us it was forwarded to the Vormundschaftliche Kammer.
+
+[verse]
+----
+der Colon Krückeberg Nr. 10
+zu Berenbusch bittet unterthänigst:
+ihm die beÿ seinem Garten belegene Ecke
+gnädigst käuflich zu überlaßen.
+
+
+zur
+vormundschaftlichen
+Rentkammer
+----
+
+On the next day — 30 May 1798 — the _Vormundschaftliche Cammer_ (a high-level chamber of financial and
+administrative oversight in Schaumburg-Lippe) received and logged the petition. This is noted in the
+upper right header as:
 
 [verse]
 ____
@@ -28,13 +42,22 @@ Nr: 1
 praes: 30. May 1798  
 ____
 
-The number “1” suggests that this was the first case file in a sequence related to land requests or forestry matters at that time.
+The number “1” suggests that this was the first case file in a sequence related to land requests or
+forestry matters at that time. It was assigned the identifier of `Cam: Nr: 662` in the upper left:
+
+[verse]
+____
+Cam: Nr: 662
+____ 
 
 == *3. Forestry Assessment by MKaas (14 June 1798)*
 
-Upon reviewing the petition, the Cammer initiated a review process by consulting the _Forstamt_, the forestry authority, likely to ensure that the land Krückeberg requested would not unduly affect timber resources or regulated forest land.
+Upon reviewing the petition, the Cammer initiated a review process by consulting the _Forstamt_, the forestry
+authority, likely to ensure that the land Krückeberg requested would not unduly affect timber resources or
+regulated forest land.
 
-An official named _MKaas_ was tasked with preparing this report. On 14 June 1798, he authored an assessment, which appears directly below the left-side header of Document 1:
+An official named _MKaas_ was tasked with preparing this report. On 14 June 1798, he authored an assessment, which
+appears directly below the left-side header of Document 1:
 
 [quote]
 ____
