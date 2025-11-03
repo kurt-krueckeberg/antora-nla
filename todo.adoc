@@ -4,18 +4,15 @@
 
 === New Timeline
 
-Use `~/nla/m/1237/p/narr-timeline.adoc` as a completed thorough narrative timeline.
+Use `~/nla/m/1237/p/narr-timeline.adoc` as a more thorough narrative timeline.
 Add to it the narratives from the other documents, checking their accuracy, too, against
 the text. 
 
+Also check the narratives in the other documents. Make them succinct.
 
-TODO: Mention in the narrative timeline that we know the Forestry Report was sent to
-the Amt becaue it is mentioned in document #2, the Amt's report to the Vormundschaft-
-liche Kammer.
+=== Rentkammer
 
-=== MK signed the "Rescript Cammerale" on Dcoument #2
-
-Does this mean he is 1) a scribe or 2) both a forestry official and vormundschaftliche kammer official?
+It doesn't seem to be involved at all?
 
 == Organize 139's doc1 and doc2
 
