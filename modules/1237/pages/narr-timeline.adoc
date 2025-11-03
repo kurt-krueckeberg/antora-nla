@@ -31,18 +31,9 @@ acknowledgment of execution.
 
 == 1. The Petition is Initiated at the Amt (29 May 1798)
 
-On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist holding farmstead No. 10 in the village of
-_Berenbusch_, petitioned the _Amt in Bückeburg_ to purchase adjacent plots to enlarge hist garden and
-farmyard.  An official named _Lindemann_ recorded hist request and is noted in the final endorsement:
-
-[verse]
-____
-Petition.  
-Bückeburg, May 29, 1798.             
-                                     
-Lindemann, written on behalf of[him] 
-____
-
+On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist at No. 10 in _Berenbusch_,
+petitioned the _Amt in Bückeburg_ to purchase adjacent plots to enlarge his garden and
+farmyard. An official named _Lindemann_ recorded his request.
 This identifies Lindemann as the scribe of the petition, acting on Krückeberg’s behalf.
 
 == 2. The Petition is Forwarded to the Vormundschaftliche Cammer (30 May 1798)
@@ -61,8 +52,7 @@ Guardianship
 Rent Chamber  
 ____
 
-On the next day — 30 May 1798 — the _Vormundschaftliche Cammer_ (a high-level chamber of financial and
-administrative oversight in Schaumburg-Lippe) received and logged the petition. This is noted in the
+On the next day, May 30, 1798, the _Vormundschaftliche Cammer_ reviewed the petition. This is noted in the
 upper right header as:
 
 [verse]
@@ -71,8 +61,7 @@ Nr: 1
 presented: 30. May 1798  
 ____
 
-The number “1” suggests that this was the first case file in a sequence related to land requests or
-forestry matters at that time. It was assigned the identifier of `Cam: Nr: 662` in the upper left:
+It was assigned the identifier of `Cam: Nr: 662` in the upper left:
 
 [verse]
 ____
@@ -85,12 +74,7 @@ Upon reviewing the petition, the Cammer requested a _Forstamt_, the forestry aut
 that the land Krückeberg requested would not unduly affect timber resources or regulated forest land.
 
 A Foresty official named _MKaas_ wrote the report on 14 June 1798, which appears
-directly below the left-side header of Document 1:
-
-[quote]
-____
-Der verlangte Platz liegt in der Nähe des Dorfes Berenbusch ...  
-____
+directly below the left-side header of Document 1.
 
 MKaas concluded that:
 
@@ -115,4 +99,5 @@ Bückeburg, 18 February 1799. MKaas.
 ____
 
 == The  “Report by the officials at Bückeburg on this matter.” (27 February 1799) 
+
 
