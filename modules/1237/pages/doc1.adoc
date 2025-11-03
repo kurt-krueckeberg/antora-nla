@@ -4,10 +4,10 @@
 [[doc-index-1-1]]
 == Jobst Heinrich Krückeberg's Petition
 
-The small handwritten text in the left and right images is the petition  written on behalf of Jobst Heinrich
-Krückeberg for enlarging his farmyard and garden. The larger text is the Forestry Office assessment of the impact
-of the request.
-
+The small handwritten text in the left and right images is the petition
+written on behalf of Jobst Heinrich Krückeberg for enlarging his farmyard and
+garden. The larger text is the Forestry Office assessment of the impact of
+the request.
 
 [cols="1a,1a",options="noheader",frame="none",grid="none"]
 |===
@@ -24,12 +24,7 @@ of the request.
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Cam: Nr: 662.                       Nr: 1.
-
-Res Cam
-zum Forstamts Bericht.              praes: 30. May 1798. 
-B. 14. Jun. 1798
-
-           MK
+                                    praes: 30. May 1798.
 
 
 Durchlauchtigste Fürstin!
@@ -68,11 +63,7 @@ pro St[atuent].
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Chamber: No. 662                                             No. 1.
-
-Concerning the Chamber’s directive:                   
-Forestry Office report.                      presented: 30 May 1798
-Bückeburg, 14 June 1798.
-MK
+                                              presented: 30 May 1798
 
 
 Most Serene Princess!
@@ -118,6 +109,12 @@ of the petition.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Res Cam
+zum Forstamts Bericht
+B. 14. Jun. 1798
+
+           MK        
+
 Der verlangte Platz liegt in der Dorf Straße von Berenbusch, ist ein
 kleiner Winkel, der ohne allen Nachteil ausgewiesen werden kann. — Die
 darauf stehenden Pappelen wären dann von Seiten der Forst zu verkaufen,
@@ -130,6 +127,12 @@ zu pflanzen.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Concerning the Chamber’s directive:
+Forestry Office report.            
+Bückeburg, 14 June 1798.
+MK
+
+
 The requested plot lies on the village street of Berenbusch, and is a
 small corner that may be granted without causing any disadvantage.  — The
 poplars standing there could be sold by the Forestry Office, and
