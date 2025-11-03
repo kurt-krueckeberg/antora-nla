@@ -1,0 +1,78 @@
+= New Propective Narrative Timeline
+
+== *1. The Petition is Initiated at the Amt (≤ 29 May 1798)*
+
+In late May 1798, _Jobst Heinrich Krückeberg_, a tenant farmer holding farmstead No. 10 in the village of
+_Berenbusch_, approached the _Amt in Bückeburg_. His goal was to request additional land to expand his farmyard and
+garden.
+
+Krückeberg likely spoke to an official named _Lindemann_, who recorded the petition for him — a common practice for
+semi-literate or illiterate petitioners. Lindemann formalized the request and is noted in the final endorsement:
+
+[verse]
+____
+Bückeburg, den 29t. Mai 1798.  
+unterschriebner Lindemann geh. pro St.  
+Col. Krückeberg No. 10 zu Berenbusch  
+____
+
+This identifies Lindemann as the scribe of the petition, acting on Krückeberg’s behalf.
+
+== *2. The Petition is Forwarded to the Cammer (30 May 1798)*
+
+On the next day — 30 May 1798 — the _Vormundschaftliche Cammer_ (a high-level chamber of financial and administrative oversight in Schaumburg-Lippe) received and logged the petition. This is noted in the upper right header as:
+
+[verse]
+____
+Nr: 1  
+praes: 30. May 1798  
+____
+
+The number “1” suggests that this was the first case file in a sequence related to land requests or forestry matters at that time.
+
+== *3. Forestry Assessment by MKaas (14 June 1798)*
+
+Upon reviewing the petition, the Cammer initiated a review process by consulting the _Forstamt_, the forestry authority, likely to ensure that the land Krückeberg requested would not unduly affect timber resources or regulated forest land.
+
+An official named _MKaas_ was tasked with preparing this report. On 14 June 1798, he authored an assessment, which appears directly below the left-side header of Document 1:
+
+[quote]
+____
+Der verlangte Platz liegt in der Nähe des Dorfes Berenbusch ...  
+____
+
+MKaas concluded that:
+
+- The area in question was near the village and not part of any important forest tract,
+- The land could be cleared, but three saplings should be planted elsewhere as compensation.
+
+This shows the Forstamt found no major objections to the request.
+
+His signature, “MKaas,” appears at the end, likely followed by “Forstamt,” confirming his institutional affiliation.
+
+== *4. Return of the Document to the Amt (18 February 1799)*
+
+Several months later, on 18 February 1799, MKaas added a short administrative note written vertically in the lower left corner:
+
+[verse]
+____
+Res Cam. Brevi manu dem  
+Amte zum Berichte. B. 18.  
+Febr 1799  
+MKaas  
+____
+
+This Latin-German phrase roughly means:
+
+> “By order of the Cammer, hand-delivered to the Amt for a report.”
+
+This suggests that the Cammer returned the entire case file, including the petition and forestry report, to the Amt — possibly to inform Krückeberg or to request a response or implementation.
+===
+
+[[doc-index-1-1]]
+== Jobst Heinrich Krückeberg's Petition
+
+The small handwritten text in the left and right images is the petition  written on behalf of Jobst Heinrich
+Krückeberg for enlarging his farmyard and garden. The larger text is the Forestry Office assessment of the impact
+of the request.
+
