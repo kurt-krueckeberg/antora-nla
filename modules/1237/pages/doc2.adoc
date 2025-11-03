@@ -8,21 +8,9 @@
 [%collapsible]
 ====
 [discrete]
-=== *1. Recapitulation: Cammer had sent Forestry Office Assessment to Ämter (February 18, 1799)*
-
-After the Cammer reviewed Krückeberg's petition (Document 1), on May 30,
-1799, they commissioned a Forestry Office assessment, which was drafted onto
-Document 1 on February 27, 1799. It concluded the enlargement of Krückeberg's
-garden and farmyard would have no detimental impact. Some poplars would need
-to be removed and sold by the forestry office, and Krückeberg would be
-obligated to replant three saplings in another area of the forest as
-replacements.
-
-But it was not until February 18, 1799, though, that the Cammer returned
-Document 1 to the Ämter (offices) of Bückeburg and Arensberg.
 
 [discrete]
-=== *2. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)*
+=== *1. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)*
 
 With the new guidance from the Cammer, the Ämter prepared Document 2, on
 March, 1799, to inform the Cammer that they had reviewed the forestry report,
@@ -34,7 +22,7 @@ Report* issued by the *Ämter Bückeburg und Arensburg* (local adminstrative
 offices of Bückeburg and Arenburg).
 
 [discrete]
-=== *3. Cammer's Reaction to Document 2 (10 Mar 1799)*
+=== *2. Cammer's Reaction to Document 2 (10 Mar 1799)*
 
 The *marginal note*, the darker, somewhat smaller text on the left side, is
 the Cammer's opinion of the remitted report, but not a formal reply addressed
