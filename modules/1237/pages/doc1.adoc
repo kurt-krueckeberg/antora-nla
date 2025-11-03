@@ -186,8 +186,8 @@ Rent Chamber
 ....
 |===
 
-[[fiscal-chamber-resolution]]
-== Mariginal Note of Brief Written Order to Amt Bückeburg
+[[marginal-notation]]
+== Mariginal Notation of the Brief Written Order to the Bückeburg Amt 
 
 On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
 written order from the Vormundschaftliche Kammer was sent to the Amt
