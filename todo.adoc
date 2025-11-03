@@ -2,15 +2,11 @@
 
 == 1237
 
-=== Fiscal Chamber Resolution in Document #1
+=== New Timeline
 
-Decide where the section xref:~/nla/m/1237/doc1.adoc#fiscal-chamber-resolution[Fiscal Chamber Resolution]
-belongs?
-
-==== New Timeline
-
-Use `~/nla/m/1237/p/narr-timeline.adoc` as the new detailedd narrative timeline. Check its accuracy.
-Add to it the narratives from the other documents, checking their accuracy, too, against the text. 
+Use `~/nla/m/1237/p/narr-timeline.adoc` as a completed thorough narrative timeline.
+Add to it the narratives from the other documents, checking their accuracy, too, against
+the text. 
 
 == Organize 139's doc1 and doc2
 
