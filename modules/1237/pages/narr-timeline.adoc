@@ -40,8 +40,8 @@ This identifies Lindemann as the scribe of the petition, acting on Krückeberg�
 
 A cover note for the petition tells us it was forwarded to the Vormundschaftliche Kammer.
 
-[literal.bordered,subs="verbatim,quotes"]
-....
+[quote]
+____
 The Colon Krückeberg No. 10  
 in Berenbusch humbly requests:  
 that the corner adjoining his garden be graciously made available for purchase.  
@@ -50,23 +50,23 @@ that the corner adjoining his garden be graciously made available for purchase.
 To the  
 Guardianship  
 Rent Chamber  
-....
+____
 
 On the next day, May 30, 1798, the _Vormundschaftliche Cammer_ reviewed the petition. This is noted in the
 upper right header as:
 
-[literal.bordered,subs="verbatim,quotes"]
-....
+[quote]
+____
 Nr: 1  
 presented: 30. May 1798  
-....
+____
 
 It was assigned the identifier of `Cam: Nr: 662` in the upper left:
 
-[literal.bordered,subs="verbatim,quotes"]
-....
+[quote]
+____
 Cam: Nr: 662
-.... 
+____ 
 
 == 3. Forestry Assessment by MKaas (14 June 1798)
 
@@ -90,13 +90,11 @@ order and any enclosures (such as the Forestry Report) are not preserved; only t
 short reference and the Amt’s subsequent xref:contents-list.adoc#desfallsiger-bericht[Desfallsiger
 Bericht] in the Designatio Actorum (Document No. 2) remain.
 
-.Vormundschaftliche Kammer Notation by MKaas
-
-[literal.bordered,subs="verbatim,quotes"]
-....
+[quote,Vormundschaftliche Kammer Notation on Amt Petition]
+____
 A short written order from the Chamber was sent to the Amt for its report.
 Bückeburg, 18 February 1799. MKaas.
-....
+____
 
 == The  “Report by the officials at Bückeburg on this matter.” (27 February 1799) 
 
