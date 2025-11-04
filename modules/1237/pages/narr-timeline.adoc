@@ -68,7 +68,7 @@ It was assigned the identifier of `Cam: Nr: 662` in the upper left:
 Cam: Nr: 662
 .... 
 
-=== 3. Forestry Assessment by MKaas (14 June 1798)
+== 3. Forestry Assessment by MKaas (14 June 1798)
 
 Upon reviewing the petition, the Cammer requested a _Forstamt_, the forestry authority, report likely to ensure
 that the land Krückeberg requested would not unduly affect timber resources or regulated forest land.
