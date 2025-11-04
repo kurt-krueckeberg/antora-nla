@@ -91,13 +91,13 @@ Gladbeck v. Landesberg Maas Windt
 
 -----
 Wippermann
-
+....
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Chamber Deed of Sale
-for Tenant Farmer Krückeberg,
-No. 10 in Berenbusch,
+[literal.bordered,subs="verbatim,quotes"]
+....
+Chamber Deed of Sale for Tenant Farmer Krückeberg, No. 10 in Berenbusch,
 concerning a plot for enlarging his garden.
 
 Dispatched by Beÿer
