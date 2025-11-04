@@ -95,8 +95,6 @@ Wippermann
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[literal.bordered,subs="verbatim,quotes"]
-....
 Chamber Deed of Sale for Tenant Farmer Krückeberg, No. 10 in Berenbusch,
 concerning a plot for enlarging his garden.
 
@@ -140,7 +138,7 @@ Guardianship Treasury Office:
 Gladbeck · von Landesberg · Maas · Windt
 
 
------
+------
 Wippermann
 ....
 |===
