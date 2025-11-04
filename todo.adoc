@@ -10,6 +10,9 @@ the text.
 
 Also check the narratives in the other documents. Make them succinct.
 
+NOTE: reminder-note.adoc 's date of 27 Dec. 1800 is the same as Document #5. So there reminder
+note belongs with it?
+
 === Rentkammer
 
 It doesn't seem to be involved at all?
