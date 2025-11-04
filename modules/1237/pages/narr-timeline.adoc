@@ -91,6 +91,7 @@ short reference and the Amt’s subsequent xref:contents-list.adoc#desfallsiger-
 Bericht] in the Designatio Actorum (Document No. 2) remain.
 
 .Vormundschaftliche Kammer Notation by MKaas
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 A short written order from the Chamber was sent to the Amt for its report.
