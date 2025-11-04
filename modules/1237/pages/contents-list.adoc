@@ -33,6 +33,7 @@ image::01.png[link=self]
 |May
 |29
 
+[[desfallsiger-bericht]]
 |2.
 |xref:doc2.adoc[Desfallsiger Bericht der Beamten zu Bückeburg, d.d.]
 |xref:doc3.adoc[Report on the matter from the Bückeburg officials, dated.]

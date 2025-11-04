@@ -83,13 +83,14 @@ MKaas concluded that:
 
 == 4. Mariginal Note of Brief Written Order to Amt Bückeburg (18 February 1799)
 
-On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
-written order from the Vormundschaftliche Kammer was sent to the Amt
-Bückeburg, instructing it to report on the case. The exact wording of that
-order and any enclosures (such as the Forestry Report) are not preserved;
-only this short reference and the Amt’s subsequent “Desfallsiger Bericht”
-(Document No. 2) remain.
+On 18 February 1799 a marginal note (written on the Amt's Petition) by Forstmeister
+Kaas records that a brief written order from the Vormundschaftliche Kammer was sent
+to the Bückeburg Amt, instructing it to report on the case. The exact wording of that
+order and any enclosures (such as the Forestry Report) are not preserved; only this
+short reference and the Amt’s subsequent xref:contents-list.adoc#desfallsiger-bericht[Desfallsiger
+Bericht] in the Designatio Actorum (Document No. 2) remain.
 
+.Vormundschaftliche Kammer Notation by MKaas
 [literal.bordered,subs="verbatim,quotes"]
 ....
 A short written order from the Chamber was sent to the Amt for its report.
