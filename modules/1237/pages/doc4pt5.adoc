@@ -43,23 +43,19 @@ earlier.
 
 === Main Text
 
-[cols="1a,1a",options="header",frame=none,grid=none]
+[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
-|Transliteration|Translation
-
 |
-[verse]
-____
-Den Colonus Krückeberg Nro 10. in Beren-
-busch ist zur Vergrösserung seines Hofraums
-und Gartens ein Platz daselbst wie Figur
-a zeiget[,] ausgewiesen und vermessen zu
+[literal.bordered,subs="verbatim,quotes"]
+....
+Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
+seines Hofraums und Gartens ein Platz daselbst wie Figur a zeiget[,]
+ausgewiesen und vermessen zu
 
                19. Ruth: 44 Fuß Decimul
 
-Ferner ist ihm ein Platz, Figur b,. zur Vergrösserung
-seines Hofraums[,] welcher mit der Figur a in
-Verbindung stetht, vermessen zu
+Ferner ist ihm ein Platz, Figur b,. zur Vergrösserung seines Hofraums[,]
+welcher mit der Figur a in Verbindung stetht, vermessen zu
 
                1. Ruth 90 Fuß
 
@@ -67,21 +63,19 @@ Bückeburg d. 30ten Märtz 1799.
 
                         Funck
                         beeidigter Landmesser
-____
+....
 
 |
-[verse]
-____
-To Colonus Krückeberg, No. 10, in Beren-  
-busch, a plot has been assigned and measured  
-on the site for the enlargement of his yard  
-and garden, as shown in figure a, measuring  
+[literal.bordered,subs="verbatim,quotes"]
+....
+To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
+and measured on the site for the enlargement of his yard and garden, as
+shown in figure a, measuring  
 
 19 Ruthen, 44 feet, decimal.  
 
-Furthermore, a plot identified as figure b,  
-for the enlargement of his yard, which connects  
-with figure a, has been measured at  
+Furthermore, a plot identified as figure b, for the enlargement of his
+yard, which connects with figure a, has been measured at  
 
 1 Ruthe, 90 feet.  
 
@@ -89,7 +83,7 @@ Bückeburg, the 30th of March 1799.
 
                      Funck  
                 sworn surveyor
-____
+....
 |===
 
 The phrase "we make the proposal, without further negotiation, that he be
@@ -110,13 +104,18 @@ petitioner.
 === Glossary of Terms
 
 Colonus::
-  A tenant farmer or hereditary leaseholder. In 18th–19th century German documents, "Colon" or "Colonus" was a formal title, not a personal name.
+  A tenant farmer or hereditary leaseholder. In 18th–19th century German
+  documents, "Colon" or "Colonus" was a formal title, not a personal name.
 
 Ruthe (plural: Ruthen)::
-  A historical German unit of length or area. As a unit of area, 1 square Ruthe varied by region, but was typically between 3.5 and 4 square meters. In this context, it likely refers to square Ruthen.
+  A historical German unit of length or area. As a unit of area, 1 square
+  Ruthe varied by region, but was typically between 3.5 and 4 square meters.
+  In this context, it likely refers to square Ruthen.
 
 Fuß::
-  German for “foot” (plural: Füße). A traditional unit of length, slightly shorter than the modern foot — usually around 28–30 cm depending on locale.
+  German for “foot” (plural: Füße). A traditional unit of length, slightly
+shorter than the modern foot — usually around 28–30 cm depending on
+locale.
 
 decimal::
   Refers to the **decimalized portion of a Ruthen or Fuß**, used to express fractional values in land measurements. Example: “44 feet decimal” indicates a base unit plus fractional precision.
