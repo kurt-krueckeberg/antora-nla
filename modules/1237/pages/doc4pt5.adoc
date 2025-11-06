@@ -21,7 +21,7 @@ earlier.
 
 == Transliteration and Translation
 
-=== Diagram Text
+=== Transliteration of Diagram Text
 
 [cols="1,2", options="header"]
 |===
