@@ -126,12 +126,14 @@ expansions in Berenbusch, like those of Weiland, and to report back.
 The Chamber informs the Bückeburg officials that:
 
 * They will allocate the land Krückeberg, no. 10 Berenbusch, provided he agrees to:
-** plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
+[arabic,start=1]
+.. plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
 office
-** pay 24 Mariengroschen per square rod for the plot.
+.. pay 24 Mariengroschen per square rod for the plot.
 * If Krückeberg agrees to these conditions, the Amt is to:
-** have the plot surveyed by a sworn surveyor
-** and report its size back to the Cammer.
+[arabic,start=1]
+.. have the plot surveyed by a sworn surveyor
+.. and report its size back to the Cammer.
 
 == 8. Amt Provides Survey Drawings and Proposes Fees Krückeberg Will Pay (18 Oct. 1800)
 
