@@ -15,7 +15,7 @@ note belongs with it?
 
 === Rentkammer
 
-It doesn't seem to be involved at all?
+In case 1237 the Rentkammer is not involved, so remove it from the introduction.
 
 == Organize 139's doc1 and doc2
 
