@@ -132,8 +132,8 @@ office
 .. pay 24 Mariengroschen per square rod for the plot.
 * If Krückeberg agrees to these conditions, the Amt is to:
 [arabic,start=1]
-.. have the plot surveyed by a sworn surveyor
-.. and report its size back to the Cammer.
+.. have a sworn surveyor survey the plots, and
+.. report its size back to the Cammer.
 
 == 8. Amt of Bückeburg and Arensburg Reply to Guradianship Chamber Decree (180 Mar. 1800)
 
