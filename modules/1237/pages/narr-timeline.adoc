@@ -141,6 +141,7 @@ The survey drawings of the parcels assigned to Jobst Henrich Krückeberg, No. 10
 are 19 rods 44 feet decimal and 1 rod 90 feet of surface area.
 
 TODO: Questions to Answer:
+
 * What does 'surface area' mean?
 * How big are rods and feet?
 * When is Michaelmas?
