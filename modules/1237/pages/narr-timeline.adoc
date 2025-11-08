@@ -121,7 +121,7 @@ the report:
 * They instructed the local officials to investigate other possibly unauthorized garden
 expansions in Berenbusch, like those of Weiland, and to report back.
 
-== 7. Official Draft to the Official at Bückeburg of Guardianship Chamber (11 Mar. 1799)
+== 7. Official Draft/Decree to the Official at Bückeburg of Guardianship Chamber (11 Mar. 1799)
 
 The Chamber informs the Bückeburg officials that:
 
@@ -135,7 +135,19 @@ office
 .. have the plot surveyed by a sworn surveyor
 .. and report its size back to the Cammer.
 
-== 8. Survey Done (30 Mar. 1800)
+== 8. Amt of Bückeburg and Arensburg Reply to Guradianship Chamber Decree (180 Mar. 1800)
+
+The survey drawings of the parcels assigned to Jobst Henrich Krückeberg, No. 10 in Berenbusch, for the
+are 19 rods 44 feet decimal and 1 rod 90 feet of surface area.
+
+TODO: Questions to Answer:
+* What does 'surface area' mean?
+* How big are rods and feet?
+* When is Michaelmas?
+* What does 'exchange charges' refer to?
+
+The Ämter propose that Krückeberg pay, beginning at Michaelmas of this year, an annual
+fee for the granted land of 2 Reichsthaler 1 Schilling, exclusive of exchange charges (agio).
 
 == 9. Amt Provides Survey Drawings and Proposes Fees Krückeberg Will Pay (18 Oct. 1800)
 
