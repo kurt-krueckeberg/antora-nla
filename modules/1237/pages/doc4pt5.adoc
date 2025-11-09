@@ -23,7 +23,7 @@ image::08-right-page.png[link=self]
 
 === Transliteration of Diagram Text
 
-[cols="1,2",width="60%",options="header"]
+[cols="1,1",width="55%",options="header"]
 |===
 |Position of Text
 |Transliteration
