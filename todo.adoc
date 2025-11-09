@@ -2,13 +2,7 @@
 
 == 1237
 
-=== New Timeline
-
-Use `~/nla/m/1237/p/narr-timeline.adoc` as a more thorough narrative timeline.
-Add to it the narratives from the other documents, checking their accuracy, too, against
-the text. 
-
-Also check the narratives in the other documents. Make them succinct.
+=== Narrative Timeline
 
 NOTE: reminder-note.adoc 's date of 27 Dec. 1800 is the same as Document #5. So there reminder
 note belongs with it?
