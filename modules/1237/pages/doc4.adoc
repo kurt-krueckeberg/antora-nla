@@ -29,6 +29,43 @@ Pfennig**, excluding any exchange fees (*agio*).
 The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
 ====
 
+.How Large was the Allocated Land
+****
+
+**Meaning of "Ruthe"**
+
+In the report, measurements were given in *Ruther (rod)* and *Fuß (feet)*. A *"Ruther"* is a measure of area — a
+Quadratruthe (square rod).  German officials in the 18^th^–19^th^ centuries often shortened Quadratruthe (square
+rods) simply to Ruthe when the meaning was clear from context, as the word “Flächengehalt” (surface area) indicates.
+
+The exact value of a Quadratruthe varied locally. In Schaumburg-Lippe, 1 Ruthe (area) was defined as:
+
+____
+1 Ruthe = 144 Quadratfuß (square feet of the local Fuß).
+____
+
+Each local *Fuß (foot)* measured about *0.291 m*, so one Ruthe (area) ≈ 12.2 m².
+
+*Conversion to Modern Units (approximate)*
+
+Let’s calculate both parcels:
+
+[width="100%",cols="24%,34%,25%,17%",options="header",]
+|===
+|Historical measure |In square Ruthen |In square meters |In square feet
+|19 Ruthen 44 Fuß (dec.) |19 + (44 / 144) = *19.31 Ruthen* |19.31 × 12.2
+≈ *236 m²* |≈ *2,540 sq ft*
+
+|1 Ruthe 90 Fuß |1 + (90 / 144) = *1.63 Ruthen* |1.63 × 12.2 ≈ *20 m²*
+|≈ *215 sq ft*
+
+|*Total* |*≈ 20.94 Ruthen* |*≈ 256 m²* |*≈ 2,755 sq ft*
+|===
+
+So the total extension was roughly [underline]#*¼ of a modern tennis court*# in size.
+****
+
+
 == Transliteration and Translation
 
 image::06-right-page.png[width=65%,link=self]
@@ -89,43 +126,6 @@ Bückeburg, 18 October 1800.
 J. H. Hablick  Stöling
 ....
 |===
-
-.How Large was the Allocated Land
-****
-
-**Meaning of "Ruthe"**
-
-In this context *"Ruther"* is a measure of area — a Quadratruthe (square rod).  German officials in the
-18th–19th centuries often shortened Quadratruthe simply to Ruthe when the meaning was clear from context
-as the word “Flächengehalt” (= surface area) indicates.a
-
-The exact value of a Quadratruthe varied locally. In Schaumburg-Lippe, 1 Ruthe (area) was defined as:
-
-____
-1 Ruthe = 144 Quadratfuß (square feet of the local Fuß).
-____
-
-Each local *Fuß (foot)* measured about *0.291 m*, so one Ruthe (area) ≈ 12.2 m².
-
-*Conversion to Modern Units (approximate)*
-
-Let’s calculate both parcels:
-
-[width="100%",cols="24%,34%,25%,17%",options="header",]
-|===
-|Historical measure |In square Ruthen |In square meters |In square feet
-|19 Ruthen 44 Fuß (dec.) |19 + (44 / 144) = *19.31 Ruthen* |19.31 × 12.2
-≈ *236 m²* |≈ *2,540 sq ft*
-
-|1 Ruthe 90 Fuß |1 + (90 / 144) = *1.63 Ruthen* |1.63 × 12.2 ≈ *20 m²*
-|≈ *215 sq ft*
-
-|*Total* |*≈ 20.94 Ruthen* |*≈ 256 m²* |*≈ 2,755 sq ft*
-|===
-
-So the total extension was roughly [underline]#*¼ of a modern tennis court*# in size.
-****
-
 [.narrow]
 == Glossary of Terms
 
