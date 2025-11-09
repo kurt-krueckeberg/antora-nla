@@ -60,22 +60,6 @@ Guardianship
 Rent Chamber  
 ____
 
-On the next day, May 30, 1798, the _Vormundschaftliche Cammer_ reviewed the petition. This is noted in the
-upper right header as:
-
-[quote]
-____
-Nr: 1  
-presented: 30. May 1798  
-____
-
-It was assigned the identifier of `Cam: Nr: 662` in the upper left:
-
-[quote]
-____
-Cam: Nr: 662
-____ 
-
 == 3. Forestry Assessment by MKaas (14 June 1798)
 
 Upon reviewing the petition, the Cammer requested a _Forstamt_, the forestry authority, report likely to ensure
