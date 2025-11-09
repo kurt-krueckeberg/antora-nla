@@ -1,8 +1,6 @@
 = Document 4½: Geometric Drawing of Two Parcels (30 Mar. 1799)
 :page-role: wide
 
-image::08-right-page.png[link=self]
-
 [role="narrow"]
 == Explanation 
 
@@ -20,6 +18,8 @@ negotiations, inspections, and back-and-forth between offices.
 earlier.
 
 == Transliteration and Translation
+
+image::08-right-page.png[link=self]
 
 === Transliteration of Diagram Text
 
