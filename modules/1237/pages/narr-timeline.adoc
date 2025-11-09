@@ -6,9 +6,9 @@
 |===
 |Doc No. |Date |Key content / action
 
-|*3* |11 Mar 1799 |_Concept Cammer Rescript_ to the Amt Bückeburg,
+|*3* |11 Mar 1799 |_Concept Cammer Rescript_ to the Bückeburg Office,
 ordering implementation of the Chamber’s decision following the 27 Feb
-1799 Amt report. Signed "`Anstatt pp Hering Riehe MKaas Emmerwarth v.
+1799 Office report. Signed "`Anstatt pp Hering Riehe MKaas Emmerwarth v.
 Landesberg.`"
 
 |*4* |18 Oct 1800 |_Report of the same officials_, apparently confirming
@@ -17,7 +17,7 @@ execution or boundaries of the assigned plot.
 |*4½* |(undated) |_Lieutenant Funck’s report_ on measurement or
 valuation of the land. Usually attached to #4.
 
-|*5* |27 Oct 1800 |_Concept Cammer Rescript_ to the Amt Bückeburg and to
+|*5* |27 Oct 1800 |_Concept Cammer Rescript_ to the Bückeburg Office and to
 Chamber treasurer Stackmann, authorizing preparation of the purchase
 deed; closing line "`Grafl: p MKaas Wint J. Danckwerth.`"
 
@@ -29,18 +29,19 @@ plot.
 acknowledgment of execution.
 |===
 
-== 1. The Petition is Initiated at the Amt (29 May 1798)
+== 1. The Petition is Initiated at the Bückeburg Office (29 May 1798)
 
 On May 29, 1798, _Jobst Heinrich Krückeberg_, a Colonist at No. 10 in _Berenbusch_,
-petitioned the _Amt in Bückeburg_ to purchase adjacent plots to enlarge his garden and
-farmyard. An official named _Lindemann_ recorded his request.
-This identifies Lindemann as the scribe of the petition, acting on Krückeberg’s behalf.
+petitioned the _Amt in Bückeburg_ (local goverment office) to purchase adjacent
+plots to enlarge his garden and farmyard. An official named _Lindemann_ recorded
+his request. This identifies Lindemann as the scribe of the petition, acting on
+Krückeberg’s behalf.
 
 [quote]
 ____
 Close to my garden, on the common land by the road, there lies a sloping
 corner of land which is uncultivated and therefore of no use to anyone,
-and which even causes the road to be uneven.  Since this corner adjoins
+and which even causes the road to be uneven. Since this corner adjoins
 my garden, I would like to cultivate it and purchase it.
 ____
 
@@ -74,29 +75,29 @@ MKaas concluded that:
 - The area in question was near the village and not part of any important forest tract,
 - The land could be cleared, but three saplings should be planted elsewhere as compensation.
 
-== 4. Mariginal Note of Brief Written Order to Amt Bückeburg (18 Feb. 1799)
+== 4. Mariginal Note of Brief Written Order to Bückeburg Office (18 Feb. 1799)
 
-On 18 February 1799 a marginal note (written on the Amt's Petition) by Forstmeister
+On 18 February 1799 a marginal note (written on the Office's Petition) by Forstmeister
 Kaas records that a brief written order from the Vormundschaftliche Kammer was sent
-to the Bückeburg Amt, instructing it to report on the case. 
+to the Bückeburg Office, instructing it to report on the case. 
 
-[quote,Vormundschaftliche Kammer Notation on Amt Petition]
+[quote,Vormundschaftliche Kammer Notation on Bückeburg Office Petition]
 ____
-A short written order from the Chamber was sent to the Amt for its report.
+A short written order from the Chamber was sent to the Office for its report.
 Bückeburg, 18 February 1799. MKaas.
 ____
 
 The exact wording of that order and any enclosures (such as the Forestry
-Report) are not preserved; only this short reference and the Amt’s subsequent
+Report) are not preserved; only this short reference and the Office’s subsequent
 xref:contents-list.adoc#desfallsiger-bericht[Desfallsiger Bericht] in the
 Designatio Actorum (Document No. 2) remain.
 
 == 5. The  “Report by the officials at Bückeburg on this matter.” (27 Feb. 1799) 
 
-The Ämter of Bückeburg and Arensburg prepared Document #2, on February, 27,
+The Offices of Bückeburg and Arensburg prepared Document #2, on February, 27,
 1799, to inform the Cammer that they had reviewed the forestry report, and to
 report that locally only one Berenbusch resident named Weiland raised
-objections — which the Ämter dismissed as without merit.
+objections — which the Offices dismissed as without merit.
 
 == 6. Guardianship Chamber Resolution: Approved Allocation of Parcel to Krückeberg (10 Mar. 1799)
 
@@ -117,21 +118,21 @@ The Chamber informs the Bückeburg officials that:
 .. plant three saplings at another forest site for each willow or poplar felled and sold by the forestry
 office
 .. pay 24 Mariengroschen per square rod for the plot.
-* If Krückeberg agrees to these conditions, the Amt is to:
+* If Krückeberg agrees to these conditions, the Office is to:
 [arabic,start=1]
 .. have a sworn surveyor survey the plots, and
 .. report its size back to the Cammer.
 
-== 8. Amt of Bückeburg and Arensburg Reply to Guradianship Chamber Decree (18 Mar. 1800)
+== 8. Offices of Bückeburg and Arensburg Reply to Guradianship Chamber Decree (18 Mar. 1800)
 
 The survey drawings of the two parcels assigned to Jobst Henrich Krückeberg, No. 10 in Berenbusch, 
 show two areas, one of *19 rods 44 feet decimal* and the other of *1 rod 90 feet*. This is equivalent to
 *2,540 sq ft* and *215 sq ft*, or about the size of *¼ of a modern tennis court*.
 
-The Ämter propose that Krückeberg pay, beginning at Michaelmas, September 29^th^, an annual
+The Offices propose that Krückeberg pay, beginning at Michaelmas, September 29^th^, an annual
 fee for the granted land of 2 Reichsthaler 1 Schilling, exclusive of exchange charges (agio).
 
-== 9. Amt Provides Survey Drawings and Proposes Fees Krückeberg Will Pay (18 Oct. 1800)
+== 9. Offices Provides Survey Drawings and Proposes Fees Krückeberg Will Pay (18 Oct. 1800)
 
 == 10. Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
 
