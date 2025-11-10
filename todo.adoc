@@ -24,6 +24,10 @@ Do this:
 Document #2 tries to summarize the NC numbers. Remove this and instead
 create a separated page for all the module (See below) based on ~/nla/rentcammer-headers-explained.md
 
+=== Timeline
+
+Create one.
+
 == For All the Modules
 
 * Determine the difference between a note noted as "Concept/Cpt" and one note using "R.C."
