@@ -93,7 +93,7 @@ Sander
 * *8/C* = "8 x 100" -> 800. *8/C* was shorthand for 800.
 ====
 
-=== Comments of Document Identifiers
+== Comments of Document Identifiers
 
 The document identifiers were written by:
 
@@ -106,7 +106,7 @@ outgoing report.
 * The *top-left "`Nr. 2935`"* and *"`Præs. 8 Aug 1824`"* were then added
 _after receipt_ by the Rentkammer registry.
 
-==== ✅ Summary
+=== ✅ Summary
 
 [width="80%",cols="15%,14%,41%,30%",options="header"]
 |===
