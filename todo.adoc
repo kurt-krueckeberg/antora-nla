@@ -13,6 +13,8 @@ In case 1237 the Rentkammer is not involved, so remove it from the introduction.
 
 == Organize 139's doc1 and doc2
 
+FINISH Transliterations and Translations.
+
 Document #1 page is very busy and poorly organized. It is not readily understandable, not 'friendly'.
 Do this:
 
