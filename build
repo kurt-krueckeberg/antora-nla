@@ -1,8 +1,43 @@
 #!/usr/bin/env bash
+
+# --- 1. Immediate Action: Get Password Authentication Out of the Way ---
+echo "Please enter your sudo password now. The Antora build will run immediately after."
+sudo -v # <--- THIS prompts for the password immediately.
+
+# Check if authentication succeeded (optional but good practice)
+if [ $? -ne 0 ]; then
+    echo "Sudo authentication failed. Exiting script."
+    exit 1
+fi
+
+# --- 2. Build Preparation (Quick Steps) ---
+echo "Starting Antora build preparation..."
 rm -rf public
-npx antora local-playbook.yml 
-cp  fonts/* public/_/font/
-/usr/bin/rm -rf /var/www/krueckeberg.org/nla/*
-/usr/bin/cp -r public /var/www/krueckeberg.org/nla
-/usr/bin/chown -R root:www-data /var/www/krueckeberg.org/nla
-/usr/bin/chmod -R g+w /var/www/krueckeberg.org/nla
+
+git pull
+
+# --- 3. Long-Running Task: Antora Build ---
+echo "Running Antora build (you can work while this runs)..."
+node --max-old-space-size=2560 `which npx` antora antora-playbook.yml
+
+# Check if Antora succeeded before deployment
+if [ $? -ne 0 ]; then
+    echo "Antora build failed. Deployment aborted."
+    exit 1
+fi
+
+# Copy fonts (non-sudo operation)
+cp fonts/* public/_/font/
+
+# --- 4. Deployment (Runs Silently Now) ---
+echo "Deployment started (password already authenticated)..."
+# These commands will run silently because sudo -v authenticated you
+# and reset the timeout just before the Antora build started.
+
+sudo /usr/bin/rm -rf /var/www/krueckeberg.org/nla/*
+sudo /usr/bin/cp -r public /var/www/krueckeberg.org/nla
+sudo /usr/bin/chown -R root:www-data /var/www/krueckeberg.org/nla
+sudo /usr/bin/chmod -R g+w /var/www/krueckeberg.org/nla
+
+echo "Build and deployment complete."
+
