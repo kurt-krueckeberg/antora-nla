@@ -12,7 +12,7 @@ fi
 
 # --- 2. Build Preparation (Quick Steps) ---
 echo "Starting Antora build preparation..."
-rm -rf public
+sudo rm -rf public
 
 git pull
 
