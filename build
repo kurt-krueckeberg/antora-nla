@@ -18,7 +18,7 @@ git pull
 
 # --- 3. Long-Running Task: Antora Build ---
 echo "Running Antora build (you can work while this runs)..."
-node --max-old-space-size=2560 `which npx` antora antora-playbook.yml
+node --max-old-space-size=2560 `which npx` antora local-playbook.yml
 
 # Check if Antora succeeded before deployment
 if [ $? -ne 0 ]; then
