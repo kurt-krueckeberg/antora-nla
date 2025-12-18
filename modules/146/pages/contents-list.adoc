@@ -32,7 +32,7 @@ Vorstellung von Schneider Krückeberg im Evesen
 
 |4
 |Bericht der Aemter Bückeburg u. Arensburg
-.3+|Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
+.3+.^|Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
 Hude-Interessenten.
 |
 |
@@ -58,7 +58,7 @@ Ein geometische Zeichnung von Stille
 |7 
 |Concept Camr Rescripts aus Amt Bückeburg +
 Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
-.5+|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
+.5+.^|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
 | 
 | 
 | 
