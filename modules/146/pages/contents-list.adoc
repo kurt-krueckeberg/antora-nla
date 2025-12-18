@@ -8,9 +8,10 @@
 (right)|Ort|Jahr|Monat|Tag
 
 |1
-|Pto +
+|
 Vorstellung von Schneider Krückeberg im Evesen
-.3+|?? Gesuch des Schneider Krückeberg +
+.3+|Pto +
+Gesuch des Schneider Krückeberg +
 in Evesen um Answeisung eines Platzes +
 zum Hausbau vor Bärenbusch.
 |Bückeburg
