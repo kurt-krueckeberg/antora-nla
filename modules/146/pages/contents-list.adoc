@@ -112,7 +112,7 @@ gedachten Krückeberg
 .Meaning of "pto"
 [NOTE]
 ====
-* pto = _Lat. pro_ “concerning / with reference to / regarding”
+pto = _Lat. pro_ “concerning / with reference to / regarding”
 ====
 
 .Translation
