@@ -3,6 +3,9 @@
 
 image::cover-top.jpg[title=Case file cover (Click to Enlarge),link=self]
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
