@@ -70,7 +70,6 @@ table.tableblock.widepair td {
   border: 3px solid #444;         /* dark gray frame */
 }
 
-
 /* Making sections narrower */
 .literal-narrow {
     max-width: 95ch;
