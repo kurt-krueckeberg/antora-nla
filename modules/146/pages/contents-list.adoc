@@ -94,4 +94,4 @@ gedachten Krückeberg
 |
 |===
 
-a::definition list
+* pto = _Lat. pro_ “concerning / with reference to / regarding”
