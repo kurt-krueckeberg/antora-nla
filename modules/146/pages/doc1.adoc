@@ -1,6 +1,14 @@
 = Document #1
 :page-role: wide
 
+== Images
+
+image::02-r.png[title=2nd page of peitition,link=self]
+
+image::03-l.png[title=2nd page of peitition,link=self]
+
+== Transliteration and Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Nr Cam. 260.                         praes. 30. Sept. 1808.
@@ -25,5 +33,29 @@ Dieser Platz nun ist zwar zum Haus-Bau sehr unbequem, indem lauter Grunde darauf
 sind, deren Ausfüllung und Ebening viele Mühe erfodern wird. Allein er ist mir deswegen gele-
 gen, weil er nicht zu weit von lauten entfernt ist, worauf ich wegen meiner Schneider
 Profession besonders Bedacht nehmen muß.
-Jndan
+
+
+Indem ich nun die Hofnung seye,
+dass euer Durchlaucht in betracht der
+vielen Muhe, welche die Ebenung
+dieses Platzes erfodern wird, den Preis
+desselben nicht zu hoch ansetzen werden,
+so ergeht an Ew. Durchlauchten meine
+urterthenigste Bitte:
+
+mir jenen Platz zum Hausbau-
+gnädigst gegen en billiges
+zu überlassen.
+
+Ich erstecke in tiefster Ehrfurcht
+Ew. Durchlauchten
+
+Unterthänigster Knecht
+Schneider Krückenberg
+in Evesen
+
+Sepp
+13by. d. 29ten Sept.
+1808.
+H Swellman
 ....
