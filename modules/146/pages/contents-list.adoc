@@ -8,7 +8,8 @@
 (right)|Ort|Jahr|Monat|Tag
 
 |1
-|Vorstellung von Schneider Krückeberg im Evesen
+|Pto +
+Vorstellung von Schneider Krückeberg im Evesen
 .3+|?? Gesuch des Schneider Krückeberg +
 in Evesen um Answeisung eines Platzes +
 zum Hausbau vor Bärenbusch.
@@ -33,7 +34,7 @@ zum Hausbau vor Bärenbusch.
 
 |4
 |Bericht der Aemter Bückeburg u. Arensburg
-|Wegen seiner Vermögens Plenstände und persönlichten Eigenschaften auch wegen Zufrindenheit der Hude-Jeteves senten
+.3+|Wegen seiner Vermögens Plenstände und persönlichten Eigenschaften auch wegen Zufrindenheit der Hude-Jeteves senten
 |
 |
 |
@@ -41,7 +42,6 @@ zum Hausbau vor Bärenbusch.
 
 |5
 |Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg
-|Eigenschaften auch wegen...
 |
 |
 |
@@ -51,7 +51,6 @@ zum Hausbau vor Bärenbusch.
 ad 6
 |Bericht gedachter Aemter +
 Ein geometische Zeichnung von Stille
-|
 |
 |
 |
