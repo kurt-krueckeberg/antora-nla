@@ -7,18 +7,21 @@ image::02-r.png[title=1st page of tailor Krückeberg's peitition,link=self]
 
 image::03-l.png[title=2nd page of tailor Krückeberg's peitition,link=self]
 
+See link:https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3[Corrections to Text]
+
 [.narrow]
 == Transliteration and Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Nr Cam. 260.                         praes. 30. Sept. 1808.
+Nr. Cam. 260.                         praes. 30. Sept. 1808.
 
 
 Durchlauchtigster Fürst.
 Gnädigst regierender Fürst
 und Herr!
 
-[??]. A. F. o K.
+N. A. F. o K.
 Res: Cam: Dem Amte brevi manu zum Berichte über die Vermögens-Umstände und
 über die persönlichen Eigenschaften des Supplicanten. B. 2. Octbr. 1808.
 P[?]kaas
@@ -28,19 +31,19 @@ aber jetzt mich selbst anzubauen. Vor Bärenbuscht liegt ein Platz, der vorher
 schon von Forst-Amtswegen besichtiget worden, beÿ Gelegenheit daß ein Anderer
 sich da anzubauen wünschte, welcher aber den Platz nicht bezahlen konnte.
 
-Dieser Platz nun ist zwar zum Haus-Bau sehr unbequem, indem lauter Grunde
-darauf sind, deren Ausfüllung und Ebening viele Mühe erfodern wird. Allein er
-ist mir deswegen gelegen, weil er nicht zu weit von lauten entfernt ist,
+Dieser Platz nun ist zwar zum Haus-Bau sehr unbequem, indem lauter Gründe
+darauf sind, deren Ausfüllung und Ebenung viele Mühe erfordern wird. Allein er
+ist mir deswegen gelegen, weil er nicht zu weit von Lauten entfernt ist,
 worauf ich wegen meiner Schneider Profession besonders Bedacht nehmen muß.
 
-Indem ich nun die Hofnung seye, dass euer Durchlaucht in betracht der vielen
-Muhe, welche die Ebenung dieses Platzes erfodern wird, den Preis desselben
+Indem ich nun die Hofnung seye, dass Euer Durchlaucht in Betracht der vielen
+Mühe, welche die Ebenung dieses Platzes erfodern wird, den Preis desselben
 nicht zu hoch ansetzen werden, so ergeht an Ew. Durchlauchten meine
-urterthenigste Bitte:
+urterthänigste Bitte:
 
-mir jenen Platz zum Hausbau gnädigst gegen en billiges zu überlassen.
+mir jenen Platz zum Hausbau gnädigst gegen en Billiges zu überlassen.
 
-Ich erstecke in tiefster Ehrfurcht Ew. Durchlauchten
+Ich erstecke mich in tiefster Ehrfurcht Ew. Durchlauchten
 
 Unterthänigster Knecht
 Schneider Krückenberg in Evesen
@@ -50,3 +53,26 @@ Sepp
 1808.
 H Swellman
 ....
+
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+
+=== Translation Notes
+
+*Einlieger* →  lodger (non-landholding resident)
+
+*mich selbst anzubauen* →  to establish myself independently (i.e., to build and maintain one’s own holding)
+
+*Forst-Amtswegen* →  by the Forestry Office
+
+*Gründe* →  uneven grounds / irregular ground
+
+*Leuten* →  people (important for a tailor’s livelihood)
+
+*gegen ein Billiges* →  at a reasonable price
+
+*Ich erstrecke mich* →  formal closing: I remain
