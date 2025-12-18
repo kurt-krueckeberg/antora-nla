@@ -7,6 +7,7 @@ image::02-r.png[title=1st page of tailor Krückeberg's peitition,link=self]
 
 image::03-l.png[title=2nd page of tailor Krückeberg's peitition,link=self]
 
+[.narrow]
 == Transliteration and Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
