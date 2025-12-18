@@ -79,7 +79,6 @@ Ein geometische Zeichnung von Stille
 |Nov. 
 |15 
 
-
 |8
 |Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
 |__
@@ -124,46 +123,90 @@ gedachten Krückeberg
 .3+.^|Concerning the petition of the tailor Krückeberg
 in Evesen for the assignment of a building site
 for house construction in front of Berenbusch.
+|Bückeburg
+|1808
+|Sept
+|29
 
 |2
 |Report of the administrative offices of Bückeburg and Arensburg
+|__
+|__
+|Oct
+|21
 
 |3
 |Drafts of Cameral rescripts from the Office of Bückeburg
+|__
+|__
+|__
+|31
 
 |4
 |Report of the administrative offices of Bückeburg and Arensburg
 .3+.^|Because of his financial circumstances and personal qualities,
 and also on account of the satisfaction of the common-pasture
 stakeholders.
+|__
+|1809
+|Jan.
+|12
 
 |5
 |Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
+|__
+|__
+|__
+|23
 
 |6 +
 re: 6
 |Report of the aforementioned administrative offices,
 together with a geometrical (survey) drawing by Stille
+|__
+|__
+|Oct
+|28
 
 |7
 |Drafts of Cameral rescripts from the Office of Bückeburg,
 also draft of a Cameral instruction to the Chamber Rent-Master Staackmann
 .5+.^|Concerning the Cameral approval of the payment monies
 and the execution of the purchase deed.
+|__ 
+|__ 
+|Nov. 
+|15 
 
 |8
 |Petition of the wife of the new settler Krückeberg,
 No. 18, in Berenbusch
+|__
+|__
+|Decb.
+|7
 
 |9
 |Draft of a Cameral decree addressed to this colonist Krückeberg
+|__
+|__
+|__
+|12
 
 |10
 |Certificate issued by the Chamber Rent-Master Staackmann
 concerning paid site-allocation fees by the oft-mentioned Krückeberg
+|__
+|__
+|__
+|__
 
 |11
 |Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
 concerning a building site for house construction and garden
+|__
+|__
+|__
+|20
 |===
 
