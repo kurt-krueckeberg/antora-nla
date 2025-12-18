@@ -3,9 +3,9 @@
 
 == Images
 
-image::02-r.png[title=2nd page of peitition,link=self]
+image::02-r.png[title=1st page of tailor Krückeberg's peitition,link=self]
 
-image::03-l.png[title=2nd page of peitition,link=self]
+image::03-l.png[title=2nd page of tailor Krückeberg's peitition,link=self]
 
 == Transliteration and Translation
 
