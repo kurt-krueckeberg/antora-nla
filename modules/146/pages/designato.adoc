@@ -7,7 +7,7 @@
 |1
 |Vorstellung von Schneider Krückeberg im Evesen
 .3+|?? Gesuch des Schneider Krückeberg +
-in Evesen ein Answeisung eines Platzes +
+in Evesen um Answeisung eines Platzes +
 zum Hausbau vor Bärenbusch.
 |Bückeburg
 |1808
@@ -16,21 +16,21 @@ zum Hausbau vor Bärenbusch.
 
 |2
 |Bericht der Aemter Bückeb: u. Arensburg
-|ditto
-|ditto
+|__
+|__
 |Oct
 |21
 
 |3
 |Concept Camr. Rescripts aus Amt Bückeburg
-|
-|
-|
-|
+|__
+|__
+|__
+|31
 
 |4
 |Bericht der Aemter Bückeburg u. Arensburg
-|Wegen seiner Vermögens Plenstände und persönlichten Eigenschaften auch wegen ?ufrindenheit der 
+|Wegen seiner Vermögens Plenstände und persönlichten Eigenschaften auch wegen Zufrindenheit der Hude-Jeteves senten
 |
 |
 |
@@ -57,7 +57,7 @@ Ein geometische Zeichnung von Stille
 |7 
 |Concept Camr Rescripts aus Amt Bückeburg +
 Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
-| 
+|pto Camr. Bewilligung Zahlungs:Gelder und Ausfertigung des Kauf:Briefs
 | 
 | 
 | 
