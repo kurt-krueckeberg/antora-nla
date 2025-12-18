@@ -1,4 +1,5 @@
 = Case File Cover
+:page-role: wide
 
 image::cover-top.jpg[title=Case file cover (Click to Enlarge),link=self]
 
