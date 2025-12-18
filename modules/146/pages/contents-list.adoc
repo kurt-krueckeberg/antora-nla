@@ -84,15 +84,15 @@ Ein geometische Zeichnung von Stille
 |Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
 |
 |
-|
-|15
+|Decb.
+|7
 
 |9
 |Concept Camr Erlaß an diesen Kolon Krückeberg
 |
 |
 |
-|
+|12
 
 |10
 |Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
@@ -107,7 +107,7 @@ gedachten Krückeberg
 |
 |
 |
-|
+|20
 |===
 
 * pto = _Lat. pro_ “concerning / with reference to / regarding”
