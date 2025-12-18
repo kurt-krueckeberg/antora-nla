@@ -9,6 +9,16 @@ body.wide .doc
    }
 }
 
+body.very-wide .doc
+{
+   max-width: none;  /* Changing this to 'none' widens the page */
+}
+
+@media screen and (min-width:1024px) {
+   body.very-wide .doc {
+      max-width: none; /* Changing this to 'none' widens the page */
+   }
+}
 /* === Make top nav text visible on dark header background === */
 .navbar,
 .navbar .navbar-item,
@@ -21,19 +31,14 @@ body.wide .doc
   background: none !important;    /* avoid gray highlight */
 }
 
+
 /* When ':page-role: wide' is used, images will have shadwow-border. */
-/* body.wide .imageblock img {*/
-body.article .imageblock img {
+body.wide .imageblock img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   background: white;
   padding: 6px;
   max-width: 100%;
-  height: auto;
-}
-
-img.scale-25 {
-  width: 25%;
   height: auto;
 }
 
@@ -50,20 +55,22 @@ img.scale-25 {
  *  
  */
 
-.short-width {
-width: 30%;
-}	
-/* Your dark border */
-.literalblock.bordered {
-  border: 2px solid #444;
-  border-radius: 4px;
-}
-
 /* Reduce cell padding for these paired tables */
 table.tableblock.widepair td {
   padding-left: 1.25em;
   padding-right: 1.25em;
 }
+
+/* Bordering the content only of literal blocks */
+.literalblock.bordered > .content {
+  background-color: #f9f9f9;      /* subtle contrast */
+  box-shadow: 0 0 4px rgba(0,0,0,0.15);  /* soft depth */
+  margin-top: 0.4em;              /* separation from title */
+  padding: 0.85em 1em;            /* breathing room inside box */
+  border-radius: 6px;             /* rounded corners */
+  border: 3px solid #444;         /* dark gray frame */
+}
+
 
 /* Making sections narrower */
 .literal-narrow {
@@ -77,11 +84,6 @@ table.tableblock.widepair td {
     max-width: 90ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
-
-.wide-again {
-    max-width: 85rem;
-}
-
 
 .narrow {
     max-width: 95ch;

@@ -5,36 +5,6 @@ image::cover-top.jpg[title=Case file cover (Click to Enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation
-
-.Transliteration
-[literal.bordered,subs="verbatim,quotes"]
-....
-Bauerngüters Colonien                 Rep I
-[.line-through]#Special#
-R.C. 257
-
-BAmt Bückeburg
-
-II Berenbusch
-
-    Bauernguter Colonien
-          in der Grafschaft
-          Schaumburg
-
-   in specie
-einen dem Neubauer J. Henr.
-Krückeberg no. 18 Berenbusch
-ausgewiesenen Platz zum Colo-
-niebua (Haus und Garten)
-vor Furstgrunde
-
-
-
-
-
-Berenbusch no. 18
-.... 
-
  
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
