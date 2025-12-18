@@ -1,0 +1,96 @@
+[%header,cols="1,8,4,3,1,2,1"]
+|===
+|Nr|Designatio Actorum +
+(left) |Descr. +
+(right)|Ort|Jahr|Monat|Tag
+
+|1
+|Vorstellung von Schneider Krückeberg im Evesen
+.3+|?? Gesuch des Schneider drückeberg in Evesen ein Answeisung eines Platzes yum Hausbau vor Bärenbusch.
+|Bückeburg
+|1808
+|Sept
+|29
+
+|2
+|Bericht der Aemter Bückeb: u. Arenburg
+|ditto
+|ditto
+|Oct
+|21
+
+|3
+|Concept Camr. Rescripts aus Amt Bückeburg
+|
+|
+|
+|
+
+|4
+|Berich der Aemter Bückeburg u. Arensburg
+|Wegen seiner Vermögens
+|
+|
+|
+|
+
+|5
+|Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg
+|Eigenschaften auch wegen...
+|
+|
+|
+|
+
+|6 +
+ad 6
+|Bericht gedachter Aemter +
+Eingeometische Zeichnung von Stille
+|
+|
+|
+|
+|
+
+|7 
+|Concept Camr Rescripts aus Amt Bückeburg +
+Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
+| 
+| 
+| 
+| 
+| 
+
+|8
+|Bittschrfit der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
+|
+|
+|
+|
+|
+
+|9
+|Concept Camr Erlaß an diesen Kolon Krückeberg
+|
+|
+|
+|
+|
+
+|10
+|Bescheiningung vom Kammerrent Mstr. Staachman, über bezahlte Platz über bezahlte Platz-Ausweisungs Gelder von oft
+gedachten Krückeberg
+|
+|
+|
+|
+|
+
+|11
+|Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau und Garten
+|
+|
+|
+|
+|
+|===
