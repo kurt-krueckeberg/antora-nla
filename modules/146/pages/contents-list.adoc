@@ -114,9 +114,9 @@ gedachten Krückeberg
 .Translation
 [%header,cols="1,8,4,3,1,2,1"]
 |===
-|No.
-|Description of the documents (left)
-|Subject / matter (right)
+|No.|Designatio Actorum +
+(left) |Descr. +
+(right)|Ort|Jahr|Monat|Tag
 
 |1
 |Petition submitted by the tailor Krückeberg in Evesen
