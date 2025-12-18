@@ -3,7 +3,7 @@
 
 == Designatio Actorum
 
-*Dsignation Actorum* means the "contents list". It is the table of contents:
+The *Designation Actorum* is the table of contents:
 
 image::01-r.png["Click to Enlarge (then click again on the image),link=self]
 
