@@ -1,7 +1,13 @@
 = 146: Contents List
 :page-role: wide
 
-image::01-r.png["Designatio Actorum (contents list)"link=self]
+== Designatio Actorum
+
+*Dsignation Actorum* means the "contents list". It is the table of contents:
+
+image::01-r.png["Click to Enlarge (then click again on the image),link=self]
+
+== Transliteration and Translation
 
 .Transliteration
 [%header,cols="1,8,4,3,1,2,1"]
