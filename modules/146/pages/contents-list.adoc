@@ -112,7 +112,7 @@ gedachten Krückeberg
 * pto = _Lat. pro_ “concerning / with reference to / regarding”
 
 .Translation
-[%header,cols="1,8,6"]
+[%header,cols="1,8,4,3,1,2,1"]
 |===
 |No.
 |Description of the documents (left)
