@@ -8,7 +8,6 @@ image::02-r.png[title=1st page of tailor Krückeberg's peitition,link=self]
 image::03-l.png[title=2nd page of tailor Krückeberg's peitition,link=self]
 
 == Transliteration and Translation
-
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Nr Cam. 260.                         praes. 30. Sept. 1808.
@@ -35,24 +34,17 @@ gen, weil er nicht zu weit von lauten entfernt ist, worauf ich wegen meiner Schn
 Profession besonders Bedacht nehmen muß.
 
 
-Indem ich nun die Hofnung seye,
-dass euer Durchlaucht in betracht der
-vielen Muhe, welche die Ebenung
-dieses Platzes erfodern wird, den Preis
-desselben nicht zu hoch ansetzen werden,
-so ergeht an Ew. Durchlauchten meine
+Indem ich nun die Hofnung seye, dass euer Durchlaucht in betracht der
+vielen Muhe, welche die Ebenung dieses Platzes erfodern wird, den Preis
+desselben nicht zu hoch ansetzen werden, so ergeht an Ew. Durchlauchten meine
 urterthenigste Bitte:
 
-mir jenen Platz zum Hausbau-
-gnädigst gegen en billiges
-zu überlassen.
+mir jenen Platz zum Hausbau gnädigst gegen en billiges zu überlassen.
 
-Ich erstecke in tiefster Ehrfurcht
-Ew. Durchlauchten
+Ich erstecke in tiefster Ehrfurcht Ew. Durchlauchten
 
 Unterthänigster Knecht
-Schneider Krückenberg
-in Evesen
+Schneider Krückenberg in Evesen
 
 Sepp
 13by. d. 29ten Sept.
