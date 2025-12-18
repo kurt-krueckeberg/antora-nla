@@ -109,7 +109,11 @@ gedachten Krückeberg
 |20
 |===
 
+.Meaning of "pto"
+[NOTE]
+====
 * pto = _Lat. pro_ “concerning / with reference to / regarding”
+====
 
 .Translation
 [%header,cols="1,8,4,3,1,2,1"]
