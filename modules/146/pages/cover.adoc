@@ -2,7 +2,7 @@
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-BauerngütersColonien                 Rep I
+Bauerngüters Colonien                 Rep I
 [.line-through]#Special#
 R.C. 257
 
@@ -17,9 +17,15 @@ II Berenbusch
    in specie
 einen dem Neubauer J. Henr.
 Krückeberg no. 18 Berenbusch
-ausgewiesung Platz zum Colo-
+ausgewiesenen Platz zum Colo-
 niebua (Haus und Garten)
-vor Furstgeuede
+vor Furstgrunde
+
+
+
+
+
+Berenbusch no. 18
 .... 
 
           
