@@ -7,7 +7,7 @@ echo "=== Antora Build Started: $(date) ==="
 # 1. CLEAN PREVIOUS BUILD
 #
 echo "Cleaning previous build..."
-sudo rm -rf /home/kurt/antora-nla/public
+rm -rf /home/kurt/antora-nla/public
 
 #
 # 2. GIT PULL FROM REPO
