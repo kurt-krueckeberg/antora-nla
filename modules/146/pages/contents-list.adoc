@@ -10,10 +10,7 @@
 |1
 |
 Vorstellung von Schneider Krückeberg im Evesen
-.3+|Pto +
-Gesuch des Schneider Krückeberg +
-in Evesen um Answeisung eines Platzes +
-zum Hausbau vor Bärenbusch.
+.3+.^|Pto Gesuch des Schneider Krückeberg in Evesen um Answeisung eines Platzes zum Hausbau vor Bärenbusch.
 |Bückeburg
 |1808
 |Sept
