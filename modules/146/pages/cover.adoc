@@ -1,6 +1,5 @@
 = Case File Cover
 
-
 [literal.bordered,subs="verbatim,quotes"]
 ....
 BauerngütersColonien                 Rep I

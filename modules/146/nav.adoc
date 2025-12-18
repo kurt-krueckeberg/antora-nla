@@ -1,4 +1,4 @@
 * 146
-** cover.adoc[]
+** xref:cover.adoc[]
 ** xref:contents-list.adoc[]
 
