@@ -1,0 +1,26 @@
+= Case File Cover
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+BauerngütersColonien                 Rep I
+[.line-through]#Special#
+R.C. 257
+
+BAmt Bückeburg
+
+II Berenbusch
+
+    Bauernguter Colonien
+          in der Grafschaft
+          Schaumburg
+
+   in specie
+einen dem Neibaier J. Henr.
+Kr[ckeberg no. 18 Berenbusch
+ausgewiesung Platz zum Colo-
+niebua (Haus und Garten)
+vor Furstgeuede
+.... 
+
+          
