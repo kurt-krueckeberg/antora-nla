@@ -65,13 +65,20 @@ Ein geometische Zeichnung von Stille
 |28
 
 |7 
-|Concept Camr Rescripts aus Amt Bückeburg +
-Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
-.5+.^|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
+|Concept Camr Rescripts aus Amt Bückeburg
+.6+.^|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
 | 
 | 
 |Nov. 
 |15 
+
+|7 
+|Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
+| 
+| 
+|Nov. 
+|15 
+
 
 |8
 |Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
