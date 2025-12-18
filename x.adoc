@@ -1,0 +1,85 @@
+[%header,cols="1,8"]
+|===
+|Nr|Designatio Actorum
+
+|1
+|Vorstellung von Schneider Krückeberg in Evesen
+
+|2
+|Bericht der Aemter Bückeb: u. Arensburg
+
+|3
+|Concept Camr. Rescripts aus Amt Bückeburg
+
+|4
+|Bericht der Aemter Bückeburg u. Arensburg
+
+|5
+|Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg
+
+|6 +
+ad 6
+|Bericht gedachter Aemter +
+Ein geometrische Zeichnung von Stille
+
+|7
+|Concept Camr Rescripts aus Amt Bückeburg +
+Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
+
+|8
+|Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
+
+|9
+|Concept Camr Erlaß an diesen Colon Krückeberg
+
+|10
+|Bescheinigung vom Kammerrent Mstr. Staackmann, über bezahlte Platz-Ausweisungs Gelder von oft
+gedachten Krückeberg
+
+|11
+|Concept Kaufbriefs für diesen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau und Garten
+|===
+
+
+.Translation
+[%header,cols="1,8"]
+|===
+|No.|Description of the documents
+
+|1
+|Petition submitted by the tailor Krückeberg in Evesen
+
+|2
+|Report of the administrative offices of Bückeburg and Arensburg
+
+|3
+|Drafts of Cameral rescripts from the Office of Bückeburg
+
+|4
+|Report of the administrative offices of Bückeburg and Arensburg
+
+|5
+|Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
+
+|6 +
+re: 6
+|Report of the aforementioned administrative offices +
+A geometrical (survey) drawing by Stille
+
+|7
+|Drafts of Cameral rescripts from the Office of Bückeburg +
+Also: draft of a Cameral instruction to the Chamber Rent-Master Staackmann
+
+|8
+|Petition of the wife of the new settler (Neubauer) Krückeberg, No. 18, in Berenbusch
+
+|9
+|Draft of a Cameral decree addressed to this colonist Krückeberg
+
+|10
+|Certificate issued by the Chamber Rent-Master Staackmann concerning paid site-allocation fees by the oft-mentioned Krückeberg
+
+|11
+|Draft purchase deed for this Krückeberg, No. 18, in Berenbusch, concerning a building lot for house construction and garden
+|===
+

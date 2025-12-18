@@ -15,7 +15,7 @@ zum Hausbau vor Bärenbusch.
 |29
 
 |2
-|Bericht der Aemter Bückeb: u. Arenburg
+|Bericht der Aemter Bückeb: u. Arensburg
 |ditto
 |ditto
 |Oct
@@ -47,7 +47,7 @@ zum Hausbau vor Bärenbusch.
 |6 +
 ad 6
 |Bericht gedachter Aemter +
-Eingeometische Zeichnung von Stille
+Ein geometische Zeichnung von Stille
 |
 |
 |
@@ -64,7 +64,7 @@ Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
 | 
 
 |8
-|Bittschrfit der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
+|Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
 |
 |
 |
@@ -80,7 +80,7 @@ Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
 |
 
 |10
-|Bescheiningung vom Kammerrent Mstr. Staachman, über bezahlte Platz über bezahlte Platz-Ausweisungs Gelder von oft
+|Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
 gedachten Krückeberg
 |
 |
