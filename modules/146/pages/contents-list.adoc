@@ -35,7 +35,8 @@ zum Hausbau vor Bärenbusch.
 
 |4
 |Bericht der Aemter Bückeburg u. Arensburg
-.3+|Wegen seiner Vermögens Plenstände und persönlichten Eigenschaften auch wegen Zufrindenheit der Hude-Jeteves senten
+.3+|Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
+Hude-Interessenten.
 |
 |
 |
@@ -60,7 +61,7 @@ Ein geometische Zeichnung von Stille
 |7 
 |Concept Camr Rescripts aus Amt Bückeburg +
 Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
-.3+|pto Camr. Bewilligung Zahlungs:Gelder und Ausfertigung des Kauf:Briefs
+.5+|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
 | 
 | 
 | 
@@ -87,11 +88,9 @@ gedachten Krückeberg
 |
 |
 |
-|
 
 |11
 |Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau und Garten
-|
 |
 |
 |
