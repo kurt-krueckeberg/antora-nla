@@ -1,5 +1,5 @@
-* 146
-** xref:cover.adoc[]
-** xref:contents-list.adoc[]
-*** xref:doc1.adoc[]
+.xref:index.adoc[]
+* xref:cover.adoc[]
+* xref:contents-list.adoc[]
+** xref:doc1.adoc[]
 
