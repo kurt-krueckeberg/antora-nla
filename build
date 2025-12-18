@@ -1,43 +1,44 @@
 #!/usr/bin/env bash
+set -e
 
-# --- 1. Immediate Action: Get Password Authentication Out of the Way ---
-echo "Please enter your sudo password now. The Antora build will run immediately after."
-sudo -v # <--- THIS prompts for the password immediately.
+echo "=== Antora Build Started: $(date) ==="
+#
+#
+# 1. CLEAN PREVIOUS BUILD
+#
+echo "Cleaning previous build..."
+sudo rm -rf /home/kurt/antora-nla/public
 
-# Check if authentication succeeded (optional but good practice)
-if [ $? -ne 0 ]; then
-    echo "Sudo authentication failed. Exiting script."
-    exit 1
-fi
-
-# --- 2. Build Preparation (Quick Steps) ---
-echo "Starting Antora build preparation..."
-sudo rm -rf public
-
+#
+# 2. GIT PULL FROM REPO
+#
+echo "Updating antora-nla repo..."
+cd /home/kurt/antora-nla
 git pull
 
-# --- 3. Long-Running Task: Antora Build ---
-echo "Running Antora build (you can work while this runs)..."
-node --max-old-space-size=2560 `which npx` antora local-playbook.yml
+#
+# 3. RUN ANTORA BUILD
+#
+echo "Running Antora build..."
+cd /home/kurt/antora-nla
 
-# Check if Antora succeeded before deployment
-if [ $? -ne 0 ]; then
-    echo "Antora build failed. Deployment aborted."
-    exit 1
-fi
+# Using npx directly (cleaner, safer, systemd-friendly)
+npx --max-old-space-size=4096 antora local-playbook.yml
 
-# Copy fonts (non-sudo operation)
-cp fonts/* public/_/font/
+#
+# 4. COPY FONTS
+#
+echo "Copying fonts..."
+cp /home/kurt/antora-nla/fonts/* \
+   /home/kurt/antora-nla/public/_/font/
 
-# --- 4. Deployment (Runs Silently Now) ---
-echo "Deployment started (password already authenticated)..."
-# These commands will run silently because sudo -v authenticated you
-# and reset the timeout just before the Antora build started.
+#
+# 5. DEPLOY TO WEB DIRECTORY
+# (kurt must own this directory — no sudo in automated scripts)
+#
+echo "Deploying to /var/www/krueckeberg.org/docs..."
+rm -rf /var/www/krueckeberg.org/nla/*
+cp -r /home/kurt/antora-nla/public \
+      /var/www/krueckeberg.org/nla
 
-sudo /usr/bin/rm -rf /var/www/krueckeberg.org/nla/*
-sudo /usr/bin/cp -r public /var/www/krueckeberg.org/nla
-sudo /usr/bin/chown -R root:www-data /var/www/krueckeberg.org/nla
-sudo /usr/bin/chmod -R g+w /var/www/krueckeberg.org/nla
-
-echo "Build and deployment complete."
-
+echo "=== Antora Build Completed: $(date) ==="
