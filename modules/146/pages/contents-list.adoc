@@ -59,7 +59,7 @@ Ein geometische Zeichnung von Stille
 |7 
 |Concept Camr Rescripts aus Amt Bückeburg +
 Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
-|pto Camr. Bewilligung Zahlungs:Gelder und Ausfertigung des Kauf:Briefs
+.3+|pto Camr. Bewilligung Zahlungs:Gelder und Ausfertigung des Kauf:Briefs
 | 
 | 
 | 
@@ -71,11 +71,9 @@ Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
 |
 |
 |
-|
 
 |9
 |Concept Camr Erlaß an diesen Kolon Krückeberg
-|
 |
 |
 |
@@ -84,7 +82,6 @@ Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
 |10
 |Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
 gedachten Krückeberg
-|
 |
 |
 |
