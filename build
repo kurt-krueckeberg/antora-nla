@@ -36,7 +36,7 @@ cp /home/kurt/antora-nla/fonts/* \
 # 5. DEPLOY TO WEB DIRECTORY
 # (kurt must own this directory — no sudo in automated scripts)
 #
-echo "Deploying to /var/www/krueckeberg.org/docs..."
+echo "Deploying to /var/www/krueckeberg.org/nla..."
 rm -rf /var/www/krueckeberg.org/nla/*
 cp -r /home/kurt/antora-nla/public \
       /var/www/krueckeberg.org/nla
