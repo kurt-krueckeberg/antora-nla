@@ -1,5 +1,7 @@
 = Case File Cover
 
+image::cover-top.jpg[title=Case file cover (Click to Enlarge),link=self]
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
