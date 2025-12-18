@@ -1,6 +1,8 @@
 = 146: Contents List
 :page-role: wide
 
+image::01-r.png["Designatio Actorum (contents list)"link=self]
+
 .Transliteration
 [%header,cols="1,8,4,3,1,2,1"]
 |===
