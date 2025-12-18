@@ -1,5 +1,6 @@
 = Case File Cover
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Bauerngüters Colonien                 Rep I
@@ -28,4 +29,34 @@ vor Furstgrunde
 Berenbusch no. 18
 .... 
 
-          
+ 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Peasant Holdings Colonies                  Series I
+[.line-through]#Special#
+R. C. 257
+
+Bückeburg District Office
+
+II Berenbusch
+
+Peasant Holdings Colonies
+    in the County of
+    Schaumburg
+
+in particular
+a specifically designated
+parcel assigned to the new settler
+J. Henr. Krückeberg No. 18 at Berenbusch
+for colony construction
+(house and garden)
+on princely land
+
+
+
+
+Berenbusch no. 18
+.... 
+
+                   
