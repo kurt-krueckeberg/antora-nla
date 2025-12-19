@@ -25,7 +25,10 @@ image::03-r-side-text.png[title="Rentkammer response (lcik to Enlarge),link=self
 [.narrow]
 == Transliteration and Translation
 
-.Transliteration
+Below is the transliteration of the main text of the report. This is followed
+by the transliteration (shown in a separate block) of theRentkammer's response.
+
+.Transliteration of main text of report
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N.C. 287.                         pr. 27. Oct. 1808.
@@ -36,19 +39,18 @@ und Arensberg
 betr.
 Neubauereÿ.
 
-Der Einlieger Jobst Henr: Krückeberg
-ist, so wie auch seine Ehefrau, aus Evesen gebürtig.
-Sein Vater ward nachher Ackervogt zur Arensburg, von
-welchem er wohl so viel geerbt haben mag, daß er, so wie
-er versichert, nach Einziehung seiner Ausständen, auf
-jeden Fall nicht mehr als nur 200 Rthl zur Ausführung
-seiner vorhabenden Neubauerei beÿ Berenbusch, auf Konsens
-zu lehnen nöthig haben wird. Er ist seiner Profession
-ein Schneider, der wegen seiner in und um Berenbusch 
-findenden Arbeit den Anlauf einer irgends andern Orts
-Schulden halben jetzt zum Verkauf kommenden Stätte
-keines für sich so rathsam findet, wie die Anlage einer
-eigenen Stätte in dortiger Gegend,
+Der Einlieger Jobst Henr: Krückeberg ist, so wie auch seine
+Ehefrau, aus Evesen gebürtig.  Sein Vater wurde [written:
+ward] nachher Ackervogt zur Arensburg, von welchem er wohl
+so viel geerbt haben mag, daß er, so wie er versichert, nach
+Einziehung seiner Ausständen, auf jeden Fall nicht mehr als
+nur 200 Rthl zur Ausführung seiner vorhabenden Neubauerei
+beÿ Berenbusch, auf Konsens zu lehnen nöthig haben wird. Er
+ist seiner Profession ein Schneider, der wegen seiner in und
+um Berenbusch findenden Arbeit den Anlauf einer irgends
+andern Orts Schulden halben jetzt zum Verkauf kommenden
+Stätte keines für sich so rathsam findet, wie die Anlage
+einer eigenen Stätte in dortiger Gegend,
 
 Er und seine Ehefrau sind uns auch weiter von keiner
 tadelhaften Seite bekannt. Vielmehr müssen wir ihnen
@@ -62,6 +64,10 @@ October 1808.
 Habicht Neussel
 ....
 
+The transliteration of the Rentkammer's response is below. This appears in the first
+image shown above written vertically along the left side of the page. This text ends
+with a double dagger referencing text that appears below the first page of main
+text. Both blocks of text are transliterated below. 
 
 .Transliteration of Rentkammer Response
 [literal.bordered,subs="verbatim,quotes"]
@@ -81,13 +87,43 @@ baar bezahlt. B. 31. Octbr 1808
 .... 
 
 
-.Translation
+.Translation of Document 2
 [literal.bordered,subs="verbatim,quotes"]
 ....
+N.C. 287.                         received 27 Oct. 1808.
 
+To the
+Princely Chamber
+Report of the Offices of Bückeburg
+and Arensburg
+re.
+New settlement.
+
+The lodger Jobst Henr[ich] Krückeberg is, as is also his
+wife, a native of Evesen.  His father later became Ackervogt
+at Arensburg, from whom he may well have inherited so much
+that he, as he assures, after collecting his outstanding
+claims, will in any event require no more than 200
+Reichsthaler for the execution of his intended new
+settlement near Berenbusch, to be borrowed on official
+consent. He is by profession a tailor, who, because of the
+work he finds in and around Berenbusch, considers the
+undertaking of a property coming up for sale elsewhere on
+account of debts to be far less advisable for himself than
+the establishment of his own holding in that locality.
+
+He and his wife are furthermore known to us from no
+reprehensible side. Rather, we must hereby grant them the
+testimony of diligent and orderly people. We do not fail to
+return herewith, in copy, the petition communicated to us.
+
+Bückeburg, the 21st
+of October 1808.
+Habicht Neussel
 ....
+ 
 
-
+.Translation of the Rentkammer's response.
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Resolution of the Chamber: The assignment of the plot [??],
