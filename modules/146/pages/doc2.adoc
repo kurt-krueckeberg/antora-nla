@@ -12,10 +12,11 @@ earth-moving before a house could be built on it.
 The number *2* is visible in the upper right corner of the document. It appears
 bordered by an hand-drawn square. Document 2 is contained on two images. 
 
-The Rentkammer's response is written vertically along the left side of the first page.
-The third image below contains this text. The Rentkammer's response ends with an
-asterisk resembling a double dagger. The text referenced by the double dagger
-is at the bottom of the first page.
+The Rentkammer's response to the report is written vertically along the
+left side of the first page. The third image below contains this text
+rotated so it can be read. The Rentkammer's response ends with an asterisk
+resembling a double dagger, and the text referenced by the double dagger is at
+the bottom of the first page.
 
 == Images for Document #1
 
