@@ -26,7 +26,7 @@ xref:146:doc1.adoc[Vorstellung von Schneider Krückeberg im Evesen]
 |29
 
 |2
-|Bericht der Aemter Bückeb: u. Arensburg
+|xref:146:doc1.adoc[Bericht der Aemter Bückeb: u. Arensburg]
 |__
 |__
 |Oct
@@ -130,7 +130,7 @@ for house construction in front of Berenbusch.
 |29
 
 |2
-|Report of the administrative offices of Bückeburg and Arensburg
+|xref:146:doc1.adoc[Report of the administrative offices of Bückeburg and Arensburg]
 |__
 |__
 |Oct
