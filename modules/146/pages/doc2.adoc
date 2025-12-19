@@ -20,11 +20,11 @@ the bottom of the first page.
 
 == Images for Document #1
 
-image::03-r.png[title=First page of document 2 (click to enlarge),width=85%,link=self]
+image::03-r.png[title=First page of document 2 (click to enlarge),width=75%,link=self]
 
-image::04-l.png[title=Second page of document 2 (click to enlarge),width=85%,link=self]
+image::04-l.png[title=Second page of document 2 (click to enlarge),width=75%,link=self]
 
-image::03-r-side-text.png[title="Rentkammer response(click to enlarge),link=self]
+image::03-r-side-text.png[title="Rentkammer response(click to enlarge),width=85%,link=self]
 
 [.narrow]
 == Transliteration and Translation
