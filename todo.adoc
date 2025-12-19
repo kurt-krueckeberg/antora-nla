@@ -1,8 +1,9 @@
 = Todoes
 
-== 12/17/25
+== NLA 146 
 
-Done through image 7. Next is image 8.
+For the second document, there is an image 04-r-side-text.png that has the vertically written text
+that is the Rentkammer's response. To do OCR on it, I need wider padding.
 
 == Big Picture
 
