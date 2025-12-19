@@ -1,15 +1,20 @@
 = Document 2: Report of the administrative offices of Bückeburg and Arensburg
 :page-role: wide
 
+Document 2 is the report of the administrative offices of Bückeburg and Arensburg
+that the Rentkammer request after reviewing Jobst Heinrich's petition to purchase
+from the "crown" a tract of land at a reasonable price since that ground is uneven
+and much earth moving effort will be required before a home can be built on it.
+
 == Images for Document #1
 
-The number *2* is visible in the upper right corner inside a hand-drawn square.
-Document 2 appears on two image. The Rentkammer response is writte vertically along
-the left side of the page, and it ends with an asterisk resembling a double dagger.
+The number *2* is visible in the upper right corner of the document. It appears
+bordered by an hand-drawn square. Document 2 is contained on two images. 
 
-The Rentkammer response written vertically along the left edge of the page is
-shown in the third image below. The double dagger text is shown at the bottom of
-the first time.
+The Rentkammer's response is written vertically along the left side of the first page.
+The third image below contains this text. The Rentkammer's response ends with an
+asterisk resembling a double dagger. The text referenced by the double dagger
+is at the bottom of the first page.
 
 image::03-r.png[title=TODO (click to enlarge),width=85%link=self]
 
