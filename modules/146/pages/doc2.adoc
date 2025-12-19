@@ -1,12 +1,13 @@
 = Document 2: Report of the administrative offices of Bückeburg and Arensburg
 :page-role: wide
 
+[.narrow]
+== Overview and Summary
+
 Document 2 is the report of the administrative offices of Bückeburg and Arensburg, requested by the Rentkammer
 after its initial review of Jobst Heinrich Krückeberg’s petition to purchase a tract of land from the princely
 authorities at a reasonable price, on the grounds that the land was uneven and would require substantial
 earth-moving before a house could be built on it.
-
-== Images for Document #1
 
 The number *2* is visible in the upper right corner of the document. It appears
 bordered by an hand-drawn square. Document 2 is contained on two images. 
@@ -15,6 +16,8 @@ The Rentkammer's response is written vertically along the left side of the first
 The third image below contains this text. The Rentkammer's response ends with an
 asterisk resembling a double dagger. The text referenced by the double dagger
 is at the bottom of the first page.
+
+== Images for Document #1
 
 image::03-r.png[title=TODO (click to enlarge),width=85%link=self]
 
