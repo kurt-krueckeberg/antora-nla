@@ -1,7 +1,9 @@
 = Document #1
 :page-role: wide
 
-== Images
+== Images for Document #1
+
+The number *1* is visible in the upper right corner bordered by one side of square.
 
 image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=85%link=self]
 
@@ -65,8 +67,7 @@ Most Serene Prince,
 Most Graciously Reigning Prince
 and Lord!
 
-According to the file, for ordinary handling by the
-Princely Rent Chamber.
+_For ordinary handling by the Princely Rent Chamber._
 
 Resolution of the Chamber:
 To the District Office, by brief referral, for a report
