@@ -1,0 +1,78 @@
+= Document 2: Petition submitted by the tailor Krückeberg in Evesen
+:page-role: wide
+
+== Images for Document #1
+
+The number *2* is visible in the upper right corner inside a hand-drawn square.
+
+image::03-r.png[title=TODO (click to enlarge),width=85%link=self]
+
+image::04-l.png[title=TODO (click to enlarge),width=85%,link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+N.C. 287.                         pr. 27. Oct. 1808.
+
+An.
+Fürstliche Kammer Bericht der Aemter Bückeburg
+und Arensberg
+betr.
+Neubauereÿ.
+
+Der Einlieger Jobst Henr: Krückeberg
+ist, so wie auch seine Ehefrau, aus Evesen gebürtig.
+Sein Vater ward nachher Ackervogt zur Arensburg, von
+welchem er wohl so viel geerbt haben mag, daß er, so wie
+er versichert, nach Einziehung seiner Ausständen, auf
+jeden Fall nicht mehr als nur 200 Rthl zur Ausführung
+seiner vorhabenden Neubauerei beÿ Berenbusch, auf Kon-
+sens zu lehnen nöthig haben wird. Er ist seiner Profession
+.
+ein Schneider, der wegen seiner in und ein Berenbusch fin
+denden Arbeit den Anlauf einer irgends andern Orts
+Schulden halben jezt zum Verkauf kommenden Stätte
+keines für sich so rathsam findet, wie die Anlage einer
+eigenen Stätte in dortiger Gegend,
+
+Er und seine Ehefrau sind uns auch weiter von keiner
+tadelhaften Seite bekannt. Vielmehr müssen wir ihnen
+das Zeugniß fleißiger und ordentlicher Leute.
+
+Hier
+
+
+[TODO: left side text]
+XXXXXXXX *†* 
+
+*†* 150 Xtr nachweisen könne.
+Der Grund und Boden wird mit 6. Mg P.JR.
+baar bezahlt. B. 31. Octor 1808
+                             MKaas
+
+
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+
+....
+
+=== Translation Notes
+
+*Einlieger* →  lodger (non-landholding resident)
+
+*mich selbst anzubauen* →  to establish myself independently (i.e., to build and maintain one’s own holding)
+
+*Forst-Amtswegen* →  by the Forestry Office
+
+*Gründe* →  uneven grounds / irregular ground
+
+*Leuten* →  people (important for a tailor’s livelihood)
+
+*gegen ein Billiges* →  at a reasonable price
+
+*Ich erstrecke mich* →  formal closing: I remain
