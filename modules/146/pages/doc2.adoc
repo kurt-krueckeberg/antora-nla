@@ -30,7 +30,7 @@ image::03-r-side-text.png[title="Rentkammer response(click to enlarge),link=self
 == Transliteration and Translation
 
 Below is the transliteration of the main text of the report. This is followed
-by the transliteration (shown in a separate block) of theRentkammer's response.
+by a separate block with the transliteration of theRentkammer's response.
 
 .Transliteration of main text of report
 [literal.bordered,subs="verbatim,quotes"]
@@ -90,6 +90,7 @@ baar bezahlt. B. 31. Octbr 1808
                              MKaas
 .... 
 
+=== Translation
 
 .Translation of Document 2
 [literal.bordered,subs="verbatim,quotes"]
