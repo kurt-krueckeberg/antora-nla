@@ -13,7 +13,7 @@ image::01-r.png["Click to Enlarge (then click again on the image),link=self]
 [%header,cols="1,8,4,3,1,2,1"]
 |===
 |Nr|Designatio Actorum +
-(left) |Descr. +
+(left) |Thema/Gegenstand +
 (right)|Ort|Jahr|Monat|Tag
 
 |1
