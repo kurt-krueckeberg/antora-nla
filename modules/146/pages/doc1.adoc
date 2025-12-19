@@ -5,9 +5,9 @@
 
 The number *1* is visible in the upper right corner bordered by one side of square.
 
-image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=85%link=self]
+image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%link=self]
 
-image::03-l.png[title=2nd page of tailor Krückeberg's peitition (click to enlarge),width=85%,link=self]
+image::03-l.png[title=2nd page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
 
 See link:https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3[Corrections to Text]
 
