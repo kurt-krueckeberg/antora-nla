@@ -18,7 +18,7 @@ image::01-r.png["Click to Enlarge (then click again on the image),link=self]
 
 |1
 |
-Vorstellung von Schneider Krückeberg im Evesen
+xref:146:doc1.adoc[Vorstellung von Schneider Krückeberg im Evesen]
 .3+.^|Pto Gesuch des Schneider Krückeberg in Evesen um Answeisung eines Platzes zum Hausbau vor Bärenbusch.
 |Bückeburg
 |1808
@@ -120,7 +120,7 @@ gedachten Krückeberg
 |No.|Document Description|Subject/matter|Place|Year|Month|Day
 
 |1
-|Petition submitted by the tailor Krückeberg in Evesen
+|xref:146:doc1.adoc[Petition submitted by the tailor Krückeberg in Evesen]
 .3+.^|Concerning the petition of the tailor Krückeberg
 in Evesen for the assignment of a building site
 for house construction in front of Berenbusch.
