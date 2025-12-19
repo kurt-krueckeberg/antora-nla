@@ -92,6 +92,18 @@ baar bezahlt. B. 31. Octbr 1808
 
 === Translation
 
+[NOTE]
+====
+An *Ackervogt* was a locally appointed agricultural overseer
+or field bailiff responsible for supervising arable land and
+farming practices. The office signaled official trust and
+local respectability rather than full-time government
+employment. Its mention here suggests that Jobst Heinrich
+Krückeberg’s father likely had some means, making it
+plausible that Jobst Heinrich inherited a modest sum and
+could reasonably finance the construction of his own house.
+====
+
 .Translation of Document 2
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -127,18 +139,6 @@ Bückeburg, the 21st
 of October 1808.
 Habicht Neussel
 ....
-
-[NOTE]
-====
-An *Ackervogt* was a locally appointed agricultural overseer
-or field bailiff responsible for supervising arable land and
-farming practices. The office signaled official trust and
-local respectability rather than full-time government
-employment. Its mention here suggests that Jobst Heinrich
-Krückeberg’s father likely had some means, making it
-plausible that Jobst Heinrich inherited a modest sum and
-could reasonably finance the construction of his own house.
-====
 
 .Translation of the Rentkammer's response.
 [literal.bordered,subs="verbatim,quotes"]
