@@ -22,6 +22,7 @@ text rotated so it can be read. The Rentkammer's response ends with an
 asterisk resembling a double dagger, and the text referenced by the
 double dagger lies at the bottom of the first page.
 
+[.narrow]
 == Summary
 
 The Offices of Bückeburg and Arensburg report that Jobst Heinrich and
