@@ -44,6 +44,8 @@ inherited a modest sum and could reasonably finance the construction
 of his own house.
 ****
 
+TODO: Add summary of rentkammer's recommendation.
+
 == Images for Document #1
 
 image::03-r.png[title=First page of document 2 (click to enlarge),width=75%,link=self]

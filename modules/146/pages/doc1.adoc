@@ -1,9 +1,21 @@
 = Document 1: Petition submitted by the tailor Krückeberg in Evesen
 :page-role: wide
 
+[.narrow]
+== Overview
+
+Jobst Heinrich's petition to purchase land where he can build a future home was
+presented to the Rentkammer on 30 September 1808. The number *1* is visible in
+the upper right corner of the document bordered by one side of square.
+
+The Rentkammer's response is written just below the petition's salutation.
+
+== Summary
+
+TODO: Summarize petition and response by Rentkammer
+
 == Images for Document #1
 
-The number *1* is visible in the upper right corner bordered by one side of square.
 
 image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%link=self]
 

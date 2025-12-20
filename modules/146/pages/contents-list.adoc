@@ -33,7 +33,7 @@ xref:146:doc1.adoc[Vorstellung von Schneider Krückeberg im Evesen]
 |21
 
 |3
-|Concept Camr. Rescripts aus Amt Bückeburg
+|xref:146:doc3.adoc[Concept Camr. Rescripts aus Amt Bückeburg]
 |__
 |__
 |__
@@ -137,7 +137,7 @@ for house construction in front of Berenbusch.
 |21
 
 |3
-|Drafts of Cameral rescripts from the Office of Bückeburg
+|xref:146:doc3.adoc[Drafts of Cameral rescripts from the Office of Bückeburg]
 |__
 |__
 |__
