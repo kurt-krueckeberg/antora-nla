@@ -1,0 +1,41 @@
+= Document 3: Drafts of Cameral rescripts from the Office of Bückeburg
+:page-role: wide
+
+
+== Image
+
+image::04-r-alternate.png[titlewidth=85%,link=self]
+
+
+== Transliateration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Ad N. 287.                   
+C. K. Rescripts
+ans Amt Bückeburg
+
+p. des Schneiders Krucke
+berg in Evesen
+
+Expedirt
+Beyer  
+
+V. G. G.
+Auf Euren Bericht vom 21ten d.
+M. die Neubauerung betr:, unverhalten wir, daß die Answeisung des
+Platzes quaestionis von etwa 1/2 - 3/4 Morgen, in denjenigen
+Grenzen, welche von der Forstdirection dem Oberförster Falkmann
+angegeben sind, bewilligt worden ist, unter der Voraussetzung, 1.) daß
+keine gegründete Widersprüche von Seiten der Hudeberechtigten
+eintreten u[nd] 2.) daß der Supplikant ein Vermögen von wenigstens 150
+rth. nachweisen kann. Der Grund u Boden wird mit 6 mg p. [er]
+bezahlt.  Solches habt Ihr dem Supplikanten zu eröffnen.
+
+Wie         [S.S.]
+Bburg d. 31 Oct 1808
+Anstatte
+Wine
+[???] Danckwirtz Windt
+....
+
