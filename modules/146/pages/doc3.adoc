@@ -4,7 +4,7 @@
 
 == Image
 
-image::04-r-alternate.png[titlewidth=85%,link=self]
+image::04-r.png[titlewidth=85%,link=self]
 
 
 == Transliateration and Translation
