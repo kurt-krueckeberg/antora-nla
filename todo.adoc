@@ -2,7 +2,15 @@
 
 == Correct "Cover Slip" Designations
 
-These were not "cover slips" or "transmittal slips" but rather case file-only "archival titles".
+In the opther case file than 146, the so-called "cover slips" or
+"transmittal slips" are merely "archival titles" intended for
+administrative purposes to describe the subject of the case file.
+
+Therefore change the other case files in which I described them as
+case file covers.
+
+They are not even necessary to display and add nothing to the
+understanding of the purpose of the case file.
 
 == NLA 146 
 
