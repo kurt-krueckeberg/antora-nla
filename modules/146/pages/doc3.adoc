@@ -46,3 +46,42 @@ Wine
 [???] Danckwirtz Windt
 ....
 
+[literal.bordered,subs="verbatim,quotes"]
+....
+Ref. No. 287
+
+Princely Chancery rescript
+to the Office of Bückeburg
+
+concerning the petition of the tailor
+Jobst Heinrich Krückeberg in Evesen
+
+Issued.
+
+In response to your report of the 21st of this month
+concerning the proposed new building, we hereby inform you
+that the assignment of the plot in question, measuring
+approximately one-half to three-quarters of a Morgen, within
+the boundaries indicated by the Forestry Administration to
+Chief Forester Falkmann, has been approved, subject to the
+following conditions:
+
+1) that no substantiated objections arise on the part of the
+holders of hude (pasturage) rights; and
+
+2) that the petitioner demonstrate assets of at least
+150 Reichsthaler.
+
+The land and ground are to be paid for at a rate of
+6 Reichsthaler per Morgen.
+
+You are to communicate this decision to the petitioner.
+
+As written above.
+Bückeburg, 31 October 1808
+
+On behalf of [??]
+
+Danckwirtz   Windt
+....
+
