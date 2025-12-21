@@ -3,4 +3,5 @@
 * xref:contents-list.adoc[]
 ** xref:doc1.adoc[]
 ** xref:doc2.adoc[]
+** xref:doc3.adoc[]
 
