@@ -1,0 +1,45 @@
+= Administrative File Label
+
+== Summary
+
+This "document" is merely an *Administrative file label*. It is a brief title added by
+clerks to identify the case in storage. It has no legal or procedural significance.
+
+== Image
+
+image::05-l.png[link=self]
+
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+An Fürstl[iche]. Rentkammer
+
+des Schneiders Krückeberg
+in Evesen
+
+Unterthänigste Vorstellung
+und Bitte
+
+gnädigste Überlassung
+eines Platzes zum Hausbau
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+To
+the Princely Rent Chamber
+
+of the tailor Krückeberg
+in Evesen
+
+Most humble petition
+and request
+
+for the gracious granting
+of a plot of land for the construction of a house
+....
+

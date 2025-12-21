@@ -1,5 +1,9 @@
 = Todoes
 
+== Correct "Cover Slip" Designations
+
+These were not "cover slips" or "transmittal slips" but rather case file-only "archival titles".
+
 == NLA 146 
 
 For the second document, there is an image 04-r-side-text.png that has the vertically written text
