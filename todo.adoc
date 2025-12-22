@@ -12,10 +12,12 @@ Therefore:
 [arabic=1]
 . Review each instance in the other m/146/p documents
 . Review what Minert and script.byu.edu say
-. What Transkribus has transliterated
+. Transkribus transliterated "Ausweisung"
+. The verb in the "Res. Cam:" is the zu + infinitve "auszuweisen".
+. "Ausweisung" in 19th century can mean "demarcate"--or something like that.
 . The occurance of the word in earlier case file--which one(s) is/are they?
 . The different meanings when "Anweisung" is usd instad of "Ausweisung"
-/ ChatGPT link: https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20
+ChatGPT link: https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20
  
 == NLA 146 
 
