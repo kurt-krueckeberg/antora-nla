@@ -1,1 +1,45 @@
 = Document 4: Report of the administrative offices of Bückeburg and Arensburg
+:page-role: wide
+
+== Image
+
+image::05-r-alternate.png[titlewidth=85%,link=self]
+
+== Transliateration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. C. 15.
+
+An Fürstliche Kammer Bericht
+der Aemter Bückeburg und Arensburg
+betr.
+Anweisung.
+
+H. O. F. e. K.
+
+ad Rescr: v. 31. Oct. 1808
+
+pr: [Bückeburg] 15 Januar 1809
+
+Nachgewiesener maßen besitzt der Einlieger Krückeberg zu Evesen
+mit Einschluß 50 r. Baarschaft und 45 D.  ausständiger Schulden,
+an beweglichen Vermögen den Werth von 175 rt. und gegen den
+Amtsdiener Gartmann haben sämtliche Gudeinteressenten [= Gutsin-
+teressenten] als derselbe diese singulatim hat befragen
+müssen, einmüthiglich erklärt, daß ihrer Seits nichts gegen die
+gebethene Anweisung zu erinnern seÿ. Bückeburg 12.
+Jan: 1809
+
+Habicht Neussel
+
+Res: Cam:
+Der Platz zu der neuen Colonie wäre
+dem Krückeberg Gegenwart des Oberförsters
+Falkman auszuweisen und die praestanden in
+Vorschlag zu bringen. B. 22 Jan 1809
+
+MKaas
+....
+

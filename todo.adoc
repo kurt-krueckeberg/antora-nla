@@ -1,17 +1,21 @@
 = Todoes
 
-== Correct "Cover Slip" Designations
+== Ausweisung vs Anweisung
 
-In the opther case file than 146, the so-called "cover slips" or
-"transmittal slips" are merely "archival titles" intended for
-administrative purposes to describe the subject of the case file.
+In the first three documents (and perhaps the brief case file content-description), there is what
+to me clearly appears to be "Ausweisung", which Chatgpt has consistently transliterated as "Anweisung".
 
-Therefore change the other case files in which I described them as
-case file covers.
+The meaning of the two words in the 19th century might both be different but each might still
+make sense when subsittude for the other. So caution is warranted in deciding which is correct.
+Therefore:
 
-They are not even necessary to display and add nothing to the
-understanding of the purpose of the case file.
-
+[arabic=1]
+. Review each instance
+. Review what Minert and script.byu.edu say
+. What Transkribus has transliterated
+. The occurance of the word in earlier case file--which one(s) is/are they?
+. The different meanings when "Anweisung" is usd instad of "Ausweisung"
+ 
 == NLA 146 
 
 For the second document, there is an image 04-r-side-text.png that has the vertically written text
