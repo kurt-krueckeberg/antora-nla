@@ -10,11 +10,12 @@ make sense when subsittude for the other. So caution is warranted in deciding wh
 Therefore:
 
 [arabic=1]
-. Review each instance
+. Review each instance in the other m/146/p documents
 . Review what Minert and script.byu.edu say
 . What Transkribus has transliterated
 . The occurance of the word in earlier case file--which one(s) is/are they?
 . The different meanings when "Anweisung" is usd instad of "Ausweisung"
+/ ChatGPT link: https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20
  
 == NLA 146 
 
