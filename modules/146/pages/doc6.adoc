@@ -1,4 +1,7 @@
-= Document 6: 
+= Document 6: Report of the aforementioned administrative offices, together with a geometrical (survey) drawing by Stille
+:page-role: wide
+
+== Summary
 
 image::07-r-alternate.png[title=Document 6 (click on enlarge).link=self]
 
