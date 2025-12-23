@@ -5,6 +5,7 @@
 
 image::07-r-alternate.png[title=Document 6 (click on enlarge).link=self]
 
+[.narrow]
 == Transliateration and Translation
 
 .Transliteration
