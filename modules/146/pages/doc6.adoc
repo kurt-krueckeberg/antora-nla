@@ -11,7 +11,7 @@ image::07-r-alternate.png[title=Document 6 (click on enlarge).link=self]
 TODO: Check the hand-drawn square which I translated [Quadrat] in the prior document--maybe it
 means "square rods"?
 
-Recheck thes corrections.
+Recheck the corrections given https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20.
  
 .Transliteration
 [literal.bordered]
