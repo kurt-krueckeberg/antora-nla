@@ -1,35 +1,5 @@
 = Todoes
 
-== Ausweisung vs Anweisung
-
-In the first three documents (and perhaps the brief case file content-description), there is what
-to me clearly appears to be "Ausweisung", which Chatgpt has consistently transliterated as "Anweisung".
-
-The meaning of the two words in the 19th century might both be different but each might still
-make sense when subsittude for the other. So caution is warranted in deciding which is correct.
-Therefore:
-
-[arabic=1]
-. Review each instance in the other m/146/p documents
-. Review what Minert and script.byu.edu say
-. Transkribus transliterated "Ausweisung"
-. The verb in the "Res. Cam:" is the zu + infinitve "auszuweisen".
-. "Ausweisung" in 19th century can mean "demarcate"--or something like that.
-. The occurance of the word in earlier case file--which one(s) is/are they?
-. The different meanings when "Anweisung" is usd instad of "Ausweisung"
-ChatGPT link: https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20
-
-
-TODO: retranslation contents-list.adoc and doc2.adoc "Res: Cam:" side text--due
-to changing Anweisugn back to Ausweisung. 
-
-TODO: Check doc3.adoc for Ausweisung.
- 
-== NLA 146 
-
-For the second document, there is an image 04-r-side-text.png that has the vertically written text
-that is the Rentkammer's response. To do OCR on it, I need wider padding.
-
 == Big Picture
 
 Read about Schaumburg-Lippe in German and English, read about Anerbenrecht, read about the material
