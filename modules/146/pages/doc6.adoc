@@ -8,8 +8,12 @@ image::07-r-alternate.png[title=Document 6 (click on enlarge).link=self]
 [.narrow]
 == Transliateration and Translation
 
+TODO: Check the hand-drawn square which I translated [Quadrat] in the prior document--maybe it
+means "square rods"?
+
+Recheck thes corrections.
+ 
 .Transliteration
-//[literal.bordered,subs="verbatim,quotes"]
 [literal.bordered]
 ....
 N. C. 368.
@@ -18,33 +22,34 @@ pr. 8 Nov 1809
 H. O. F. N.
 
 An Fürstliche Kammer Bericht
-der Aemter Bückeberg und Arensberg
+der Aemter Bückeburg und Arensberg
 betr: Ausweisung.
 
 ad Rescr: v. 23 Jan: 1809.
 
 Dem Einlieger Jobst Henrich Krückeberg ist zur An-
-lage der Neubauereÿ n.18 zu Bernebusch am 5 Merz d. J. in Mitbei-
-seÿn des Oberforsters Falkmann der gebethene Haus: und
-Gartenplaz ausgewiesen worden und hält solcher nach der an:
+lage der Neubauereÿ n.18 zu Bernebusch am 5 März d. J. in
+Mitbeiseÿn des Oberforsters Falkmann der gebethene Haus- und
+Gartenplaz ausgewiesen worden, und hält solcher nach der an:
 Dem Einlieger Jobst Henrich Krückeberg ist zur An-
 lage der Neubauereÿ n.18 zu Bernebusch am 5 Merz d. J. in Mitbei-
 seÿn des Oberforsters Falkmann der gebethene Haus: und
 Gartenplaz ausgewiesen worden und hält solcher nach der an:
 
-Er wird unseres dafürhaltes in Kameral Prastanden
+Er wird unseres Dafürhaltes in Kammeral Prästanden
 davon
 
 
 jährlich 1 Rthlr Dienstgeld
- _______  10 g. 2 d. Kottpenst
- _______  6 gl. ___ Mahlschweingeld
- _______  1 gls ___ Michulisschap,.
- _______   fünf Eredtetagen,
-Ein Rauchhuhn, Jagd, Wachten
-und Landfolgen nebst 3 rt 4 gb 4 d
-Erbe.           
-und zwar auf Michali
+ _____ 10 g. 2 d. Kottpenst
+ _____ 6 gl. ___ Mahlschweingeld
+ ______1 gl. ___ Michaelis-Schap
+ _______   fünf Erdtagen,
+ein Rauchhuhn, Jagd-, Wacht-
+und Landfolgen nebst 3 rt. 4 g. 4 d.
+Erbe,
+           
+und zwar auf Michaeli
 1813 zum erstenmal zu entrichten
 haben.
 
@@ -52,9 +57,10 @@ Bückeberg 28 October 1809.
 Habiebt-Neuesl
 
 Res: Cam:
-1. Die Præstanda werden genehmiget, welche zu Michaeli 1813. zum
+1. Die Prästanden werden genehmiget, welche zu Michaeli 1813 zum
 ersten Mal zu entrichten sind.
 2. Der Meyerbrief ist auszufertigen
-3. Der Kammerrenttmstr ist zur Erhebung des Kaufgeldes (6. Mg. P. M.
+3. Der Kammerrenttmeistr ist zur Erhebung des Kaufgeldes (6. Mg. p. M.)
+
 B. 13 Nov. 1809 MKaas
 ....
