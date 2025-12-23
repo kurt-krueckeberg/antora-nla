@@ -46,40 +46,38 @@ Wine
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Ref. No. 287
+Re: No. 287.
+Chancery (Kammer) rescripts
+to the Bückeburg Office
 
-Princely Chancery rescript
-to the Office of Bückeburg
+on the petition of the tailor Krückeberg in Evesen
 
-concerning the petition of the tailor
-Jobst Heinrich Krückeberg in Evesen
+Dispatched
+Beyer
 
-Issued.
+V. G. G.
+Upon your report of the 21st of this month
+concerning the new construction, we hereby inform you
+that the designation (Ausweisung) of the plot in question,
+of approximately 1/2 to 3/4 Morgen, within those boundaries
+indicated by the Forestry Directorate to Chief Forester
+Falkmann, has been approved, subject to the condition
 
-In response to your report of the 21st of this month
-concerning the proposed new building, we hereby inform you
-that the assignment of the plot in question, measuring
-approximately one-half to three-quarters of a Morgen, within
-the boundaries indicated by the Forestry Administration to
-Chief Forester Falkmann, has been approved, subject to the
-following conditions:
+1) that
+no well-founded objections arise on the part of the
+holders of grazing rights, and
 
-1) that no substantiated objections arise on the part of the
-holders of hude (pasturage) rights; and
+2) that the petitioner can demonstrate
+assets of at least 150 Reichsthaler.
 
-2) that the petitioner demonstrate assets of at least
-150 Reichsthaler.
+The land and soil shall be paid for at 6 Morgen per Reichsthaler.
 
-The land and ground are to be paid for at a rate of
-6 Reichsthaler per Morgen.
+You are to communicate this to the petitioner.
 
-You are to communicate this decision to the petitioner.
-
-As written above.
+Thus, as written above 
 Bückeburg, 31 October 1808
-
-On behalf of [??]
-
-Danckwirtz   Windt
+In place of [?]
+Wine
+[?] Dankwirtz Windt
 ....
 
