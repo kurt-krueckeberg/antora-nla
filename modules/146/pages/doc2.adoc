@@ -170,17 +170,18 @@ TODO: Redo translatation due to chaning Anweisung to Ausweisung
 .Translation of the Rentkammer's response.
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Resolution of the Chamber: The assignment of the plot,
-of approximately 1/2 to 3/4 Morgen, within those boundaries
-which have been indicated by the Forestry Directorate to
-Chief Forester Falkman, is approved under the condition
-that no substantiated objections arise on the part of the
-holders of hude (pasturage) rights, and secondly, that the
-petitioner possess assets of at least *‡*
+Resolution of the Chamber:
+The designation (Ausweisung) of the plot, of approximately
+1/2 to 3/4 Morgen, within those boundaries which have been
+indicated by the Forestry Directorate to Chief Forester
+Falkmann, is hereby approved, subject to the condition that
+no well-founded objections arise on the part of those holding
+grazing rights, and secondly, that the petitioner can
+demonstrate assets of at least *‡*
 
 *‡* 150 Xtr.
 The land and soil shall be paid for in cash at a rate of
-6 Morgen per R.
+6 Morgen per Reichsthaler.
 Ordered on 31 October 1808
                              M. Kaas
 ....
