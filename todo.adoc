@@ -18,6 +18,12 @@ Therefore:
 . The occurance of the word in earlier case file--which one(s) is/are they?
 . The different meanings when "Anweisung" is usd instad of "Ausweisung"
 ChatGPT link: https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20
+
+
+TODO: retranslation contents-list.adoc and doc2.adoc "Res: Cam:" side text--due
+to changing Anweisugn back to Ausweisung. 
+
+TODO: Check doc3.adoc for Ausweisung.
  
 == NLA 146 
 

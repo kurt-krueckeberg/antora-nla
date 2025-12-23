@@ -102,7 +102,7 @@ text. Both blocks of text are transliterated below.
 .Transliteration of Rentkammer Response
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res: Cam: Die Anweisung des Platzes, von twa 1/2 bis 3/4 Morgen, in
+Res: Cam: Die Ausweisung des Platzes, von twa 1/2 bis 3/4 Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
 Falkman angegeben sind, wird unter der Voraussetzung bewilliget, daß
 keine gegründete Widersprüche von Seiten der Hudeberechtigten
@@ -164,6 +164,8 @@ Bückeburg, the 21st
 of October 1808.
 Habicht Neussel
 ....
+
+TODO: Redo translatation due to chaning Anweisung to Ausweisung
 
 .Translation of the Rentkammer's response.
 [literal.bordered,subs="verbatim,quotes"]
