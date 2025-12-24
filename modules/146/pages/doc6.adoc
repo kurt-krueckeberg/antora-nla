@@ -123,7 +123,9 @@ B., 13 Nov. 1809
 M. Kaas
 ....
 
-== Explanation
+== Essential Explanations
+
+The ternms *Michaelmas* and *Meyerbrief* appear in the orignal German.
 
 *Michaelmas* is the Feast of St. Michael the Archangel, observed every
 year on 29 September. In the late 18th and early 19th centuries, it was
@@ -135,6 +137,10 @@ standard legal and economic term date:
 * rents, dues, and services often began or fell due at Michaelmas
 * contracts, tenancies, and obligations were frequently dated to it
 * administrations used it as a fixed annual reference point
+
+An understanding of *Meyerbreif* translated as *Meyer letter" is
+essential in order to understand how property ownership operated in
+Schaumburg-Lippe.
 
 .What "Meyerbrief" means?
 ****
