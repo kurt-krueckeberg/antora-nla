@@ -49,8 +49,36 @@ which both the land and buildings are owned outright, which is termed
 *fee simple* ownership.
 ****
 
-=== Rauchhuhn (Smoke Hen)
+=== Annaul Fees and Obligations (a Smoke-Hen really?)
 
+The *10 groschen 2 denarii (Kottzmis)* was a small *annual cash payment
+associated with cottager or tenant status*. The form is non-standard and
+likely local, but its placement and amount indicate a minor monetary due
+owed by an _Einlieger_ as part of holding the tenancy.
+
+The *6 groschen Mahlschweingeld* was an *annual milling-related fee*.
+Such charges were commonly paid either for the right to use a manorial
+or official mill or as a compulsory fee tied to grain processing,
+regardless of actual use.
+
+The *1 groschen Michilisschaz* was a *small annual term-day payment*,
+almost certainly connected to *Michaelmas* as a fiscal date. While the
+spelling is non-standard, the context makes clear that it was a modest
+cash due assessed once per year.
+
+The *five Eredtetage[n]* represent *five days of unpaid manual labor
+owed annually*. These were work obligations—typically agricultural or
+maintenance labor—performed for the authority or community rather than
+paid employment.
+
+In addition to these, the tenant owed *one smoke-hen*, meaning *one hen
+per year tied to maintaining an inhabited household* (a “smoke”
+signifying a working hearth). The listed *hunting, watch, and land
+obligations* refer to *customary non-monetary duties*: participation in
+local guard or night watch rotations, compliance with hunting
+regulations or service when required, and fulfillment of general
+obligations connected to occupying and using the land under princely
+authority.
 As odd as it may sound, a smoked hen was annaul obligation of a
 someone holding a Meyerbrief, a inheritable tenancy right to land. 
 
