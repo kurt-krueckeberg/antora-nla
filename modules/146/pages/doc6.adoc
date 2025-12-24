@@ -7,6 +7,8 @@
 [.narrow]
 == Essential Explanations
 
+=== Micahelmas
+
 The terms *Michaelmas* and *Meyerbrief* appear in the orignal German.
 
 *Michaelmas* is the Feast of St. Michael the Archangel, observed every
@@ -20,6 +22,8 @@ standard legal and economic term date:
 * rents, dues, and services often began or fell due at Michaelmas
 * contracts, tenancies, and obligations were frequently dated to it
 * administrations used it as a fixed annual reference point
+
+=== Meyerbrief
 
 An understanding of what *Meyerbrief* (translated as *Meyer letter*) means
 is essential in order to understand how property ownership differed from
