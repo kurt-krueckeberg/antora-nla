@@ -82,6 +82,67 @@ authority.
 As odd as it may sound, a smoked hen was annaul obligation of a
 someone holding a Meyerbrief, a inheritable tenancy right to land. 
 
+== How the Purchase Affected Jobst Heinrich's Status
+
+Jobst Heinrich Krückeberg is an Einlieger when he petitions to
+purchase land from the government. An *Einlieger* was a person
+*without an independent household or holding*, living “in” someone
+else’s house or property. That status carried specific, often small,
+dues—precisely the kind you see here (_Kottzmis_).
+
+When Jobst Heinrich paid the *purchase money (Kaufgeld)*, he did *not*
+buy land outright. He acquired the *right to establish a holding* under
+a _Meyerbrief_. At that point:
+
+* he had *legal permission to build*,
+* but he did *not yet possess a functioning household*,
+* and therefore *his social–fiscal status had not yet changed*.
+
+=== What changed his status
+
+Only after he:
+
+[arabic]
+. *constructed a dwelling*,
+. *occupied it* (produced “smoke”), and
+. was *recognized by the authorities as settled on the site*
+
+would he cease to be treated as an _Einlieger_.
+
+At that point, he would be regarded as a *Kötter / Colon* (or equivalent
+local category), and certain _Einlieger_-specific dues would typically
+*fall away or be replaced* by the standard obligations of a settled
+holding.
+
+This is exactly why the document specifies that the obligations *begin
+at Michali 1813*: it presupposes a *transition period* between approval,
+construction, and full fiscal incorporation of the new holding.
+
+=== Why _Kottzmis_ still appears here
+
+The presence of _Kottzmis_ reflects *current or transitional status*,
+not a permanent one:
+
+* it signals how he is *classified at the time of assessment*,
+* not necessarily how he will be classified forever.
+
+Early modern administrations were *status-sensitive*, not abstractly
+contractual. Obligations followed _who you were_ and _how you lived_,
+not just what you had permission to do.
+
+=== Bottom line
+
+* ✔ Kottzmis is a cottager-level monetary due, and in this document it
+reflects Jobst Heinrich’s current Einlieger classification, not his
+eventual status.
+* ✔ Purchasing tenancy rights alone does *not* end that status
+* ✔ Status changes only after *building, moving in, and recognition*
+* ✔ The document reflects a *process*, not an instantaneous
+transformation
+
+You are reading this document exactly the way a contemporary
+administrator would have understood it.
+
 == Image
 
 image::07-r.png[title=Document 6 (click on enlarge),link=self]
