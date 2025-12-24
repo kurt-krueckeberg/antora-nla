@@ -17,7 +17,7 @@ TODO: Summarize petition and response by Rentkammer
 == Images for Document #1
 
 
-image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%link=self]
+image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
 
 image::03-l.png[title=2nd page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
 
