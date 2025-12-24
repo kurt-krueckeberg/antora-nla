@@ -111,7 +111,7 @@ Habicht-Neusel
 
 Chamber resolution:
 
-The dues are approved, which are to fall due at Michaelmas 1813 for the first time.
+The dues are approved and begin at Michaelmas 1813 for the first time.
 
 The Meyer letter is to be issued.
 
@@ -123,3 +123,13 @@ M. Kaas
 ....
 
 NOTE: *Michaelmas* (29 September) is a customary legal and fiscal term date.
+
+.Meyerbrief Explained
+****
+[NOTE]
+====
+A *Meyerbrief* (“Meyer letter”) is a formal **tenancy charter** issued by the princely or manorial authority. It establishes a legally recognized holding (*Meierei*) and sets out the tenant’s rights and obligations, including dues and services owed to the Chamber. The term *Meyer* (also *Meier*) refers to the status of the tenant, not to a personal name.
+====
+****
+
+
