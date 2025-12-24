@@ -123,7 +123,7 @@ B., 13 Nov. 1809
 M. Kaas
 ....
 
-NOTE: *Michaelmas* (29 September) is a customary legal and fiscal term date.
+*Comment:* *Michaelmas* (29 September) is a customary legal and fiscal term date.
 
 .What "Meyerbrief" means?
 ****
@@ -138,6 +138,7 @@ land itself. The land remained the property of the princely authority,
 while the tenant received long{ndash}term, often hereditary, rights of use
 and occupation, subject to annual dues and obligations set by the
 Chamber. This differs fundamentally from a modern land purchase in
-which both the land and buildings are owned outright.
+which both the land and buildings are owned outright, which is termed
+fee simple ownership..
 ****
 
