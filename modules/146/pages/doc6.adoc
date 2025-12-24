@@ -7,9 +7,11 @@
 [.narrow]
 == Essential Explanations
 
-=== Micahelmas
-
 The terms *Michaelmas* and *Meyerbrief* appear in the orignal German.
+What do they mean?
+
+=== Michaelmas
+
 
 *Michaelmas* is the Feast of St. Michael the Archangel, observed every
 year on 29 September. In the late 18th and early 19th centuries, it was
