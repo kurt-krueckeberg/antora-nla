@@ -34,19 +34,18 @@ hält solcher nach der an:
 
 geometrischen Note und Zeichnung 102. [Quadrat] Ruthen 51 [Quadrat] Fuß Dec.
 
-Er wird unseres Dafürhaltes in Kammeral Prästanden davon
-
+Er wird unseres Dafürhaltens in kammeral Prästanden davon
 
 jährlich 1 Rthlr Dienstgeld
- _____ 10 g. 2 d. Kottpenst
- _____ 6 gl. ___ Mahlschweingeld
- ______1 gl. ___ Michaelis-Schap
- _______   fünf Erdtagen,
+[jährlich] 10 g. 2 d. Kottzmis
+[jährlich] 6 gl. Mahlschweingeld
+[jährlich] 1 gl. Michilisschaz
+[jährlich] fünf Eredtetage[n],
 ein Rauchhuhn, Jagd-, Wacht-
 und Landfolgen nebst 3 rt. 4 g. 4 d.
 Erbe,
            
-und zwar auf Michaeli
+und zwar auf Michali
 1813 zum erstenmal zu entrichten
 haben.
 
@@ -54,10 +53,20 @@ Bückeburg 28 October 1809.
 Habicht-Neuesl
 
 Res: Cam:
-1. Die Prästanden werden genehmiget, welche zu Michaeli 1813 zum
+1. Die Prästanden werden genehmiget, welche zu Michali 1813 zum
 ersten Mal zu entrichten sind.
 2. Der Meyerbrief ist auszufertigen
 3. Der Kammerrenttmeistr ist zur Erhebung des Kaufgeldes (6. Mg. p. M.)
 
-B. 13 Nov. 1809 MKaas
+B. 13 Nov. 1809
+MKaas
 ....
+
+
+[NOTE]
+====
+In the manuscript, *jährlich* ("annually") appears only with the first
+charge. The horizontal repetition strokes indicate that *jährlich“
+applies equally to each of the following charges; all listed payments
+and obligations are due annually.
+====
