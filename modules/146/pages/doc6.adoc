@@ -7,7 +7,7 @@
 [.narrow]
 == Essential Explanations in Understanding Document 6
 
-The terms *Michaelmas* and *Meyerbrief* appear in the orignal German.
+Certain terms like *Michaelmas*, *Meyerbrief* and *Rauchhuhn* appear in the orignal German.
 What do they mean?
 
 === Michaelmas
@@ -17,12 +17,14 @@ year on 29 September. In the late 18th and early 19th centuries, it was
 a major religious feast day in Christian Europe observed annually in
 both Catholic and Protestant territories.
 
-Beyond its religious character, Michaelmas also functioned as a
-standard legal and economic term date:
+As it does in this document, Michaelmas also functioned as a standard
+legal and economic term date:
 
 * rents, dues, and services often began or fell due at Michaelmas
 * contracts, tenancies, and obligations were frequently dated to it
 * administrations used it as a fixed annual reference point
+
+In this document the annual
 
 === Meyerbrief
 
@@ -46,6 +48,11 @@ Chamber. This differs fundamentally from a modern land purchase in
 which both the land and buildings are owned outright, which is termed
 *fee simple* ownership.
 ****
+
+=== Rauchhuhn (Smoke Hen)
+
+As odd as it may sound, a smoked hen was annaul obligation of a
+someone holding a Meyerbrief, a inheritable tenancy right to land. 
 
 == Image
 
@@ -140,11 +147,11 @@ and drawing, comprises 102 square rods and 51 square feet decimal.
 In our judgment, he will therefore have, in chamber dues, thereof
 annually
 
-1 Reichsthaler service money
-— 10 groschen 2 denarii Kottzmis
-— 6 groschen Mahlschweingeld
-— 1 groschen Michilisschaz
-— five Eredtetage[n],
+1 Reichsthaler in service money
+— 10 groschen 2 denarii as a cottager’s cash due (Kottzmis)
+— 6 groschen as milling fee money (Mahlschweingeld)
+— 1 groschen as a Michaelmas-related due (Michilisschaz)
+— five days of manual labor (Eredtetage[n])
 one smoke-hen, hunting, watch,
 and land obligations, together with 3 Reichsthaler 4 groschen 4 denarii
 hereditary fee,
