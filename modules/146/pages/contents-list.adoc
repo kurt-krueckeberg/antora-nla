@@ -40,7 +40,7 @@ xref:146:doc1.adoc[Vorstellung von Schneider Krückeberg im Evesen]
 |31
 
 |4
-|Bericht der Aemter Bückeburg u. Arensburg
+|xref:146:doc4.adoc[Bericht der Aemter Bückeburg u. Arensburg]
 .3+.^|Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
 Hude-Interessenten.
 |__
@@ -49,7 +49,7 @@ Hude-Interessenten.
 |12
 
 |5
-|Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg
+|xref:146:doc5.adoc[Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg]
 |__
 |__
 |__
@@ -57,7 +57,7 @@ Hude-Interessenten.
 
 |6 +
 ad 6
-|Bericht gedachter Aemter +
+|xref:146:doc6.adoc[Bericht gedachter Aemter] +
 Ein geometische Zeichnung von Stille
 |__
 |__
@@ -142,7 +142,7 @@ gedachten Krückeberg
 |31
 
 |4
-|Report of the administrative offices of Bückeburg and Arensburg
+|xref:146:doc4.adoc[Report of the administrative offices of Bückeburg and Arensburg]
 .3+.^|Because of his financial circumstances and personal qualities,
 and also on account of the satisfaction of the common-pasture
 stakeholders.
@@ -152,7 +152,7 @@ stakeholders.
 |12
 
 |5
-|Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
+|xref:146:doc5.adoc[Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg]
 |__
 |__
 |__
@@ -160,8 +160,8 @@ stakeholders.
 
 |6 +
 re: 6
-|Report of the aforementioned administrative offices,
-together with a geometrical (survey) drawing by Stille
+|xref:146:doc6.adoc[Report of the aforementioned administrative offices,
+together with a geometrical (survey) drawing by Stille]
 |__
 |__
 |Oct
