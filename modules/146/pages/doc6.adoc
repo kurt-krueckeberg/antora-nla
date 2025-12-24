@@ -8,11 +8,6 @@ image::07-r.png[title=Document 6 (click on enlarge),link=self]
 [.narrow]
 == Transliateration and Translation
 
-TODO: Check the hand-drawn square which I translated [Quadrat] in the prior document--maybe it
-means "square rods"?
-
-Recheck the corrections given https://chatgpt.com/c/6949c88f-962c-832f-8cd8-7500e24b1b20.
- 
 .Transliteration
 [literal.bordered]
 ....
@@ -67,4 +62,64 @@ In the manuscript, *jährlich* ("annually") appears only with the first
 charge. The horizontal repetition strokes indicate that *jährlich“
 applies equally to each of the following charges; all listed payments
 and obligations are due annually.
+
+Also note that several terms in the list of charges appear in
+non-standard or locally specific spellings. Such variation is common
+in administrative records of this period and does not necessarily
+indicate error; some forms may reflect local usage or abbreviated
+scribal practice.
 ====
+
+.Translation
+[literal.bordered]
+....
+N. C. 368.
+submitted 8 Nov. 1809
+
+H. O. F. N.
+(High Princely Upper Financial Office — filing notation)
+
+To the Princely Chamber
+Report of the Offices of Bückeburg and Arensburg
+Re: allocation.
+
+with reference to the rescript of 23 Jan. 1809.
+
+For the establishment of the new site no. 18 at Berenbusch, the tenant
+Jobst Henrich Krückeberg was, on 5 March of the current year and in
+the presence of the chief forester Falkmann, assigned the requested
+house and garden plot, which, according to the enclosed geometric note
+and drawing, comprises 102 square rods and 51 square feet decimal.
+
+In our judgment, he will therefore have, in chamber dues, thereof
+annually
+
+1 Reichsthaler service money
+— 10 groschen 2 denarii Kottzmis
+— 6 groschen Mahlschweingeld
+— 1 groschen Michilisschaz
+— five Eredtetage[n],
+one smoke-hen, hunting, watch,
+and land obligations, together with 3 Reichsthaler 4 groschen 4 denarii
+hereditary fee,
+
+and that beginning at Michali
+1813 for the first time.
+
+Bückeburg, 28 October 1809.
+Habicht-Neusel
+
+Chamber resolution:
+
+The dues are approved, which are to fall due at Michaelmas 1813 for the first time.
+
+The Meyer letter is to be issued.
+
+The chamber rent-master is instructed to collect the purchase money
+(6 Mariengroschen per Morgen).
+
+B., 13 Nov. 1809
+M. Kaas
+....
+
+NOTE: *Michaelmas* (29 September) is a customary legal and fiscal term date.
