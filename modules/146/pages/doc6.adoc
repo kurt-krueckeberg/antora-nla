@@ -136,13 +136,10 @@ not just what you had permission to do.
 * ✔ Kottzmis is a cottager-level monetary due, and in this document it
 reflects Jobst Heinrich’s current Einlieger classification, not his
 eventual status.
-* ✔ Purchasing tenancy rights alone does *not* end that status
+* ✔ Purchasing tenancy rights alone does *not* end that status.
 * ✔ Status changes only after *building, moving in, and recognition*
 * ✔ The document reflects a *process*, not an instantaneous
-transformation
-
-You are reading this document exactly the way a contemporary
-administrator would have understood it.
+transformation in status,
 
 == Image
 
