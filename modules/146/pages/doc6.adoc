@@ -2,7 +2,44 @@
 :page-role: wide
 :ndash: –
 
-== Summary
+[.narrow]
+== Essential Explanations
+
+The terms *Michaelmas* and *Meyerbrief* appear in the orignal German.
+
+*Michaelmas* is the Feast of St. Michael the Archangel, observed every
+year on 29 September. In the late 18th and early 19th centuries, it was
+a major religious feast day in Christian Europe observed annually in
+both Catholic and Protestant territories.
+
+Beyond its religious character, Michaelmas also functioned as a
+standard legal and economic term date:
+* rents, dues, and services often began or fell due at Michaelmas
+* contracts, tenancies, and obligations were frequently dated to it
+* administrations used it as a fixed annual reference point
+
+An understanding of *Meyerbreif* translated as *Meyer letter" is
+essential in order to understand how property ownership operated in
+Schaumburg-Lippe.
+
+.What "Meyerbrief" means?
+****
+*Meyerbrief and the Nature of the Purchase*
+
+The transaction described here did **not** involve the outright
+purchase of land in the modern sense. By means of a *Meyerbrief*
+(“Meyer letter”), Jobst Heinrich Krückeberg acquired a **legally
+recognized tenancy**-—the right to establish and hold a site and
+dwelling under defined conditions—rather than full ownership of the
+land itself. The land remained the property of the princely authority,
+while the tenant received long{ndash}term, often hereditary, rights of use
+and occupation, subject to annual dues and obligations set by the
+Chamber. This differs fundamentally from a modern land purchase in
+which both the land and buildings are owned outright, which is termed
+fee simple ownership..
+****
+
+== Image
 
 image::07-r.png[title=Document 6 (click on enlarge),link=self]
 
@@ -55,7 +92,6 @@ ersten Mal zu entrichten sind.
 B. 13 Nov. 1809
 MKaas
 ....
-
 
 [NOTE]
 ====
@@ -122,41 +158,4 @@ The chamber rent-master is instructed to collect the purchase money
 B., 13 Nov. 1809
 M. Kaas
 ....
-
-[.narrow]
-== Essential Explanations
-
-The terms *Michaelmas* and *Meyerbrief* appear in the orignal German.
-
-*Michaelmas* is the Feast of St. Michael the Archangel, observed every
-year on 29 September. In the late 18th and early 19th centuries, it was
-a major religious feast day in Christian Europe observed annually in
-both Catholic and Protestant territories.
-
-Beyond its religious character, Michaelmas also functioned as a
-standard legal and economic term date:
-* rents, dues, and services often began or fell due at Michaelmas
-* contracts, tenancies, and obligations were frequently dated to it
-* administrations used it as a fixed annual reference point
-
-An understanding of *Meyerbreif* translated as *Meyer letter" is
-essential in order to understand how property ownership operated in
-Schaumburg-Lippe.
-
-.What "Meyerbrief" means?
-****
-*Meyerbrief and the Nature of the Purchase*
-
-The transaction described here did **not** involve the outright
-purchase of land in the modern sense. By means of a *Meyerbrief*
-(“Meyer letter”), Jobst Heinrich Krückeberg acquired a **legally
-recognized tenancy**-—the right to establish and hold a site and
-dwelling under defined conditions—rather than full ownership of the
-land itself. The land remained the property of the princely authority,
-while the tenant received long{ndash}term, often hereditary, rights of use
-and occupation, subject to annual dues and obligations set by the
-Chamber. This differs fundamentally from a modern land purchase in
-which both the land and buildings are owned outright, which is termed
-fee simple ownership..
-****
 
