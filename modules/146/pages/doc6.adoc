@@ -1,4 +1,4 @@
-= Document 6: Report of the aforementioned administrative offices, together with a geometrical (survey) drawing by Stille
+= Document 6: Report of the aforementioned administrative offices
 :page-role: wide
 :ndash: –
 

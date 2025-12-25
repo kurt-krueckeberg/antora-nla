@@ -1,4 +1,4 @@
-= Document 6: Geometric Drawing
+= Document 6: Together with a Geometric Drawing
 :page-role: wide
 
 [.narrow]
