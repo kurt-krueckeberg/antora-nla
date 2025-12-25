@@ -80,8 +80,6 @@ L. Stille
 .Transliteration of survey triangle sides
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[triangle's side-lables]
-
 Hofs No. 7 zu Behrenbusch Garten
 
 Forst
