@@ -43,6 +43,8 @@ image::08-r.png[title=Lot No. 7 at Behrenbusch's garden,link=self]
 [.narrow]
 == Transliteration and Translation
 
+=== Text of Survy
+
 .Transliteration of Survey Text
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -77,23 +79,21 @@ Bückeburg, the 5th of March 1809.
 L. Stille
 ....
 
-.Transliteration of survey triangle sides
-[literal.bordered,subs="verbatim,quotes"]
-....
-Hofs No. 7 zu Behrenbusch Garten
+=== Boundary Labels
 
-Forst
+The drawing is of the new future site to be allocated to Jobst Heinrich Krückeberg, which will
+be site no. 18 at Berenbusch. The labels in the drawing indicate the bordering areas. It is
+bordered on two sides by foresst (*Forst*) and on one side by the garden (*Garetn*) of site no.
+7 at Berenbusch.
 
-Forst
-....
+.Transliteration of boundary labels
+[cols="1,3",width=50%,options="header"]
+|===
+|German|English Meaning
 
+|Hofs No. 7 zu Behrenbusch Garten
+|(This side) borders the garden of site no. 7 at Berenbusch
 
-.Translation of lables on sides of drawing
-[literal.bordered,subs="verbatim,quotes"]
-....
-Lot No. 7 at Behrenbusch's garden
-
-Forest
-
-Forest
-....
+|Forst
+|(This side) borders the forest
+|===
