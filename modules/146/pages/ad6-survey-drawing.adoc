@@ -1,0 +1,42 @@
+= Document 6: Geometric Drawing
+
+== Image
+
+image::08-r.png[title=Lot No. 7 at Behrenbusch's garden,link=self]
+
+== Transliteration and Translation
+
+....
+ad Nr. 6
+
+
+Cromemoria
+
+Die dem Krückeberg zu Behrenbusch am 2. d. M im
+Baumer Forste ausgemessene Hofstelle, deren Figur
+hierunter bemerkt ist, beträgt
+102 Quadrat Ruthen 51. Quadrat Fuß
+Bückeburg d 5. März 1809.
+
+L Stille
+....
+
+
+....
+[triangle's side-lables]
+
+Hofs No. 7 zu Behrenbusch Garten
+
+Forst
+
+Forst
+....
+
+
+...
+Lot No. 7 at Behrenbusch's garden
+
+Forest
+
+Forest
+....
