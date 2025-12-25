@@ -8,6 +8,6 @@
 ** xref:doc4.adoc[]
 ** xref:doc5.adoc[]
 ** xref:doc6.adoc[]
-** xref:doc6.adoc[]
 ** xref:ad6-survey-drawing.adoc[]
+** xref:doc7.adoc[]
 
