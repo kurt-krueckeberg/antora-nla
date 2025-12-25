@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-echo "=== Antora Build Started: $(date) ==="
+echo "=== Antora NLA Build Started: $(date) ==="
 #
 #
 # 1. CLEAN PREVIOUS BUILD
