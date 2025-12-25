@@ -58,7 +58,7 @@ Hude-Interessenten.
 |6 +
 ad 6
 |xref:146:doc6.adoc[Bericht gedachter Aemter] +
-Ein geometische Zeichnung von Stille
+xref:146:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
 |__
 |__
 |Oct
@@ -160,16 +160,16 @@ stakeholders.
 
 |6 +
 re: 6
-|xref:146:doc6.adoc[Report of the aforementioned administrative offices,
-together with a geometrical (survey) drawing by Stille]
+|xref:146:doc6.adoc[Report of the aforementioned administrative offices],
+ xref:146:ad6-survey-drawing.adoc[together with a geometrical (survey) drawing by Stille]
 |__
 |__
 |Oct
 |28
 
 |7
-|Drafts of Cameral rescripts from the Office of Bückeburg,
-also draft of a Cameral instruction to the Chamber Rent-Master Staackmann
+|xref:146:doc7.adoc[Drafts of Cameral rescripts from the Office of Bückeburg,
+also draft of a Cameral instruction to the Chamber Rent-Master Staackmann]
 .5+.^|Concerning the Cameral approval of the payment monies
 and the execution of the purchase deed.
 |__ 
