@@ -87,7 +87,7 @@ bordered on two sides by foresst (*Forst*) and on one side by the garden (*Garet
 7 at Berenbusch.
 
 .Transliteration of boundary labels
-[cols="1,3",width=70%,options="header"]
+[cols="1,2",width=70%,options="header"]
 |===
 |German|English Meaning
 
