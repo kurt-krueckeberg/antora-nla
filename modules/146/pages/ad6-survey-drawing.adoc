@@ -43,7 +43,7 @@ image::08-r.png[title=Lot No. 7 at Behrenbusch's garden,link=self]
 [.narrow]
 == Transliteration and Translation
 
-=== Text of Survy
+=== Survey Text
 
 .Transliteration of Survey Text
 [literal.bordered,subs="verbatim,quotes"]
