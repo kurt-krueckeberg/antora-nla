@@ -60,19 +60,6 @@ Bückeburg d[en] 5. März 1809.
 L Stille
 ....
 
-.Transliteration of survey triangle sides
-[literal.bordered,subs="verbatim,quotes"]
-....
-[triangle's side-lables]
-
-Hofs No. 7 zu Behrenbusch Garten
-
-Forst
-
-Forst
-....
-
-
 .Translation of survey text
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -88,6 +75,18 @@ below, amounts to
 Bückeburg, the 5th of March 1809.
 
 L. Stille
+....
+
+.Transliteration of survey triangle sides
+[literal.bordered,subs="verbatim,quotes"]
+....
+[triangle's side-lables]
+
+Hofs No. 7 zu Behrenbusch Garten
+
+Forst
+
+Forst
 ....
 
 
