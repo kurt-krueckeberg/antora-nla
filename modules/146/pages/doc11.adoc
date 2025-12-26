@@ -1,0 +1,34 @@
+= Document 11: Draft purchase deed for this Krückeberg, No. 18, in Berenbusch, concerning a building site for house construction and garden
+
+== Image
+
+image::13-r-alternate.png[title=TODO,link=self]
+
+image::14-l-alternate.png[title=TODO,link=self]
+
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Concept Kaufbriefs Namens
+der St Kammer für den
+Jobst Heinrich Krücke-
+berg No 18. in Berenbusch
+über einen Platz zum
+Hausbau und Garten
+im Baumer Först.
+
+Expd: Schwarze
+
+TODO
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+
+
