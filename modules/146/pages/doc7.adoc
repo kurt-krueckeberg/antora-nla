@@ -7,6 +7,7 @@
 
 image::09-r.png[titie="Document 7 (click to enlarge),link=self]
 
+[.narrow]
 == Transliteration and Translation
 TODO: Continue the review: https://chatgpt.com/share/694dd6e5-6f34-8004-8240-91fc7d38e86a
 'wurden' or 'worden', 'hindurch' or 'hierdurch'?
@@ -21,26 +22,21 @@ Expd. Schwarze
 
 V.G.G.
 
-Die Ausweisung an den
-Einlieger Jobst Heinrich Krücke-
-berg No 18 zu Bärenbusch,
-so wie auch die von Euch in
-Vorschlag gebrachten Prä-
-standen *⸸*, sind genehmigt
+Die Ausweisung an den Einlieger Jobst Heinrich Krückeberg No 18 zu Bärenbusch,
+so wie auch die von Euch in Vorschlag gebrachten Prästanden *⸸*, sind genehmigt
 worden. Wir pp
 
 Buckeburg d[en] 15ten Novemb. 1809.
 
 *⸸*{mdash}welche zu Michaeli 1813
-zum ersten male zu
-entrichtet werden müssen
+zum ersten male zu entrichtet werden müssen
 
 Anstatt
 v. Danckwertz v. Lindesberg
 MKaas
 
 
-K[ammer]-Anweisung an den Kammerrentmeister Stackmann.
+K[ammer]-Anweisung an den Kammerrentmeister Staackmann.
 
 Expd.
 
