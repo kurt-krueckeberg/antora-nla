@@ -65,7 +65,7 @@ xref:146:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
 |28
 
 |7 
-|Concept Camr Rescripts aus Amt Bückeburg
+|Concept Camr Rescripts ans Amt Bückeburg
 .6+.^|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
 |__ 
 |__ 
@@ -73,7 +73,7 @@ xref:146:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
 |15 
 
 |7 
-|Auch Concept Camr. Anweisung an den Kammerrent: Meister Staackmann
+|Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann
 |__ 
 |__ 
 |Nov. 

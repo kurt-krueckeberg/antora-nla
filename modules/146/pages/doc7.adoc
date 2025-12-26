@@ -1,5 +1,6 @@
 = Document 7: Drafts of Cameral rescripts from the Office of Bückeburg, also draft of a Cameral instruction to the Chamber Rent-Master Staackmann
 :page-role: wide
+:mdash: --
 
 
 == Image
@@ -7,42 +8,46 @@
 image::09-r-alternate.png[titie="Document 7 (click to enlarge),link=self]
 
 == Transliteration and Translation
+TODO: Continue the review: https://chatgpt.com/share/694dd6e5-6f34-8004-8240-91fc7d38e86a
+'wurden' or 'worden', 'hindurch' or 'hierdurch'?
 
 ....
 Conc/
 ad Num: Cam. 368.
 
+Kammer-Rescripts ans Amt Bückeburg.
 
 Expd. Schwarze
 
 V.G.G.
+
 Die Ausweisung an dem
 Einlieger Jobst Heinrich Krücke-
-Expd: Schwarze
+berg No 18 zu Bärenbusch,
 so wie auch die von Euch in
 Vorschlag gebrachten Prä-
-standen, sind genehmigt
-entrichtet werden.
+standen *⸸*, sind genehmigt
 worden. Wir pp
 
 Buckeburg d[en] 15ten Novemb. 1809.
+
+*⸸*{mdash}welche zu Michaeli 1813
+zum ersten male zu
+entrichtet wurden müssen
 
 Anstatt
 v. Danckwertz v. Lindesberg
 MKaas
 
 
-K: Anweisung
-an
-den Kammerrentmeister
-Stockmann.
+K[ammer]-Anweisung an den Kammerrentmeister Strackmann.
 
 Expd.
 
 Dem Neubauer Joht Heinrich Krücke-
 berg No 18 zum Bärenbusch sind
-102 Quadrat-R. 51 Quadrat F. ausgeweisen
-wurde. Der Kammerrent-
+102 Quadrat-R[uthen]. 51 Quadrat Fuß und Hausbau ausgeweisen
+???w[u/o]rden???. Der Kammerrent-
 meister wird hindurch ange-
 wiesen die Kaufgelder dießt
 ausgewiesenen Platzes und
@@ -50,8 +55,10 @@ zwar die Quadrat R mit 6 mgl *‡* zu
 erheben u[nd] gehörigen Orts zu
 vorminnahmen.
 Bburg d 15 1/2 Nov. 1809
-vidacellwerk v Landisberg MKaas
+
+v. Danckwertz v. Lindesberg
+MKaas
 
 
-*‡*--also in S:a mit 17 E 3 gl d  
+*‡*{mdash}also in Sa: mit 17 E 3 gl d  
 ....
