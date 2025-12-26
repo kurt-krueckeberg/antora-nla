@@ -28,9 +28,9 @@ npx --max-old-space-size=4096 antora local-playbook.yml
 #
 # 4. COPY FONTS
 #
-echo "Copying fonts..."
-cp /home/kurt/antora-nla/fonts/* \
-   /home/kurt/antora-nla/public/_/font/
+#echo "Copying fonts..."
+#cp /home/kurt/antora-nla/fonts/* \
+#   /home/kurt/antora-nla/public/_/font/
 
 #
 # 5. DEPLOY TO WEB DIRECTORY
