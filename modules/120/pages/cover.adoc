@@ -1,0 +1,24 @@
+= Case File Cover
+
+
+image::cover.png[title=Case File Cover, link=self]
+
+
+== Transliteration and Translation
+
+....
+Acta Bauereg?tger
+
+Verkauft der Krückeberg
+schon  Stätte No. 18 in
+Berenbusch an der Schuster
+Wilhelm Meyer zu Röcke
+
+
+
+1850
+
+
+
+Berenbusch No. 18
+....
