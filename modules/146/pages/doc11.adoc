@@ -3,9 +3,9 @@
 
 == Image
 
-image::13-r-alternate.png[title=TODO,link=self]
+image::13-r-alternate.png[title=TODO,width=85%,link=self]
 
-image::14-l-alternate.png[title=TODO,link=self]
+image::14-l-alternate.png[title=TODO,width=85%,link=self]
 
 == Transliteration and Translation
 
