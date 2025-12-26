@@ -1,0 +1,42 @@
+= Document 9: Draft of a Cameral decree addressed to this colonist Krückeberg
+ 
+
+== Image
+
+image::11-r-alternate.png[title=TODO,link=self]
+
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+ad Num 394
+[?] K: Erlasses
+den Neubauer Kruckeberg
+N. 18 zu Berenbusch
+
+Expd: Schwarze
+
+Das unterm 7t d. M. einge-
+reichte Gesuch des Neubauers
+Krückeberg und terminliche
+bezahlung des ihm zum Hand.
+Bau aus gewiesenen Platzes
+findet nicht statt.
+
+Bburg d. 12 Dec. 1809.
+
+FSt[z]
+
+Waccelwerk v. Lindesberg MKaas
+Wunt
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+
+
