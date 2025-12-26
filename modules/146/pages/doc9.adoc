@@ -3,7 +3,7 @@
 
 == Image
 
-image::11-r-alternate.png[title=TODO,link=self]
+image::11-r.png[title=TODO,link=self]
 
 == Transliteration and Translation
 
