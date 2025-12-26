@@ -1,0 +1,34 @@
+= Document 10: Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid by the aforementioned Krückeberg.
+
+== Image
+
+image::12-r-alternate.png[title=TODO,link=self]
+
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Num: 452.
+Bauckwerten
+
+Der Neubauer Jobst Henrich Krückeberg
+N. 18. in Berenbosch hat für einen Platz
+zum Hausbau von 102 quadrat Ruten
+51 Fuß groß Siebenzehe Rthlr 3 gl. in die
+Kammer kaste bezahlet. Bückeburg 20.
+
+Dez. 1809.
+Staackmann
+
+17 Rthlr 3 gl. Münze
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+
+

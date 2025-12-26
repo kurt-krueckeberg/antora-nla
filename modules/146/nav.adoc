@@ -10,4 +10,7 @@
 ** xref:doc6.adoc[]
 ** xref:ad6-survey-drawing.adoc[]
 ** xref:doc7.adoc[]
+** xref:doc8.adoc[]
+** xref:doc9.adoc[]
+** xref:doc10.adoc[]
 
