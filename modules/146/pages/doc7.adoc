@@ -12,6 +12,8 @@ image::09-r.png[titie="Document 7 (click to enlarge),link=self]
 TODO: Continue the review: https://chatgpt.com/share/694dd6e5-6f34-8004-8240-91fc7d38e86a
 'wurden' or 'worden', 'hindurch' or 'hierdurch'?
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Conc/
 ad Num: Cam. 368.
