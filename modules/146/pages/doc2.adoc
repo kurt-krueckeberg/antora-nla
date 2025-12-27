@@ -62,11 +62,17 @@ by a separate block with the transliteration of theRentkammer's response.
 ....
 N.C. 287.                         pr. 27. Oct. 1808.
 
+
+H O F e. K.
+
 An
 Fürstliche Kammer Bericht der Aemter Bückeburg
 und Arensburg
 betr.
 Neubauereÿ.
+
+
+ad Nrum: Cam: 260.
 
 Der Einlieger Jobst Henr[ich]: Krückeberg ist, so wie auch seine
 Ehefrau, aus Evesen gebürtig. Sein Vater wurde [written:
@@ -131,6 +137,8 @@ could reasonably finance the construction of his own house.
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N.C. 287.                         received 27 Oct. 1808.
+
+TODO: trasnlitration of "H. O. F. e. K." and "ad..."
 
 To the Princely Chamber
 Report of the Offices of Bückeburg and Arensburg
