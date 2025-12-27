@@ -14,7 +14,8 @@ image::10-r.png[title=Petition of the wife of the new settler Krückeberg(Click 
 394. F. S.
 pr 7. Decber 1809
 
-? ? ? N  <--- compare to other documents
+[marginal note]
+(undeciphered docket mark)
 
 Actum Bückeburg in
 Cameram den 7. Dez. 1809.
@@ -54,6 +55,9 @@ Statt. B. 11. Decem.
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
+
+[marginal note]
+(undeciphered docket mark)
 
 ....
 
