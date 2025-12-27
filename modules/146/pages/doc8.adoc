@@ -1,10 +1,11 @@
 = Document 8: Petition of the wife of the new settler Krückeberg,
-
+:page-role: wide
 
 == Image
 
 image::10-r.png[title=Petition of the wife of the new settler Krückeberg(Click to enlarge),link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
