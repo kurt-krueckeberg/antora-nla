@@ -18,6 +18,9 @@ and the total area is stated as 102 square rods and 51 square feet.
 Such sketches served as supporting documentation for Rentkammer decisions and
 confirmed that the land allocation had been formally surveyed and approved.
 
+The geometric drawing also shows what borders each side of the property:
+the forest is on two sides and the garden of #7 Berenbusch is on the third side.
+
 [NOTE]
 ====
 *Historical land-measurement units.*
