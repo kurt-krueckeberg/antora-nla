@@ -3,8 +3,9 @@
 == Summary
 
 On December 7, 1809, Jobst Heinrich's wife, Philippine Christine Eleonore, nee Tegtmeyer,
-petition the Rentkammer to allow two payments instead of one for payment of the plot of
-land the Rentkammer decide to alloted to him where he could build a home. 
+xref:146:doc8.adoc[petitioned the Rentkammer] to allow two payments instead of one for
+payment of the plot of land the Rentkammer decide to alloted to Jobst Heinrich, where he
+would build a home. 
 
 NOTE: Payment for the tract of land, the *"erhebliches Kolonat"*, transferred
 only hereditary tenancy rights to the land not full ownership; ultimate title
