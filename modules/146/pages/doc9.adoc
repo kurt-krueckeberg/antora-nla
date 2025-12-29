@@ -12,30 +12,47 @@ image::11-r.png[title=TODO,link=self]
 ....
 ad Num 394
 E: K: Erlasses
+
 den Neubauer Kruckeberg
 N. 18 zu Berenbusch
 
 Expd: Schwarze
 
-Das unterm 7t d. M. einge-
-reichte Gesuch des Neubauers
-Krückeberg und terminliche
-bezahlung des ihm zum Hand.
-Bau aus gewiesenen Platzes
-findet nicht statt.
+Das unterm 7t d. M. eingereichte Gesuch des Neubauers
+Krückeberg und terminliche Bezahlung des ihm zum Hauß-Bau
+ausgewiesenen Platzes findet nicht statt.
 
 Bburg d. 12 Dec. 1809.
 
 FSt[z]
 
 Waccelwerk v. Lindesberg MKaas
-Wunt
+Wandt
 ....
 
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Ref. no. 394
+Concept: Chamber Decree
+
+To the new settler Krückeberg
+No. 18 at Berenbusch
+
+Dispatched: Schwarze
+
+The petition submitted on the 7th of this month by the new settler Krückeberg,
+requesting installment-based payment for the plot of land assigned to him for
+house construction, is not granted.
+
+Bückeburg, 12 December 1809.
+
+F. St. g.
+
+By authority of Lindesberg
+M. Kaas
+Wandt
 
 ....
 
