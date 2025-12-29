@@ -1,8 +1,11 @@
 = Todoes
 
+== Convert 146 pngs to jpgs
+
 == Finish Case File 139
 
 Homestead (Farmstead) No. 10 in Berenbusch, under the jurisdiction of the Bückeburg Office
+Does this one have the map showing neighboring Krückebergs?
 
 == Images
 
