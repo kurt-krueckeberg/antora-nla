@@ -12,13 +12,9 @@ image::14-l-alternate.png[title=TODO,width=85%,link=self]
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Concept Kaufbriefs Namens
-der St Kammer für den
-Jobst Heinrich Krücke-
-berg No 18. in Berenbusch
-über einen Platz zum
-Hausbau und Garten
-im Baumer Först.
+Concept Kaufbriefs Namens der St Kammer für den Jobst Heinrich Krücke-
+berg No 18. in Berenbusch über einen Platz zum Hausbau und Garten im
+Baumer Först.
 
 Expd: Schwarze
 
