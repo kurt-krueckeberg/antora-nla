@@ -65,7 +65,7 @@ xref:146:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
 |28
 
 |7 
-|Concept Camr Rescripts ans Amt Bückeburg
+|xref:146:doc7.adoc[Concept Camr Rescripts ans Amt Bückeburg]
 .6+.^|pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
 |__ 
 |__ 
@@ -73,36 +73,37 @@ xref:146:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
 |15 
 
 |7 
-|Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann
+|xref:146:doc7.adoc[Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann]
 |__ 
 |__ 
 |Nov. 
 |15 
 
 |8
-|Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch
+|xref:146:doc8.adoc[Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch]
 |__
 |__
 |Decb.
 |7
 
 |9
-|Concept Camr Erlaß an diesen Kolon Krückeberg
+|xref:146:doc9.adoc[Concept Camr Erlaß an diesen Kolon Krückeberg]
 |__
 |__
 |__
 |12
 
 |10
-|Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
-gedachten Krückeberg
+|xref:146:doc10.adoc[Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
+gedachten Krückeberg]
 |__
 |__
 |__
 |__
 
 |11
-|Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau und Garten
+|xref:146:doc10.adoc[Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
+und Garten]
 |__
 |__
 |__
@@ -178,30 +179,31 @@ and the execution of the purchase deed.
 |15 
 
 |8
-|Petition of the wife of the new settler Krückeberg,
-No. 18, in Berenbusch
+|xref:146:doc8.adoc[Petition of the wife of the new settler Krückeberg,
+No. 18, in Berenbusch]
 |__
 |__
 |Decb.
 |7
 
 |9
-|Draft of a Cameral decree addressed to this colonist Krückeberg
+|xref:146:doc9.adoc[Draft of a Cameral decree addressed to this colonist Krückeberg]
 |__
 |__
 |__
 |12
 
 |10
-|Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid by the aforementioned Krückeberg.
+|xref:146:doc10.adoc[Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
+by the aforementioned Krückeberg]
 |__
 |__
 |__
 |__
 
 |11
-|Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
-concerning a building site for house construction and garden
+|xref:146:doc11.adoc[Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
+concerning a building site for house construction and garden]
 |__
 |__
 |__
