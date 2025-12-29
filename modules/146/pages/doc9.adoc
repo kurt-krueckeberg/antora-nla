@@ -11,7 +11,7 @@ image::11-r.png[title=TODO,link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 ad Num 394
-E: K: Erlasses
+E: K: Erlass
 
 den Neubauer Kruckeberg
 N. 18 zu Berenbusch
