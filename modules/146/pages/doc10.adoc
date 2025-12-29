@@ -10,7 +10,7 @@ image::12-r.png[title=TODO,link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Num: 452.
-[W?]ackelwer[k/t] (abiguous surname)
+[W?]ackelwer[k/t] (ambiguous surname)
 
 Der Neubauer Jobst Henrich Krückeberg N. 18. in Berenbosch hat
 für einen Platz zum Hausbau von 102 quadrat Ruten 51 Fuß groß
@@ -28,7 +28,7 @@ Staackmann
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 452.
-[W?]ackelwer[k/t]
+[W?]ackelwer[k/t] (ambiguous surname)
 
 The new settler Jobst Henrich Krückeberg, No. 18 in Berenbusch, has paid
 into the chamber treasury the sum of seventeen Reichsthaler and three
