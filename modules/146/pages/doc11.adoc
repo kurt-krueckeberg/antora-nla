@@ -1,79 +1,96 @@
 = Document 11: Draft purchase deed for this Krückeberg, No. 18, in Berenbusch, concerning a building site for house construction and garden
 :page-role: wide
 
+[.narrow]
+== Overview
+
+=== What this document is
+
+A *draft ("`Concept`") purchase deed* issued *in the name of the
+Rentkammer* for *Jobst Heinrich Krückeberg No. 18 (Berenbusch)*. It is
+issued *"`statt Kaufbriefs`" (*in place of a formal purchase deed*)
+at this stage of the process.
+
+=== What it records (the essential facts)
+
+* *Object of purchase:* a *house-and-garden plot* in the *Baumer Forst*.
+* *Legal basis:* the Rentkammer previously *approved* that this plot
+could be *sold to him*.
+* *Valuation/price rule:* set at *6 Mariengroschen per Quadrat-Ruthe*
+(per square rod), based on expert assessment.
+* *Survey:* the plot was *measured by the sworn surveyor Stille* in
+Bückeburg.
+* *Size:* *102 Quadrat-Ruthen + 51 Quadrat-Fuß*.
+* *Payment:* the calculated purchase price—*17 Reichsthaler 3
+Mariengroschen*—has been *paid into the Kammer-Casse*.
+
+=== What it does legally
+
+* It *transfers ownership (Eigenthum)* of the purchased plot to
+*Krückeberg and his heirs*.
+* It gives an explicit *title guarantee*: he and his heirs are to be
+*protected in possession* "`at all times and against everyone.`"
+* It binds him to pay the *annual cameral dues (Prästanden)* associated
+with the plot—though the detailed list is struck through.
+
+=== How it fits in the case workflow
+
+This document is the *ownership step* after:
+
+[arabic]
+. approval,
+. survey,
+. payment, and before/alongside issuance of the *Meyerbrief*, which is
+the more comprehensive tenure instrument (conditions, ongoing dues,
+etc.). The document itself confirms this staging by saying it is issued
+*"`instead of`"* a full Kaufbrief.
+
+If you want an even tighter version (3–4 sentences) for a webpage intro,
+tell me and I’ll compress it further without losing the core legal
+points.
+
 == Image
 
 image::13-r-alternate.png[title=TODO,width=85%,link=self]
 
 image::14-l-alternate.png[title=TODO,width=85%,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Concept Kaufbriefs Namens der R Kammer für den Jobst Heinrich Krücke-
+Concept Kaufbriefs Namens der R[ent]Kammer für den Jobst Heinrich Krücke-
 berg No 18. in Berenbusch über einen Platz zum Hausbau und Garten im
 Baumer Först.
 
 Expd: Schwarze
 
-Nachdem auf Ansuchen des
-Jobst Heinrich Krückeberg
-No. 18. in Berenbusch von
-Fürstlicher Rentkammer
-bewilligt worden, daß dem
-selben ein Platz Behuf
-Hausbau und Garten im
-Bauner Forste dergestalt
-käuflich überlaßen werden
-solle, daß derselbe dafür
-den durch Sachverständige
-Exped: Schwarze
-taxirten Werth die Quadrat
-Ruthe mit 6. mg zu bezahlen
-habe, und hierauf solcher
-zu 102 Quadrat Ruthen 51 Quadrat Fuß groß
-beeydigten Landmessen
-durch den beeydigten Landmessen Stille in
-Bückeburg vermessen, auch
-das bestimmte Kaufgeld
-nach obigen Ansätze mit
-Siebenzehn Rthlr
-3 mg
-an Fürstliche Kammer-
-Casse erleget worden,
-wobeÿ gedachter Krücke-
-berg verpflichtet ist, den
-von diesem Platze ange-
-setzten
+Nachdem auf Ansuchen des Jobst Heinrich Krückeberg No. 18. in Berenbusch
+von Fürstlicher Rentkammer bewilligt worden, daß dem selben ein Platz
+Behuf Hausbau und Garten im Bauner Forste dergestalt käuflich überlaßen
+werden solle, daß derselbe dafür den durch Sachverständige Exped: Schwarze
+taxirten Werth die Quadrat Ruthe mit 6. mg zu bezahlen habe, und hierauf
+solcher zu 102 Quadrat Ruthen 51 Quadrat Fuß groß beeÿdigten Landmessen
+durch den beeydigten Landmessen Stille in Bückeburg vermessen, auch das
+bestimmte Kaufgeld nach obigen Ansätze mit Siebenzehn Rthlr 3 mg an
+Fürstliche Kammer-Casse erleget worden, wobeÿ gedachter Krückeberg
+verpflichtet ist, den von diesem Platze angesetzten jährlichen Kamera
+Prästanden als:
 
-jährlichen Kamera
-Prestandenhals:
+[8 lines struck through]
 
-zugehöriger Zeitrichtig
-abzutragen und zu ent-
-richten; So wird dem obge-
-nannten Neubauer Krück
-berg No 18. zu Berenbusch
-und dessen Erben, das Eigen-
-thum dieses von ihm erkauf
-ten Platzes hiemit überge-
-ben, und die Versicherung
-ertheilet, daß Er und seine
-Erben bey dessen Besitz jeden
-Zeit und gegen Jedermann
-geschützt werden sollen
-Dessen zur Urkund ist dieses
-statt Kaufbriefsunter bey
-gedruckten Fürstln Kammer
-Siegel und gewöhnlicher Unter-
-chrift ausgefertiget worden
-Bückeburg 10 Jan: 1810.
-Fürstl. Schaumbl. Liple zur
-Rentkammer v. d. u. R.
+zugehöriger Zeitrichtig abzutragen und zu entrichten; So wird dem obge-
+nannten Neubauer Krück berg No 18. zu Berenbusch und dessen Erben, das
+Eigenthum dieses von ihm erkauf ten Platzes hiemit übergeben, und die
+Versicherung ertheilet, daß Er und seine Erben bey dessen Besitz jeden
+Zeit und gegen Jedermann geschützt werden sollen Dessen zur Urkund ist
+dieses statt Kaufbriefsunter bey gedruckten Fürstln Kammer Siegel und
+gewöhnlicher Unterchrift ausgefertiget worden Bückeburg 10 Jan: 1810.
+Fürstl. Schaumbl. Liple zur Rentkammer v. d. u. R.
 
-?? Domswert MKaass
+?? Danckwertz  MKaass
 Sandesbur Wint
 ....
 
@@ -81,7 +98,48 @@ Sandesbur Wint
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Draft purchase deed issued in the name of the Rent Chamber
+for Jobst Heinrich Krückeberg,
+No. 18 at Berenbusch,
+concerning a plot of land for the construction of a house
+and a garden in the Baumer Forest.
 
+Dispatched by Schwarze.
+
+Whereas, upon the application of Jobst Heinrich Krückeberg,
+No. 18 at Berenbusch, the Princely Rent Chamber has approved
+that a plot of land for the purpose of building a house and
+establishing a garden in the Baumer Forest shall be conveyed
+to him by purchase, on the condition that he pay the value
+assessed by the appointed experts, at the rate of six
+Mariengroschen per square rod; and whereas the said plot,
+measuring 102 square rods and 51 square feet, has been
+surveyed by the sworn land surveyor Stille at Bückeburg; and
+whereas the determined purchase price, calculated according
+to the above rates, amounting to seventeen Reichsthaler and
+three Mariengroschen, has been paid into the Princely Chamber
+Treasury; and whereas the said Krückeberg is obligated to
+pay the annual cameral dues assessed for this plot in due
+time and in proper manner;
+
+the aforementioned new settler Krückeberg, No. 18 at
+Berenbusch, and his heirs are hereby granted ownership of
+this plot purchased by him, and assurance is given that he
+and his heirs shall be protected in their possession thereof
+at all times and against all persons.
+
+In witness whereof, this instrument, in lieu of a formal
+purchase deed, has been executed under the printed seal of
+the Princely Chamber and with the customary signatures.
+
+Bückeburg, 10 January 1810.
+
+Princely Schaumburg-Lippe
+Rent Chamber,
+by order.
+
+von Danckwertz     M. Kaas
+Sandesbur. Windt
 ....
 
 
