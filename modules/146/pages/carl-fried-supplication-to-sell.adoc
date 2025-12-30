@@ -13,12 +13,7 @@ originated from a *state-regulated settlement*.
 
 === 2. "`Bezug im Bericht an das Amt Bückeburg`"
 
-You were correct to scrutinize this line. Paleographically, the final
-letter can resemble an *end-s*, but:
-
-* *Grammatically*: _an des Amt_ is impossible.
-* *Formulaically*: _Bezug im Bericht an das Amt …_ is a fixed
-administrative routing phrase.
+This is a fixed administrative routing phrase.
 
 In translation, it functions as:
 
@@ -75,6 +70,58 @@ image::21-r.png[title=Carl Friedrich Krückeberg's Supplication to Sell no. 18 B
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+N.C. 4386.
+pr. in Cam. 17/9. 50
+
+[3 Gr. Stempel]
+
+Bezug im Bericht an das Amt Bückeburg
+Bbg 12/9 50
+Barkhausen
+
+B.
+No. pr. 1314        pr. bei Amte 12/9 50
+
+K.
+
+An
+Fürstliche Rentkammer.
+
+Da ich beabsichtige, mit meiner ganzen Familie nach
+Amerika auszuwandern, woselbst sich schon mehrere
+Verwandten von mir befinden, denen es recht gut geht,
+so habe ich meine kleine Neubauer-Colonie
+Nro. 18 in Berenbusch an den Schuhmacher
+Wilhelm Meier, gebürtig aus Evesen,
+derzeit in Röcke, verkauft. Zu meiner
+Stätte gehört außer dem Hause und einem
+Hofraume ein Garten von etwas über einem
+Morgen Größe.
+
+Da ich nun bereits am 1. l. M. in Bremen
+sein muß, so erlaube ich mir, Fürstliche
+Rentkammer, gehorsamst zu ersuchen:
+
+den Konsens zum beabsichtigten
+Verkaufe geneigtest bald nun zu ertheilen.
+
+Fürstlichen Rentkammer
+
+gehorsamsten
+Carl Frdr. Krückeberg Nro. 18
+zu Berenbusch.
+
+Suppl.
+Bbg 11 Sept. 1850
+Conc.: Cengafelat, och
+(9 Gr.)
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Chamber No. 4386.
 Presented to the Chamber on 17 September 1850.
