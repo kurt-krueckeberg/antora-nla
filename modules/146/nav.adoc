@@ -14,5 +14,4 @@
 ** xref:doc9.adoc[]
 ** xref:doc10.adoc[]
 ** xref:doc11.adoc[]
-* xref:pr-19-9-50.adoc[]
-
+* xref:carl-fried-supplication-to-sell.adoc[]
