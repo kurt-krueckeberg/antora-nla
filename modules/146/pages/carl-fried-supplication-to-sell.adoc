@@ -1,0 +1,118 @@
+== Carl Friedrich Krückeberg Supplication to Rentkammer Requestin Sale of his Holding no. 18 Berenbusch
+:page-role: wide
+
+[.narrow]
+== Overview
+
+=== 1. Nature of the document
+
+This is a *supplication (Supplik)* addressed directly to the *Fürstliche
+Rentkammer*, requesting *official consent (Konsens)* for the sale of a
+_Neubauer_ holding. Such consent was legally required because the land
+originated from a *state-regulated settlement*.
+
+=== 2. "`Bezug im Bericht an das Amt Bückeburg`"
+
+You were correct to scrutinize this line. Paleographically, the final
+letter can resemble an *end-s*, but:
+
+* *Grammatically*: _an des Amt_ is impossible.
+* *Formulaically*: _Bezug im Bericht an das Amt …_ is a fixed
+administrative routing phrase.
+
+In translation, it functions as:
+
+____
+"`Reference in the report to the Office of Bückeburg`"
+____
+
+This is *internal bureaucratic routing*, not part of the petition text
+itself.
+
+=== 3. NC vs. internal routing marks
+
+* *N.C. 4386* = Rentkammer docket number.
+* *No. pr. 1314 / pr. bei Amte* = local office intake number.
+* Initials such as *B.* and *K.* are *clerical routing marks*, not
+signatures.
+* The *3-groschen stamp* and *9-groschen notation* indicate *fees paid*
+for filing and drafting.
+
+=== 4. Substantive content
+
+Key points of substance:
+
+* Krückeberg explicitly states *emigration to America with his entire
+family*.
+* He emphasizes *relatives already established there*, a common
+legitimizing argument.
+* He has *already sold* the holding, but the sale requires *retroactive
+official consent*.
+* The urgency ("`must already be in Bremen by the first of the current
+month`") explains the tone and timing.
+
+=== 5. "`Neubauer-Colonie`"
+
+Here, _Neubauer-Colonie_ does *not* mean a colony in the overseas sense,
+but a *state-organized settlement holding*, subject to continuing
+oversight and restrictions on alienation.
+
+=== 6. Social and legal implications
+
+This document marks a *clear transition point*:
+
+* Krückeberg is exiting the *agrarian-tenurial system* of
+Schaumburg-Lippe.
+* He is converting a *regulated rural holding into liquid capital* for
+emigration.
+* The Rentkammer’s consent was essential to prevent loss of control over
+settlement lands.
+
+== Image
+
+image::21-r.png[title=Carl Friedrich Krückeberg's Supplication to Sell no. 18 Berenbusch,link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+....
+Chamber No. 4386.
+Presented to the Chamber on 17 September 1850.
+
+[Three-groschen stamp]
+
+Reference in the report to the Office of Bückeburg.
+Bückeburg, 12 September 1850.
+Barkhausen.
+
+B.
+File no. 1314, received at the Office on 12 September 1850.
+
+K.
+
+To the
+Princely Rent Chamber.
+
+As I intend to emigrate to America with my entire family,
+where several relatives of mine already reside and are
+doing quite well, I have sold my small new-settler holding,
+No. 18 in Berenbusch, to the shoemaker Wilhelm Meier, a native
+of Evesen, presently residing in Röcke. My holding consists,
+in addition to the house and a yard, of a garden of slightly
+more than one Morgen in size.
+
+Since I must already be in Bremen by the first of the
+current month, I therefore respectfully request the
+Princely Rent Chamber to be so gracious as to grant its
+consent to the intended sale as soon as possible.
+
+To the Princely Rent Chamber,
+
+most respectfully,
+Carl Friedrich Krückeberg, No. 18,
+of Berenbusch.
+
+Petition.
+Bückeburg, 11 September 1850.
+Draft noted; fee paid: 9 groschen.
+....
