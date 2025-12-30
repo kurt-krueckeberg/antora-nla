@@ -6,10 +6,10 @@
 
 === What this document is
 
-A *draft ("`Concept`") purchase deed* issued *in the name of the
-Rentkammer* for *Jobst Heinrich Krückeberg No. 18 (Berenbusch)*. It is
-issued *"`statt Kaufbriefs`" (*in place of a formal purchase deed*)
-at this stage of the process.
+A draft purchase instrument issued by the Rentkammer for Jobst Heinrich
+Krückeberg, No. 18 (Berenbusch), functioning at this stage as the legally
+effective deed for a hereditary tenancy holding, in place of a formal
+Kaufbrief (*statt Kaufbriefs*).
 
 === What it records (the essential facts)
 
@@ -24,14 +24,63 @@ Bückeburg.
 * *Payment:* the calculated purchase price—*17 Reichsthaler 3
 Mariengroschen*—has been *paid into the Kammer-Casse*.
 
-=== What it does legally
+=== What this purchase instrument does legally
 
-* It *transfers ownership (Eigenthum)* of the purchased plot to
-*Krückeberg and his heirs*.
-* It gives an explicit *title guarantee*: he and his heirs are to be
-*protected in possession* "`at all times and against everyone.`"
-* It binds him to pay the *annual cameral dues (Prästanden)* associated
-with the plot—though the detailed list is struck through.
+==== 1. What “ownership (Eigenthum)” means here
+
+The instrument grants **Eigenthum (ownership) in the contemporary cameral
+sense**, not modern freehold ownership. This means that:
+
+* Krückeberg acquires a **heritable and legally protected right to the
+holding** (house plot and garden),
+* the holding may pass to his **heirs**, and
+* his rights cannot be arbitrarily revoked.
+
+However, the land **remains within the Rentkammer’s regulated land
+system**. Ownership is **qualified**, not absolute.
+
+==== 2. What the “title guarantee” actually guarantees
+
+When the document states that Krückeberg and his heirs are to be:
+
+> “protected at all times and against everyone,”
+
+this guarantees that:
+
+* no third party may lawfully dispossess him,
+* his holding is secure against competing claims,
+* and his rights are enforceable in law.
+
+It **does not** mean:
+
+* freedom from state oversight,
+* freedom from dues,
+* or freedom to dispose of the land at will.
+
+==== 3. What his ongoing obligations are
+
+The holding is **burdened with annual cameral dues (Prästanden)** and
+other obligations tied to the land.
+
+* These dues are an **inherent condition** of the holding.
+* Even though the detailed list is struck through in this draft, the
+  **obligation itself remains binding**.
+* Payment of these dues is what keeps the holding in good standing.
+
+Failure to meet these obligations could ultimately jeopardize the holding.
+
+==== 4. How this differs from modern U.S. land ownership
+
+For a modern reader, the key difference is this:
+
+* In modern U.S. law, a landowner typically has **unrestricted freehold title**.
+* In this case, Krückeberg holds a **heritable, state-regulated tenancy holding**:
+
+  * he may live on it,
+  * build and maintain a house,
+  * pass it to his heirs,
+  * and enjoy strong legal protection,
+  * **but** only while fulfilling ongoing obligations and obtaining approval for major legal acts (sale, mortgage).
 
 === How it fits in the case workflow
 
@@ -44,10 +93,6 @@ This document is the *ownership step* after:
 the more comprehensive tenure instrument (conditions, ongoing dues,
 etc.). The document itself confirms this staging by saying it is issued
 *"`instead of`"* a full Kaufbrief.
-
-If you want an even tighter version (3–4 sentences) for a webpage intro,
-tell me and I’ll compress it further without losing the core legal
-points.
 
 == Image
 
