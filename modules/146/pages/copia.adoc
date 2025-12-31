@@ -1,0 +1,16 @@
+= Copia
+:page-role: wide
+
+== Images
+
+image::22-r.png[link=self]
+
+image::23-l.png[link=self]
+
+image::23-r.png[link=self]
+
+image::24-l.png[link=self]
+
+
+
+== Transliteration and Translation

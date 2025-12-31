@@ -1,5 +1,12 @@
 = File Label
+:page-role: wide
 
+== Image
+
+image::22-l.png[width="75%",link=self]
+
+[.narrow]
+== Transliteration and Translation
 ....
 An Fürstliche Rentkammer
 
