@@ -5,8 +5,11 @@
 
 image::15-r.png[link=sefl]
 
+[.narrow]
 == Transliteration and Translation
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 4549.
 Pr. in Cam. 26/9. 50

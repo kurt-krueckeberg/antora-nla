@@ -5,8 +5,11 @@
 
 image::16-l-alternate.png[link=self]
 
+[.narrow]
 == Transliteration and Translation
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 4549.
 N. P. 1362.
