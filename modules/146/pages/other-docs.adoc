@@ -1,0 +1,28 @@
+= Other Documents
+:page-role: wide
+
+== Transliteration and Translation
+
+.Transliteration
+[%header,cols="1,8,4,3,1,2,1"]
+|===
+|Document Heading|Topic|Date
+
+|xref:report-to-kammer-from-bueckeburg-amt-9-19-50.adoc
+
+|xref:report-to-kammer-9-19-50.adoc[]
+|Verkauf der Krückebergschen Stätte No 18 in Berenbusch 
+|19 Sept. 1850
+
+|xref:report-to-kammer-from-bueckeburg-amt-9-26-50.adoc[]
+|
+|26 Sept. 1850
+
+|xref:report-to-bueckeburg-amt-9-26-50.adoc[]
+|Verkauff der Krückebergschene Stätte No 18 in Berenbusch 
+|26 Sept. 1850
+
+|xref:carl-fried-supplication-to-sell.adoc[]
+|Supplikat zum Verkauf Stätte no. 18 zum Berenbusch
+|11 Sept. 1850
+|===

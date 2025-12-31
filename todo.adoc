@@ -1,5 +1,10 @@
 = Todoes
 
+== Confirm Dates
+
+For the document listed in m/146/p/other-docs.adoc confirm the dates when they documents were written
+not when they were presented in the chamber.
+
 == Convert 146 pngs to jpgs
 
 == Finish Case File 139
