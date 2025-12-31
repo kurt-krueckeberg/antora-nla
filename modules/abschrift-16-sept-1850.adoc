@@ -1,0 +1,42 @@
+= ?
+
+== Image
+
+image::19-r.png[link=self]
+image::20-l.png[link=self]
+
+
+== Transliteration and Translation
+
+....
+Actum Bückeburg am Amte
+den 16 Septbr. 1850.
+
+Erschienen der Colon Knückeberg No 18
+von Berenbusch und der Schuster Ein-
+lieger Wilhelm Meyer auf No 41 in
+Röcke, welche nach Mittheilung der von
+ersterem bei Fürstlicher Rentkammer
+eingebrachten Vorstellung wegen Ver-
+kaufs seiner Stätte an den Wilhelm
+Meyer zu vernehmen gaben wie folgt:
+Wilhelm Meyer habe die Stätte nebst
+allem Zubehör zu dem Preise von 550 rt
+gekauft. Zur Bezahlung des Kauf-
+preises habe er ein baares Vermögen
+von 100 rt, außerdem wolle er die
+auf der Stätte anhenden alteren
+Schulden dd 250 rtl übernehmen und
+200 rt von dem kalen Witte No 13 in
+Eilsen aufleihen, welcher sich hierzu
+schon bereit erklärt habe.
+Der Umfang der Stätte sei in dem
+an die Kammer gerichteten Gesuche
+richtig angegeben.
+der Garten liege unmittelbar beim
+Hause und sei dieses zu 400 rt ver-
+sichert. Die Lasten der Stätte
+bestehen in Folgendem:
+
+TODO: Add 20-l.png text
+....
