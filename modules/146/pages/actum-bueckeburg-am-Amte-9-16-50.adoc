@@ -1,0 +1,11 @@
+= ??
+
+== Image
+
+image::19-r.png[link=self]
+
+image::20-l.png[link=self]
+
+== Transliteration and Translation
+
+
