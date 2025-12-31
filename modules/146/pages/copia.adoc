@@ -11,6 +11,5 @@ image::23-r.png[link=self]
 
 image::24-l.png[link=self]
 
-
-
+[.narrow]
 == Transliteration and Translation
