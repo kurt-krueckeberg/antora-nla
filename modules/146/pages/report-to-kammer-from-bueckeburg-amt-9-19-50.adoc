@@ -1,4 +1,5 @@
 = 9 Sep. 1850: To the Princely Treasury Report from the Bückeburg Office, Re: Sale of the Krückeberg property No. 18 in Berenbusch
+:page-role: wide
 
 == Image
 
