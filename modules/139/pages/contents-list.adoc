@@ -15,15 +15,15 @@ image::01.png[title=Clock to Enlarge,link=self]
 //|===
 //|No.|Designatio Actorum. ^|Ort ^|Jahr ^|Monat ^|Tag
 //
-//|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Witwe Krückeberg No 10 Berenbusch] ^|Bburg ^|1824 ^|July >|8
+//|1.|xref:doc1.adoc#doc-index-1-1[Vorstellung der Witwe Krückeberg No 10 Berenbusch] ^|Bburg ^|1824 ^|July >|8
 //
-//|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
+//|"|xref:doc1.adoc#doc-index-1-2[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|26
 //
-//|"|xref:doc-01.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
+//|"|xref:doc1.adoc#doc-index-1-3[Copt: KResc. an die Witwe Kruckeberg] ^|" ^|" ^|Aug >|4
 //
-//|"|xref:doc-01.adoc#doc-index-1-4[Sim[iliter\]: wapp[niert\] Schmöe, Kahlhuth u Creuzinger zu Baum] ^|" ^|" ^|" >|"
+//|"|xref:doc1.adoc#doc-index-1-4[Sim[iliter\]: wapp[niert\] Schmöe, Kahlhuth u Creuzinger zu Baum] ^|" ^|" ^|" >|"
 //
-//|"|xref:doc-01.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
+//|"|xref:doc1.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
 //
 //|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
 //|===
@@ -40,18 +40,18 @@ image::01.png[title=Clock to Enlarge,link=self]
 |===
 |Nr.| Designatio Actorum | Designation of the Acts (English, expanded) ^|Place ^|Year ^|Month ^|Day
 
-|1.|xref:doc-01.adoc#doc-index-1-1[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]| Petition of the
+|1.|xref:doc1.adoc#doc-index-1-1[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]| Petition of the
 widow Krückeberg, farmstead No. 10
 in Berenbusch. ^|Bburg ^|1824 ^|July >|8
 
-|"|xref:doc-01.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
+|"|xref:doc1.adoc#doc-index-1-2[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|26
 
-|"|xref:doc-01.adoc#doc-index-1-3[Concept Rescript an die Wittwe Krückeberg]|Rough draft of the official reply (Rescript) to the widow Krückeberg. ^|" ^|" ^|Aug >|4
+|"|xref:doc1.adoc#doc-index-1-3[Concept Rescript an die Wittwe Krückeberg]|Rough draft of the official reply (Rescript) to the widow Krückeberg. ^|" ^|" ^|Aug >|4
 
-|"|xref:doc-01.adoc#doc-index-1-4[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]| Likewise: sealed (with the official seal) and
+|"|xref:doc1.adoc#doc-index-1-4[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]| Likewise: sealed (with the official seal) and
 signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
 
-|"|xref:doc-01.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Rough draft of the official reply (rescript) originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
+|"|xref:doc1.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Rough draft of the official reply (rescript) originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
 
 |2.|xref:doc-02.adoc[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
 |===
