@@ -109,9 +109,9 @@ Krückeberg’s secure and heritable right to the holding.
 [.narrow]
 == Image
 
-image::13-r-alternate.png[title=TODO,width=85%,link=self]
+image::13-r.png[title=TODO,width=85%,link=self]
 
-image::14-l-alternate.png[title=TODO,width=85%,link=self]
+image::14-l.png[title=TODO,width=85%,link=self]
 
 [.narrow]
 == Transliteration and Translation
