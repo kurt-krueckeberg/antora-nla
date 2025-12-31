@@ -15,7 +15,7 @@
 ** xref:doc10.adoc[]
 ** xref:doc11.adoc[]
 * xref:other-docs.adoc[]
-* xref:file-label2.adoc[]
+* xref:admin-file-label2.adoc[]
 ** xref:carl-fried-supplication-to-sell.adoc[]
 ** xref:actum-bueckeburg-am-Amte-9-16-50.adoc[]
 ** xref:report-to-kammer-from-bueckeburg-amt-9-19-50.adoc[]
