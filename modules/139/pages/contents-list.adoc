@@ -25,7 +25,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 //
 //|"|xref:doc1.adoc#doc-index-1-5[Copt KResc: aus Amt Bberg] ^|" ^|" ^|" >|"
 //
-//|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
+//|2.|xref:doc2.adoc[Bericht des Amts Bückeberg] ^|" ^|" ^|" >|7
 //|===
   
 [NOTE]
@@ -53,5 +53,5 @@ signed by Schmöe, Kahlhuth and Creuzinger of Baum. ^|" ^|" ^|" >|"
 
 |"|xref:doc1.adoc#doc-index-1-5[Concept Rescript aus Amt Bückeberg]|Rough draft of the official reply (rescript) originating from the Office of Bückeberg. ^|" ^|" ^|" >|"
 
-|2.|xref:doc-02.adoc[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
+|2.|xref:doc2.adoc[Bericht des Amts Bückeberg]| Report of the Office of Bückeberg. ^|" ^|" ^|" >|7
 |===
