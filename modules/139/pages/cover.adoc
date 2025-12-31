@@ -5,11 +5,7 @@ image::cover.jpg[title=Click to Enlarge,link=self]
 
 == Translation and Transliteration
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Bauerngüter x Colonien
@@ -33,7 +29,7 @@ Fürstenthume Schaumburg
 Berenbusch No. 10
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Farm Estates and Settlements
@@ -56,9 +52,8 @@ the Principality of Schaumburg
 
 Berenbusch No. 10
 ....
-|===
 
-[role="narrow"]
+[.narrow]
 === Terms
 
 [width="100%",cols="6%,94%",options="header",frame=none,gird=none]
@@ -87,25 +82,3 @@ rural property that formed one unit of tenancy and obligation within a
 village. In this document, _Stätte No. 10 zu Berenbusch_ identifies the
 specific farm involved.
 |===
-
-
-* *Bauerngüter* -- "`Farm estates`" or "`peasant farms.`" Agricultural
-holdings possessed and worked by individual farmers (as opposed to noble
-or state estates). These farms could be hereditary but still carried
-certain obligations to the local lord or princely administration.
-
-* *Colonien* -- "`Colonies`" or "`settlements.`" In the 18th–19th-century
-German context, this referred to small farm settlements newly
-established by "`colonists`" or tenants on cleared land under princely
-or manorial supervision.
-
-* *ACTA* -- Latin for "`records`" or "`files.`" Used as a heading on
-official case files meaning "`the documents concerning [this matter].`"
-
-* *in specie* -- Latin for "`regarding`" or "`regarding the matter of`"
-
-* *Stätte* -- Literally "`site,`" "`holding,`" or "`farmstead.`" A single
-rural property that formed one unit of tenancy and obligation within a
-village. In this document, _Stätte No. 10 zu Berenbusch_ identifies the
-specific farm involved.
-
