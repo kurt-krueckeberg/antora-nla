@@ -45,11 +45,7 @@ of her holding.
 |image::03-l.png[title=Click to Enlarge,link=self]
 |===
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 2816.                Praes: 8 Jul. 24.
@@ -77,7 +73,8 @@ Stätte gehenden Burgrest- Handtage und Forstdienste gnädigst zu erlassen.
 
 G. Schultze
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 2816.                presented: 8 Jul. 24.
@@ -107,7 +104,6 @@ Burgrest and forestry labor services owed from her holding.
 
 G. Schultze
 ....
-|===
 
 [[doc-index-1-2]]
 === Report from the Bückeburg Office (26 July 1824) 
@@ -119,11 +115,7 @@ image::02-left-side-of-page.png[title=Click to Enlarge,width=50%,link=self]
 
 === Translation and Transliteration
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration | Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
                  R. C. b. m. zum Amtsbericht
@@ -151,7 +143,8 @@ und Forstdienst zu bewillig
 Bewilligt            Spang 
 Georg Wilhelm.   Verte
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Rentkammer note: case assigned to me for handling the report from the
@@ -180,7 +173,6 @@ three years.
 Approved — Spang.
 By authority of Prince Georg Wilhelm.
 ....
-|===
 
 [.narrow]
 === Reminder Instruction and Note
@@ -206,11 +198,7 @@ request in the Amt report.
 
 image::03-left-side-of-page.png[algin=left,width=50%,title=Click to Enlarge,link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration | Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
@@ -221,7 +209,8 @@ geh.
 
 Vert.
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 It is also to be requested by report whether the petitioner still
@@ -232,7 +221,6 @@ from the Chamber for 800 rix-dollars.
 
 See overleaf.
 ....
-|===
 
 NOTE: *(attached)* means: “This note has been attached (filed together) with the rest of the Krückeberg case
 documents.”
