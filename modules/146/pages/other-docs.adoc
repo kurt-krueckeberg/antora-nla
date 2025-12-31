@@ -4,7 +4,7 @@
 == Transliteration and Translation
 
 .Transliteration
-[%header,cols="1,8,4,3,1,2,1"]
+[%header,cols="6,6,1"]
 |===
 |Document Heading|Topic|Date
 
