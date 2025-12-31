@@ -1,4 +1,5 @@
-= ??
+= 16 Sept. 1850 : Actum Bückeburg am Amte
+:page-role: wide
 
 == Image
 
@@ -7,5 +8,60 @@ image::19-r.png[link=self]
 image::20-l.png[link=self]
 
 == Transliteration and Translation
+
+
+....
+Abschrift
+
+[3Gr Stempel]
+
+Actum Bückeburg am Amte
+den 16 Septbr. 1850
+
+
+Erschienen der Colon Krückeberg No 18 von Berenbusch und der Schuster Ein-
+lieger Wilhelm Meyer auf No 41 in Röcke, welche nach Mittheilung der von
+ersterem bei Fürstlicher Rentkammer eingebrachten Vorstellung wegen Ver-
+kaufs seiner Stätte an den Wilhelm Meyer zu vernehmen gaben wie folgt:
+Wilhelm Meyer habe die Stätte nebst allem Zubehör zu dem Preise von 550 rt
+gekauft. Zur Bezahlung des Kaufpreises habe er ein baares Vermögen von 100
+rt, außerdem wolle er die auf der Stätte anhenden alteren Schulden dd 250
+rtl übernehmen und 200 rt von dem kalen Witte No 13 in Eilsen aufleihen,
+welcher sich hierzu schon bereit erklärt habe. Der Umfang der Stätte sei
+in dem an die Kammer gerichteten Gesuche richtig angegeben.  der Garten
+liege unmittelbar beim Hause und sei dieses zu 400 rt ver- sichert. Die
+Lasten der Stätte bestehen in Folgendem:
+
+1, rtl 1 g dienstgild,
+2, 10 gl 2 d Rottzins
+3, 6 mgl. . Måhlschweingild
+4, 1 gl Michaelisschatz
+5, ein Rauchhuhn
+6, Dinge 2d Contribution.
+7, Gemeinde-Kirchen und Schellasten
+
+Sie wollen um Bestätigung des Kaufbriefes gebeten haben.
+
+V. g. u untensche
+
+Krünkeberg
+Meier
+
+In tidem
+
+König Ass
+
+Cont: ibidem et eodem
+Nachträglich stellte Käufer Meyer
+den Antrag, zu seiner Sicherstellung
+nach Genehmigung des Contracts
+edictales  zu erlassen.
+[..]
+
+A. u. f:
+
+In Tidem
+König Assessor
+....
 
 
