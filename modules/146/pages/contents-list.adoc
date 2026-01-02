@@ -161,7 +161,7 @@ stakeholders.
 
 |6 +
 re: 6
-|xref:146:doc6.adoc[Report of the aforementioned administrative offices],
+|xref:146:doc6.adoc[Report of the aforementioned administrative offices], +
  xref:146:ad6-survey-drawing.adoc[together with a geometrical (survey) drawing by Stille]
 |__
 |__
