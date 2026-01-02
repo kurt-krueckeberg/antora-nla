@@ -1,6 +1,17 @@
 = Case File Cover
 :page-role: wide
 
+[.narrow]
+== Summary
+
+Administrative cover for a Rentkammer case concerning the assignment of a
+house-and-garden building plot on princely land in Berenbusch to Neubauer
+Johann Heinrich Krückeberg, No. 18, under the agrarian holding colonization
+program of the County of Schaumburg, handled by the Bückeburg district
+office.
+
+== Image
+
 image::cover-top.jpg[title=Case file cover (Click to Enlarge),link=self]
 
 [.narrow]
