@@ -1,2 +1,3 @@
 .xref:index.adoc[]
-* xref:cover.adoc[]
+* cover.adoc
+* abschrift-4386.adoc
