@@ -36,7 +36,7 @@ Berenbusch no. 18
 .Translation 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Peasant Holdings Colonies                Series I
+Agrarian tenancy holdings                Series I
 [.line-through]#Special#
 R. C. 257
 
