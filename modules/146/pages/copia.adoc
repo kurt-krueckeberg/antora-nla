@@ -1,6 +1,7 @@
 = Copy of Purchase Contract for Stätte No. 18 in Berenbusch (1850)
 :page-role: wide
 
+[.narrow]
 == Summary
 
 This 1850 contract records the approved sale of the hereditary holding
