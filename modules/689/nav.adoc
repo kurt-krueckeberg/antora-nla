@@ -32,5 +32,5 @@
 *** xref:doc8.adoc#doc-index-8-2[Memorandum of Official Order to Office Bückeburg (20 Jan 1842)]
 *** xref:doc8.adoc#doc-index-8-3[Memorandum of Official Order to Treasurer Berger (20 Jan 1842)]
 ** xref:doc9.adoc[]
-** xref:doc-10.adoc[]
+** xref:doc10.adoc[]
 //** xref:docs-1-and-2-analysis.adoc[]

@@ -149,7 +149,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|8
 
 |10.
-|xref:doc-10.adoc[Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant]
+|xref:doc10.adoc[Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant]
 |Obligation.
 |
 |
@@ -319,7 +319,7 @@ boxed number in the case file._
 ^|8
 
 |10.
-|xref:doc-10.adoc[Bond for 200 r. courant borrowed from the Princely Chamber Treasury]
+|xref:doc10.adoc[Bond for 200 r. courant borrowed from the Princely Chamber Treasury]
 |Obligation.
 |
 |
