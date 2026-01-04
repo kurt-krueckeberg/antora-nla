@@ -109,7 +109,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|23
 
 |7.
-|xref:doc-07.adoc#doc-index-7-1[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
+|xref:doc7.adoc#doc-index-7-1[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
 |
 |Bbg.
 |1841
@@ -117,7 +117,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|24
 
 |8.
-|xref:doc-08.adoc#doc-index-8-1[Bericht Amts Bückeburg]
+|xref:doc8.adoc#doc-index-8-1[Bericht Amts Bückeburg]
 |
 |Bbg.
 |1842
@@ -125,7 +125,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|2
 
 |〃
-|xref:doc-08.adoc#doc-index-8-2[Cpt. KRes. an dasselbe]
+|xref:doc8.adoc#doc-index-8-2[Cpt. KRes. an dasselbe]
 |
 |〃
 |〃
@@ -133,7 +133,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|20
 
 |〃
-|xref:doc-08.adoc#doc-index-8-3[desgl[eichen\]. an den K. R. Berger]
+|xref:doc8.adoc#doc-index-8-3[desgl[eichen\]. an den K. R. Berger]
 |
 |〃
 |〃
@@ -141,7 +141,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 |
 
 |9.
-|xref:doc-09.adoc[Bericht Amts Bückeburg]
+|xref:doc9.adoc[Bericht Amts Bückeburg]
 |
 |Bbg.
 |1842
@@ -279,7 +279,7 @@ boxed number in the case file._
 ^|23
 
 |7.
-|xref:doc-07.adoc#doc-index-7-1[Draft of Official Order of the Chamber to the Office of Bückeburg]
+|xref:doc7.adoc#doc-index-7-1[Draft of Official Order of the Chamber to the Office of Bückeburg]
 |
 |Bbg.
 |1841
@@ -287,7 +287,7 @@ boxed number in the case file._
 ^|24
 
 |8.
-|xref:doc-08.adoc#doc-index-8-1[Report of the Office of Bückeburg]
+|xref:doc8.adoc#doc-index-8-1[Report of the Office of Bückeburg]
 |
 |Bbg.
 |1842
@@ -295,7 +295,7 @@ boxed number in the case file._
 ^|2
 
 |〃
-|xref:doc-08.adoc#doc-index-8-2[Draft of Official Order of the Chamber to the same]
+|xref:doc8.adoc#doc-index-8-2[Draft of Official Order of the Chamber to the same]
 |
 |〃
 |〃
@@ -303,7 +303,7 @@ boxed number in the case file._
 ^|20
 
 |〃
-|xref:doc-08.adoc#doc-index-8-3[likewise to Privy Councillor Berger]
+|xref:doc8.adoc#doc-index-8-3[likewise to Privy Councillor Berger]
 |
 |〃
 |〃
@@ -311,7 +311,7 @@ boxed number in the case file._
 |
 
 |9.
-|xref:doc-09.adoc[Report of the Office of Bückeburg]
+|xref:doc9.adoc[Report of the Office of Bückeburg]
 |
 |Bbg.
 |1842
