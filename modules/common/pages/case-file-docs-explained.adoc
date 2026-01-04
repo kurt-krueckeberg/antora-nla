@@ -25,13 +25,13 @@ for example, the contents list has these two documents listed under entries #2 a
 |xref:689:doc2.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 
 |3.
-|xref:689:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+|xref:689:doc3.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
 
 |〃
-|xref:689:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+|xref:689:doc3.adoc#doc-index-3-2[Vortrag des GKR od Reck]
 
 |〃
-|xref:689:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|xref:689:doc3.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |===
 
 === Cross-Referencing the Contents List to Its Documents

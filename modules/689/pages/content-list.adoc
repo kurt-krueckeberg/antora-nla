@@ -38,7 +38,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|14
 
 |3.
-|xref:doc-03.adoc#doc-index-3-1[Vorst[ellung\]. des Colons Krückeberg]
+|xref:doc3.adoc#doc-index-3-1[Vorst[ellung\]. des Colons Krückeberg]
 .3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
@@ -47,14 +47,14 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 [[item3-2nd-doc]]
 |〃
-|xref:doc-03.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+|xref:doc3.adoc#doc-index-3-2[Vortrag des GKR od Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|xref:doc-03.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|xref:doc3.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
 |〃
 |〃
 |〃
@@ -209,7 +209,7 @@ boxed number in the case file._
 ^|14
 
 |3.
-|xref:doc-03.adoc#doc-index-3-1[Petition of Colon Krückeberg]
+|xref:doc3.adoc#doc-index-3-1[Petition of Colon Krückeberg]
 .3+.^|on condition of pledging all of his lands [as collateral].
 |Bbg.
 |1841
@@ -217,14 +217,14 @@ boxed number in the case file._
 ^|11
 
 |〃
-|xref:doc-03.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck]
+|xref:doc3.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|xref:doc-03.adoc#doc-index-3-3[Draft of Official Order of the Chamber to Colon Krückeberg]
+|xref:doc3.adoc#doc-index-3-3[Draft of Official Order of the Chamber to Colon Krückeberg]
 |〃
 |〃
 |〃
