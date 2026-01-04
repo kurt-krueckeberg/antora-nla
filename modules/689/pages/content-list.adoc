@@ -61,7 +61,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 |
 
 |4.
-|xref:doc-04.adoc#doc-index-4-1[Vorst. des p Krückeberg]
+|xref:doc4.adoc#doc-index-4-1[Vorst. des p Krückeberg]
 |
 |Bbg.
 |1841
@@ -69,7 +69,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|21
 
 |〃
-|xref:doc-04.adoc#doc-index-4-2[Cpt. KRes. an Of. Creuzinger]
+|xref:doc4.adoc#doc-index-4-2[Cpt. KRes. an Of. Creuzinger]
 <|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
 |〃
 |〃
@@ -77,7 +77,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|25
 
 |5.
-|xref:doc-05.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+|xref:doc5.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
 |
 |Bbg.
 |1841
@@ -85,7 +85,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|10
 
 |6.
-|xref:doc-06.adoc#doc-index-6-1[Vortrag des GKR od Reck]
+|xref:doc6.adoc#doc-index-6-1[Vortrag des GKR od Reck]
 |
 |〃
 |〃
@@ -93,7 +93,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|16
 
 |〃
-|xref:doc-06.adoc#doc-index-6-2[Höchstes Rescr. Ser. Reg.]
+|xref:doc6.adoc#doc-index-6-2[Höchstes Rescr. Ser. Reg.]
 |
 |〃
 |〃
@@ -101,7 +101,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|19
 
 |〃
-|xref:doc-06.adoc#doc-index-6-3[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
+|xref:doc6.adoc#doc-index-6-3[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
 |
 |〃
 |〃
@@ -231,7 +231,7 @@ boxed number in the case file._
 |
 
 |4.
-|xref:doc-04.adoc#doc-index-4-1[Petition of Colon Krückeberg]
+|xref:doc4.adoc#doc-index-4-1[Petition of Colon Krückeberg]
 |
 |Bbg.
 |1841
@@ -239,7 +239,7 @@ boxed number in the case file._
 ^|21
 
 |〃
-|xref:doc-04.adoc#doc-index-4-2[Draft of Official Order of the Chamber to Officer Creuzinger]
+|xref:doc4.adoc#doc-index-4-2[Draft of Official Order of the Chamber to Officer Creuzinger]
 <|Further petition concerning the sale of his lands on the Söhren pasture
 |〃
 |〃
@@ -247,7 +247,7 @@ boxed number in the case file._
 ^|25
 
 |5.
-|xref:doc-05.adoc#doc-index-5-1[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
+|xref:doc5.adoc#doc-index-5-1[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
 |
 |Bbg.
 |1841
@@ -255,7 +255,7 @@ boxed number in the case file._
 ^|10
 
 |6.
-|xref:doc-06.adoc#doc-index-6-1[Report of Privy Chamber Councillor Reck]
+|xref:doc6.adoc#doc-index-6-1[Report of Privy Chamber Councillor Reck]
 |
 |〃
 |〃
@@ -263,7 +263,7 @@ boxed number in the case file._
 ^|16
 
 |〃
-|xref:doc-06.adoc#doc-index-6-2[Highest Official Order of His Serene Highness]
+|xref:doc6.adoc#doc-index-6-2[Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
@@ -271,7 +271,7 @@ boxed number in the case file._
 ^|19
 
 |〃
-|xref:doc-06.adoc#doc-index-6-3[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
+|xref:doc6.adoc#doc-index-6-3[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
