@@ -5,6 +5,7 @@
 
 image::04-r.png[titlewidth=85%,link=self]
 
+[.narrow]
 == Transliateration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
