@@ -15,7 +15,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 |No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z.
 
 |1.
-|xref:doc-01.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|xref:doc1.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 |Bewilligung eines Darlehens ad 200 r.
 |Bbg.
 |1841
@@ -186,7 +186,7 @@ boxed number in the case file._
 |No | Document Decription | Subject note | Place | Year | Mon | Z.
 
 |1.
-|xref:doc-01.adoc#doc-index-1-1[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
+|xref:doc1.adoc#doc-index-1-1[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
 |Approval of a loan of 200 r.
 |Bbg.
 |1841

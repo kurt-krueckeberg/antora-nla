@@ -8,7 +8,7 @@
 * xref:narr-timeline.adoc[]
 * xref:content-list.adoc[]
 ** xref:amt-decree.adoc[]
-** xref:doc-01.adoc[]
+** xref:doc1.adoc[]
 ** xref:doc-02.adoc[]
 *** xref:doc-02.adoc#doc-index-2-1[Report of Office of Bückeburg (7 Oct. 1841)]
 *** xref:doc-02.adoc#doc-index-2-2[Memorandum of Official Order of the Rentcammer to the Office Bückeburg (14 Oct. 1841)]
