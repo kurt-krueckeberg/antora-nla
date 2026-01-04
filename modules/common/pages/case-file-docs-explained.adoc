@@ -19,10 +19,10 @@ for example, the contents list has these two documents listed under entries #2 a
 |xref:689:doc1.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 
 |2.
-|xref:689:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+|xref:689:doc2.adoc#doc-index-2-1[Bericht Amts Bückeburg]
 
 |〃
-|xref:689:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+|xref:689:doc2.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 
 |3.
 |xref:689:doc-03.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]

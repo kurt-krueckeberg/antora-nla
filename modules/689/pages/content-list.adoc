@@ -23,7 +23,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|2
 
 |2.
-|xref:doc-02.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+|xref:doc2.adoc#doc-index-2-1[Bericht Amts Bückeburg]
 .2+.^|Cour. aus Cammer-Casse
 |〃
 |〃
@@ -31,7 +31,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|7
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+|xref:doc2.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
 |〃
 |〃
 |〃
@@ -194,7 +194,7 @@ boxed number in the case file._
 ^|2
 
 |2.
-|xref:doc-02.adoc#doc-index-2-1[Report of the Office of Bückeburg]
+|xref:doc2.adoc#doc-index-2-1[Report of the Office of Bückeburg]
 .2+.^|Funds from the Chamber Treasury
 |〃
 |〃
@@ -202,7 +202,7 @@ boxed number in the case file._
 ^|7
 
 |〃
-|xref:doc-02.adoc#doc-index-2-2[Draft of Official Order of the Chamber to the same]
+|xref:doc2.adoc#doc-index-2-2[Draft of Official Order of the Chamber to the same]
 |〃
 |〃
 |〃
