@@ -15,13 +15,23 @@ was an initial payment, then year charges and obligations.
 
 The Rentkammer's response is written just below the petition's salutation.
 
+[NOTE]
+====
+Jobst Heinrich states that *"Ich habe bisher als Einlieger beÿ Wilharm No 11
+in Evesen gewohnt (Up to now, I have been living (lodging) with the Wilharms
+at no. 11 in Evesen)"*.
+
+Einlieger here means: a person currently residing in another household without
+a separate holding; a statement of present residence, not of hereditary
+status or poverty.
+====
+
 == Response
 
 The Rentkammer asked the Bückeburg Amt (administrative office) to report on
 the " financial circumstances and on the personal qualities of the petitioner." 
 
 == Images for Document #1
-
 
 image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
 
