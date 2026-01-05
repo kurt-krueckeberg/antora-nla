@@ -43,6 +43,15 @@ inherited a modest sum and could reasonably finance the construction
 of his own house.
 ****
 
+[NOTE]
+====
+Jobst Heinrich's father Johann Heinrich was, in 1802 when he remarried
+as a widower, a Leibzüchter, which implies he was (and for legal purposes
+may still have been) the holder of Stätte no. 10 in Berenbusch.
+Holding a Stätte implied *agricultural responsibility and competence*, not
+necessarily *exclusive or full-time farming*. That level of experience would
+indeed support appointment as an *Ackervogt*.
+
 == Images for Document #1
 
 image::03-r.png[title=First page of document 2 (click to enlarge),width=75%,link=self]
