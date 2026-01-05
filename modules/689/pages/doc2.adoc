@@ -13,7 +13,7 @@ assigned the registry number N.C. 4487.
 
 The Amt confirmed that Krückeberg was liable for a debt of 133 Reichsthaler 7 Mariengroschen plus 5% interest
 dating back to 1833, originally incurred by his parents. The Amt rejected any right to installment payments but
-acknowledged that Krückeberg might contract a loan of 190 Reichsthaler to cover the debt, since his farmstead and
+acknowledged that Krückeberg might contract a loan of 190 Reichsthaler to cover the debt, since his holding and
 buildings provided sufficient collateral.  
 
 The case file then includes two ancillary items:  
@@ -47,7 +47,7 @@ Protokollbuch (the ledger of Rentcammer case numbers)".
 
 The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing Hempel debt, rejected his request to
 pay it off in installments, but recommended that he be permitted to contract a loan of 190 Reichsthaler to settle
-it. The Amt judged his farmstead and lands to offer sufficient security, despite existing debts of 700
+it. The Amt judged his holding and lands to offer sufficient security, despite existing debts of 700
 Reichsthaler. The Amt also noted that it had temporarily suspended the distraint order.  
 
 [cols="1a,1a",frame=none,grid=none]
@@ -164,8 +164,8 @@ Protocol no. 1274; with reference to Chamber file no. 4381.
 To the Princely Rent Chamber
 Report from the Amt of Bückeburg
 
-Regarding: Petition of the colon (farmholder) Krückeberg No. 10
-in Berenbusch concerning a loan.
+Regarding: Petition of the colon Krückeberg No. 10 in Berenbusch
+concerning a loan.
 
 On the attached petition by Colon Krückeberg No. 10 in Berenbusch
 we report as follows.
@@ -194,7 +194,7 @@ only a small remainder will be left, which he may use to cover
 the litigation costs incurred on his side.
 
 The lands belonging to the holding (Stätte) of Colon Krückeberg
-No. 10 in Berenbusch comprise 10 Morgen 30 Ruthen, and the farm
+No. 10 in Berenbusch comprise 10 Morgen 30 Ruthen, and the holding's
 buildings are insured for 525 rthl. Inventoried debts attached to
 the said holding amount to 700 rthl.
 
@@ -282,7 +282,7 @@ C. 1/                              N.P. 1274
 
 Draft from the Bückeburg Office.
 
-Petition of the farmer Krückeberg No. 10 in Berenbusch, 
+Petition of the Colon Krückeberg No. 10 in Berenbusch, 
 concerning the approval of a loan.
 
 
@@ -408,7 +408,7 @@ Workflow (typical in Schaumburg-Lippe ca. 1800):
 
 1. Petitioner submits a **Gesuch** (often via the local **Amt**).
 2. The Amt may add a brief forwarding note; then the **Rentkammer’s registratur** creates a **rubric** summarizing
-   the case (petitioner, farm number, place, subject).
+   the case (petitioner, holding number, place, subject).
 3. That rubric sits at the front or on a slip attached to the bundle for **organization and indexing**.
 
 So: this slip **summarizes Document 2** (the loan petition) for the Rentkammer’s records. It may have been added at
