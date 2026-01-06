@@ -82,7 +82,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|25
 
 |5.
-|xref:doc5.adoc#doc-index-5-1[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+|xref:doc5.adoc[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
 |
 |Bbg.
 |1841
@@ -257,7 +257,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|25
 
 |5.
-|xref:doc5.adoc#doc-index-5-1[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
+|xref:doc5.adoc[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
 |
 |Bbg.
 |1841
