@@ -34,13 +34,13 @@ correspondence.
 
 It likely appeared before the petition, but now appears after it when the case file leaves were bound.
 
+== Image
+
 image::08-l.png[title="Click to Enlarge",link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
+== Transliteration and Translation
 
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 An
@@ -52,7 +52,7 @@ um Anlehns den-
 sens[dessens] pp
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 To
