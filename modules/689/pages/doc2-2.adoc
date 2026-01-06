@@ -11,13 +11,9 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 == Image of Official Order
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::06-l.png[title="Click to Enlarge",link=self]
-|
-|===
+image::06-l.png[title="Click to Enlarge",link=self]
 
-=== Transliteration and Translation
+== Transliteration and Translation
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
