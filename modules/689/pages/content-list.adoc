@@ -89,7 +89,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|10
 
 |6.
-|xref:doc6-1.adoc[Vortrag des GKR od Reck]
+|xref:doc6-1.adoc[Vortrag des GKR odReck]
 |
 |〃
 |〃
@@ -105,7 +105,8 @@ the matter.*, and that step may generate one document or several (petition
 ^|19
 
 |〃
-|xref:doc6-3.adoc[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
+|xref:doc6-3.adoc[P. V. des H odReck u. Höchstes + 
+Rescr. Sr. Durchlaucht]
 |
 |〃
 |〃
@@ -272,7 +273,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|16
 
 |〃
-|xref:doc6-2.adoc[Highest Official Order of His Serene Highness]
+|xref:doc6-2.adoc[Supreme official order of His Serene Highness]
 |
 |〃
 |〃
@@ -280,7 +281,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|19
 
 |〃
-|xref:doc6-3.adoc[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
+|xref:doc6-3.adoc[Filing note by Councillor Reck and the supreme official order of His Serene Highness]
 |
 |〃
 |〃
