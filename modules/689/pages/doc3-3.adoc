@@ -1,9 +1,8 @@
 = Docket Item 3: Draft of Official Order of the Chamber to Colon Krückeberg (15 Nov. 1841)
 :page-role: wide
-[[doc-index-3-3]]
 
 [.narrow]
-=== Summary
+== Summary
 
 The cover slip for Document 3 records the Rentcammer’s brief resolution:
 _"The petition of Krückeberg, dated the 11th of this month, for a loan of
