@@ -24,14 +24,11 @@ FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
 
 [awk]
 
-An
-Fürstliche Rentkammer
-Bericht
-vom Amte Bückeberg
+An Fürstliche Rentkammer
+Bericht vom Amte Bückeberg
 
 Num Pr. 1662
-   ad           
-Num: Cam: 5702  
+ad Num: Cam: 5702  
 
 Darlehn für den Colon Krückeberg N 10 in Berenbusch betreff[end]
                 
