@@ -9,7 +9,8 @@
 |
 |===
 
-=== Transliteration and Translation
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
