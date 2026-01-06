@@ -1,6 +1,6 @@
 = Todoes
 
-== Simplify modules 1237 and 139
+== Simplify module 139
 
 For each document in a docket number in the Designatio Actorum create a separate document.
 Put and administrative filing rubric before the Designatio Actorum/Contenst List.
