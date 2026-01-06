@@ -50,7 +50,6 @@ These two Offical Replies (Rescripts) represent the **final administrative stage
 With these actions, the land enlargement for Krückeberg moved from **proposal to final execution**.
 ====
 
-[[rescript1]]
 == Draft of Chamber's Official Resolutions to the Bückeburg Officials: Terms Confirmed 
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
@@ -59,13 +58,7 @@ With these actions, the land enlargement for Krückeberg moved from **proposal t
 |image::10-left-page.png[link=self]
 |===
 
-*TODO:* Recheck transliteration and redo translation.
-
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 ad Nr: D: 322. S. S.
@@ -99,7 +92,7 @@ Wint
 J. Danckwerth
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Regarding the same matter as No. D: 322
@@ -137,14 +130,9 @@ Wint
 ....
 |===
 
-[[rescript2]]
 == Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Concept Cammer: Anweisung  
@@ -178,7 +166,7 @@ Wint
 Wipperman  
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Draft: Chamber Directive
@@ -213,7 +201,6 @@ Wint
 
 Wippermann
 ....
-|===
 
 [NOTE]
 ====
