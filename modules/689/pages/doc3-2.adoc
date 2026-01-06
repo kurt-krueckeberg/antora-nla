@@ -2,7 +2,7 @@
 :page-role: wide
 
 [.narrow]
-=== Summary
+== Summary
 
 On 15 November 1841, the Privy Chamber Councillor Reck prepared a formal
 valuation of Krückeberg’s farmstead and buildings. After deducting debts,
