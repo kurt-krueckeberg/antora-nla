@@ -50,7 +50,6 @@ the matter.*, and that step may generate one document or several (petition
 |Nov.
 ^|11
 
-[[item3-2nd-doc]]
 |〃
 |xref:doc3-2.adoc[Vortrag des GKR od Reck]
 |〃
@@ -90,7 +89,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|10
 
 |6.
-|xref:doc6.adoc#doc-index-6-1[Vortrag des GKR od Reck]
+|xref:doc6-1.adoc[Vortrag des GKR od Reck]
 |
 |〃
 |〃
@@ -98,7 +97,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|16
 
 |〃
-|xref:doc6.adoc#doc-index-6-2[Höchstes Rescr. Ser. Reg.]
+|xref:doc6-2.adoc[Höchstes Rescr. Ser. Reg.]
 |
 |〃
 |〃
@@ -106,7 +105,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|19
 
 |〃
-|xref:doc6.adoc#doc-index-6-3[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
+|xref:doc6-3.adoc[P. V. des H od Reck u. Höchstes Rescr. Sr. Durchlaucht]
 |
 |〃
 |〃
@@ -265,7 +264,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|10
 
 |6.
-|xref:doc6.adoc#doc-index-6-1[Report of Privy Chamber Councillor Reck]
+|xref:doc6-1.adoc[Report of Privy Chamber Councillor Reck]
 |
 |〃
 |〃
@@ -273,7 +272,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|16
 
 |〃
-|xref:doc6.adoc#doc-index-6-2[Highest Official Order of His Serene Highness]
+|xref:doc6-2.adoc[Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
@@ -281,7 +280,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|19
 
 |〃
-|xref:doc6.adoc#doc-index-6-3[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
+|xref:doc6-3.adoc[Protocol by Councillor Reck and Highest Official Order of His Serene Highness]
 |
 |〃
 |〃
