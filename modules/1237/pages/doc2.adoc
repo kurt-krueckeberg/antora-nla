@@ -55,11 +55,7 @@ the Ämter (plural of offices).
 
 === Transliteration and Translation
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Cam: N: 53.                pr: 6. Merz 1799           2   
@@ -92,7 +88,8 @@ L Buckeburg 27ten Febr.
 1799
 H. Habicht.    Stölting
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Chamber No. 53                presented March 6, 1799
@@ -121,18 +118,13 @@ Bückeburg, February 27,
 1799 
 H. Habicht.     Stölting
 ....
-|===
 
 [[official-reply]]
 == Official Reaction to Petition and Land Assignment Report (10 Mar. 1799)
 
 This reaction is written onto the left side of Document 2 to give feedback.
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Res Cam [Rescriptum Cammerale] 
@@ -146,7 +138,7 @@ B. 10. März
 M
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Official Resolution of the Chamber
@@ -157,8 +149,7 @@ the officials are to obtain further information about this and report
 accordingly.
 
 Bückeburg, 10 March
-M[aas]
+M[Kaas]
 ....
-|===
 
 
