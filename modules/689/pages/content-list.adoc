@@ -14,7 +14,7 @@ Each Actenpunkt corresponds to *one administrative step in the handling of
 the matter.*, and that step may generate one document or several (petition
 → report → resolution → rescript, etc.).
 
-[%header,cols="^1,9,6,2,2,2,2",frame=none]
+[%header,cols="^1,9,6,2,2,2,^2",frame=none]
 .Transliteration
 |===
 |No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z[ahl].
