@@ -3,7 +3,7 @@
 
 == Images
 
-image::18-r.png[title="Click to Enlarge",link=self]
+image::18-r.png[title="Click to Enlarge",width=85%,link=self]
 
 [.narrow]
 == Transliteration and Translation
