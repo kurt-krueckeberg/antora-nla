@@ -113,7 +113,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|23
 
 |7.
-|xref:doc7.adoc#doc-index-7-1[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
+|xref:doc7.adoc[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
 |
 |Bbg.
 |1841
@@ -121,7 +121,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|24
 
 |8.
-|xref:doc8.adoc#doc-index-8-1[Bericht Amts Bückeburg]
+|xref:doc8-1.adoc[Bericht Amts Bückeburg]
 |
 |Bbg.
 |1842
@@ -129,7 +129,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|2
 
 |〃
-|xref:doc8.adoc#doc-index-8-2[Cpt. KRes. an dasselbe]
+|xref:doc8-2.adoc[Cpt. KRes. an dasselbe]
 |
 |〃
 |〃
@@ -137,7 +137,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|20
 
 |〃
-|xref:doc8.adoc#doc-index-8-3[desgl[eichen\]. an den K. R. Berger]
+|xref:doc8-3.adoc[desgl[eichen\]. an den K. R. Berger]
 |
 |〃
 |〃
@@ -288,7 +288,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|23
 
 |7.
-|xref:doc7.adoc#doc-index-7-1[Draft of Official Order of the Chamber to the Office of Bückeburg]
+|xref:doc7.adoc[Draft of Official Order of the Chamber to the Office of Bückeburg]
 |
 |Bbg.
 |1841
@@ -296,7 +296,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|24
 
 |8.
-|xref:doc8.adoc#doc-index-8-1[Report of the Office of Bückeburg]
+|xref:doc8-1.adoc[Report of the Office of Bückeburg]
 |
 |Bbg.
 |1842
@@ -304,7 +304,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|2
 
 |〃
-|xref:doc8.adoc#doc-index-8-2[Draft of Official Order of the Chamber to the same]
+|xref:doc8-2.adoc[Draft of Official Order of the Chamber to the same]
 |
 |〃
 |〃
@@ -312,7 +312,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|20
 
 |〃
-|xref:doc8.adoc#doc-index-8-3[likewise to Privy Councillor Berger]
+|xref:doc8-3.adoc[likewise to Privy Councillor Berger]
 |
 |〃
 |〃
