@@ -231,12 +231,15 @@ turn the page.
 ....
 |===
 
+[.narrow[
 [[doc-index-2-2]]
 == Draft of Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the Amt is instructed to notify Krückeberg
 in line with its 7 October report. The initials mark the concurrence of Kammer officials, and the expedition note
 shows clerk Holste dispatched the decision on 17 November 1841.
+
+== Image of Official Order
 
 [cols="1a,1a",frame=none,grid=none]
 |===
@@ -245,8 +248,6 @@ shows clerk Holste dispatched the decision on 17 November 1841.
 |===
 
 === Transliteration and Translation
-
-*TODO:* Is *Copt* copy or Concept? The Act4en Desingation says it is Concpet.  "N.P. 1274" means "Nr pr. 1274".
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
 |===
@@ -261,7 +262,7 @@ C. 1/                              N.P. 1274
 = 4/6.
 
                           Gesuch des Colons Krücke-
-    Copt                  berg N. 10 in Beren-
+    Copt[Concept]         berg N. 10 in Beren-
 aus Amt Bückeburg.        busch, um Anlehns-
                           consens betr:
 
