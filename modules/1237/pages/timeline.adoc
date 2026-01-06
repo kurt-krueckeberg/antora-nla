@@ -1,3 +1,0 @@
-= Timeline of Events in the Case File of Colon Krückeberg (No. 10, Berenbusch)
-
-include::partial$timeline.adoc[]
