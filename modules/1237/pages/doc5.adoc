@@ -58,6 +58,9 @@ With these actions, the land enlargement for Krückeberg moved from **proposal t
 |image::10-left-page.png[link=self]
 |===
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -128,8 +131,8 @@ Mkaas
 Wint
 [H.?] Danckwerk
 ....
-|===
 
+[.narrow]
 == Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
 
 .Transliteration
