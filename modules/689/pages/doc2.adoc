@@ -4,17 +4,20 @@
 [[doc-index-2-1]]
 == Report of the Office of Bückeburg (7 Oct 1841)
 
-[role="narrow"]
+[.narrow]
 === Overview
 
-This report was issued by the *Amt Bückeburg* on 7 October 1841 in response to an earlier petition by Colon Johann
-Heinrich Krückeberg of Berenbusch (No. 10). It was presented to the Fürstliche Rentkammer on 11 October 1841 and
-assigned the registry number N.C. 4487.  
+This report was issued by the *Amt Bückeburg* on 7 October 1841 in response
+to an earlier petition by Colon Johann Heinrich Krückeberg of Berenbusch
+(No. 10). It was presented to the Fürstliche Rentkammer on 11 October 1841
+and assigned the registry number N.C. 4487.  
 
-The Amt confirmed that Krückeberg was liable for a debt of 133 Reichsthaler 7 Mariengroschen plus 5% interest
-dating back to 1833, originally incurred by his parents. The Amt rejected any right to installment payments but
-acknowledged that Krückeberg might contract a loan of 190 Reichsthaler to cover the debt, since his holding and
-buildings provided sufficient collateral.  
+The Amt confirmed that Krückeberg was liable for a debt of 133 Reichsthaler
+7 Mariengroschen plus 5% interest dating back to 1833, originally incurred
+by his parents. The Amt rejected any right to installment payments but
+acknowledged that Krückeberg might contract a loan of 190 Reichsthaler to
+cover the debt, since his holding and buildings provided sufficient
+collateral.  
 
 The case file then includes two ancillary items:  
 1. A cover slip recording the Rentkammer’s resolution and dispatch.  
@@ -27,6 +30,7 @@ The case file then includes two ancillary items:
 * 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.  
 * 17 November 1841 — Clerk Holste logs expedition of the decision.  
 
+[.narrow]
 === Explanations
 
 The notation in the left margin of the first page
@@ -38,17 +42,21 @@ Num Pr. 1274
 N. C. 4381  
 ....
 
-means: "concerning (*ad* = concerning) Rentcammer document number 4381, which belongs to case #1274 in the Rentcammer's
-Protokollbuch (the ledger of Rentcammer case numbers)".
+means: "concerning (*ad* = concerning) Rentcammer document number 4381,
+which belongs to case #1274 in the Rentcammer's Protokollbuch (the ledger
+of Rentcammer case numbers)".
 
-== Amt Report (7 Oct 1841)
+[.narrow]
+== Summary of Amt Report (7 Oct 1841)
 
-=== Summary
+The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing
+Hempel debt, rejected his request to pay it off in installments, but
+recommended that he be permitted to contract a loan of 190 Reichsthaler to
+settle it. The Amt judged his holding and lands to offer sufficient
+security, despite existing debts of 700 Reichsthaler. The Amt also noted
+that it had temporarily suspended the distraint order.  
 
-The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing Hempel debt, rejected his request to
-pay it off in installments, but recommended that he be permitted to contract a loan of 190 Reichsthaler to settle
-it. The Amt judged his holding and lands to offer sufficient security, despite existing debts of 700
-Reichsthaler. The Amt also noted that it had temporarily suspended the distraint order.  
+== Images
 
 [cols="1a,1a",frame=none,grid=none]
 |===
