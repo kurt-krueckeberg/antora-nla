@@ -16,22 +16,22 @@ for example, the contents list has these two documents listed under entries #2 a
 |===
 |Number|Documents
 |1.
-|xref:689:doc1.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|xref:689:doc1.adoc[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 
 |2.
-|xref:689:doc2.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+|xref:689:doc2-1.adoc[Bericht Amts Bückeburg]
 
 |〃
-|xref:689:doc2.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+|xref:689:doc2-2.adoc[Cpt. KRes. an dasselbe]
 
 |3.
-|xref:689:doc3.adoc#doc-index-3-1[Vorst. des Colons Krückeberg]
+|xref:689:doc3-1.adoc[Vorst. des Colons Krückeberg]
 
 |〃
-|xref:689:doc3.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+|xref:689:doc3-2.adoc[Vortrag des GKR od Reck]
 
 |〃
-|xref:689:doc3.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|xref:689:doc3-3.adoc[Cpt. KRes. an p Krückeberg]
 |===
 
 === Cross-Referencing the Contents List to Its Documents
