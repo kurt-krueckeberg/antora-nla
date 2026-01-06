@@ -1,19 +1,5 @@
 = Background: Amt Bückeburg Decree and Execution Order (10/13 July 1841)
 :page-role: wide
-:doc-id: amt-decree.adoc
-:series: NLA BU, K 2, A Nr. 689
-:source-images: 03-r.png,04-l.png
-:place: Bückeburg
-:doc-date: 1841-07-10/1841-07-13
-:summary: Court decree ordering execution; bailiff Möller instructed; distraint threatened after 14 days
-:related-index: index-row-2
-
-[options="noheader",cols="1a,1a",frame=none,grid=none]
-|===
-|image::03-r.png[title="Click to Enlarge",link=self]
-                                                              
-|image::04-l.png[title="Click to Enlarge",link=self]
-|===
 
 [role="narrow"]
 == Overview and Summary
@@ -51,6 +37,15 @@ In older German legal language (in contumaciam), it meant:
 
 So in your Krückeberg document, when the clerk writes _contum._, he’s noting that the judgment was rendered
 because of *Krückeberg’s non-appearance (or non-response)*, not after a contested hearing.
+
+== Images
+
+[options="noheader",cols="1a,1a",frame=none,grid=none]
+|===
+|image::03-r.png[title="Click to Enlarge",link=self]
+                                                              
+|image::04-l.png[title="Click to Enlarge",link=self]
+|===
 
 == Transliteration and Translation
 
