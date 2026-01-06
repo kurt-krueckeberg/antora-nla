@@ -264,7 +264,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|10
 
 |6.
-|xref:doc6-1.adoc[Report of Privy Chamber Councillor Reck]
+|xref:doc6-1.adoc[Formal advisory submission by Privy Chancery Councillor Reck]
 |
 |〃
 |〃
