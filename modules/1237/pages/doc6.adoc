@@ -141,7 +141,6 @@ Gladbeck · von Landesberg · Maas · Windt
 ------
 Wippermann
 ....
-|===
 
 [role="narrow"]
 == Glossary of Terms
