@@ -9,41 +9,50 @@
 [discrete]
 === *18 October 1800 – Local Officials' Report*
 
-The Ämter Bückeburg and Arensburg submitted a report to the Vormundschaftliche Cammer regarding the proposed
-allocation of additional land to **Jobst Heinrich Krückeberg**, tenant farmer (Colon) No. 10 in Berenbusch.  The
-land—two adjoining plots totaling **21 rods, 34 feet**—was to enlarge his farmyard and garden.  
+The Ämter Bückeburg and Arensburg submitted a report to the
+Vormundschaftliche Cammer regarding the proposed allocation of additional
+land to **Jobst Heinrich Krückeberg**, tenant farmer (Colon) No. 10 in
+Berenbusch.  The land—two adjoining plots totaling **21 rods, 34 feet**—was
+to enlarge his farmyard and garden.  
 
-They proposed an annual *Rottzins* (ground rent) of **2 Mariengroschen, 1 Pfennig**, beginning *Michaelmas* (29
-September) 1800, and a purchase price of **2 Reichsthaler, 4 Mariengroschen per rod**.
+They proposed an annual *Rottzins* (ground rent) of **2 Mariengroschen, 1
+Pfennig**, beginning *Michaelmas* (29 September) 1800, and a purchase price
+of **2 Reichsthaler, 4 Mariengroschen per rod**.
 
 [discrete]
 === *27 October 1800 – Official Reply 1: Approval of Land Assignment*
 
 The Cammer replied in its first Official Reply (Rescript; *ad nr. D: 322. S.S.*), formally approving:
 
-* The allocation of the two plots under the same terms set out in the Cammer’s earlier order of **11 March 1799**.
+* The allocation of the two plots under the same terms set out in the
+  Cammer’s earlier order of **11 March 1799**.
 * The proposed *Rottzins* of 2 Mariengroschen, 1 Pfennig annually.
-* The fixed purchase price totaling **14 Reichsthaler, 8 Mariengroschen, 1 Pfennig**, payable to the Cammer’s
-revenue office.
+* The fixed purchase price totaling **14 Reichsthaler, 8 Mariengroschen, 1
+  Pfennig**, payable to the Cammer’s revenue office.
 
 The local officials were instructed to ensure Krückeberg fulfilled all stated conditions.
 
 [discrete]
 === *27 October 1800 – Official Reply 2: Directive to Collect Purchase Price*
 
-In a second official reply (Rescript) on the same day, addressed to **Cammer Rentmaster Stackmann**, the Cammer ordered:
+In a second official reply (Rescript) on the same day, addressed to
+**Cammer Rentmaster Stackmann**, the Cammer ordered:
 
-* Collection of the purchase price from Krückeberg for the newly assigned plots, calculated at 24 Mariengroschen
-per rod (total 14 Reichsthaler, 8 Mariengroschen, 1 Pfennig).
+* Collection of the purchase price from Krückeberg for the newly assigned
+  plots, calculated at 24 Mariengroschen per rod (total 14 Reichsthaler, 8
+Mariengroschen, 1 Pfennig).
 * Entry of the amount under the proper heading in the Cammer accounts.
-* Use of the Official Reply (Rescript) itself as the official accounting justification.
+* Use of the Official Reply (Rescript) itself as the official accounting
+  justification.
 
-The marginal note *Exp: per Bolte* records that the order was dispatched by the official Bolte.
+The marginal note *Exp: per Bolte* records that the order was dispatched by
+the official Bolte.
 
 [discrete]
 === *Significance*
 
-These two Offical Replies (Rescripts) represent the **final administrative stage** of the case:
+These two Offical Replies (Rescripts) represent the **final administrative
+stage** of the case:
 . **Rescript 1** – the Cammer’s formal approval of the land assignment.
 . **Rescript 2** – the instruction to collect and record payment.
 
@@ -145,12 +154,11 @@ Stackmann
 Exp: per Bolte
 
 Der Cammerrentmeister Stackmann wird hiemit angewiesen, von dem  Colon
-Krückeberg Nr: 10, zu Schirneichen für die demselben zur Ver-
-größerung seines Gartens u. Hofraums ausgewiesene Plätze, welche
-zusam̅en 21 Ruten 34 Fuß Dec: betragen, das Kaufgeld per Rute mit 24
-mgl. u also vierzehn Rthlr 8 mgl. 1 d. zu erheben, in der
-Cammerrechnung gehöriges Orts zu vereinnahmen, und solche mit dieser
-Anweisung zu rechtfertigen.
+Krückeberg Nr: 10, zu Schirneichen für die demselben zur Vergrößerung
+seines Gartens u. Hofraums ausgewiesene Plätze, welche zusam̅en 21 Ruten
+34 Fuß Dec: betragen, das Kaufgeld per Rute mit 24 mgl. u also vierzehn
+Rthlr 8 mgl. 1 d. zu erheben, in der Cammerrechnung gehöriges Orts zu
+vereinnahmen, und solche mit dieser Anweisung zu rechtfertigen.
 
 Bückeburg den 27. October 1800.  
 Gräflich : p  
@@ -171,18 +179,16 @@ to the Chamber Rentmaster Stackmann
 
 (Dispatched by Bolte)
 
-The Chamber Rentmaster, Stackmann, is hereby instructed to collect
-from tenant farmer Krückeberg, No. 10, at Stirneichen, the purchase
-price for the plots assigned to him for enlarging his garden and
-farmyard.
+The Chamber Rentmaster, Stackmann, is hereby instructed to collect from
+tenant farmer Krückeberg, No. 10, at Stirneichen, the purchase price for
+the plots assigned to him for enlarging his garden and farmyard.
 
-These plots together measure 21 rods and 34 feet (decimal). The
-purchase price is to be calculated at 24 Mariengroschen per rod,
-amounting to a total of 14 Reichsthaler, 8 Mariengroschen, and 1
-Pfennig.
+These plots together measure 21 rods and 34 feet (decimal). The purchase
+price is to be calculated at 24 Mariengroschen per rod, amounting to a
+total of 14 Reichsthaler, 8 Mariengroschen, and 1 Pfennig.
 
-This sum is to be entered in the Chamber accounts under the
-appropriate heading and accounted for with this directive.
+This sum is to be entered in the Chamber accounts under the appropriate
+heading and accounted for with this directive.
 
 Bückeburg, 27 October 1800
 For the Count
