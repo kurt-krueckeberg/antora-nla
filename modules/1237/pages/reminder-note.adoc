@@ -10,7 +10,7 @@ merely a reminder about Berenbusch woodland boundaries.
 
 == Transliteration and Translation
 
-image::07-right-page.png[width=65%,link=self]
+image::07-right-page.png[width=50%,link=self]
 
 [.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===

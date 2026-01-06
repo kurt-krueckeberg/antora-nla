@@ -38,7 +38,7 @@ appointed directors and councillors: **Gladbeck, von Landesberg, Maas,
 Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 ====
 
-== Transliteration and Translation
+== Images
 
 [cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
@@ -46,10 +46,10 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 |image::12.png[align=left,title=Decision on Jobst Heinrich Krückeberg's Petition, part two (Click to enlarge),link=self]
 |===
 
+[.narrow]
+== Transliteration and Translation
 
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Concept Cammeral:Kaufbriefs für den Colon Kruckeberg Nr: 10 zu
@@ -92,7 +92,8 @@ Gladbeck v. Landesberg Maas Windt
 -----
 Wippermann
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Chamber Deed of Sale for Tenant Farmer Krückeberg, No. 10 in Berenbusch,
