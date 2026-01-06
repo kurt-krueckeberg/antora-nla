@@ -11,10 +11,7 @@
 
 === Transliteration and Translation
 
-[.widepair,cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|
-[literal.bordered,subs="verbatim,quotes"]
+.Transliteration
 ....
 NC 274                       pr. in Cam 17 Jan. 1842     
 
@@ -48,7 +45,8 @@ Amt zu versehe[n]. Bbg. 20. Jan 42.
 
                       vert
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 274 — presented in the chamber on 17 Jan. 1842.
@@ -82,4 +80,3 @@ Bückeburg, 20 Jan. 1842.
 
            turn the page
 ....
-|===
