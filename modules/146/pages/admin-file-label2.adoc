@@ -1,4 +1,4 @@
-= File Label
+= Administrative File Label
 :page-role: wide
 
 == Image
