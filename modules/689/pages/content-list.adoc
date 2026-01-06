@@ -9,13 +9,18 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 == Transliteration 
 
+The first column represents a *procedural unit /docket item (Actenpunkt)*.
+Each Actenpunkt corresponds to *one administrative step in the handling of
+the matter.*, and that step may generate one document or several (petition
+→ report → resolution → rescript, etc.).
+
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Transliteration
 |===
 |No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z.
 
 |1.
-|xref:doc1.adoc#doc-index-1-1[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|xref:doc1.adoc[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
 |Bewilligung eines Darlehens ad 200 r.
 |Bbg.
 |1841
@@ -23,7 +28,7 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|2
 
 |2.
-|xref:doc2.adoc#doc-index-2-1[Bericht Amts Bückeburg]
+|xref:doc2-1.adoc[Bericht Amts Bückeburg]
 .2+.^|Cour. aus Cammer-Casse
 |〃
 |〃
@@ -31,14 +36,14 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 ^|7
 
 |〃
-|xref:doc2.adoc#doc-index-2-2[Cpt. KRes. an dasselbe]
+|xref:doc2-2.adoc[Cpt. KRes. an dasselbe]
 |〃
 |〃
 |〃
 ^|14
 
 |3.
-|xref:doc3.adoc#doc-index-3-1[Vorst[ellung\]. des Colons Krückeberg]
+|xref:doc3-1.adoc[Vorst[ellung\]. des Colons Krückeberg]
 .3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
 |Bbg.
 |1841
@@ -47,14 +52,14 @@ image::01-r.png[align=center,title="Click to Enlarge",link=self]
 
 [[item3-2nd-doc]]
 |〃
-|xref:doc3.adoc#doc-index-3-2[Vortrag des GKR od Reck]
+|xref:doc3-2.adoc[Vortrag des GKR od Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|xref:doc3.adoc#doc-index-3-3[Cpt. KRes. an p Krückeberg]
+|xref:doc3-3.adoc[Cpt. KRes. an p Krückeberg]
 |〃
 |〃
 |〃
@@ -180,13 +185,18 @@ boxed number in the case file._
 
 == English Version
 
+Again, the first column represents a *procedural unit /docket item (Actenpunkt)*.
+Each Actenpunkt corresponds to *one administrative step in the handling of
+the matter.*, and that step may generate one document or several (petition
+→ report → resolution → rescript, etc.).
+
 [%header,cols="^1,9,6,2,2,2,^1",frame=none]
 .Translation (corrected)
 |===
 |No | Document Decription | Subject note | Place | Year | Mon | Z.
 
 |1.
-|xref:doc1.adoc#doc-index-1-1[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
+|xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
 |Approval of a loan of 200 r.
 |Bbg.
 |1841
@@ -194,7 +204,7 @@ boxed number in the case file._
 ^|2
 
 |2.
-|xref:doc2.adoc#doc-index-2-1[Report of the Office of Bückeburg]
+|xref:doc2-1.adoc[Report of the Bückeburg District Office]
 .2+.^|Funds from the Chamber Treasury
 |〃
 |〃
@@ -202,14 +212,14 @@ boxed number in the case file._
 ^|7
 
 |〃
-|xref:doc2.adoc#doc-index-2-2[Draft of Official Order of the Chamber to the same]
+|xref:doc2-2.adoc[Draft of Official Order of the Chamber to the same [office\]]
 |〃
 |〃
 |〃
 ^|14
 
 |3.
-|xref:doc3.adoc#doc-index-3-1[Petition of Colon Krückeberg]
+|xref:doc3-1.adoc[Petition of Colon Krückeberg]
 .3+.^|on condition of pledging all of his lands [as collateral].
 |Bbg.
 |1841
@@ -217,14 +227,14 @@ boxed number in the case file._
 ^|11
 
 |〃
-|xref:doc3.adoc#doc-index-3-2[Memorandum of Senior Government Councillor von Reck]
+|xref:doc3-2.adoc[Memorandum of Senior Government Councillor von Reck]
 |〃
 |〃
 |〃
 ^|15
 
 |〃
-|xref:doc3.adoc#doc-index-3-3[Draft of Official Order of the Chamber to Colon Krückeberg]
+|xref:doc3-3.adoc[Draft of Official Order of the Chamber to Colon Krückeberg]
 |〃
 |〃
 |〃
