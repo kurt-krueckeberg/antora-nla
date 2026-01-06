@@ -1,6 +1,5 @@
 = Event Log
 
-
 [cols="12,14,20,18,16,20",options="header"]
 |===
 |Date (ISO) |Type |Actor → Target |Place |Amount/Thing |Source (doc-id §line)
