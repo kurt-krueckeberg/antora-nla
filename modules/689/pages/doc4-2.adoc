@@ -2,7 +2,7 @@
 :page-role: wide
 
 [.narrow]
-=== Overview
+== Overview
 
 This page contains two administrative dispositions (Verfügungen) written
 and signed by Reck—one expressing his opinion on the petition (a Votum),
