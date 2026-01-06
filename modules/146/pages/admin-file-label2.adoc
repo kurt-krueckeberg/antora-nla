@@ -8,6 +8,7 @@ image::22-l.png[width="75%",link=self]
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 An Fürstliche Rentkammer
@@ -17,7 +18,7 @@ des Colonen Krückeberg No 8 in Berenbusch gehorsamstes Gesuch
 Stättener Lauf betr.
 ....
 
-
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Most humble petition of Colon Krückeberg No. 8 in Berenbusch concerning
