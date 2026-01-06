@@ -66,7 +66,7 @@ the matter.*, and that step may generate one document or several (petition
 |
 
 |4.
-|xref:doc4.adoc#doc-index-4-1[Vorst. des p Krückeberg]
+|xref:doc4-1.adoc[Vorst. des p Krückeberg]
 |
 |Bbg.
 |1841
@@ -74,7 +74,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|21
 
 |〃
-|xref:doc4.adoc#doc-index-4-2[Cpt. KRes. an Of. Creuzinger]
+|xref:doc4-2.adoc[Cpt. KRes. an Of. Creuzinger]
 <|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
 |〃
 |〃
@@ -241,7 +241,7 @@ the matter.*, and that step may generate one document or several (petition
 |
 
 |4.
-|xref:doc4.adoc#doc-index-4-1[Petition of Colon Krückeberg]
+|xref:doc4-1.adoc[Petition of Colon Krückeberg]
 |
 |Bbg.
 |1841
@@ -249,7 +249,7 @@ the matter.*, and that step may generate one document or several (petition
 ^|21
 
 |〃
-|xref:doc4.adoc#doc-index-4-2[Draft of Official Order of the Chamber to Officer Creuzinger]
+|xref:doc4-2.adoc[Draft of Official Order of the Chamber to Officer Creuzinger]
 <|Further petition concerning the sale of his lands on the Söhren pasture
 |〃
 |〃
