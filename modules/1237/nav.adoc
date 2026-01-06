@@ -12,8 +12,6 @@
 *** xref:doc1.adoc#forestry-assessment[Forestry Report]
 *** xref:doc1.adoc#fiscal-chamber-resolution[Notation about Written Order to Amt]
 ** xref:doc2.adoc[]
-*** xref:doc2.adoc#doc-index-2-1[Land Assignment Report]
-*** xref:doc2.adoc#official-reply[Guardianship Chamber Resolution]
 ** xref:doc3.adoc[]
 ** xref:doc4.adoc[]
 ** xref:doc4pt5.adoc[]
