@@ -1,5 +1,10 @@
 = Todoes
 
+== Simplify modules 1237 and 139
+
+For each document in a docket number in the Designatio Actorum create a separate document.
+Put and administrative filing rubric before the Designatio Actorum/Contenst List.
+
 == Confirm Dates
 
 For the document listed in m/146/p/other-docs.adoc confirm the dates when they documents were written
