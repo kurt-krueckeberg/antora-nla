@@ -8,7 +8,7 @@ image::cover.jpg[title=Click to Enlarge,link=self]
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Bauerngüter x Colonien
+Bauerngüter und Colonien
 [line-through]#Special#                    Rep:II
 B. Amt Bückeburg
 II Berenbusch [line-through]#No. 10#
