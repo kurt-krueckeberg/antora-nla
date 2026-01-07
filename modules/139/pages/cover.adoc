@@ -3,6 +3,7 @@
 
 image::cover.jpg[title=Click to Enlarge,link=self]
 
+[.narrow]
 == Translation and Transliteration
 
 .Transliteration
@@ -32,15 +33,15 @@ Berenbusch No. 10
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Farm Estates and Settlements
-[line-through]#Special#                           File: II
+Farm holdings and settlement colonies
+[line-through]#Special#                       File: II
 Office of Bückeburg
 II  Berenbusch  [line-through]#No. 10#
 
 
 
                  RECORDS
-Farm Estates and Settlements in
+Farm holdings and settlement colonies in
 the Principality of Schaumburg
 
                     Regarding the matter of
@@ -53,32 +54,13 @@ the Principality of Schaumburg
 Berenbusch No. 10
 ....
 
-[.narrow]
 === Terms
 
-[width="100%",cols="6%,94%",options="header",frame=none,gird=none]
-|===
-|Term |Meaning
+*Bauergüter* are long-established, legally defined farm holdings integrated
+into the traditional village tenure system, whereas *Colonien* are later,
+state-created settlement holdings carved out of forest or waste land and
+governed initially by special founding contracts rather than long-standing
+custom.
 
-|*Bauerngüter* |"`Farm estates`" or "`peasant farms.`" Agricultural
-holdings possessed and worked by individual farmers (as opposed to noble
-or state estates). These farms could be hereditary but still carried
-certain obligations to the local lord or princely administration.
-
-|*Colonien* |"`Colonies`" or "`settlements.`" In the 18th–19th-century
-German context, this referred to small farm settlements newly
-established by "`colonists`" or tenants on cleared land under princely
-or manorial supervision.
-
-|*ACTA* |Latin for "`records`" or "`files.`" Used as a heading on
-official case files meaning "`the documents concerning [this matter].`"
-
-|*in specie* |Latin for "`in kind`" or "`in its particular form.`" Here
-it signals that the file concerns a specific physical property or case
-rather than an abstract category.
-
-|*Stätte* |Literally "`site,`" "`holding,`" or "`farmstead.`" A single
-rural property that formed one unit of tenancy and obligation within a
-village. In this document, _Stätte No. 10 zu Berenbusch_ identifies the
-specific farm involved.
-|===
+* *Colon* = legally defined settler of a state-founded Colonie
+* *Bauer* = holder of a traditional Bauerngut, identified by role rather than title. _Bauer_ is often implicit.
