@@ -98,7 +98,7 @@ Sander
 The document identifiers were written by:
 
 * *"`N.C. 2816`"* — written by the _Amt_ clerk, repeating the
-Rentkammer’s file number for the xref:doc1.adoc#doc-index-1-1["Petition of the widow Krückeberg, farmstead No.
+Rentkammer’s file number for the xref:doc1-1.adoc["Petition of the widow Krückeberg, farmstead No.
 10 in Berenbusch"].
 * *"`Nr. pr. 698`"* — the _Amt_’s own internal protocol number for this
 outgoing report.
