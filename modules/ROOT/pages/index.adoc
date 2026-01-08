@@ -8,12 +8,12 @@ Krückeberg family of Berenbusch, Schaumburg-Lippe.
 [%header,cols="2,8a,2"]
 |===
 |Life Span|Denotation|Identifier
-
-|1725 - 1725
-|Bankruptcy of Jobst Krückeberg [in Bückeburg]
-
-Konkurs des Jobst Krückeberg [in Bückeburg]
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v7832436[NLA BU, L 122, F Nr. 354]
+//
+//|1725 - 1725
+//|Bankruptcy of Jobst Krückeberg [in Bückeburg]
+//
+//Konkurs des Jobst Krückeberg [in Bückeburg]
+//|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v7832436[NLA BU, L 122, F Nr. 354]
 
 |1798 - 1800
 |The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his farmyard and garden
