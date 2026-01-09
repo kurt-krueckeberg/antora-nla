@@ -33,6 +33,7 @@ office
 ** and report its size back to the Cammer.
 ====
 
+[.narrow]
 == Transliteration and Translation
 
 [cols="1a,1a",frame=none,grid=none,options='noheader']
