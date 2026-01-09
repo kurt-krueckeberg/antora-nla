@@ -16,7 +16,7 @@ Ausweisungen & Rottländereien
 Specia
 bim Amt Bückeburg
 
-Berenbusch no. 10
+[line-through]#Berenbusch no. 10#
 
 AB                         Rep: II
 
