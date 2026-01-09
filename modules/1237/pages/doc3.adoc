@@ -43,9 +43,6 @@ office
 
 The complete text and its translation:
 
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 ad nr: Cam: 53. S. S. [Signatum Supra]     
@@ -85,11 +82,10 @@ Emmerwarth     v. Landesberg
 
 
 
-
-
 Wippermann
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Concerning Chamber file no. 53 (same as above)
@@ -124,8 +120,6 @@ Emmerwarth v. Landesberg
 
 Wippermann
 ....
-
-|===
 
 *In place of "per procurationem"* means: signed on behalf of the authority by delegated officials, in lieu of the
 principal's own signature.
