@@ -6,13 +6,12 @@ for the enlargement of his yard space and garden*.
 
 image::1237-cover.png[link=self]
 
-[cols="1a,1a"]
-|===
-|Transliteration|Translation
+[.narrow]
+== Translation and Translation
 
-|
-[verse]
-____
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
 Ausweisungen & Rottländereien
 Specia
 bim Amt Bückeburg
@@ -38,11 +37,12 @@ AB                         Rep: II
 
 
 C. 67
-____
+....
 
-|
-[verse]
-____
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
 Land Allocations & Cleared Lands  
 Case file 
 at the Office of Bückeburg  
@@ -65,8 +65,7 @@ AB                               Rep: II
 Office of Bückeburg  
 
 C. 67 [likely an archivalk or administrative reference number]
-____
-|===
+....
 
 == Glossary of Terms
 
