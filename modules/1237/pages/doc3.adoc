@@ -33,8 +33,7 @@ office
 ** and report its size back to the Cammer.
 ====
 
-[.narrow]
-== Transliteration and Translation
+== Images
 
 [cols="1a,1a",frame=none,grid=none,options='noheader']
 |===
@@ -42,6 +41,8 @@ office
 |image::06-left-page.png[link=self]
 |===
 
+[.narrow]
+== Transliteration and Translation
 The complete text and its translation:
 
 [literal.bordered,subs="verbatim,quotes"]
