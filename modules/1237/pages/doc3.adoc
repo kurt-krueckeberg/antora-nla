@@ -37,8 +37,8 @@ office
 
 [cols="1a,1a",frame=none,grid=none,options='noheader']
 |===
-|image::05-right-page.png[link=self]
-|image::06-left-page.png[link=self]
+|image::05-right-page.png[title="Document 2(Click to Enlarge)",link=self]
+|image::06-left-page.png[title="Document 3(Click to Enlarge)",link=self]
 |===
 
 [.narrow]
