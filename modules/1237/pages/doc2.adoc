@@ -47,7 +47,6 @@ Kammer), giving administrative directives:
 |image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 |===
 
-TODO: mention Vormundschaftliche Rentcammer and not "local government offices".
 The local government offices for Bückeburg and Arnesberg prepared Document 2
 in March 1799 to inform the Cammer that they had reviewed the forestry report
 that the Cammmer had written onto Document 1, the Petition, and sent back to
