@@ -78,7 +78,8 @@ storage.
 
 [glossary]
 Ausweisungen::
-  Land allocations or assignments. Formal designation of land parcels, often by government or ducal authority.
+  Land allocations or assignments. Formal designation of land parcels,
+often by government or ducal authority.
 
 Rottländereien::
   Cleared lands (from *roden*, “to clear”). Forested or unused land prepared for cultivation or settlement.
@@ -93,7 +94,7 @@ bim::
   Archaic/regional variant of *beim* (short for *bei dem*), meaning “at the” — e.g., *bim Amt Bückeburg* = “at the Office of Bückeburg.”
 
 Colon::
-  A historical title for a hereditary tenant farmer (modern German: *Kolon*). Not a military or academic rank.
+  A historical title for a hereditary tenant holding, often a farmer (modern German: *Kolon*). 
 
 Hofraum::
   Courtyard or yard area of a farmstead. Often part of the recorded property area in land documents.
@@ -105,7 +106,9 @@ ACTA::
   Latin for “records,” “files,” or “off
 
 C. 67::
-  A likely archival or administrative reference number. The letter "C" may designate a filing category, shelf, or
-collection series, while "67" indicates the item or folder number within that series. Such notations were commonly
-written on dossier covers by clerks or archivists to organize case files for internal tracking or retrieval.
+  A likely archival or administrative reference number. The letter "C" may
+designate a filing category, shelf, or collection series, while "67"
+indicates the item or folder number within that series. Such notations were
+commonly written on dossier covers by clerks or archivists to organize case
+files for internal tracking or retrieval.
 
