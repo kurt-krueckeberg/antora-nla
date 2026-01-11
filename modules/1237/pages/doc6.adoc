@@ -25,12 +25,14 @@ Rentkammer*) confirms:
 * The parcels had been measured by a sworn land surveyor:
 ** Garden expansion — *19 rods 44 feet (decimal)*
 ** Courtyard area — *1 rod 90 feet (decimal)*
-* The purchase price, calculated at *24 Mariengroschen per square rod*, was paid in full:
+* The purchase price, calculated at *24 Mariengroschen per square rod*, was
+  paid in full:
 ** *14 Reichsthaler, 8 Mariengroschen, 1 Pfennig* to the Comital Treasury.
-* Krückeberg assumes responsibility for *annual ground rent (Rottzins)*, contributions, and both ordinary and
-extraordinary levies, to be entered in the *Amt* Bückeburg’s accounts on schedule.
-* The document assures Krückeberg and his heirs that their possession of the parcels will be *legally protected
-against all parties*.
+* Krückeberg assumes responsibility for *annual ground rent (Rottzins)*,
+  contributions, and both ordinary and extraordinary levies, to be entered
+in the *Amt* Bückeburg’s accounts on schedule.
+* The document assures Krückeberg and his heirs that their possession of
+  the parcels will be *legally protected against all parties*.
 
 The document is dated *Bückeburg, December 1800*, and issued under the
 *impressed comital guardianship treasury seal* with signatures of the
