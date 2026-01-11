@@ -1,5 +1,10 @@
 = Todoes
 
+== Remove "Vormundschaftliche Kammer" from 1237
+
+There were not two Rentkammers: a vormunschaftliche Rentkammer and a "normal
+"Rentkammer". Clear up this misunderstanding.
+
 == Simplify module 139
 
 For each document in a docket number in the Designatio Actorum create a separate document.

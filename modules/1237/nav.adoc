@@ -2,7 +2,6 @@
 //NLA BU, K 2, A Nr. 1237
 * xref:cover.adoc[]
 //* xref:actors.adoc[]
-* xref:introduction.adoc[]
 * xref:narr-timeline.adoc[]
 * xref:administrative-filing-note.adoc[]
 * xref:contents-list.adoc[]
