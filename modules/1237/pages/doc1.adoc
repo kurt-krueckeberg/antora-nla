@@ -27,9 +27,21 @@ Krückeberg made his petition.
 == Jobst Heinrich Krückeberg's Petition
 
 The small handwritten text in the left and right images is the petition
-written on behalf of Jobst Heinrich Krückeberg for enlarging his farmyard and
-garden. The larger text is the Forestry Office assessment of the impact of
-the request.
+written on behalf of Jobst Heinrich Krückeberg for enlarging his farmyard
+and garden. The larger text is the Forestry Office assessment of the impact
+of the request.
+
+Jobst Heinrich Krückeberg's petition was addressed to the *Rentkammer*.  A
+*Res. Cam.* (Resolution of the Cammer) ordered that the matter be *reported
+on by the Bückeburg Amt*.  *Before* the Amt produced its full report
+(Document 2), a *Forstamt technical assessment* was written directly onto
+the petition sheet (Document 1).  That forestry note concerns only the
+**trees and land-use implications**, not the broader administrative
+decision.
+
+MKaas (MK) was very likely a Forstamt official who also functioned as an
+administrative clerk, which explains why the "Res Cam" was initialed by
+him.
 
 [cols="1a,1a",options="noheader",frame="none",grid="none"]
 |===
@@ -180,7 +192,9 @@ B. 18 Febr 1799    MKaas
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-A short written order from the Chamber was sent to the Amt for its report.
+Pursuant to a Rentkammer resolution, the case was sent to the Bückeburg Amt
+for a report.
+
 Bückeburg, 18 February 1799. MKaas.
 ....
 
