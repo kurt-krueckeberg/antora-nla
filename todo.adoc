@@ -1,9 +1,12 @@
 = Todoes
 
-== Remove "Vormundschaftliche Kammer" from 1237
+== Module 689
 
-There were not two Rentkammers: a vormunschaftliche Rentkammer and a "normal
-"Rentkammer". Clear up this misunderstanding.
+I'm not sure that "Docket Item" is correct for these documents. I also
+believe--I think--that the last column in the Designatio Actorum is the
+Tag/Day even though the column has what appears to be a "Z". I believe it
+is the "day" because it does corresponds to the day given in the date on
+the document.
 
 == Simplify module 139
 
