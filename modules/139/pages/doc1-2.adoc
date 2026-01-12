@@ -92,6 +92,7 @@ request in the Amt report.
 </details>
 ++++
 
+[.narrow]
 === Transliteration and Translation
 
 image::03-left-side-of-page.png[algin=left,width=50%,title=Click to Enlarge,link=self]
