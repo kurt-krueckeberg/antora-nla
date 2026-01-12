@@ -14,10 +14,12 @@ There are a cluster of five documents in #1 in the xref:contents-list.adoc[Desig
 <summary><strong>Hide / show document summary</strong></summary>
 ++++
 
-The petition of window Krückeberg begins on the right of the first page and continues on the right side of the back page. 
-The widow Krückeberg is needy and facing financial difficulties. She is 58 years old and she can’t perform the feudal
-duties of the *Burgrest labor days* and the *forestry services* owed to the state of a *"colonist"* (farmstead
-holder) nor can she afford to hire someone in her place. She petitions for these duties to be remitted.
+The petition of window Krückeberg begins on the right of the first page and
+continues on the right side of the back page. She is needy and facing
+financial difficulties. She is 58 years old and she can’t perform the
+feudal duties of the *Burgrest labor days* and the *forestry services* owed
+to the state of a *"colonist"* (farmstead holder) nor can she afford to
+hire someone in her place. She petitions for these duties to be remitted.
 
 .Explantion of Burgrest labor days and Forest service
 **** 
