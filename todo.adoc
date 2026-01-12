@@ -10,12 +10,9 @@ the document.
 
 == Simplify module 139
 
-* Get rid of "Docket Item #". 
-
-* Create a separate .adoc page for each of the five items in Actenstück 1,
-regardless of whether some of them share the same manuscript image or page
-side. The Designatio Actorum defines the document structure; the physical
-layout does not.
+* I believe doc1-4.adoc is missing the image. Have chatgpt help me figure
+  out which part of which image corresponds to the item in the Designation
+Actorum. 
 
 == Confirm Dates
 
