@@ -10,6 +10,12 @@ The case file also has several documents from 1849, when the property was
 sold, that are filed after the 1822 documents, but these were not recorded
 in the table of contents.
 
+The first column in the Contents is the *Actenstück*, a single
+administrative item within a case file.  It is a physically numbered file
+unit (e.g., “Nr. 1,” “Nr. 2”) that may contain multiple internal texts—such
+as a petition, reports, draft replies, and the final resolution—but is
+treated by the authorities as one coherent administrative unit.
+
 image::01.png[title=Clock to Enlarge,link=self]
 
 [NOTE]
