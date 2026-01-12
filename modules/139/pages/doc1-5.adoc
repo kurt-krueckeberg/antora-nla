@@ -5,6 +5,7 @@
 
 image:03-r.png[width=75%,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
