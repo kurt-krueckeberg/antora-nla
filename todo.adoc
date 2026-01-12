@@ -1,30 +1,26 @@
 = Todoes
 
-== Module 689
+== Module 139: Analyze Image Sections
+
+. For each Designatio Actorum item decide which part of which image is the
+text for the Designatio Actorum item. Make sure we account for all the text
+in all the images. Make sure we understand each part of each image.
+. Review the Overviews for each .adoc page.
+. Make notes of what is genealogically and historically of value.
+
+== Correct Module 689
 
 I'm not sure that "Docket Item" is correct for these documents. I also
 believe--I think--that the last column in the Designatio Actorum is the
 Tag/Day even though the column has what appears to be a "Z". I believe it
 is the "day" because it does corresponds to the day given in the date on
 the document.
-
-== Simplify module 139
-
-* I believe doc1-4.adoc is missing the image. Have chatgpt help me figure
-  out which part of which image corresponds to the item in the Designation
-Actorum. 
-
 == Confirm Dates
 
 For the document listed in m/146/p/other-docs.adoc confirm the dates when they documents were written
 not when they were presented in the chamber.
 
 == Convert 146 pngs to jpgs
-
-== Finish Case File 139
-
-Homestead (Farmstead) No. 10 in Berenbusch, under the jurisdiction of the Bückeburg Office
-Does this one have the map showing neighboring Krückebergs?
 
 == Images
 
