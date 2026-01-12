@@ -1,13 +1,8 @@
-= #2 Document: Report from the Bückeburg Office (7 Aug. 1842)
+= Actenstück 2 (Administrative File Item 2): Report from the Bückeburg Office (7 Aug. 1842)
 :page-role: wide
 
 [.narrow]
 == Report from the Bückeburg Office 
-
-++++
-<details>
-<summary><strong>Hide / show summary</strong></summary>
-++++
 
 This is a report written by the Amt Bückeburg (with Amt Arensburg
 referenced, as usual in joint reporting) to the Rentkammer on 7 August
@@ -24,20 +19,15 @@ The Amts note that she still owns this land, though she has leased out part
 of it to someone else.
 
 The report is signed Sander at Bückeburg on 7 August 1824.
-
-++++
-</details>
-++++
  
-== Transliteration and Translation
+== Image
 
 image::04-r.png[title=Click to Enlarge,link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
+[.narrow]
+== Transliteration and Translation
 
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 2935                    Præs: 8. Aug. 1824.
@@ -61,7 +51,8 @@ Bückeburg 7. August 1824.
 
 Sander
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 2935                    Presented: 8 August 1824.
@@ -86,7 +77,6 @@ Bückeburg, 7 August 1824.
 
 Sander
 ....
-|===
 
 [NOTE]
 ====

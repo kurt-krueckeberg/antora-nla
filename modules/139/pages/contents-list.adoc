@@ -1,6 +1,9 @@
 = Contents List
 :page-role: wide
 
+[.narrow]
+== Overview
+
 The *Designatio Actorum* shown below is the table of contents for the case
 file. All the documents listed in it are from 1822 and concern the petition
 of the needy widow Krückeberg who petitions the Rentcammer for relief from

@@ -1,18 +1,9 @@
-= Docket Item 1: Docments
+= Actenstück 1 (Administrative File Item 1): Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch (8 July 1824) 
 :page-role: wide
-
-== First Two (of the Cluster of Five) Documents Labelled #1
-
-There are a cluster of five documents in #1 in the xref:contents-list.adoc[Designatio Actorum], the table of contents.
 
 [.narrow]
 [[doc-index-1-1]]
-=== Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch (8 July 1824) 
-
-++++
-<details>
-<summary><strong>Hide / show document summary</strong></summary>
-++++
+== Overview
 
 The petition of window Krückeberg begins on the right of the first page and
 continues on the right side of the back page. She is needy and facing
@@ -35,17 +26,16 @@ of her holding.
 ====
 ****
 
-++++
-</details>
-++++
-
-=== Transliteration and Translation
+== Images
 
 [cols="1a,1a"]
 |===
 |image::02.png[title=Click to Enlarge,link=self]
 |image::03-l.png[title=Click to Enlarge,link=self]
 |===
+
+[.narow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]

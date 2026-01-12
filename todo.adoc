@@ -10,8 +10,12 @@ the document.
 
 == Simplify module 139
 
-For each document in a docket number in the Designatio Actorum create a separate document.
-Put and administrative filing rubric before the Designatio Actorum/Contenst List.
+* Get rid of "Docket Item #". 
+
+* Create a separate .adoc page for each of the five items in Actenstück 1,
+regardless of whether some of them share the same manuscript image or page
+side. The Designatio Actorum defines the document structure; the physical
+layout does not.
 
 == Confirm Dates
 
