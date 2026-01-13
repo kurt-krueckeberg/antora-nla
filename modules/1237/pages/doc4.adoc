@@ -4,9 +4,6 @@
 [.narrow]
 == Narrative Overview
 
-.Narrative Overview
-[%collapsible]
-====
 On **18 October 1800**, the Ämter of Bückeburg and Arensburg sent a
 formal report to the Vormundschaftliche Kammer, responding to the
 Cammer’s directive of **11 March 1799** (Document 3). 
@@ -27,7 +24,6 @@ of the current year (**1800**), in the amount of **2 Reichsthaler and 1
 Pfennig**, excluding any exchange fees (*agio*).
 
 The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
-====
 
 .How Large was the Allocated Land
 ****
@@ -69,13 +65,14 @@ So the total extension was roughly [underline]#*¼ of a modern tennis court*# in
 
 Michaelmas (Michaeli) = Feast of Saint Michael the Archangel, celebrated on 29 September.
 
-== Transliteration and Translation
+== Image of Document 4
 
 image::06-right-page.png[width=65%,link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none.options="noheader"]
-|===
-|
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Cam:Nr:322. Forstsachen
@@ -102,7 +99,7 @@ S. Bückeburg, 18ten Oct. 1800.
                    J. H. Hablick    Stöling
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Cam: No. 322. Forestry matters
@@ -128,7 +125,7 @@ Bückeburg, 18 October 1800.
 
 J. H. Hablick  Stöling
 ....
-|===
+
 [.narrow]
 == Glossary of Terms
 
