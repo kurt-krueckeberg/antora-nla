@@ -29,12 +29,13 @@ Rentkammer petitions frame the petitioner’s present lack of independent
 establishment in order to justify granting one.
 ====
 
+[.narrow]
 == Response
 
 The Rentkammer asked the Bückeburg Amt (administrative office) to report on
 the " financial circumstances and on the personal qualities of the petitioner." 
 
-== Images for Document #1
+== Images for Petition submitted by the tailor Krückeberg in Evesen
 
 image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
 
