@@ -1,6 +1,7 @@
 = Document 1: Jobst Heinrich Krückeberg Petition (29 May 1798)
 :page-role: wide
 
+[.narrow]
 [[doc-index-1-1]]
 == Jobst Heinrich Krückeberg's Petition
 
@@ -20,6 +21,8 @@ decision.
 MKaas (MK), who initials appear several times, was very likely a Forstamt
 official who also functioned as an administrative clerk, which explains why
 the "Res Cam" was initialed by him.
+
+== Images of Document 1
 
 [cols="1a,1a",options="noheader",frame="none",grid="none"]
 |===

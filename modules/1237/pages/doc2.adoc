@@ -4,12 +4,6 @@
 [.narrow]
 == Document 2: Narrative Overview
 
-.*Show / hide narrative overview*
-[%collapsible]
-====
-[discrete]
-
-[discrete]
 === *1. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)*
 
 With the new guidance from the Cammer, the Ämter prepared Document 2, on
@@ -21,7 +15,6 @@ The "main text", the larger text on the page, is the *The Land Assignment
 Report* issued by the *Ämter Bückeburg und Arensburg* (local adminstrative
 offices of Bückeburg and Arenburg).
 
-[discrete]
 === *2. Cammer's Reaction to Document 2 (10 Mar 1799)*
 
 The *marginal note*, the darker, somewhat smaller text on the left side, is
@@ -38,7 +31,7 @@ Kammer), giving administrative directives:
 ====
 
 [[doc-index-2-1]]
-== Land Assignment Report
+== Images of the Land Assignment Report
 
 [cols="1a,1a",options="noheader",frame=none,grid=none]
 |===
@@ -46,12 +39,6 @@ Kammer), giving administrative directives:
 
 |image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 |===
-
-The local government offices for Bückeburg and Arnesberg prepared Document 2
-in March 1799 to inform the Cammer that they had reviewed the forestry report
-that the Cammmer had written onto Document 1, the Petition, and sent back to
-the Ämter (plural of offices).
-
 [.narrow]
 == Transliteration and Translation
 
