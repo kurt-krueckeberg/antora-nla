@@ -9,7 +9,7 @@ side of the first page of the petition. The first page of the petition
 has been cropped in the image below so only the report from the Bückeberg
 office appears.
 
-== Image
+== Image of Report from Bückeburg Office
 
 image::02-left-side-of-page.png[title=Click to Enlarge,width=50%,link=self]
 
