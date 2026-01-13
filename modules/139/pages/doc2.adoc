@@ -20,7 +20,7 @@ of it to someone else.
 
 The report is signed Sander at Bückeburg on 7 August 1824.
  
-== Image
+== Image of Report from the Bückeburg Office
 
 image::04-r.png[title=Click to Enlarge,link=self]
 
