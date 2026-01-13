@@ -34,7 +34,7 @@ of her holding.
 |image::03-l.png[title=Click to Enlarge,link=self]
 |===
 
-[.narow]
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
