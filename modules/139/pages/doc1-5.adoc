@@ -1,6 +1,12 @@
 = Actenstück 1 (Administrative File Item 1): Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 :page-role: wide
 
+[.narrow]
+== Overview
+
+The Draft of the Official Reply appears in the lower right quadrant of the
+image. 
+
 == Image
 
 image:03-r.png[width=75%,link=self]
