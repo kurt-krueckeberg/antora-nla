@@ -32,13 +32,13 @@ establishment in order to justify granting one.
 === Hans Heinrich was one of Carl Friedrich (born 1807) Baptismal Sponsors
 
 We know that when Carl Friedrich Krückeberg was
-xref:genealozy:petzen:PET-B-1807a.adoc[born in 1807] one of his
-xref:genealogy:petzen:PET-B-1807.adoc[baptismal sponsors] was Hans Heinrich
+xref:genealogy:petzen:PET-B-1807a.adoc[born in 1807] one of his
+xref:genealogy:petzen:PET-B-1807a.adoc[baptismal sponsors] was Hans Heinrich
 Wilharm of no. 11 Evesen.
 
 Hans Heinrich Wilharm who was
-xref:genealogy:petzen:PET-B-1760a.adpc[born in Berenbusch in 1760]
-In 1796 he xref:genealogy:petzen:PET-M-1796.adoc[married Anne Marie Philippine
+xref:genealogy:petzen:PET-B-1760a.adoc[born in Berenbusch in 1760]
+In 1796 he xref:genealogy:petzen:PET-M-1796a.adoc[married Anne Marie Philippine
 Blecke of no. 11 Evesen]. The birth records of their daughter Anne Marie Christine,
 xref:genealogy:petzen:PET-B-1798a.adoc[born in 1798], and their son Carl
 Heinrich, xref:genealogy:petzen:PET-B-1810a.adoc[born in 1810], show that
