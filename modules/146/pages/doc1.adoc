@@ -27,12 +27,26 @@ status or poverty.
 
 Rentkammer petitions frame the petitioner’s present lack of independent
 establishment in order to justify granting one.
-
-The Wilharm at no. 11 Evesen was Hans Heinrich Wilharm, who was a carpenter
-and the Colon of no. 11 Evesen. 
-TODO: Add links to his marriage and his children's birth showing this.
 ====
 
+=== Hans Heinrich was one of Carl Friedrich (born 1807) Baptismal Sponsors
+
+We know that when Carl Friedrich Krückeberg was
+xref:genealozy:petzen:PET-B-1807a.adoc[born in 1807] one of his
+xref:genealogy:petzen:PET-B-1807.adoc[baptismal sponsors] was Hans Heinrich
+Wilharm of no. 11 Evesen.
+
+Hans Heinrich Wilharm who was
+xref:genealogy:petzen:PET-B-1760a.adpc[born in Berenbusch in 1760]
+In 1796 he xref:genealogy:petzen:PET-M-1796.adoc[married Anne Marie Philippine
+Blecke of no. 11 Evesen]. The birth records of their daughter Anne Marie Christine,
+xref:genealogy:petzen:PET-B-1798a.adoc[born in 1798], and their son Carl
+Heinrich, xref:genealogy:petzen:PET-B-1810a.adoc[born in 1810], show that
+the family
+
+* lived a no. 11 Evesen
+* Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen
+* He worked as a Zimmerman (carpenter) 
 
 
 [.narrow]
