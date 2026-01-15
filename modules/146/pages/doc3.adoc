@@ -3,6 +3,10 @@
 
 == Image
 
+....
+&dagger;
+....
+
 image::04-r.png[titlewidth=70%,link=self]
 
 [.narrow]
@@ -11,10 +15,10 @@ image::04-r.png[titlewidth=70%,link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Ad N. 287.                   
-C. K. Rescripts
+C. K. [Cammer-Kanzlei] Rescripts
 ans Amt Bückeburg
 
-p. des Schneiders Krückeberg in Evesen
+*†* des Schneiders Krückeberg in Evesen
 
 Expedirt
 Beyer  
@@ -22,7 +26,7 @@ Beyer
 V. G. G.[Von Gottes Gnaden]
 
 Auf Euren Bericht vom 21ten d.
-M. die Neubauerung betr:, unverhalten wir, daß die Ausweisung des
+M. die Neubauerung *†*  betr:, unverhalten wir, daß die Ausweisung des
 Platzes quaestionis von etwa 1/2 - 3/4 Morgen, in denjenigen
 Grenzen, welche von der Forstdirection dem Oberförster Falkmann
 angegeben sind, bewilligt worden ist, unter der Voraussetzung,
@@ -57,22 +61,24 @@ reply to a petition or report.
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Re: No. 287.
+Rentkammer’s administrative office <-- start of new version of text
+immediately below:
+
 Chancery (Kammer) rescript
 to the Bückeburg Office
 
-on the petition of the tailor Krückeberg in Evesen
+
 
 Dispatched
 Beyer
 
 By the Grace of God
 
-Upon your report of the 21st of this month
-concerning the new construction, we hereby inform you
-that the designation (Ausweisung) of the plot in question,
-of approximately 1/2 to 3/4 Morgen, within those boundaries
-indicated by the Forestry Office to Chief Forester
-Falkmann, has been approved, subject to the condition
+Upon your report of the 21st of this month concerning the new construction
+of the tailor Krückeberg in Evesen, we hereby inform you that the
+designation (Ausweisung) of the plot in question, of approximately 1/2 to
+3/4 Morgen, within those boundaries indicated by the Forestry Office to
+Chief Forester Falkmann, has been approved, subject to the condition
 
 1) that
 no well-founded objections arise on the part of the
