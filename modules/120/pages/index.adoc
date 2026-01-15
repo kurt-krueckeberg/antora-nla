@@ -1,3 +1,7 @@
 = Sale of the Krückeberg property no. 18 in Berenbusch to the shoemaker Wilhelm Meyer at Röcke
 
-TODO:
+Only the case file cover and the Abschrift (copy) of
+xref:146/carl-fried-supplication-to-sel[N.C. 4386] are included here. The
+other documents include technical details of the sale, but are hard to
+decipher due to their poor legibility. The important details are in the 
+xref:146:other-docs.adoc[] collection of xref:146:index.adoc[]. 
