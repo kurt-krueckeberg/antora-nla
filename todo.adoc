@@ -19,13 +19,14 @@ in all the images. Make sure we understand each part of each image.
 . Review the Overviews for each .adoc page.
 . Make notes of what is genealogically and historically of value.
 
-== Correct Module 689
+== Ask Chatgpt about "Docket Item" for Module 689
 
 I'm not sure that "Docket Item" is correct for these documents. I also
 believe--I think--that the last column in the Designatio Actorum is the
 Tag/Day even though the column has what appears to be a "Z". I believe it
 is the "day" because it does corresponds to the day given in the date on
 the document.
+
 == Confirm Dates
 
 For the document listed in m/146/p/other-docs.adoc confirm the dates when they documents were written
