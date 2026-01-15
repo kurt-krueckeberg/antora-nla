@@ -6,7 +6,7 @@ tenancy right to Stätte no. 18 Berenbusch, which Carl Friedrich Krückeberg
 was selling in order to immigrate to America.
 
 .Document concerning the sale of Kolonat of Stätte no. 18 Berenbusch
-[%header,cols="6,6,1"]
+[%header,cols="6,1"]
 |===
 |Document Heading|Date
 
