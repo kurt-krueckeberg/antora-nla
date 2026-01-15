@@ -1,11 +1,7 @@
 = Document 3: Drafts of Cameral rescripts from the Office of Bückeburg
 :page-role: wide
 
-== Image
-
-....
-&dagger;
-....
+== Image of Document 3
 
 image::04-r.png[titlewidth=70%,link=self]
 
