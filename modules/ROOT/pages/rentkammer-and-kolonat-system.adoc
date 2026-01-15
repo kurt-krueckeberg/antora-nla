@@ -35,8 +35,8 @@ property, the Rentkammer:
 * Regulated wood use
 * Approved or denied clearing (Rottland)
 
-This explains why Forstamt notes and Rentkammer decisions appear
-together in your files.
+This explains why Forstamt (Forestry Office) notes and Rentkammer decisions appear
+together in the files.
 
 *4. Final administrative decisions* The Rentkammer issued:
 
@@ -56,7 +56,7 @@ In the Rentkammer documents you are working with, the terms *Stätte*,
 holding*. It referred to a specific piece of land (often with a house or
 the right to build one) identified by a number (e.g., Stätte Nr. 10 or
 Nr. 18 in Berenbusch). It’s a legal designation of the property itself.
-. *Kolon*: A _Kolon_ was the *tenant or holder of that Stätte*. In your
+. *Kolon*: A _Kolon_ was the *tenant or holder of that Stätte*. In the
 documents, "`Colon Krückeberg`" is simply the person who occupied or
 petitioned for that property. The term _Kolon_ identifies the individual
 who had the usage rights and obligations on that property.
