@@ -5,7 +5,7 @@
 
 The *Designation Actorum* is the table of contents:
 
-image::01-r.png["Click to Enlarge (then click again on the image),link=self]
+image::01-r.png["Click to Enlarge (then click again on the image),width=75%.link=self]
 
 == Transliteration and Translation
 
