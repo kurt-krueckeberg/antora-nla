@@ -3,7 +3,10 @@
 
 == Designatio Actorum
 
-The *Designation Actorum* is the table of contents:
+The *Designation Actorum* is the table of contents for the time period of
+1808 - 1810. There are other documents in the case file not in the table of
+contents that concern the sale of no. 18 Berenbusch. They all only from
+September of 1850. 
 
 image::01-r.png["Click to Enlarge (then click again on the image),width=75%.link=self]
 
