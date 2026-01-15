@@ -4,4 +4,6 @@ Only the case file cover and the Abschrift (copy) of
 xref:146/carl-fried-supplication-to-sel[N.C. 4386] are included here. The
 other documents include technical details of the sale, but are hard to
 decipher due to their poor legibility. The important details are in the 
-xref:146:other-docs.adoc[] collection of xref:146:index.adoc[]. 
+xref:146:other-docs.adoc[] section of the case file xref:146:index.adoc[],
+which has all the relevant documents related to September 1850 sale of no.
+18 Berenbusch. 
