@@ -8,7 +8,7 @@
 |===
 |Document Heading|Topic|Date
 
-|xref:report-to-kammer-from-bueckeburg-amt-9-19-50.adoc
+|xref:report-to-kammer-from-bueckeburg-amt-9-19-50.adoc[]
 |Verkauf der Krückebergschen Stätte No 18 in Berenbusch 
 |19 Sept. 1850
 
