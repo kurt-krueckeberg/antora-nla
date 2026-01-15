@@ -9,12 +9,55 @@ image::04-r.png[titlewidth=70%,link=self]
 == Transliateration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
-update-initramfs: Generating /boot/initrd.img-6.17.0-7-generic
+....
+Ad N. 287.                   
+C. K. Rescripts
+ans Amt Bückeburg
+
+p. des Schneiders Krückeberg in Evesen
+
+Expedirt
+Beyer  
+
+V. G. G.[Von Gottes Gnaden]
+
+Auf Euren Bericht vom 21ten d.
+M. die Neubauerung betr:, unverhalten wir, daß die Ausweisung des
+Platzes quaestionis von etwa 1/2 - 3/4 Morgen, in denjenigen
+Grenzen, welche von der Forstdirection dem Oberförster Falkmann
+angegeben sind, bewilligt worden ist, unter der Voraussetzung,
+
+1.) daß keine gegründete Widersprüche von Seiten der
+Hudeberechtigten eintreten und
+
+2.) daß der Supplikant ein Vermögen von wenigstens 150
+Rthl. nachweisen kann. 
+
+Der Grund u. Boden wird mit 6 Mg p[er]. R
+bezahlt.
+
+Solches habt Ihr dem Supplikanten zu eröffnen.
+
+Wie         [S.S.]
+Bburg d. 31 Oct 1808
+Anstatt[??]
+Wine
+[???] [D/W/H]anckwertz Windt
+....
+
+[NOTE]
+====
+*V.G.G.* stands for *"By the Grace of God", a formal sovereignty formula
+indicating that the *rescript* was issued under princely authority. 
+
+A *rescript* was an official decision letter sent by the central authority in
+reply to a petition or report.
+====
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Re: No. 287.
-Chancery (Kammer) rescripts
+Chancery (Kammer) rescript
 to the Bückeburg Office
 
 on the petition of the tailor Krückeberg in Evesen
@@ -22,7 +65,8 @@ on the petition of the tailor Krückeberg in Evesen
 Dispatched
 Beyer
 
-V. G. G.
+By the Grace of God
+
 Upon your report of the 21st of this month
 concerning the new construction, we hereby inform you
 that the designation (Ausweisung) of the plot in question,
