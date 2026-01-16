@@ -1,6 +1,21 @@
 = Document 3: Drafts of Cameral rescripts from the Office of Bückeburg
 :page-role: wide
 
+[.narrow]
+== Overview
+
+The Rentkammer informed the Bückeburg that they approved the plot of land
+under consideration subject to two condition:
+
+1) there are no well-founded objections from holders of grazing rights, and
+
+2) that Jobst Heinrich could show he has at least 150 Reichsthaler.
+
+The cost of the land (the tenancy right to the land) will be 6
+Mariengroschen per Quadratrute (square rod).
+
+They are to inform Jobst Heinrich of these conditions and terms.
+
 == Image of Document 3
 
 image::04-r.png[titlewidth=70%,link=self]
