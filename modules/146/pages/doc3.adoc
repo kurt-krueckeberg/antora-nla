@@ -8,9 +8,9 @@ The Rentkammer informed the Bückeburg that they approved the plot of land
 under consideration to be offered to Jobst Heinrich subject to two
 conditions:
 
-1) there are no well-founded objections from holders of grazing rights, and
-
-2) that Jobst Heinrich could show he has at least 150 Reichsthaler.
+[arabic,start=1]
+. there are no well-founded objections from holders of grazing rights, and
+. that Jobst Heinrich could show he has at least 150 Reichsthaler.
 
 The cost of the land (the tenancy right to the land) will be 6
 Mariengroschen per Quadratrute (square rod).
