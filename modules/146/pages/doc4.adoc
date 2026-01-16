@@ -1,6 +1,11 @@
 = Document 4: Report of the administrative offices of Bückeburg and Arensburg
 :page-role: wide
 
+[.narrow]
+== Overview
+
+TODO: What does "in the presence of chief forester Falkmann" mean?
+
 == Image
 
 image::05-r-alternate.png[titlewidth=85%,link=self]
