@@ -61,6 +61,8 @@ image::04-l.png[title=Second page of document 2 (click to enlarge),width=75%,lin
 
 image::03-r-side-text.png[title="Rentkammer response(click to enlarge),width=85%,link=self]
 
+image::03-r-bot-res-cam.png[title="end of Rentkammer response(click to enlarge),width=85%,link=self]
+
 [.narrow]
 == Transliteration and Translation
 
