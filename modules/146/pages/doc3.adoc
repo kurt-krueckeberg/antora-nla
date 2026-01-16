@@ -10,7 +10,7 @@ conditions:
 
 [arabic,start=1]
 . there are no well-founded objections from holders of grazing rights, and
-. that Jobst Heinrich could show he has at least 150 Reichsthaler.
+. that Jobst Heinrich can show he has at least 150 Reichsthaler.
 
 The cost of the land (the tenancy right to the land) will be 6
 Mariengroschen per Quadratrute (square rod).
