@@ -119,16 +119,16 @@ text. Both blocks of text are transliterated below.
 .Transliteration of Rentkammer Response
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Res: Cam: Die Ausweisung des Platzes, von twa 1/2 bis 3/4 Morgen, in
+Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
-Falkman angegeben sind, wird unter der Voraussetzung bewilliget, daß
+Falkmann angegeben sind, wird unter der Voraussetzung bewilliget, daß
 keine gegründete Widersprüche von Seiten der Hudeberechtigten
 eintreten, und 2., dasß der Supplicant ein Vermögen von wenigstens *‡* 
 
-
-*‡* 150 Rtr nachweisen könne.
-Der Grund und Boden wird mit 6. Mg P[er]. R.
-baar bezahlt. B. 31. Octbr 1808
+*‡* 150 Rtr[Reichtsthaler] nachweisen könne.
+Der Grund und Boden wird mit 6. Mg[Mariengroschen] p[er]. Quadratrute
+baar bezahlt.
+	B[ückeburg]. 31. Octbr 1808
                              MKaas
 .... 
 
@@ -180,25 +180,23 @@ of October 1808.
 Habicht Neussel
 ....
 
-TODO: Redo translatation due to chaning Anweisung to Ausweisung
-
 .Translation of the Rentkammer's response.
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Resolution of the Chamber:
-The designation (Ausweisung) of the plot, of approximately
-1/2 to 3/4 Morgen, within those boundaries which have been
-indicated by the Forestry Directorate to Chief Forester
-Falkmann, is hereby approved, subject to the condition that
-no well-founded objections arise on the part of those holding
-grazing rights, and secondly, that the petitioner can
-demonstrate assets of at least *‡*
+Rentkammer Response (Res. Cam.):
 
-*‡* 150 Xtr.
+The allocation of the site, of approximately ½ to ¾ Morgen, within the
+boundaries which have been specified by the Forestry Directorate to Chief
+Forester Falkmann, is hereby approved under the condition that
 
-The land and soil shall be paid for in cash at a rate of
-6 Morgen per Reichsthaler.
-Ordered on 31 October 1808
-                             M. Kaas
+1. no well-founded objections arise on the part of those entitled to
+   pasture rights, and
+2. that the petitioner is able to demonstrate assets of at least 150
+   Reichsthaler.
+
+The land and soil shall be paid for in cash at a rate of 6 Mariengroschen
+per square rod.
+
+Bückeburg, the 31st of October 1808
+MKaas
 ....
-
