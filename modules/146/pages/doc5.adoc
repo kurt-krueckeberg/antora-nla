@@ -1,6 +1,11 @@
 = Document 5: Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg 
 :page-role: wide
 
+== Overview
+
+TODO: This seems like a duplication of the Rescript at the bottom of
+document 4?
+
 == Image
 
 image::06-r.png[titlewidth=85%,link=self]
