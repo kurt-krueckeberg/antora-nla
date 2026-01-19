@@ -33,6 +33,8 @@ no. X
 
 == Transliteration and Translation
 
+image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
