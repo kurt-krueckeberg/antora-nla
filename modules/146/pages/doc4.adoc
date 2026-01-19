@@ -4,7 +4,8 @@
 [.narrow]
 == Overview
 
-TODO: What does "in the presence of chief forester Falkmann" mean?
+TODO: Summarize the report and explain what  "in the presence of chief
+forester Falkmann" mean?
 
 == Image
 
