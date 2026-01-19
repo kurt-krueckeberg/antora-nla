@@ -15,13 +15,13 @@ all the others.
 .Latin terms used
 [cols="1,2,2", with="70%"]
 |===
-| Latin term   | Literal meaning       | Archival meaning                |
+| Latin term   | Literal meaning       | Archival meaning                
 
-| *nescit*     | he does not know      | Respondent has no knowledge     |
+| *nescit*     | he does not know      | Respondent has no knowledge     
 
-| *cessat*     | it ceases / is absent | Not applicable / does not exist |
+| *cessat*     | it ceases / is absent | Not applicable / does not exist 
 
-| *ut reliqui* | like the others       | Same as other respondents       |
+| *ut reliqui* | like the others       | Same as other respondents       
 |==
 
 NOTE: The fact that *Johann Heinrich Krückeberg says he married into the
