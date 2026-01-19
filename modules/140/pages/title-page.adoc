@@ -1,4 +1,4 @@
-= List of all tenant farmers in the districts of Bückeburg and Arensburg, with numbering of all houses. (1747)
+= List of all Kolons in the districts of Bückeburg and Arensburg, with numbering of all houses. (1747)
 :page-role: wide
 
 [.narrow]
