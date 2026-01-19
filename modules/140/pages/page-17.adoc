@@ -9,6 +9,13 @@ link:https://www.moehle-research.de/[Dr.  Slyvia Möhle]. It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
 the text was whitish-yellow).
 
+Dr. Möhle found that
+
+[quote, Comments by Dr. Möhle]
+____
+On p 17 we find a list for Berenbusch: Under _Brinksitzer_ we see no. 10
+____
+
 It is page 17 in the volume.
 
 == Image
@@ -37,7 +44,7 @@ Joh. Heinr. Kreutler modo Daniel Steding
 
 *modo* is Latin for "presently,lately now". Thus, this shows the
 change of *holder* for a numbered holding: *Former holder* → *now*
-→ *current holder*. So for the entry:
+→ *current holder*. So the entry:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -52,12 +59,6 @@ Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
 ....
 
 This documents that Krückeberg had taken over that Brinksitzer holding by the time of the register. 
-TODO: 
-
-[quote, Comments by Dr. Möhle]
-____
-On p 17 we find a list for Berenbusch: Under _Brinksitzer_ we see no. 10
-____
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
