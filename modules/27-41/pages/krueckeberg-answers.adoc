@@ -25,100 +25,100 @@ no. X
 ....
 N. X [Rf?] er hiesse
 
-{empty}1. Johann Henrich Krückeberg
+1. Johann Henrich Krückeberg
 
 vormahls Friedrich Kuhlmann auch
 
 Joh. Tönnies Eggerding
 
-{empty}2. habe darauf geheyrahtet
+2. habe darauf geheyrahtet
 
-{empty}3. ein Brinksitzer
+3. ein Brinksitzer
 
-{empty}4. Er habe nichts als einen Garten
+4. Er habe nichts als einen Garten
 
 worin zugl. etwas Saatlandt
 
 Nach der neuen Messung.
 
-{empty}5. cessat
+5. cessat
 
 6 er habe kein Rottland ausser
 
 dem Garthen
 
-{empty}7. Sey Illmo eigen.
+7. Sey Illmo eigen.
 
-{empty}8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
+8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
 ‚not‘]
 
-{empty}9. jährl. 12 Burgfesten
+9. jährl. 12 Burgfesten
 
-{empty}10. cessat
+10. cessat
 
-{empty}11. funff Erndte Tage
+11. funff Erndte Tage
 
-{empty}12. so offt es nöhtig
+12. so offt es nöhtig
 
-{empty}13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
+13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
 
-{empty}14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
 
-{empty}17. cessat
+17. cessat
 
-{empty}18. [Dues]
+18. [Dues]
 
-{empty}a) contribat 2 [Groschen] 2 [Pfennige]
+a) contribat 2 [Groschen] 2 [Pfennige]
 
-{empty}b) Rottzinß 11 [Groschen]
+b) Rottzinß 11 [Groschen]
 
-{empty}c) Mahl[...] 12 [Groschen]
+c) Mahl[...] 12 [Groschen]
 
-{empty}d) Michael Schatz cessit
+d) Michael Schatz cessit
 
-{empty}e) –
+e) –
 
-{empty}f) – 4 [Pfennige]
+f) – 4 [Pfennige]
 
-{empty}g) Landschatz gibt er nicht weilen
+g) Landschatz gibt er nicht weilen
 
 er kein Land habe
 
-{empty}h) nescit
+h) nescit
 
-{empty}i) ut reliqui
+i) ut reliqui
 
-{empty}k) Viehschatz p nro. des Viehes
+k) Viehschatz p nro. des Viehes
 
 4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
 
-{empty}l) cessat
+l) cessat
 
-{empty}m) Ein Rauchhuhn an gdste Herrschafft
+m) Ein Rauchhuhn an gdste Herrschafft
 
-{empty}n) nescit
+n) nescit
 
 19)
 
-{empty}a) ut reliqui
+a) ut reliqui
 
-{empty}b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
 
 c-g nescit
 
 20-23 cessat
 
-{empty}24. 1 Kuh 1 Rind
+24. 1 Kuh 1 Rind
 
 1 Schwein
 
-{empty}25. treibe solche vor den Hirten
+25. treibe solche vor den Hirten
 
-{empty}26. nein
+26. nein
 
 27-31 cessat
 
-{empty}32. Er gebe niemand
+32. Er gebe niemand
 
 etwas als dem
 
@@ -126,9 +126,9 @@ pastori und Küster
 
 das gewöhnliche
 
-{empty}33. nein
+33. nein
 
-{empty}34. Vermeyne, da er
+34. Vermeyne, da er
 
 keine Länderey
 
@@ -136,15 +136,15 @@ habe, solche nicht
 
 schuldig zu seyn
 
-{empty}35. nein
+35. nein
 
 36, 37 cessat
 
-{empty}38. nein
+38. nein
 
-{empty}39. ut reliqui
+39. ut reliqui
 
-{empty}40. Er samle
+40. Er samle
 
 das Holtz in
 
@@ -154,100 +154,100 @@ oder kauffe es.
 
 _Translation_
 
-{empty}1. Johann Henrich Krückeberg,
+1. Johann Henrich Krückeberg,
 
 formerly Friedrich Kuhlmann, also
 
 Joh. Tönnies Eggerding,
 
-{empty}2. has married into this property.
+2. has married into this property.
 
-{empty}3. A tenant farmer.
+3. A tenant farmer.
 
-{empty}4. He has nothing but a garden,
+4. He has nothing but a garden,
 
 in which there is also some arable land.
 
 According to the new measurement.
 
-{empty}5. cessat
+5. cessat
 
 6 He has no land except
 
 the garden.
 
-{empty}7. Belongs to the Prince.
+7. Belongs to the Prince.
 
-{empty}8. He does nor perform weekly services [symbol = not; old code
+8. He does nor perform weekly services [symbol = not; old code
 for ‘not’]
 
-{empty}9. 12 times a year service at the castle [possibly building work]
+9. 12 times a year service at the castle [possibly building work]
 
-{empty}10. cessat
+10. cessat
 
-{empty}11. five harvest days
+11. five harvest days
 
-{empty}12. as often as necessary
+12. as often as necessary
 
-{empty}13. as often as required [in others: land cultivation by hand]
+13. as often as required [in others: land cultivation by hand]
 
-{empty}14. 15. 16. ut reliqui [in others: also hunting and guard duty]
+14. 15. 16. ut reliqui [in others: also hunting and guard duty]
 
-{empty}17. cessat
+17. cessat
 
-{empty}18. [Dues]
+18. [Dues]
 
-{empty}a) contributes 2 [Groschen] 2 [Pfennige]
+a) contributes 2 [Groschen] 2 [Pfennige]
 
-{empty}b) Rottzinß 11 [Groschen]
+b) Rottzinß 11 [Groschen]
 
-{empty}c) Mill[...] 12 [Groschen]
+c) Mill[...] 12 [Groschen]
 
-{empty}d) Michael tax cessit
+d) Michael tax cessit
 
-{empty}e) –
+e) –
 
-{empty}f) – 4 [Pfennige]
+f) – 4 [Pfennige]
 
-{empty}g) He does not pay land tax because
+g) He does not pay land tax because
 
 he has no land.
 
-{empty}h) nescit
+h) nescit
 
-{empty}i) ut reliqui
+i) ut reliqui
 
-{empty}k) Livestock tax p no. of livestock
+k) Livestock tax p no. of livestock
 
 4 mgr [Groschen] 4 Pf [Pfennige] also 8 mgr [Groschen]
 
-{empty}l) cessat
+l) cessat
 
-{empty}m) One smoked chicken to His Lordship
+m) One smoked chicken to His Lordship
 
-{empty}n) nescit
+n) nescit
 
 19)
 
-{empty}a) ut reliqui
+a) ut reliqui
 
-{empty}b) Inheritance 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+b) Inheritance 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
 
 c-g nescit
 
 20-23 cessat
 
-{empty}24. 1 cow 1 ox
+24. 1 cow 1 ox
 
 1 pig
 
-{empty}25. He lets the shepherd care for them
+25. He lets the shepherd care for them
 
-{empty}26. no
+26. no
 
 27-31 cessat
 
-{empty}32. He gives nothing to anyone
+32. He gives nothing to anyone
 
 except to the
 
@@ -255,9 +255,9 @@ Pastor and sexton
 
 the usual
 
-{empty}33. no
+33. no
 
-{empty}34. He thinks, since he
+34. He thinks, since he
 
 has no land
 
@@ -265,15 +265,15 @@ he is therefore not
 
 obligated to do so
 
-{empty}35. no
+35. no
 
 36, 37 cessat
 
-{empty}38. no
+38. no
 
-{empty}39. ut reliqui
+39. ut reliqui
 
-{empty}40. He gathers
+40. He gathers
 
 the wood in
 
