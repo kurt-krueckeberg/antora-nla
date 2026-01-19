@@ -3,9 +3,6 @@
 
 == Overview
 
-TODO: Add link to document in Arcinys using bookmarked url and mention its
-denotation and translation.
-
 == Image of Title Page
 
 This microfiche image was obtained by commissioned research done by
@@ -13,7 +10,7 @@ link:https://www.moehle-research.de/[Dr. Slyvia Möhle]. It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
 the text was whitish-yellow).
 
-image::NLA_BU_L_101a_A_Nr.140.title.png[title= Title page(Click to Enlarge),link=self]
+image::title-140.png[title= Title page(Click to Enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation

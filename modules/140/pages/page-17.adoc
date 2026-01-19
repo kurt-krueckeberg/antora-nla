@@ -12,7 +12,7 @@ the text was whitish-yellow).
 It is page 17 in the volume.
 
 == Image
-image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=List of Berenbusch Brinksitzer,link=self]
+image::page-17.png[title=List of Berenbusch Brinksitzer,link=self]
 
 [.narrow]
 == Transliteration and Translation
