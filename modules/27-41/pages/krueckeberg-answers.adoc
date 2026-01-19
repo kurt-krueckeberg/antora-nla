@@ -22,7 +22,7 @@ all the others.
 | *cessat*     | it ceases / is absent | Not applicable / does not exist 
 
 | *ut reliqui* | like the others       | Same as other respondents       
-|==
+|===
 
 NOTE: The fact that *Johann Heinrich Krückeberg says he married into the
 property*, and that he does not appear in lists earlier than the 1740s,
