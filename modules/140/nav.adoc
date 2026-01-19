@@ -1,2 +1,2 @@
-* xref:title-page.adoc[]
+* xref:index.adoc[]
 ** xref:page-17.adoc[]

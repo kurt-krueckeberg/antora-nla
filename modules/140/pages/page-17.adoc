@@ -5,7 +5,7 @@
 == Overview
 
 This microfiche image was obtained by commissioned research done by
-link:https://www.moehle-research.de/[Dr.  Slyvia Möhle]. It has been
+link:https://www.moehle-research.de/[Dr.  Sylvia Möhle]. It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
 the text was whitish-yellow).
 
@@ -17,6 +17,9 @@ On p 17 we find a list for Berenbusch: Under _Brinksitzer_ we see no. 10
 ____
 
 So it is page 17 in the volume that no. 10 Berenbusch is mentioned.
+
+Furthermore, we know from xref:[]  that Johann Heinrich Krückeberg came
+into possession of no. 10 Berenbusch through marriage.
 
 == Image
 
