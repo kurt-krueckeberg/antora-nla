@@ -25,6 +25,15 @@ image::page-17.png[title=List of Berenbusch Brinksitzer,link=self]
 [.narrow]
 == Transliteration and Translation
 
+[IMPORTANT]
+====
+There is an important connection between *Johann Tönnies Eggerding* and
+*Johann Heinrich Krückeberg*. As shown below, not only was Johann Tönnies
+Eggerding the former resident at no. 10 Berenbusch, he was a baptismal
+sponsor of Johann Heinrich Krückeberg's son, Johann Friedrich, who was born
+in 1728. See xref:genealogy:petzen:PET-B-1728a.adoc[].
+==== 
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Joh. Heinr. Kreutler modo Daniel Steding
@@ -60,16 +69,6 @@ Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
 
 This documents that Krückeberg had taken over that Brinksitzer holding by
 the time of the register.
-
-[IMPORTANT]
-====
-There is an important connection between *Johann Tönnies Eggerding* and
-*Johann Heinrich Krückeberg*. Not only was Johann Tönnies Eggerding the
-former resident at no. 10 Berenbusch, he was a baptismal sponsor of Johann
-Heinrich Krückeberg's son, Johann Friedrich, who was born in 1728. See
-xref:genealogy:petzen:PET-B-1728a.adoc[].
-==== 
-
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
