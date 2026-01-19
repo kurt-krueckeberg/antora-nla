@@ -44,42 +44,42 @@ vormahls Friedrich Kuhlmann auch
 
 Joh. Tönnies Eggerding
 
-2. habe darauf geheyrahtet
+*2.* habe darauf geheyrahtet
 
-3. ein Brinksitzer
+*3.* ein Brinksitzer
 
-4. Er habe nichts als einen Garten
+*4.* Er habe nichts als einen Garten
 
 worin zugl. etwas Saatlandt
 
 Nach der neuen Messung.
 
-5. cessat
+*5.* cessat
 
-6 er habe kein Rottland ausser
+*6.* er habe kein Rottland ausser
 
 dem Garthen
 
-7. Sey Illmo eigen.
+*7.* Sey Illmo eigen.
 
-8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
+*8.* Wöchentl. Dienste verrichte er [symbol = nicht; old code for
 ‚not‘]
 
-9. jährl. 12 Burgfesten
+*9.* jährl. 12 Burgfesten
 
-10. cessat
+*10.* cessat
 
-11. funff Erndte Tage
+*11.* funff Erndte Tage
 
-12. so offt es nöhtig
+*12.* so offt es nöhtig
 
-13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
+*13.* so offt es erforderlig [bei anderen: Landfolge mit der Hand]
 
-14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+*14.* 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
 
-17. cessat
+*17.* cessat
 
-18. [Dues]
+*18.* [Dues]
 
 a) contribat 2 [Groschen] 2 [Pfennige]
 
@@ -121,17 +121,17 @@ c-g nescit
 
 20-23 cessat
 
-24. 1 Kuh 1 Rind
+*24.* 1 Kuh 1 Rind
 
 1 Schwein
 
-25. treibe solche vor den Hirten
+*25.* treibe solche vor den Hirten
 
-26. nein
+*26.* nein
 
 27-31 cessat
 
-32. Er gebe niemand
+*32.* Er gebe niemand
 
 etwas als dem
 
@@ -139,9 +139,9 @@ pastori und Küster
 
 das gewöhnliche
 
-33. nein
+*33.* nein
 
-34. Vermeyne, da er
+*34.* Vermeyne, da er
 
 keine Länderey
 
@@ -149,15 +149,15 @@ habe, solche nicht
 
 schuldig zu seyn
 
-35. nein
+*35.* nein
 
-36, 37 cessat
+*36., 37.* cessat
 
-38. nein
+*38.* nein
 
-39. ut reliqui
+*39.* ut reliqui
 
-40. Er samle
+*40.* Er samle
 
 das Holtz in
 
@@ -169,48 +169,48 @@ oder kauffe es.
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-1. Johann Henrich Krückeberg,
+*1.* Johann Henrich Krückeberg,
 
 formerly Friedrich Kuhlmann, also
 
 Joh. Tönnies Eggerding,
 
-2. has married into this property.
+*2.* has married into this property.
 
-3. A tenant farmer.
+*3.* A tenant farmer.
 
-4. He has nothing but a garden,
+*4.* He has nothing but a garden,
 
 in which there is also some arable land.
 
 According to the new measurement.
 
-5. cessat
+*5.* cessat
 
-6 He has no land except
+*6.* He has no land except
 
 the garden.
 
-7. Belongs to the Prince.
+*7.* Belongs to the Prince.
 
-8. He does nor perform weekly services [symbol = not; old code
+*8.* He does nor perform weekly services [symbol = not; old code
 for ‘not’]
 
-9. 12 times a year service at the castle [possibly building work]
+*9.* 12 times a year service at the castle [possibly building work]
 
-10. cessat
+*10.* cessat
 
-11. five harvest days
+*11.* five harvest days
 
-12. as often as necessary
+*12.* as often as necessary
 
-13. as often as required [in others: land cultivation by hand]
+*13.* as often as required [in others: land cultivation by hand]
 
-14. 15. 16. ut reliqui [in others: also hunting and guard duty]
+*14.* 15. 16. ut reliqui [in others: also hunting and guard duty]
 
-17. cessat
+*17.* cessat
 
-18. [Dues]
+*18.* [Dues]
 
 a) contributes 2 [Groschen] 2 [Pfennige]
 
@@ -252,17 +252,17 @@ c-g nescit
 
 20-23 cessat
 
-24. 1 cow 1 ox
+*24.* 1 cow 1 ox
 
 1 pig
 
-25. He lets the shepherd care for them
+*25.* He lets the shepherd care for them
 
-26. no
+*26.* no
 
 27-31 cessat
 
-32. He gives nothing to anyone
+*32.* He gives nothing to anyone
 
 except to the
 
@@ -270,9 +270,9 @@ Pastor and sexton
 
 the usual
 
-33. no
+*33.* no
 
-34. He thinks, since he
+*34.* He thinks, since he
 
 has no land
 
@@ -280,15 +280,15 @@ he is therefore not
 
 obligated to do so
 
-35. no
+*35.* no
 
-36, 37 cessat
+*36., 37.* cessat
 
-38. no
+*38.* no
 
-39. ut reliqui
+*39.* ut reliqui
 
-40. He gathers
+*40.* He gathers
 
 the wood in
 
