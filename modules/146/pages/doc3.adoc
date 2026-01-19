@@ -4,9 +4,13 @@
 [.narrow]
 == Overview
 
-The Rentkammer informed the Bückeburg that they approved the plot of land
-under consideration to be offered to Jobst Heinrich subject to two
-conditions:
+The Rentkammer's response to document 2, the Bückeburg and Arensburg
+Office's report, which was noted on their report, is officially formalized
+in this document.
+
+The Rentkammer officially and formally informed the Ämter that they
+approved offering the plot of land under consideration to Jobst Heinrich
+subject to two conditions:
 
 [arabic,start=1]
 . there are no well-founded objections from holders of grazing rights, and
