@@ -45,12 +45,20 @@ of his own house.
 
 [NOTE]
 ====
-Jobst Heinrich's father Johann Heinrich was, in 1802 when he remarried
-as a widower, a Leibzüchter, which implies he was (and for legal purposes
-may still have been) the holder of Stätte no. 10 in Berenbusch.
-Holding a Stätte implied *agricultural responsibility and competence*, not
-necessarily *exclusive or full-time farming*. That level of experience would
-indeed support appointment as an *Ackervogt*.
+Jobst Heinrich's father Johann Heinrich was, in 1802 when he remarried as a
+widower, a Leibzüchter, which implies he had  the holder of Stätte no. 10
+in Berenbusch. Holding a Stätte implied *agricultural responsibility and
+competence*, not necessarily *exclusive or full-time farming*. That level
+of experience would indeed support appointment as an *Ackervogt*.
+
+We know that he was no longer the holder in May of 1798 because his son Jobst
+Heinrich, when he petitions the Rentkammer to expands his grounds and garden,
+is called xref:1237:cover.adoc[Colon Krückeberg]. See references to Jobst
+Heinrich:
+
+* xref:1237:doc2.adoc[]
+* xref:1237:doc4.adoc[]
+* xref:1237:doc6.adoc[]
 ====
 
 == Images for Document #1
