@@ -1,14 +1,17 @@
 = Page 17:  Berenbusch Brinksitzer
 :page-role: wide
 
+[.narrow]
+== Overview
+
+This microfiche image was obtained by commissioned research done by
+link:https://www.moehle-research.de/[Dr.  Slyvia Möhle]. It has been
+enhanced as best as can be from its virtually unreadable orignal (in which
+the text was whitish-yellow).
+
+This is found on page 17 of the volume.
+
 == Image
-
-This microfiche image was obtained by commissioned research done by link:https://www.moehle-research.de/[Dr.
-Slyvia Möhle]. It has been enhanced as best as can be from its virtually
-unreadable orignal (in which the text was whitish-yellow).
-
-This is found on page 17 of the volume:
-
 image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=List of Berenbusch Brinksitzer,link=self]
 
 [.narrow]
