@@ -12,6 +12,7 @@ the text was whitish-yellow).
 It is page 17 in the volume.
 
 == Image
+
 image::page-17.png[title=List of Berenbusch Brinksitzer,link=self]
 
 [.narrow]
