@@ -37,9 +37,7 @@ Joh. Heinr. Kreutler modo Daniel Steding
 
 *modo* is Latin for "presently,lately now". Thus, this shows the
 change of *holder* for a numbered holding: *Former holder* → *now*
-→ *current holder*
-
-So for the entry:
+→ *current holder*. So for the entry:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
