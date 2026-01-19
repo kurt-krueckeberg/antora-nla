@@ -31,6 +31,8 @@ MIGHT indicate a second marriage around that time.
 Transcript of the report for Johann Heinrich Krückeberg at Berenbusch
 no. X
 
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -162,9 +164,11 @@ das Holtz in
 der Waldung
 
 oder kauffe es.
+....
 
-_Translation_
-
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
 1. Johann Henrich Krückeberg,
 
 formerly Friedrich Kuhlmann, also
