@@ -27,6 +27,7 @@ ____
 [IMPORTANT]
 ====
 This would seem to imply that by 1743-1744, no. 10 Berenbusch had passed
-from Eggerding to Kuhlmann and then to Johann Heinrich Krückeberg,
+from Johann Tönnis Eggerding to xref:2741:krueckeberg-answers.adoc[Frierich
+Kuhlmann] and then to Johann Heinrich Krückeberg,
 something that warrants closer re-examination.
 ====
