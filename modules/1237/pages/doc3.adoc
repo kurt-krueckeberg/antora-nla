@@ -21,12 +21,12 @@ The Cammer states:
 
 * They will allocate the land Krückeberg, no. 10 Berenbusch, provided he
   agrees to:
-** plant three saplings at another forest site for each willow or poplar
+* plant three saplings at another forest site for each willow or poplar
    felled and sold by the forestry office
-** pay 24 Mariengroschen per square rod for the plot.
+* pay 24 Mariengroschen per square rod for the plot.
 * If Krückeberg agrees to these conditions, the Amt is to:
-** have the plot surveyed by a sworn surveyor
-** and report its size back to the Cammer.
+* have the plot surveyed by a sworn surveyor
+* and report its size back to the Cammer.
 
 == Images
 
@@ -124,18 +124,15 @@ principal's own signature.
 [.narrow]
 == Glossary of Terms
 
-‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a **discourse
-marker** that introduces a condition or framework that has just been described. The double dagger (‡) appears both
+‡solchergestalt:: The word "solchergestalt" means "in such a manner" or "in this form." It serves as a *discourse
+marker* that introduces a condition or framework that has just been described. The double dagger (‡) appears both
 in the margin and in the body of the text:
-* It serves as a **visual reference mark**, directing the reader from a marginal note (or side instruction) into
+* It serves as a *visual reference mark*, directing the reader from a marginal note (or side instruction) into
 * the point in the text where it applies.  In this document, it emphasizes the section that contains the
-* **financial obligation** (payment of 24 Mariengroschen per square Rute for the land being assigned).
+* *financial obligation* (payment of 24 Mariengroschen per square Rute for the land being assigned).
 
-Quadrat: Rute:: A **square rod** or **square perch**, a historical unit of area (1 Rute ≈ 3.77 meters, so a square
+Quadrat: Rute:: A *square rod* or *square perch*, a historical unit of area (1 Rute ≈ 3.77 meters, so a square
 Rute ≈ 14.2 m²). The tenant was charged 24 Mariengroschen per Quadrat-Rute of newly assigned garden land.
-
-Colon:: A term for a peasant farmer with hereditary rights to a plot of land (Latin origin: *colonus*). In
-Schaumburg-Lippe, "Colon" designated a full-status rural landholder, as opposed to lesser holders like a Köter.
 
 Mariengroschen:: A coin denomination used in various North German states in the 18th–19th centuries. Twenty-four
 Mariengroschen = financial compensation for each Quadrat-Rute assigned to Krückeberg.
