@@ -8,15 +8,18 @@ related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
 [%header,cols="2,8a,2"]
 |===
 |Life Span|Denotation|Identifier
-//
-//|1725 - 1725
-//|Bankruptcy of Jobst Krückeberg [in Bückeburg]
-//
-//Konkurs des Jobst Krückeberg [in Bückeburg]
-//|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v7832436[NLA BU, L 122, F Nr. 354]
+
+|
+|
+|
+
+|1737
+|Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey)
+
+Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
+
 |1740–1830
-
-
 |List of names of all Kolons of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
 
 Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.
