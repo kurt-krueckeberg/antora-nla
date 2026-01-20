@@ -24,16 +24,28 @@ all the others.
 | *ut reliqui* | like the others       | Same as other respondents       
 |===
 
-NOTE: The fact that *Johann Heinrich Krückeberg says he married into the
-property*, and that he does not appear in lists earlier than the 1740s,
-MIGHT indicate a second marriage around that time.
+== Image 
+
+image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 Transcript of the report for Johann Heinrich Krückeberg at Berenbusch
 no. X
 
-== Transliteration and Translation
+[NOTE]
+====
+The fact that *Johann Heinrich Krückeberg says he married into the
+property*, and that he does not appear in lists earlier than the 1740s,
+MIGHT indicate a second marriage around that time.
 
-image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
+The 1743–44 general state visitation (Generallandesvisitation) records a
+succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
+Eggerding, followed by *Friedrich Kuhlmann*, and then Johann Heinrich
+Krückeberg, who acquired the holding through marriage.
+====
+
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
