@@ -6,7 +6,7 @@ The *Survey of the Villages of Evesen, Berenbusch, and Nordholz* (Vermessung
 der Dörfer Evesen, Berenbusch und Nordholz) is located in the Bückeburg
 regional archive of the Lower Saxony State Archives.
 
-It is 
+This document has identifier
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
 in the link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action[Arcinsys]
 Archival information system Niedersachsen and Bremen.
