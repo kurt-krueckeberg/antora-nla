@@ -2,10 +2,11 @@
 
 == Transliteration and Translation
 
+On page 110 Berenbusch:
+ 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-p 110 Berenbusch: 
 No. 10 am Hause
 Johann Henrich Krickeberg zu Behrenbusch
 besitzet
