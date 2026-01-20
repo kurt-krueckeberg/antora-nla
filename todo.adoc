@@ -1,5 +1,14 @@
 = Todoes
 
+== Correct 'farmyard' Translations of Hofraum
+
+In all modules.
+
+== Rottzinß
+
+This term appears clearly in `~/nla/m/1237/p/doc4.adoc`. I believe this is
+the term that should be used in documents in `~/nla/m/146/p`.
+
 == Case File 188
 
 The contents of case file 188
