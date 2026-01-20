@@ -1,2 +1,2 @@
 * TODO: Add index.adoc page
-** xref:img24.adoc
+** xref:img24.adoc[]
