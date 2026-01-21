@@ -27,7 +27,7 @@ image::01.png[link=self]
 
 |1.
 |xref:doc1.adoc[Vorstellung des Colons Krückeberg No: 10 zu Berenbusch, d.d.]
-|xref:doc1.adoc[Petition of tenant farmer Krückeberg No. 10 in Berenbusch, dated.]
+|xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, dated.]
 |Bburg
 |1798
 |May
