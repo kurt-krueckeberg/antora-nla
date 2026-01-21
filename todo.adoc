@@ -2,9 +2,7 @@
 
 == Finish Review Moehle Work
 
-== Correct 'farmyard' Translations of Hofraum
-
-In all modules.
+Examine and analyze it, creating .adoc pages as I go.
 
 == Rottzinß
 
