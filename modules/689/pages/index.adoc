@@ -4,7 +4,7 @@ In 1849 when Johann Heinrich emigrated from Schaumburg-Lippe and settled in
 Union Township, Adams County, Indiana, he arrived from a principality only
 three and a half times the size of Union Township with 20,000 inhabitants.
 Years earlier, in 1798, when his father Jobst wanted to purchase land from
-the government to enlarge his farm yard and garden, the Schaumburg-Lippe
+the government to enlarge his homestead yard and garden, the Schaumburg-Lippe
 Rentkammer, the government office in Bückeburg that managed the prince’s
 money, land, forests, and rural property matters.
 
@@ -37,7 +37,7 @@ flow differs from the filing order.
 | 1836-07-30 | Suit opened | Later: 2× appellate, 1× supplicatory | Doc 2
 | 1841-07-27 | Service | “gleichlautendes Gegenbescheid” served; fees 22¼ mg | Service slip (Möller)
 | 1841-09-08* | Distraint ordered | “unter 8 v.M.” → 8 Sept (inferred) | Doc 2 (*inferred*)
-| 1841-10-07 | Amt report | Opposes installments; proposes **loan 190 rthlr**; farm size/insurance/debts | Doc 2
+| 1841-10-07 | Amt report | Opposes installments; proposes **loan 190 rthlr**; holding size/insurance/debts | Doc 2
 | 1841-10-11 | Presented | “pr. in Cam” (filed in the Chamber) | Doc 2 header
 | 1841-10-14 | Chamber rescript | Deny installments; allow loan; notify Krückeberg | “Copt.” sheet; Index row 2
 |===

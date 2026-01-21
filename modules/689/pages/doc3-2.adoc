@@ -5,7 +5,7 @@
 == Summary
 
 On 15 November 1841, the Privy Chamber Councillor Reck prepared a formal
-valuation of Krückeberg’s farmstead and buildings. After deducting debts,
+valuation of Krückeberg’s holding and buildings. After deducting debts,
 he calculated a net worth of 825 Reichsthaler, but judged it doubtful
 whether a further 200 rt loan would be secure. Although acknowledging loans
 had been made in worse cases, he recommended against approval, and the
@@ -27,8 +27,8 @@ image::09-r.png[title="Click to Enlarge",link=self]
 ****
 [NOTE]
 ====
-* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the *"leasehold farm
-holding of a numbered Colon (tenant farmer), comprising land and buildings."*
+* *"holding"* is translated from "Stelle" (and elsewhere "Stätte"). It refers to the *"leasehold 
+holding of a numbered Colon (tenant holder), comprising land and buildings."*
 ====
 ****
 
