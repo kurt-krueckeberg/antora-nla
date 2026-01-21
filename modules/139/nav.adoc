@@ -11,7 +11,7 @@
 ** xref:doc2.adoc[]
 * 1849 Documents (Concerning Later Sale of Stätte No. 10)
 ** xref:krueckeberg-petition-to-sell.adoc[] 
-** xref:amt-report-on-krueckeberg-petition-to-sell-his-farmstead.adoc[]
+** xref:amt-report-on-krueckeberg-petition-to-sell-his-holding.adoc[]
 ** xref:rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-farmstead.adoc[]
 ** xref:actum-bueckeburg-amt-21-aug-1849.adoc[]
 ** xref:amt-report-22-aug-1849.adoc[]
