@@ -104,9 +104,9 @@ petitioner.
 === Glossary of Terms
 
 Colonus::
-  A tenant farmer or hereditary leaseholder. In 18th–19th century German
-  documents, "Colon" or "Colonus" was a formal title, not a personal name.
-  One did not necessary have to be a farmer.
+  A hereditary leaseholder. In 18th–19th century German documents, "Colon"
+  or "Colonus" was a formal title, not a personal name.  One did not
+  necessary have to be a farmer.
 
 Ruthe (plural: Ruthen)::
   A historical German unit of length or area. As a unit of area, 1 square
