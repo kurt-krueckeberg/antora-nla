@@ -43,7 +43,7 @@ im Jahre 1747 vorgehabten Nummrirung der sämtlichen Häuser
 angefertigt worden.  
 ....
 
-Kolonen:: Tenant farmers holding land under the Kolonat system (hereditary leaseholds).
+Kolonen:: Tenant holders under the Kolonat system (hereditary leaseholds).
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]

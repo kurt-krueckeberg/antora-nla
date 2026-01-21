@@ -35,7 +35,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |1.
 |xref:doc1-1.adoc[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]
-|xref:doc1-1.adoc[Petition of the widow Krückeberg, farmstead No. 10 in Berenbusch]. 
+|xref:doc1-1.adoc[Petition of the widow Krückeberg, Holding 10 in Berenbusch]. 
 ^|Bburg 
 ^|1824 
 ^|July 

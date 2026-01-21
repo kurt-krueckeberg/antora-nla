@@ -11,13 +11,13 @@
 
 This document records the formal sale of Stätte No. 10 in Berenbusch by Colon
 Krückeberg to the Einlieger (cottager) Wilhelm Bornemann. The sale was made in
-anticipation of Krückeberg’s emigration to America. Because the farmstead was a
+anticipation of Krückeberg’s emigration to America. Because the holding was a
 regulated *Kolonat* rather than freely owned land, its transfer could not occur
 privately. It had to be brought before the Amt Bückeburg, recorded, witnessed,
 and then forwarded to the Fürstliche Rentkammer for higher confirmation.
 
 The contract defines the Stätte not merely as a parcel of property, but as a
-complete farmstead with dwelling house, bakehouse, garden land, and yard
+complete holding with dwelling house, bakehouse, garden land, and yard
 (Hofraum), along with the associated social and legal status in the village.
 It specifies that the buildings are conveyed with all fixtures “held by earth,
 wall, band, rivet, and nail,” and that the buyer, Bornemann, assumes not only
@@ -25,7 +25,7 @@ the property but also all of the hereditary obligations tied to it. These
 include labor duties, forest work, parish offerings, watch payments, and other
 communal responsibilities.
 
-Bornemann agrees to pay seven hundred Thaler Courant for the farmstead. He
+Bornemann agrees to pay seven hundred Thaler Courant for the holding. He
 assumes the debts currently resting on the property as a *Selbstschuldner*
 (principal debtor) and pays the remaining amount in cash at the time of the
 contract’s execution. The document is formally dated and authorized with the
@@ -51,9 +51,9 @@ holder—a significant upward shift in rural status and responsibility.
 
 [cols="1,2"]
 |===
-| **Colon** | A hereditary tenant-farmer holding a *Kolonat* (farmstead) under long-standing obligations to the local lordship. Not a free owner in the modern sense.
+| **Colon** | A hereditary tenant-holder a *Kolonat* under long-standing obligations to the local lordship. Not a free owner in the modern sense.
 | **Einlieger** | A landless or small-plot cottager living within the village. Socially below a Colon; acquiring a Stätte raised a person’s standing.
-| **Stätte** | The farmstead as a whole: house, yard, outbuildings, garden, and the status and obligations attached to it.
+| **Stätte** | The holding as a whole: house, yard, outbuildings, garden, and the status and obligations attached to it.
 | **Hofraum** | The enclosed yard / work and storage space surrounding the dwelling and barns.
 | **Handburgfesten** | Annual labor duties owed to the estate authority, often field or road maintenance work.
 | **Erntetage** | Days of compulsory harvest labor provided to the local manor/estate.

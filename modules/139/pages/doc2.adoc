@@ -70,7 +70,7 @@ Bärenbusch.
 
 In response to the Most Gracious official reply of the 4th and of the
 present month’s 7th, we most humbly report that the widow Krückeberg,
-tenant of the referenced farmstead, still possesses the parcel of land
+tenant of the referenced holding, still possesses the parcel of land
 near the Söhren which her late husband purchased from the Princely
 Chamber for 800 rixthalers. A portion of it she has leased out.
 Bückeburg, 7 August 1824.
@@ -88,7 +88,8 @@ Sander
 The document identifiers were written by:
 
 * *"`N.C. 2816`"* — written by the _Amt_ clerk, repeating the
-Rentkammer’s file number for the xref:doc1-1.adoc["Petition of the widow Krückeberg, farmstead No.
+Rentkammer’s file number for the xref:doc1-1.adoc["Petition of the widow
+Krückeberg, holding No.
 10 in Berenbusch"].
 * *"`Nr. pr. 698`"* — the _Amt_’s own internal protocol number for this
 outgoing report.
