@@ -23,7 +23,7 @@ that it covers only the year 1747.
 
 == Image of Title Page
 
-image::title-140.png[title= Title page(Click to Enlarge),link=self]
+image::title-140.png[title= Title page(Click to Enlarge),width=85%,link=self]
 
 [.narrow]
 == Transliteration and Translation
