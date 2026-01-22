@@ -5,3 +5,6 @@ link:file:///home/kurt/antora-nla/public/nla/1.0/index.html[NLA BU L 2 L
 Nr. 27/41] in the
 link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action[Arcinsys Archival
 information system Niedersachsen and Bremen].
+
+Johann Heinrich Krückeberg is one of the respondents. Thus he is a propertz
+hold by 1743-44.
