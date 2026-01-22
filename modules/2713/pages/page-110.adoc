@@ -1,5 +1,11 @@
 = Page 110
+:page-role: wide
 
+== Image of page 110
+
+image::2713-24.png[title=Johann Heinrich Krückeberg's holding,link=self]
+
+[.narrow]
 == Transliteration and Translation
 
 On page 110 Berenbusch:
