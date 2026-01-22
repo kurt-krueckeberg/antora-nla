@@ -1,6 +1,7 @@
 = Johann Heinrich Krückeberg's Recorded Answers 
 :page-role: wide
 
+[.narrow]
 == Replies of Rural Property Holders
 
 The householders are each asked 40 questions. The questions are
@@ -24,13 +25,13 @@ reliqui"*, which means he had the same conditions as all the others.
 
 == Image 
 
-[frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
 |image::2741-2.jpg[title=First page (Click to Enlarge),link=self]
 |===
 
-[frame=none,grid=none]
+[cols="1a,1a",frame=none,grid=none]
 |===
 |image::2741-3.jpg[title=First page (Click to Enlarge),link=self]
 |
