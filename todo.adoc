@@ -4,6 +4,10 @@
 
 Examine and analyze it, creating .adoc pages as I go.
 
+== Add Jobst Heinrich Weyland Results from Moehle Work to NLA
+
+See the first five images from the NLA document. 
+
 == Rottzinß
 
 This term appears clearly in `~/nla/m/1237/p/doc4.adoc`. I believe this is
