@@ -4,11 +4,6 @@
 [.narrow]
 == Document Summary
 
-++++
-<details class="narrow">
-<summary><strong>Show/hide summary</strong></summary>
-++++
-
 This document is the formal approval for the sale of Stätte (holding)
 No. 10 in Berenbusch, which Colon Krückeberg has requested permission to
 sell. Referring to the official report received from the Amt Bückeburg on
@@ -17,20 +12,13 @@ sale. The approval is issued at Bückeburg on 23 August 1849 and is signed
 by the Rentkammer official Spreng. Further clerical notations indicate
 internal processing and routing (including “Exp” for dispatch).
 
-++++
-</details>
-++++
-
-== Transliteration and Translation
-
+== Image
 
 image::11-l.png[link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
+[.narrow]
+== Transliteration and Translation
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Stpl. 3 g.
@@ -59,7 +47,6 @@ p.
 
 Exp Streck 23/8.
 ....
-|
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -89,7 +76,6 @@ A.
 
 Dispatched by Streck on 23 August.
 ....
-|===
 
 [NOTE]
 ====

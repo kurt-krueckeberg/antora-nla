@@ -4,11 +4,6 @@
 [.narrow]
 == Explanation of the Sales Contract
 
-++++
-<details class="narrow">
-  <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
-++++
-
 This document records the formal sale of Stätte No. 10 in Berenbusch by Colon
 Krückeberg to the Einlieger (cottager) Wilhelm Bornemann. The sale was made in
 anticipation of Krückeberg’s emigration to America. Because the holding was a
@@ -37,17 +32,8 @@ In practical terms, this contract documents Krückeberg’s departure from the
 village social order and Bornemann’s accession into the position of *Kolonat*
 holder—a significant upward shift in rural status and responsibility.
 
-++++
-</details>
-++++
-
 [.narrow]
 == Glossary of Terms
-
-++++
-<details class="narrow">
-  <summary><strong>Show / hide Glossary</strong></summary>
-++++
 
 [cols="1,2"]
 |===
@@ -66,11 +52,7 @@ holder—a significant upward shift in rural status and responsibility.
 | **Landfolgen / Wachten / Dorfsfolgen** | Collective village labor and communal service obligations (road repair, fire watch, bridge maintenance, etc.).
 |===
 
-++++
-</details>
-++++
- 
-== Transliteration and Translation
+== Images
 
 [cols="1a,1a",options="noheader"]
 |===
@@ -84,9 +66,8 @@ holder—a significant upward shift in rural status and responsibility.
 |image::13-l.png[title=page 4 (Click to Enlarge),link=self]
 |===
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|
+== Transliteration and Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift
@@ -169,7 +150,6 @@ Hocker        König
 (L.S.)
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Copy
@@ -245,4 +225,3 @@ Hocker        König
 
 (Seal)
 ....
-|===
