@@ -9,7 +9,7 @@ image::17-r-small-text.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
-
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 4456
@@ -36,6 +36,39 @@ Ditur consensus zum Verkaufe. Die angegeben Lasten waren zu revidiren
 Bbg 19/9 50
 Barkhausen
 ....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+NC. 4456
+received in the Chamber on 19/9/50
+
+[3-groschen revenue stamp]
+
+N.P. 1314
+re: NC. 4386
+
+Report to the Princely Rent Chamber from the Office of Bückeburg
+
+Re: Sale of the Krückeberg holding (Stätte) No. 18 in Berenbusch
+
+Upon returning the petition of Colon Krückeberg No. 18 of Evesen, requesting
+approval of a purchase contract concluded for his holding,
+we respectfully submit to the Princely Rent Chamber
+the enclosed copy of the record of proceedings dated the 16th of the current month,
+and we find that, if the petition is granted, there is nothing to object to.
+
+Bückeburg, 17 September 1850.
+
+Consent is given to the sale. The stated encumbrances are to be reviewed.
+Bückeburg, 19/9/50
+Barkhausen
+....
+
+Written in a smaller hand onto the bottom-left of the document are the
+results of an *internal check by the Rentkammer* to make sure the fees and
+obligations attached to the property were listed correctly before approving
+its sale. It notes that *one fee was wrong* and that the others were correct.
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
