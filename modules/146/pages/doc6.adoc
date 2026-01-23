@@ -147,7 +147,7 @@ transformation in status,
 image::07-r.png[title=Document 6 (click on enlarge),link=self]
 
 [.narrow]
-== Transliateration and Translation
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered]
