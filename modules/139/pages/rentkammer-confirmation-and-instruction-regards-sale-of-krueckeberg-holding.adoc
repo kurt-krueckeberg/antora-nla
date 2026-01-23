@@ -4,11 +4,6 @@
 [.narrow]
 == Narrative Summary
 
-++++
-<details class="narrow">
-  <summary><strong>Show / hide Explanation of Sales Contract</strong></summary>
-++++
-
 This document records the final approval and confirmation of the sale
 contract for Stätte No. 10 in Berenbusch. The Amt Bückeburg reviews the
 obligations listed in the purchase deed—such as the Amtsgefälle, the
@@ -24,10 +19,6 @@ that the 12 Mariengroschen stamp fee be properly collected, accounted for,
 and the receipt sent to the Kammer. The approval and orders are dated 20
 September 1849 and signed by Spreng and other clerical officials.
 
-++++
-</details>
-++++
-
 == Transliteration and Translation
 
 [cols="1a,1a"]
@@ -36,11 +27,10 @@ September 1849 and signed by Spreng and other clerical officials.
 |image::06-r.png[title=Click to Enlarge,link=self]
 |===
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
+[.narrow]
+== Transliteration and Translation
 
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 5399.
@@ -98,7 +88,7 @@ F. p.
 Lm            L
 ....
 
-|
+.Translate
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N.C. 5399.
@@ -158,4 +148,3 @@ Bückeburg, 20/9/49.
 For the record.
 Lm           L
 ....
-|===
