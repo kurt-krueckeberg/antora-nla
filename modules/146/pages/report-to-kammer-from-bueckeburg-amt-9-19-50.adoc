@@ -37,6 +37,7 @@ Bbg 19/9 50
 Barkhausen
 ....
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Nach der Höckersauer M. Rechnung Berenbusch muß von der Stätte Nr 18 in
 Berenbusch an Dienstgeld (insl: für 5 Erntetage)
