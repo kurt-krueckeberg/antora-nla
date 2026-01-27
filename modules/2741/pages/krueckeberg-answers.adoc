@@ -45,16 +45,25 @@ no. X
 
 [NOTE]
 ====
-The fact that *Johann Heinrich Krückeberg says he married into the
-property*, and that he does not appear in lists earlier than the 1740s,
-MIGHT indicate a second marriage around that time.
+*Johann Heinrich Krückeberg appears to say he married into the
+property*. He says: "habe darauf geheyrahtet". This could mean:
+
+* I got married after that.
+* married for that purpose
+* got married on it
+
+This might suggest he obtained Brinksitzer status of no. 10 Berenbusch
+through marriage, but we don't know what the antecedent to the da-compound
+darauf is because we don't know what was asked. 
 
 The 1743–44 general state visitation (Generallandesvisitation) records a
 succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
 Eggerding, followed by *Friedrich Kuhlmann*, and then Johann Heinrich
 Krückeberg, who acquired the holding through marriage.
-====
 
+None of these individuals appears in the 1737 xref:nla:2728:index.adoc[],
+likely because they did not meet the criteria of property holders.
+====
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
