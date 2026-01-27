@@ -4,11 +4,6 @@
 [.narrow]
 == Narrative Summary
 
-++++
-<details class="narrow">
-<summary><strong>Hide / show summary</strong></summary>
-++++
-
 This document is a report from the Amt Bückeburg to the Princely Rentkammer
 regarding the sale of Stätte (holding) No. 10 in Berenbusch. The Amt
 states that, following receipt of the Kammer’s directive of August 23, the
@@ -22,21 +17,13 @@ note dated September 20 instructs that the purchase deed is to be confirmed
 and returned once processed, and that proof of the dues and obligations
 attached to the property is to be provided.
 
-++++
-</details>
-++++
-
 == Transliteration and Translation
 
 image::05-r.png[algin=left,title=Click to Enlarge,link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
 
-|
 [literal.bordered,subs="verbatim,quotes"]
-----
+....
 N.C. 5399                             pr. m.C. 15/9 49
 
 [Stempel:] 3 Gr.
@@ -74,11 +61,10 @@ Lasten wären zu erweisen Detur Empfangsbescheinigung über 12 mg. samt
 Vereinnahmungsanweisung.
 Bbg 20/9 49  
 Barkhausen.
-----
+....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
-----
+....
 N.C. 5399                             pr. m.C. 15 September 1849
 
 [Stamp:] 3 Gr.
@@ -118,5 +104,4 @@ The encumbrances are to be shown. Issue receipt for 12 Mariengroschen,
 together with collection authorization.  
 Bückeburg, 20 September 1849  
 Barkhausen.
-----
-|===
+....
