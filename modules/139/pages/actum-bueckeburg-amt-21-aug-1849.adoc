@@ -4,11 +4,6 @@
 [.narrow]
 == Narrative Summary
 
-++++
-<details class="narrow">
-  <summary><strong>Show / hide Hearing Confirming the Sale</strong></summary>
-++++
-
 This document records a formal hearing before the Amt Bückeburg on 21
 August 1849 regarding the sale of Stätte (holding) No. 10 in Berenbusch.
 Colon Krückeberg and the prospective buyer, the Einlieger (cottager)
@@ -31,10 +26,6 @@ remainder needed for the purchase from Colon Rinne of Evesen. The record is
 concluded with signatures (or marks) of the parties and attestation by the
 Amt official Höcker.
 
-++++
-</details>
-++++
-
 == Transliteration and Translation
 
 [cols="1a,1a",options=noheader"]
@@ -51,11 +42,6 @@ Amt official Höcker.
 |===
 
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift.
@@ -114,7 +100,6 @@ Handzeichen + + + des Wilhelm
                Höcker
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Copy.
@@ -174,7 +159,6 @@ Mark of + + + of Wilhelm
                  In attestation:
                  Höcker
 ....
-|===
 
 [.narrow]
 == Cover Note to the Document
