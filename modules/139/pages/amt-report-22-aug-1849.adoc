@@ -4,11 +4,6 @@
 [.narrow]
 == Narrative Summary
 
-++++
-<details class="narrow">
-  <summary><strong>Show / hide Explanation of Amt Report</strong></summary>
-++++
-
 This document is a formal report sent from the Amt Bückeburg to the
 Princely Fiscal Chamber in response to the petition of Colon Krückeberg of
 Stätte No. 10 in Berenbusch, who has requested permission to sell his
@@ -23,19 +18,10 @@ resolution dated the 13th of the month, it will collect a 12 Mariengroschen
 stamp duty from Krückeberg and will forward the amount. The document is
 issued from Bückeburg on 22 August 1849 and signed by Höner.
 
-++++
-</details>
-++++
-
 == Transliteration and Translation
 
 image::10-r.png[title="(Click to Enlarge),link=self] 
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration |Translation
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Nr. 4997
@@ -77,8 +63,6 @@ Bückeburg 22 August 1849
 Höner
 ....
 
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 4997
@@ -119,4 +103,3 @@ Bückeburg, 22 August 1849
 
 Höner
 ....
-|===
