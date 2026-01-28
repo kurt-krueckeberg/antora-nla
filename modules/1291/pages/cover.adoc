@@ -1,6 +1,7 @@
 = NLA 1291: Case File Cover
 
-
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Ausweisungen & Rottländereien                   Rep II
 
@@ -18,4 +19,27 @@ Colon Krückeberg Nr. 10 in Berenbusch,
 2. an den Einlieger Vogt und Brüggemann
 zur Errichtung der Neubauerstätten
 den N. 13 & 14 in Nordholz.
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Allocations & Cleared Lands Rep. II
+
+In the Bückeburg District
+
+Case File
+
+Allocations & Cleared Lands
+
+in particular
+
+Allocation from forest land
+
+1. to the Colon Krückeberg no. 10 at Berenbusch,
+
+2. to the lodgers Vogt and Brüggemann,
+
+for the establishment of new settler holdings,
+nos. 13 & 14 at Nordholz.
 ....
