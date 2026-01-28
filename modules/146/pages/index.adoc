@@ -1,16 +1,43 @@
 = Holding No. 18 in Berenbusch (1808-1810 & Sept. 1850)
 
-This case file covers documents from two time periods:
+A second Jobst Heinrch Krückeberg apparently is living in Evesen by 1808
+different from the Jobst Heinrich Krückeberg living at no. 10 Berebusch.
 
-. From 1808 to 1810
-. Various dates in September 1849
+The *Jobst Heinrich Krückeberg of Nr. 10 Berenbusch* is already a settled
+holder by 1798. We see this in the Rentkammer records of 1798-1800, when
+xref:1237:doc1.adoc[he petitions the Rentkammer to enlarge the yard and
+garden of no. 10 Berenbusch].
 
-The first time period concerns Jobst Heinrich Krückeberg's petition before
-the Schaumburg-Lippe Rentkammer, which was the princely financial and property
-administration office responsible for managing state revenues, domains, and
-landed estates. The process lasted until 1810.
+While he is only identified as "Col. Krückeberg N. 10 zu Berenbusch" (Colon
+Krückeberg no. 10 at Berenbusch) in the first document, his request, in the
+second document he is identified as xref:1237:doc2.adoc[Brinksitzers Jobst
+Heinr: Krückeberg N 10 zu Berenbusch].
 
-The second set of documents concern the request by Jobst Heinrich's son,
-Johann Heinrich, to have the Rentkammer approved the sale of his holding at
-no. 10 Berenbusch because he plans shortly to immigrate to the United
-States.
+We know that the *occupation* of Jobst Heinrich Krückeberg (17665-18222) is
+consistently given as *Schuster / Schusteramtsmeister* (shoemaker and guild
+official responsible for supervising or representing the local shoemakers). 
+
+He stands in an *Anerbenrecht* succession (single-heir inheritance of the
+holding) from his father *Johann Heinrich Krückeberg*, later styled
+*Leibzüchter* (a former holder living on Altenteil, supported for life by
+the holding) at the same Stätte. When he petitions the Rentkammer in 1798,
+he does so *in his legal capacity as holder of the Stätte*, seeking to
+enlarge the *Hofraum und Garten* of an existing, inherited holding—not as
+part of his craft activity.
+
+The *Jobst Heinrich Krückeberg of the 1808 Neubau (establishment of a new
+holding) [petition](https://docs.krueckeberg.org/nla/1.0/146/doc1.html)*,
+by contrast, is identified by the authorities as a *Schneider* (tailor),
+living as an *Einlieger* (a landless lodger without a holding), explicitly
+seeking to *establish a new holding*. He is described as *gebürtig aus
+Evesen* (originating from or socially rooted in the village of Evesen), and
+his father is said to have been an *Ackervogt zur Arensburg* (a locally
+appointed agrarian or field overseer attached to the Arensburg
+jurisdiction). His petition concerns acquiring and improving an undeveloped
+plot requiring substantial earthwork, because he does *not* already possess
+a Stätte.
+
+These descriptions reflect *different occupations, different legal
+statuses, different family contexts, and different stages of life*, and
+therefore cannot refer to the same individual.
+
