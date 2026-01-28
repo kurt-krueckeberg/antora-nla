@@ -7,7 +7,7 @@ right|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
-+???|Auswei- +
++11|Auswei- +
 sungen +
 vom Forst- +
 grunde an +
@@ -21,8 +21,10 @@ Vogt N: 13. +
 in +
 Nordholz +
 und +
-Brüggeman
-
+Brüggeman +
+No. 14 +
+daselbst +
+betr.
 |Berenbusch
 |1817
 |Jan.
@@ -39,38 +41,85 @@ zum Baum mit Zeichnung.
 
 |3.
 |Conc. K Rescript ans Amt dahier.
-13.
+|Bburg.
+|1817
+|Febr
+|13
 
-4.
-Vorstellung des Einliegers Vogt
-Novbr. 3.
+|4.
+|Vorstellung des Einliegers Vogt +
 zu Evesten, cum Res: Cam:
-desgl. vom Soldat Brüggemann
-5.
-Decbr. 15.
-von No. 1. zu Nordholz, c. Res-Cam.
-6.) Bericht hiesigen Amts,
-31.
-1818. Jan. 13.
-7., Com. K Rescript ans Amt dahier.
-8., Bericht hiesigen Amts, samt
-Febr. 16.
-Zeichnung.
-26.
-9.) Conc. Rescript aus hiesige Amt.
-10.) Vorstellung von Vogt aus Nord-
+|Bburg
+|1817
+|Novbr
+|3
 
-May. 24.
+|5
+|desgl. vom Soldat Brüggemann +
+von No. 1. zu Nordholz, cum Res-Cam.
+|Bburg
+|Decbr.
+|15.
+
+|6.
+|Bericht hiesigen Amts.
+|Bburg
+|1817
+|Decbr
+|31.
+
+|7.
+1818. Jan. 13.
+|Com. K Rescript ans Amt dahier.
+|Bburg
+|1818
+|Jan
+|13
+
+|8.
+|Bericht hiesigen Amts, samt +
+Zeichnung.
+|Bburg
+|1818
+|Febr.
+|16.
+
+|9.
+|Conc. K Rescript aus hiesige Amt.
+|Bburg
+|1818
+|Febr.
+|26
+
+|10.
+|Vorstellung von Vogt aus Nord- +
 holz, samt Zeichnung.
-11., Bericht hiesigen Amts, samt Zeich-
-daselbst
-30.
+|Bburg
+|1818
+|May.
+|24.
+
+|11.
+|Bericht hiesigen Amts, samt Zeich- +
 nung mit Specification.
-betr:
-Juny. 1.
-12., Conc. K. Rescript ans Amt dahier
+|Bburg
+|1818
+|Maÿ.
+|20.
+
+daselbst
+
+|12.
+|Conc. K. Rescript ans Amt dahier +
 desgl. an die Kammercasse.
-13., Kammercassenquitung.
+|Bburg
+|1818
+|Junÿ
+|17
+
+*TODO:* RESUME HERE
+|13.
+|Kammercassenquitung.
 Sept
 14.
 13.)
