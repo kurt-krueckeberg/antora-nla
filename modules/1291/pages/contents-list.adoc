@@ -2,12 +2,11 @@
 
 |===
 |No.|Designatio Actorum. +
-left| +
-right|Ort|Jahr|Monat|Tag
+left|right|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
-+11|Auswei- +
+.11+|Auswei- +
 sungen +
 vom Forst- +
 grunde an +
@@ -58,6 +57,7 @@ zu Evesten, cum Res: Cam:
 |desgl. vom Soldat Brüggemann +
 von No. 1. zu Nordholz, cum Res-Cam.
 |Bburg
+|1817
 |Decbr.
 |15.
 
@@ -69,7 +69,6 @@ von No. 1. zu Nordholz, cum Res-Cam.
 |31.
 
 |7.
-1818. Jan. 13.
 |Com. K Rescript ans Amt dahier.
 |Bburg
 |1818
@@ -98,7 +97,7 @@ holz, samt Zeichnung.
 |1818
 |May.
 |24.
-
+ 
 |11.
 |Bericht hiesigen Amts, samt Zeich- +
 nung mit Specification.
@@ -107,27 +106,40 @@ nung mit Specification.
 |Maÿ.
 |20.
 
-daselbst
-
 |12.
 |Conc. K. Rescript ans Amt dahier +
 desgl. an die Kammercasse.
+|
 |Bburg
 |1818
 |Junÿ
 |17
 
-*TODO:* RESUME HERE
 |13.
 |Kammercassenquitung.
-Sept
-14.
-13.)
-13., Vorstellung des Neubauers Brüg-
-14.)
+|
+|Bburg
+|1818
+|Sept
+|14.
+
+|14.
+|Vorstellung des Neubauers Brüg-
 gemäen No 14. in Nordholz.
-15., Com. KResolution om Vorhin
+|
+|Bburg
+|1818
+|Sept
+|3?
+
+|15.
+|Com. K Resolution an Vorhin +
 genannten.
-Schmacher Krücke-
-berg
-Schumacher,
+|
+|Bburg
+|1818
+|Oct
+|7
+|===
+
+Schmacher Krückeberg
