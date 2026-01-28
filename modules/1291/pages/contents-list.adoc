@@ -17,11 +17,11 @@ Krückeberg +
 No. 10. +
 zu Beren- +
 busch +
-Vogt N: 13. +
+Vogt -N: 13. +
 in +
 Nordholz +
 und +
-Brüggeman +
+Brüggemann +
 No. 14 +
 daselbst +
 betr.
@@ -40,7 +40,7 @@ zum Baum mit Zeichnung.
 |3
 
 |3.
-|Conc. K Rescript ans Amt dahier.
+|Cam. K Rescript ans Amt dahier.
 |Bburg.
 |1817
 |Febr
@@ -48,7 +48,7 @@ zum Baum mit Zeichnung.
 
 |4.
 |Vorstellung des Einliegers Vogt +
-zu Evesten, cum Res: Cam:
+zu Evesen, cum Res: Cam:
 |Bburg
 |1817
 |Novbr
@@ -56,7 +56,7 @@ zu Evesten, cum Res: Cam:
 
 |5
 |desgl. vom Soldat Brüggemann +
-von No. 1. zu Nordholz, cum Res-Cam.
+von No. 1. zu Nordholz, cum Res. Cam.
 |Bburg
 |1817
 |Decbr.
@@ -96,7 +96,7 @@ Zeichnung.
 holz, samt Zeichnung.
 |Bburg
 |1818
-|May.
+||Maÿ.
 |24.
  
 |11.
@@ -117,7 +117,7 @@ desgl. an die Kammercasse.
 |17
 
 |13.
-|Kammercassenquitung.
+|Kammercassenquittung.
 |
 |Bburg
 |1818
@@ -131,7 +131,7 @@ gemäen No 14. in Nordholz.
 |Bburg
 |1818
 |Sept
-|3?
+|30
 
 |15.
 |Com. K Resolution an Vorhin +
