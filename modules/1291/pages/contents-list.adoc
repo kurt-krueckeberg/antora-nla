@@ -2,9 +2,7 @@
 
 [%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
-|No.|Designatio Actorum.
-left |{empty}
-right|Ort|Jahr|Monat|Tag
+|No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
@@ -129,8 +127,7 @@ Schmacher Krückeberg
 Schmacher Krückeberg
 
 |===
-|No.|Designation of Documents
-left|right|Place|Year|Month|Day
+|No.|Designation of Documents|Subject|Place|Year|Month|Day
 
 |1.
 |Petition of the shoemaker Krückeberg no. 10 at Berenbusch.
@@ -159,16 +156,14 @@ with drawing.
 |13
 
 |4.
-|Petition of the lodger Vogt
-at Evesen, with Chancery Resolution.
+|Petition of the lodger Vogt at Evesen, with Chancery Resolution.
 |Bückeburg
 |1817
 |Nov.
 |3
 
 |5.
-|Likewise from the soldier Brüggemann
-from no. 1 at Nordholz, with Chancery Resolution.
+|Likewise from the soldier Brüggemann from no. 1 at Nordholz, with Chancery Resolution.
 |Bückeburg
 |1817
 |Dec.
@@ -212,16 +207,14 @@ drawing.
 |24
 
 |11.
-|Report of the local office, together with draw-
-ing and specification.
+|Report of the local office, together with drawing and specification.
 |Bückeburg
 |1818
 |Maÿ
 |30
 
 |12.
-|Concluded Chancery Resolution to the local office,
-likewise to the Chamber treasury.
+|Concluded Chancery Resolution to the local office, likewise to the Chamber treasury.
 |
 |Bückeburg
 |1818
@@ -237,8 +230,7 @@ likewise to the Chamber treasury.
 |14
 
 |14.
-|Petition of the new settler Brüggemann
-no. 14 at Nordholz.
+|Petition of the new settler Brüggemann no. 14 at Nordholz.
 |
 |Bückeburg
 |1818
@@ -246,8 +238,7 @@ no. 14 at Nordholz.
 |30
 
 |15.
-|Communicated Chancery Resolution to the above-
-named.
+|Communicated Chancery Resolution to the above named.
 |
 |Bückeburg
 |1818
