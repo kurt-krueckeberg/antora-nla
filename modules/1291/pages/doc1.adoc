@@ -1,4 +1,12 @@
 = Document 1: Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch
+:page-role: wide
+
+== Image
+
+image::01-r.jpg[link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -16,23 +24,16 @@ zum gutersten
 bz 8 Juni 1817
 
 durch lautester Fürst und Herr
-Ich bitte unsern durch lautesten Fürsten
-und landes Vater wen Es möchlig sein
-Könte in Walde an meinen angekauften
-sat Kampfe da liegt Eine Kleine schrat Ecke
-an der Herrschaftlichen Söhre so bitte ich um
-die Kleine Ecke Es sol wohl Ein halber moregn
-betragen so bitte ich unsern liebe vollesten
-durch lauteßen fürsten und landes Vatter
-schencken sie mir die Kleine Ecke daß ich
-die Erde da von Jahren kan in die niederge-
-stellen auf den hat Kampfe ich habe dis leste
-Jahr umgeflüget und wieder gesäet und noch
-Korn
-nichts geErntet nun wolte ich gern die unnaßen Flecken
-da mit aus fühlen; und wen ich die Erde von den Plaß
-abgefahren habe sowolte ich ihn Etwas verbeßern
-da mit Etwas graß darauf Waßen könte
-sich verlaße mich durchlaütester Fürst und Herr
-auf ihre liebe
+
+Ich bitte unsern durch lautesten Fürsten und landes Vater wen Es möchlig
+sein Könte in Walde an meinen angekauften sat Kampfe da liegt Eine Kleine
+schrat Ecke an der Herrschaftlichen Söhre so bitte ich um die Kleine Ecke
+Es sol wohl Ein halber moregn betragen so bitte ich unsern liebe vollesten
+durch lauteßen fürsten und landes Vatter schencken sie mir die Kleine Ecke
+daß ich die Erde da von Jahren kan in die niederge- stellen auf den hat
+Kampfe ich habe dis leste Jahr umgeflüget und wieder gesäet und noch Korn
+nichts geErntet nun wolte ich gern die unnaßen Flecken da mit aus fühlen;
+und wen ich die Erde von den Plaß abgefahren habe sowolte ich ihn Etwas
+verbeßern da mit Etwas graß darauf Waßen könte sich verlaße mich
+durchlaütester Fürst und Herr auf ihre liebe
 ....

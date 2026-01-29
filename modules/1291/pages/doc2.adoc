@@ -1,4 +1,5 @@
 = Document 2:Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann zum Baum mit Zeichnung 
+:page-role: wide
 
 == Image
 
@@ -18,30 +19,21 @@ Ausweisungen vom Forstgrunde
 
 [initials]
 
-Nach dem anliegenden Berichte des
-Oberförsters Falkman und der
-beigefügten Situations : Zeichnung
-des - an der Söhre belegenen
-Platzes, um dessen Ausweisung
-der Schuster Kruckeberg No 10. in
-Berenbusch unterm 1. Jan. d. J.
-nachgesucht hat, ist von Seiten
-der Forstadministration gegen
-die Ausweisung des mit A. bei-
-zeichneten Platzes nichts zu
-erinneren
+Nach dem anliegenden Berichte des Oberförsters Falkman und der
+beigefügten Situations : Zeichnung des an der Söhre belegenen
+Platzes, um dessen Ausweisung der Schuster Kruckeberg No 10. in
+Berenbusch unterm 1. Jan. d. J.  nachgesucht hat, ist von Seiten
+der Forstadministration gegen die Ausweisung des mit A. bei-
+zeichneten Platzes nichts zu erinneren
 
 
-Wollte man aber dem Krückeberg
-eine größere Fläche als etwa
-ein halber Morgen vom Forstgnun-
-de ausweisen; so würden die
-Widersprüche der Huthung berechtigten
-um so mehr gegründet seyn, da der
-der Col: Krückeberg eine große
-Brieksitzer Colonie besitzt, Von
-der Söhre hat derselbe 8 ¾ Morgen
-gekauft. Bückel 3. Febr 1817.
+Wollte man aber dem Krückeberg eine größere Fläche als etwa
+ein halber Morgen vom Forstgnunde ausweisen; so würden die
+Widersprüche der Huthung berechtigten um so mehr gegründet seÿn,
+da der der Col: Krückeberg eine große Brieksitzer Colonie besitzt,
+von der Söhre hat derselbe 8 ¾ Morgen gekauft.
+
+Bücke. 3. Febr 1817.
 
 MKaas
 ....
@@ -53,6 +45,7 @@ image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 [.narrow]
 == Transliteration and Translation
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 R. Cam. Die Kammer ist der Meinung, daß dem Krückeberg der kleine
 mit A auf der Zeichung bemerkte Platz, etwa 1/2 Morgen, gegen billige Be-
