@@ -3,7 +3,7 @@
 
 == Glossary of Terms
 
-[%header,cols="2,5",frame=none]
+[%header,cols="2,5",frame=none,width=70%"]
 |===
 |Term (as in source) |Meaning / Explanation
 
