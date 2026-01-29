@@ -1,4 +1,11 @@
-= Document 2
+= Document 2: Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
+
+== Image
+
+image::doc2.jpg[title=,link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 ....
 N. M. 62.                            2.
@@ -36,4 +43,22 @@ der Söhre hat derselbe 8 ¾ Morgen
 gekauft. Bückel 3. Febr 1817.
 
 MKaas
+....
+
+== Image of Rentkammer Respons
+
+image::03-r-horz-text.png[title=Rentkammer Response,link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+....
+R. Cam. Die Kammer ist der Meinung, daß dem Krückeberg der kleine
+mit A auf der Zeichung bemerkte Platz, etwa 1/2 Morgen, gegen billige Be-
+zahlung zu überlaßen seÿn möchte. Rescr. dem Amte daß es dem Krückeberg
+dies zu bedeuten habe, und die eweigen Widerspruche der Hude berechtigten
+vernehmen und sodann ad cameram berichte.
+
+Bbg. 10t Feb. 1817
+K Cendsberg
 ....
