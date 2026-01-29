@@ -5,7 +5,7 @@
 |No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
 |16.
-|Vorstellung des Schusters Krückeberg No 10. zu Berenbusch.
+|Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
 .2+|Erlaß des Kaufpreises, so abgeschlagen betr:
 |Berenbusch
 |1818
@@ -13,14 +13,14 @@
 |7
 
 |17.
-|Conc. K Resolution an denselben
+|Conc. K. Resolution an denselben
 |Bburg
 |1818
 |Oct.
 |7
 
 |18.
-|Kammercassenquit[t]ung
+|Kammercassenquittung
 .5+|Ausweisung betr. +
 (Krückeberg, Vogt, Brüggemann)
 |Bburg
@@ -29,7 +29,7 @@
 |27
 
 |19.
-|Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu
+|Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch
 |Bburg
 |1818
 |Novbr
@@ -46,14 +46,70 @@
 |Kammercassenquitung.
 |Bburg
 |1818
-|Dec?
+|Dec[?]
 |4
 
 |22.
-|Conc. Kaufcontracts für Brüggemann No. 14. in
-Nordholz.
+|Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.
 |Bburg
 |1818
 |Dec
 |14
 |===
+
+[%header,cols="1,5,3,2,1,1,1",frame=none]
+|===
+|No.|Description of Documents|Subject|Place|Year|Month|Day
+
+|16.
+|Petition of the shoemaker Krückeberg No. 10 at Berenbusch.
+.2+|Remission of the purchase price, as remitted, concerning:
+|Berenbusch
+|1818
+|Sept
+|7
+
+|17.
+|Concluded Chancery resolution to the same party.
+|Bburg
+|1818
+|Oct.
+|7
+
+|18.
+|Chamber treasury receipt.
+.5+|Land allocation concerning (Krückeberg, Vogt, Brüggemann).
+|Bburg
+|1818
+|Oct.
+|27
+
+|19.
+|Concluded purchase contract for the colonist Krückeberg No. 10 at Berenbusch.
+|Bburg
+|1818
+|Novbr
+|16
+
+|20.
+|Likewise, for the new settler Vogt No. 13 at Nordholz.
+|Bburg
+|1818
+|Novbr
+|16
+
+|21.
+|Chamber treasury receipt.
+|Bburg
+|1818
+|Dec[?]
+|4
+
+|22.
+|Concluded purchase contract for Brüggemann No. 14 at Nordholz.
+|Bburg
+|1818
+|Dec
+|14
+|===
+
