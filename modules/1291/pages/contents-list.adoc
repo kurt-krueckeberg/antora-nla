@@ -124,127 +124,129 @@ nung mit Specification.
 
 Schmacher Krückeberg
 
-Schmacher Krückeberg
-
+[%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
-|No.|Designation of Documents|Subject|Place|Year|Month|Day
+|No.|Description of Documents|Subject|Place|Year|Month|Day
 
 |1.
-|Petition of the shoemaker Krückeberg no. 10 at Berenbusch.
-.11+|Assignments from forest land in the Söhre
-to Krückeberg no. 10 at Berenbusch, [Vogt] no. 13
-in Nordholz and Brüggemann no. 14 there, concerning.
+|Petition of the shoemaker Krückeberg No. 10 at Berenbusch.
+.11+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
+Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
 |Berenbusch
 |1817
 |Jan.
-|1
+|1.
 
 |2.
-|Report of the Forestry Department, together with
-the report of Senior Forester Falkmann
-with drawing.
-|Bückeburg
+|Submission by the Forestry Department, together with
+a report by Chief Forester Falkmann
+regarding timber, with a drawing.
+|Bburg
 |1817
-|Feb.
+|Febr
 |3
 
 |3.
-|Concluded Chancery Resolution to the local office.
-|Bückeburg
+|Concluded Chancery rescript to the local office.
+|Bburg
 |1817
-|Feb.
+|Febr.
 |13
 
 |4.
-|Petition of the lodger Vogt at Evesen, with Chancery Resolution.
-|Bückeburg
+|Petition of the lodger Vogt at Evesen, with
+chamber resolution.
+|Bburg
 |1817
-|Nov.
+|Novbr
 |3
 
 |5.
-|Likewise from the soldier Brüggemann from no. 1 at Nordholz, with Chancery Resolution.
-|Bückeburg
+|Likewise, petition of the soldier Brüggemann
+from No. 1 at Nordholz, with
+chamber resolution.
+|Bburg
 |1817
-|Dec.
-|15
+|Decbr.
+|15.
 
 |6.
 |Report of the local office.
-|Bückeburg
+|Bburg
 |1817
-|Dec.
-|31
+|Decbr
+|31.
 
 |7.
-|Concluded Chancery Resolution to the local office.
-|Bückeburg
+|Concluded Chancery rescript to the local office.
+|Bburg
 |1818
-|Jan.
+|Jan
 |13
 
 |8.
-|Report of the local office, together with
+|Report of the local office, with
 drawing.
-|Bückeburg
+|Bburg
 |1818
-|Feb.
-|16
+|Febr.
+|16.
 
 |9.
-|Concluded Chancery Resolution from the local office.
-|Bückeburg
+|Concluded Chancery rescript from the local office.
+|Bburg
 |1818
-|Feb.
+|Febr.
 |26
 
 |10.
-|Petition of Vogt from Nordholz, together with
-drawing.
-|Bückeburg
+|Petition of Vogt from Nordholz,
+with drawing.
+|Bburg
 |1818
-|Maÿ
-|24
-
+|Maÿ.
+|24.
+ 
 |11.
-|Report of the local office, together with drawing and specification.
-|Bückeburg
+|Report of the local office, with drawing
+and specification.
+|Bburg
 |1818
-|Maÿ
-|30
+|Maÿ.
+|30.
 
 |12.
-|Concluded Chancery Resolution to the local office, likewise to the Chamber treasury.
+|Concluded Chancery rescript to the local office,
+likewise to the Chamber treasury.
 |
-|Bückeburg
+|Bburg
 |1818
 |Junÿ
 |17
 
 |13.
-|Receipt of the Chamber treasury.
+|Chamber treasury receipt.
 |
-|Bückeburg
+|Bburg
 |1818
-|Sept.
-|14
+|Sept
+|14.
 
 |14.
-|Petition of the new settler Brüggemann no. 14 at Nordholz.
+|Petition of the new settler Brüggemann No. 14 at Nordholz.
 |
-|Bückeburg
+|Bburg
 |1818
-|Sept.
+|Sept
 |30
 
 |15.
-|Communicated Chancery Resolution to the above named.
+|Chancery resolution to the persons previously named.
 |
-|Bückeburg
+|Bburg
 |1818
-|Oct.
+|Oct
 |7
 |===
 
-Schmacher Krückeberg
-
+Shoemaker Krückeberg
