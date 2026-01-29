@@ -2,19 +2,11 @@
 
 [%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
-|No.|Designatio Actorum. +
-left |{empty} +
-right|Ort|Jahr|Monat|Tag
+|No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
 |16.
-|Vorstellung des Schusters
-Krückeberg No 10. zu Berne-
-busch.
-.2+|Erlaß des
-Kaufpreises,
-so abgeschle-
-gen
-betr:
+|Vorstellung des Schusters Krückeberg No 10. zu Berenbusch.
+.2+|Erlaß des Kaufpreises, so abgeschlagen betr:
 |Berenbusch
 |1818
 |Sept
@@ -29,8 +21,7 @@ betr:
 
 |18.
 |Kammercassenquit[t]ung
-.5+|Ausweisung +
-betr. +
+.5+|Ausweisung betr. +
 (Krückeberg, Vogt, Brüggemann)
 |Bburg
 |1818
@@ -38,16 +29,14 @@ betr. +
 |27
 
 |19.
-|Conc. Kaufcontracts für den
-Colon Krückeberg No. 10. zu
+|Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu
 |Bburg
 |1818
 |Novbr
 |16
 
 |20.
-|desgl. für den Neubauer Vogt
-No 13. zu Nordholz.
+|desgl. für den Neubauer Vogt No 13. zu Nordholz.
 |Bburg
 |1818
 |Novbr
@@ -61,8 +50,7 @@ No 13. zu Nordholz.
 |4
 
 |22.
-|Conc. Kaufcontracts für
-Brüggemann No. 14. in
+|Conc. Kaufcontracts für Brüggemann No. 14. in
 Nordholz.
 |Bburg
 |1818
