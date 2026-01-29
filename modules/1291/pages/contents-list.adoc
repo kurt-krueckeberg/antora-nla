@@ -8,24 +8,8 @@ right|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
-.11+|Auswei-
-sungen
-vom Forst-
-grunde an
-der Söhre
-für
-Krückeberg
-No. 10.
-zu Beren-
-busch
-Vogt -N: 13.
-in
-Nordholz
-und
-Brüggemann
-No. 14
-daselbst
-betr.
+.11+|Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
+Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr.
 |Berenbusch
 |1817
 |Jan.
@@ -45,7 +29,7 @@ zum Baum mit Zeichnung.
 |Bburg
 |1817
 |Febr.
-|3
+|13
 
 |4.
 |Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:
@@ -105,40 +89,40 @@ nung mit Specification.
 |Bburg
 |1818
 |Maÿ.
-|20.
+|30.
 
 |12.
 |Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
-//|
+|
 |Bburg
 |1818
 |Junÿ
 |17
-|===
 
-// |13.
-// |Kammercassenquittung.
-// |
-// |Bburg
-// |1818
-// |Sept
-// |14.
-// 
-// |14.
-// |Vorstellung des Neubauers Brüggemäen No 14. in Nordholz.
-// |
-// |Bburg
-// |1818
-// |Sept
-// |30
-// 
-// |15.
-// |Com. K Resolution an Vorhin genannten.
-// |
-// |Bburg
-// |1818
-// |Oct
-// |7
+|13.
+|Kammercassenquittung.
+|
+|Bburg
+|1818
+|Sept
+|14.
+
+|14.
+|Vorstellung des Neubauers Brüggemäen No 14. in Nordholz.
+|
+|Bburg
+|1818
+|Sept
+|30
+
+|15.
+|Com. K Resolution an Vorhin genannten.
+|
+|Bburg
+|1818
+|Oct
+|7
+|===
 
 Schmacher Krückeberg
 
