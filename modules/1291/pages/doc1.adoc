@@ -1,7 +1,7 @@
 = Document 1: Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch
 :page-role: wide
 
-image::02-r.jpg[title=Petition of the Shoemaker Krückeberg no. 10 at Berenbusch,width=80%,link=self]
+image::02-r.jpg[title=Petition of the Shoemaker Krückeberg no. 10 at Berenbusch,width=70%,link=self]
 
 [.narrow]
 == Transliteration and Translation
