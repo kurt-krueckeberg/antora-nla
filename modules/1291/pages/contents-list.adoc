@@ -7,7 +7,7 @@
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
 .11+|Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
-Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr.
+Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:
 |Berenbusch
 |1817
 |Jan.
@@ -23,7 +23,7 @@ zum Baum mit Zeichnung.
 |3
 
 |3.
-|Cam. K Rescript ans Amt dahier.
+|Conc. K. Rescript ans Amt dahier.
 |Bburg
 |1817
 |Febr.
@@ -36,7 +36,7 @@ zum Baum mit Zeichnung.
 |Novbr
 |3
 
-|5
+|5.
 |desgl. vom Soldat Brüggemann
 von No. 1. zu Nordholz, cum Res. Cam.
 |Bburg
@@ -52,7 +52,7 @@ von No. 1. zu Nordholz, cum Res. Cam.
 |31.
 
 |7.
-|Com. K Rescript ans Amt dahier.
+|Conc. K. Rescript ans Amt dahier.
 |Bburg
 |1818
 |Jan
@@ -67,7 +67,7 @@ Zeichnung.
 |16.
 
 |9.
-|Conc. K Rescript aus hiesige Amt.
+|Conc. K. Rescript aus hiesige[m] Amt.
 |Bburg
 |1818
 |Febr.
@@ -106,7 +106,7 @@ nung mit Specification.
 |14.
 
 |14.
-|Vorstellung des Neubauers Brüggemäen No 14. in Nordholz.
+|Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
 |
 |Bburg
 |1818
@@ -114,7 +114,7 @@ nung mit Specification.
 |30
 
 |15.
-|Com. K Resolution an Vorhin genannten.
+|Com. K. Resolution an Vorhin genannten.
 |
 |Bburg
 |1818
