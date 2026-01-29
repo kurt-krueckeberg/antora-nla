@@ -1,29 +1,30 @@
 = Contents List
 
+[%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
-|No.|Designatio Actorum. +
-left |{empty} +
+|No.|Designatio Actorum.
+left |{empty}
 right|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
-.11+|Auswei- +
-sungen +
-vom Forst- +
-grunde an +
-der Söhre +
-für +
-Krückeberg +
-No. 10. +
-zu Beren- +
-busch +
-Vogt -N: 13. +
-in +
-Nordholz +
-und +
-Brüggemann +
-No. 14 +
-daselbst +
+.11+|Auswei-
+sungen
+vom Forst-
+grunde an
+der Söhre
+für
+Krückeberg
+No. 10.
+zu Beren-
+busch
+Vogt -N: 13.
+in
+Nordholz
+und
+Brüggemann
+No. 14
+daselbst
 betr.
 |Berenbusch
 |1817
@@ -31,8 +32,8 @@ betr.
 |1.
 
 |2.
-|Vortrag des Forstdepartements, samt +
-Bericht des Oberförsters Falkmann +
+|Vortrag des Forstdepartements, samt
+Bericht des Oberförsters Falkmann
 zum Baum mit Zeichnung.
 |Bburg
 |1817
@@ -41,12 +42,20 @@ zum Baum mit Zeichnung.
 
 |3.
 |Cam. K Rescript ans Amt dahier.
+|Bburg
+|1817
+|Febr.
+|3
+
+|4.
+|Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:
+|Bburg
 |1817
 |Novbr
 |3
 
 |5
-|desgl. vom Soldat Brüggemann +
+|desgl. vom Soldat Brüggemann
 von No. 1. zu Nordholz, cum Res. Cam.
 |Bburg
 |1817
@@ -68,7 +77,7 @@ von No. 1. zu Nordholz, cum Res. Cam.
 |13
 
 |8.
-|Bericht hiesigen Amts, samt +
+|Bericht hiesigen Amts, samt
 Zeichnung.
 |Bburg
 |1818
@@ -83,7 +92,7 @@ Zeichnung.
 |26
 
 |10.
-|Vorstellung von Vogt aus Nord- +
+|Vorstellung von Vogt aus Nord-
 holz, samt Zeichnung.
 |Bburg
 |1818
@@ -91,7 +100,7 @@ holz, samt Zeichnung.
 |24.
  
 |11.
-|Bericht hiesigen Amts, samt Zeich- +
+|Bericht hiesigen Amts, samt Zeich-
 nung mit Specification.
 |Bburg
 |1818
@@ -99,74 +108,59 @@ nung mit Specification.
 |20.
 
 |12.
-|Conc. K. Rescript ans Amt dahier +
-desgl. an die Kammercasse.
-|
+|Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
+//|
 |Bburg
 |1818
 |Junÿ
 |17
-
-|13.
-|Kammercassenquittung.
-|
-|Bburg
-|1818
-|Sept
-|14.
-
-|14.
-|Vorstellung des Neubauers Brüg-
-gemäen No 14. in Nordholz.
-|
-|Bburg
-|1818
-|Sept
-|30
-
-|15.
-|Com. K Resolution an Vorhin +
-genannten.
-|
-|Bburg
-|1818
-|Oct
-|7
 |===
+
+// |13.
+// |Kammercassenquittung.
+// |
+// |Bburg
+// |1818
+// |Sept
+// |14.
+// 
+// |14.
+// |Vorstellung des Neubauers Brüggemäen No 14. in Nordholz.
+// |
+// |Bburg
+// |1818
+// |Sept
+// |30
+// 
+// |15.
+// |Com. K Resolution an Vorhin genannten.
+// |
+// |Bburg
+// |1818
+// |Oct
+// |7
 
 Schmacher Krückeberg
 
 Schmacher Krückeberg
 
 |===
-|No.|Designation of Documents +
+|No.|Designation of Documents
 left|right|Place|Year|Month|Day
 
 |1.
 |Petition of the shoemaker Krückeberg no. 10 at Berenbusch.
-.11+|Assignments +
-from forest land +
-in the Söhre +
-to +
-Krückeberg +
-no. 10 +
-at Berenbusch, +
-[Vogt] no. 13 +
-in +
-Nordholz +
-and +
-Brüggemann +
-no. 14 +
-there, +
-concerning.
+.11+|Assignments from forest land in the Söhre
+to Krückeberg no. 10 at Berenbusch, [Vogt] no. 13
+in Nordholz and Brüggemann no. 14 there, concerning.
 |Berenbusch
 |1817
 |Jan.
 |1
 
 |2.
-|Report of the Forestry Department, together with +
-the report of Senior Forester Falkmann +
+|Report of the Forestry Department, together with
+the report of Senior Forester Falkmann
 with drawing.
 |Bückeburg
 |1817
@@ -181,7 +175,7 @@ with drawing.
 |13
 
 |4.
-|Petition of the lodger Vogt +
+|Petition of the lodger Vogt
 at Evesen, with Chancery Resolution.
 |Bückeburg
 |1817
@@ -189,7 +183,7 @@ at Evesen, with Chancery Resolution.
 |3
 
 |5.
-|Likewise from the soldier Brüggemann +
+|Likewise from the soldier Brüggemann
 from no. 1 at Nordholz, with Chancery Resolution.
 |Bückeburg
 |1817
@@ -211,7 +205,7 @@ from no. 1 at Nordholz, with Chancery Resolution.
 |13
 
 |8.
-|Report of the local office, together with +
+|Report of the local office, together with
 drawing.
 |Bückeburg
 |1818
@@ -226,7 +220,7 @@ drawing.
 |26
 
 |10.
-|Petition of Vogt from Nordholz, together with +
+|Petition of Vogt from Nordholz, together with
 drawing.
 |Bückeburg
 |1818
@@ -234,7 +228,7 @@ drawing.
 |24
 
 |11.
-|Report of the local office, together with draw- +
+|Report of the local office, together with draw-
 ing and specification.
 |Bückeburg
 |1818
@@ -242,41 +236,40 @@ ing and specification.
 |30
 
 |12.
-|Concluded Chancery Resolution to the local office, +
+|Concluded Chancery Resolution to the local office,
 likewise to the Chamber treasury.
 |
 |Bückeburg
 |1818
 |Junÿ
 |17
+
+|13.
+|Receipt of the Chamber treasury.
+|
+|Bückeburg
+|1818
+|Sept.
+|14
+
+|14.
+|Petition of the new settler Brüggemann
+no. 14 at Nordholz.
+|
+|Bückeburg
+|1818
+|Sept.
+|30
+
+|15.
+|Communicated Chancery Resolution to the above-
+named.
+|
+|Bückeburg
+|1818
+|Oct.
+|7
 |===
-// 
-// |13.
-// |Receipt of the Chamber treasury.
-// |
-// |Bückeburg
-// |1818
-// |Sept.
-// |14
-// 
-// |14.
-// |Petition of the new settler Brüggemann +
-// no. 14 at Nordholz.
-// |
-// |Bückeburg
-// |1818
-// |Sept.
-// |30
-// 
-// |15.
-// |Communicated Chancery Resolution to the above- +
-// named.
-// |
-// |Bückeburg
-// |1818
-// |Oct.
-// |7
-// |===
 
 Schmacher Krückeberg
 
