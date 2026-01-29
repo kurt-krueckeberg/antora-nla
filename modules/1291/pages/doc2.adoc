@@ -7,6 +7,7 @@ image::doc2.jpg[title=,link=self]
 [.narrow]
 == Transliteration and Translation
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. M. 62.                            2.
 

@@ -1,5 +1,6 @@
 = Document 1: Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. 67                                 1
 
@@ -34,5 +35,4 @@ abgefahren habe sowolte ich ihn Etwas verbeßern
 da mit Etwas graß darauf Waßen könte
 sich verlaße mich durchlaütester Fürst und Herr
 auf ihre liebe
-
 ....
