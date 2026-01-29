@@ -1,4 +1,44 @@
 = Contents List
+:page-role: wide
+
+== Glossary of Terms
+
+[%header,cols="2,5",frame=none]
+|===
+|Term (as in source) |Meaning / Explanation
+
+|Designatio Actorum
+|Register or index of documents in a case file.
+
+|Vorstellung
+|Formal petition or submission to an authority.
+
+|Conc. K. Rescript
+|Finalized chancery rescript, i.e. a written decision issued by the chancery.
+
+|Res. Cam.
+|Resolution of the Chamber (Rentkammer).
+
+|Einlieger
+|Lodger or non-holding resident without an independent farmstead.
+
+|Neubauer
+|New settler granted a newly established holding.
+
+|Kammercasse
+|Chamber treasury or fiscal office.
+
+|Ausweisung
+|Allocation or assignment of land by an authority.
+
+|Forstgrund
+|Forest land under administrative control.
+
+|Specification
+|Detailed list or itemized statement attached to a report.
+|===
+
+== Contents List
 
 [%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
