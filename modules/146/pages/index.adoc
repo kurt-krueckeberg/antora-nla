@@ -26,16 +26,15 @@ enlarge the *Hofraum und Garten* of an existing, inherited holding—not as
 part of his craft activity.
 
 The *Jobst Heinrich Krückeberg of the 1808 Neubau (establishment of a new
-holding) [petition](https://docs.krueckeberg.org/nla/1.0/146/doc1.html)*,
-by contrast, is identified by the authorities as a *Schneider* (tailor),
-living as an *Einlieger* (a landless lodger without a holding), explicitly
-seeking to *establish a new holding*. He is described as *gebürtig aus
-Evesen* (originating from or socially rooted in the village of Evesen), and
-his father is said to have been an *Ackervogt zur Arensburg* (a locally
-appointed agrarian or field overseer attached to the Arensburg
-jurisdiction). His petition concerns acquiring and improving an undeveloped
-plot requiring substantial earthwork, because he does *not* already possess
-a Stätte.
+holding) xref:doc1.adoc[petition]*, by contrast, is identified by the
+authorities as a *Schneider* (tailor), living as an *Einlieger* (a landless
+lodger without a holding), explicitly seeking to *establish a new holding*.
+He is described as *gebürtig aus Evesen* (originating from or socially
+rooted in the village of Evesen), and his father is said to have been an
+*Ackervogt zur Arensburg* (a locally appointed agrarian or field overseer
+attached to the Arensburg jurisdiction). His petition concerns acquiring
+and improving an undeveloped plot requiring substantial earthwork, because
+he does *not* already possess a Stätte.
 
 These descriptions reflect *different occupations, different legal
 statuses, different family contexts, and different stages of life*, and
