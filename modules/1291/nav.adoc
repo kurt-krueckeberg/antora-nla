@@ -3,4 +3,5 @@
 2.) to the lodgers Vogt and Brüggemann +
 for the establishment of new settler holdings, nos. 13 & 14 at Nordholz.
 ** xref:terms-defined.adoc[]
+** xref:contents-list.adoc[]
 ** xref:content2.adoc[]
