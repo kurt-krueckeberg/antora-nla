@@ -1,7 +1,6 @@
 
 Fortsetzung.
 
-
 |===
 |No.|Designatio Actorum. +
 left|{empty} +
@@ -9,7 +8,7 @@ right|Ort|Jahr|Monat|Tag
 
 |16.
 |Vorstellung des Schusters
-Krückeburg No 10. zu Berne-
+Krückeberg No 10. zu Berne-
 busch.
 .2+|Erlaß des
 Kaufpreises,
@@ -29,9 +28,10 @@ betr:
 |7
 
 |18.
-|Kammercassenquitung
+|Kammercassenquit[t]ung
 .5+|Ausweisung +
-betr.
+betr. +
+(Krückeberg, Vogt, Brüggemann)
 |Bburg
 |1818
 |Oct.
