@@ -38,7 +38,7 @@ Bücke. 3. Febr 1817.
 MKaas
 ....
 
-== Image of Rentkammer Respons
+== Image of Rentkammer Response
 
 image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 
