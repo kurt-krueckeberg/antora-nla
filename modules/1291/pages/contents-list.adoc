@@ -7,7 +7,7 @@ right|Ort|Jahr|Monat|Tag
 
 |1.
 |Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
-.10+|Auswei- +
+.11+|Auswei- +
 sungen +
 vom Forst- +
 grunde an +
@@ -87,7 +87,7 @@ Zeichnung.
 holz, samt Zeichnung.
 |Bburg
 |1818
-||Maÿ.
+|Maÿ.
 |24.
  
 |11.
@@ -135,3 +135,148 @@ genannten.
 |===
 
 Schmacher Krückeberg
+
+Schmacher Krückeberg
+
+|===
+|No.|Designation of Documents +
+left|right|Place|Year|Month|Day
+
+|1.
+|Petition of the shoemaker Krückeberg no. 10 at Berenbusch.
+.11+|Assignments +
+from forest land +
+in the Söhre +
+to +
+Krückeberg +
+no. 10 +
+at Berenbusch, +
+[Vogt] no. 13 +
+in +
+Nordholz +
+and +
+Brüggemann +
+no. 14 +
+there, +
+concerning.
+|Berenbusch
+|1817
+|Jan.
+|1
+
+|2.
+|Report of the Forestry Department, together with +
+the report of Senior Forester Falkmann +
+with drawing.
+|Bückeburg
+|1817
+|Feb.
+|3
+
+|3.
+|Concluded Chancery Resolution to the local office.
+|Bückeburg
+|1817
+|Feb.
+|13
+
+|4.
+|Petition of the lodger Vogt +
+at Evesen, with Chancery Resolution.
+|Bückeburg
+|1817
+|Nov.
+|3
+
+|5.
+|Likewise from the soldier Brüggemann +
+from no. 1 at Nordholz, with Chancery Resolution.
+|Bückeburg
+|1817
+|Dec.
+|15
+
+|6.
+|Report of the local office.
+|Bückeburg
+|1817
+|Dec.
+|31
+
+|7.
+|Concluded Chancery Resolution to the local office.
+|Bückeburg
+|1818
+|Jan.
+|13
+
+|8.
+|Report of the local office, together with +
+drawing.
+|Bückeburg
+|1818
+|Feb.
+|16
+
+|9.
+|Concluded Chancery Resolution from the local office.
+|Bückeburg
+|1818
+|Feb.
+|26
+
+|10.
+|Petition of Vogt from Nordholz, together with +
+drawing.
+|Bückeburg
+|1818
+|Maÿ
+|24
+
+|11.
+|Report of the local office, together with draw- +
+ing and specification.
+|Bückeburg
+|1818
+|Maÿ
+|30
+
+|12.
+|Concluded Chancery Resolution to the local office, +
+likewise to the Chamber treasury.
+|
+|Bückeburg
+|1818
+|Junÿ
+|17
+|===
+// 
+// |13.
+// |Receipt of the Chamber treasury.
+// |
+// |Bückeburg
+// |1818
+// |Sept.
+// |14
+// 
+// |14.
+// |Petition of the new settler Brüggemann +
+// no. 14 at Nordholz.
+// |
+// |Bückeburg
+// |1818
+// |Sept.
+// |30
+// 
+// |15.
+// |Communicated Chancery Resolution to the above- +
+// named.
+// |
+// |Bückeburg
+// |1818
+// |Oct.
+// |7
+// |===
+
+Schmacher Krückeberg
+
