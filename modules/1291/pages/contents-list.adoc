@@ -1,6 +1,10 @@
 = Contents List
 :page-role: wide
 
+== Image
+
+image::01-r.jpg[link=self]
+
 == Glossary of Terms
 
 [%header,cols="2,5",frame=none,width=70%"]
