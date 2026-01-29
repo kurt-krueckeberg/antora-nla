@@ -2,7 +2,7 @@
 
 |===
 |No.|Designatio Actorum. +
-left| +
+left |{empty} +
 right|Ort|Jahr|Monat|Tag
 
 |1.

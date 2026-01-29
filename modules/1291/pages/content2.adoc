@@ -1,8 +1,9 @@
 = Fortsetzung.
 
+[%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
 |No.|Designatio Actorum. +
-left|{empty} +
+left |{empty} +
 right|Ort|Jahr|Monat|Tag
 
 |16.
