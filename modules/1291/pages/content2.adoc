@@ -4,7 +4,7 @@ Fortsetzung.
 
 |===
 |No.|Designatio Actorum. +
-left| +
+left|{empty} +
 right|Ort|Jahr|Monat|Tag
 
 |16.
@@ -21,12 +21,12 @@ betr:
 |Sept
 |7
 
-|17. Conc. K Resolution an denselben
-|
-|
-|
-|
-|
+|17.
+|Conc. K Resolution an denselben
+|Bburg
+|1818
+|Oct.
+|7
 
 |18.
 |Kammercassenquitung
@@ -35,7 +35,7 @@ betr.
 |Bburg
 |1818
 |Oct.
-|7
+|27
 
 |19.
 |Conc. Kaufcontracts für den
