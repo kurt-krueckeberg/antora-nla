@@ -84,10 +84,11 @@ L. Stille
 
 === Boundary Labels
 
-The drawing is of the new future site to be allocated to Jobst Heinrich Krückeberg, which will
-be site no. 18 at Berenbusch. The labels in the drawing indicate the bordering areas. It is
-bordered on two sides by foresst (*Forst*) and on one side by the garden (*Garetn*) of site no.
-7 at Berenbusch.
+The drawing is of the new future site to be allocated to Jobst Heinrich
+Krückeberg, which will be site no. 18 at Berenbusch. The labels in the
+drawing indicate the bordering areas. It is bordered on two sides by
+foresst (*Forst*) and on one side by the garden (*Garetn*) of site no.  7
+at Berenbusch.
 
 .Transliteration of boundary labels
 [cols="1,2",options="header"]
