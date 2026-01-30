@@ -105,7 +105,6 @@ A later document (the Meyerbrief) would normally spell out the long-term
 rules and obligations in more detail, but this draft already establishes
 Krückeberg’s secure and heritable right to the holding.
 
-
 [.narrow]
 == Image
 
@@ -144,7 +143,10 @@ Eigenthum dieses von ihm erkauf ten Platzes hiemit übergeben, und die
 Versicherung ertheilet, daß Er und seine Erben bey dessen Besitz jeden
 Zeit und gegen Jedermann geschützt werden sollen Dessen zur Urkund ist
 dieses statt Kaufbriefsunter bey gedruckten Fürstln Kammer Siegel und
-gewöhnlicher Unterchrift ausgefertiget worden Bückeburg 10 Jan: 1810.
+gewöhnlicher Unterchrift ausgefertiget worden
+
+Bückeburg 10 Jan: 1810.
+
 Fürstl. Schaumbl. Liple zur Rentkammer v. d. u. R.
 
 ?? Danckwertz  MKaass
