@@ -119,9 +119,8 @@ image::14-l.png[title=TODO,width=85%,link=self]
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Concept Kaufbriefs Namens der R[ent]Kammer für den Jobst Heinrich Krücke-
-berg No 18. in Berenbusch über einen Platz zum Hausbau und Garten im
-Baumer Först.
+Concept Kaufbriefs Namens der R[ent]Kammer für den Jobst Heinrich Krückeberg
+No 18. in Berenbusch über einen Platz zum Hausbau und Garten im Baumer Först.
 
 Expd: Schwarze
 
@@ -140,7 +139,7 @@ Prästanden als:
 [8 lines struck through]
 
 zugehöriger Zeitrichtig abzutragen und zu entrichten; So wird dem obge-
-nannten Neubauer Krück berg No 18. zu Berenbusch und dessen Erben, das
+nannten Neubauer Krückberg No 18. zu Berenbusch und dessen Erben, das
 Eigenthum dieses von ihm erkauf ten Platzes hiemit übergeben, und die
 Versicherung ertheilet, daß Er und seine Erben bey dessen Besitz jeden
 Zeit und gegen Jedermann geschützt werden sollen Dessen zur Urkund ist
