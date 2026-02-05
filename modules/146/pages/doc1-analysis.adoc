@@ -259,6 +259,8 @@ report* either confirms or challenges this positioning.
 
 == How to interpret _Einlieger_, _Neubauer_, _Colon_
 
+See: link:https://chatgpt.com/c/69850070-0dc8-8397-ad59-2d0e3b1bedb9
+
 Below is a *single, merged, self-contained guide* that *combines*:
 
 * the *hierarchical explanation* you found helpful, *and*
