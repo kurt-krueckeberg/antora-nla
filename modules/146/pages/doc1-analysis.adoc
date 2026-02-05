@@ -1,6 +1,6 @@
-== Document 1 Analysis
+= Document 1 Analysis
 
-=== 1. Position of this document within the case file
+== 1. Position of this document within the case file
 
 This petition is *the initiating supplication (Supplik)* of the entire
 case file.
@@ -22,9 +22,9 @@ ____
 
 '''''
 
-=== 2. Administrative metadata (top matter)
+== 2. Administrative metadata (top matter)
 
-==== a. Filing and presentation
+=== a. Filing and presentation
 
 * *"`Nr. Cam. 260.`"* → Rentkammer incoming register number. This
 anchors the petition in the Kammer’s chronological intake.
@@ -32,7 +32,7 @@ anchors the petition in the Kammer’s chronological intake.
 This is the *administrative date*, not the date the petitioner signed
 (29 Sept.).
 
-==== b. Marginal routing note (Rescript)
+=== b. Marginal routing note (Rescript)
 
 ____
 *"`Res: Cam: Dem Amte brevi manu zum Berichte …`"*
@@ -63,9 +63,9 @@ ____
 
 '''''
 
-=== 3. Identity and legal status of the petitioner
+== 3. Identity and legal status of the petitioner
 
-==== a. Social status
+=== a. Social status
 
 He styles himself:
 
@@ -81,7 +81,7 @@ This indicates:
 This is significant: He is asking for *transition in status* — from
 _Einlieger_ → _Neubauer_.
 
-==== b. Residence
+=== b. Residence
 
 * Lived *as Einlieger bei Wilharm Nr. 11 in Evesen*
 * Petition is filed *from Evesen*, not Berenbusch
@@ -94,11 +94,11 @@ redistribution
 
 '''''
 
-=== 4. Description of the land requested
+== 4. Description of the land requested
 
 This is one of the most revealing parts of the petition.
 
-==== a. Prior inspection
+=== a. Prior inspection
 
 ____
 "`… der vorher schon von Forst-Amtswegen besichtiget worden …`"
@@ -116,7 +116,7 @@ ____
 *"`vor Forstgrunde`"*
 ____
 
-==== b. Physical condition
+=== b. Physical condition
 
 He emphasizes repeatedly:
 
@@ -129,7 +129,7 @@ This is *strategic rhetoric*, not idle description:
 * He is *pre-arguing for a reduced purchase price*
 * This anticipates later valuation disputes
 
-==== c. Location logic (very important)
+=== c. Location logic (very important)
 
 ____
 "`… weil er nicht zu weit von Lauten entfernt ist, worauf ich wegen
@@ -149,7 +149,7 @@ Administratively, this explains:
 
 '''''
 
-=== 5. Nature of the request (legal formulation)
+== 5. Nature of the request (legal formulation)
 
 The formal request is extremely precise:
 
@@ -178,7 +178,7 @@ ____
 
 '''''
 
-=== 6. Dating, endorsements, and signatures
+== 6. Dating, endorsements, and signatures
 
 * *Signed:* 29 Sept. 1808
 * *Received:* 30 Sept. 1808
@@ -195,7 +195,7 @@ They do *not* change authorship or intent.
 
 '''''
 
-=== 7. What this document establishes definitively
+== 7. What this document establishes definitively
 
 This petition establishes:
 
@@ -209,7 +209,7 @@ This petition establishes:
 
 '''''
 
-=== 8. What it does _not_ yet establish
+== 8. What it does _not_ yet establish
 
 At this stage, it does *not* establish:
 
@@ -225,7 +225,7 @@ rescript.
 
 '''''
 
-=== 9. Bottom-line interpretation
+== 9. Bottom-line interpretation
 
 This is a *model example of an early-19th-century Schaumburg-Lippe
 Neubauer petition*:
