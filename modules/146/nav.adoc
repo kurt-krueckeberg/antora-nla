@@ -3,6 +3,7 @@
 * xref:admin-file-label.adoc[]
 * xref:contents-list.adoc[]
 ** xref:doc1.adoc[]
+** xref:doc1-analysis.adoc[]
 ** xref:doc2.adoc[]
 ** xref:doc3.adoc[]
 ** xref:doc4.adoc[]
