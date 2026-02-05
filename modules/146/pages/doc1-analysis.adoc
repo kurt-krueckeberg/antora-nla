@@ -257,193 +257,207 @@ If you’d like, the next logical step is to analyze how the *Amt’s
 report* either confirms or challenges this positioning.
 
 
-== Primary reference sources (best for verification of Terms)
+== How to interpret _Einlieger_, _Neubauer_, _Colon_
 
-=== 1) Deutsches Rechtswörterbuch (DRW) — _historical legal-language dictionary_
+Below is a *single, merged, self-contained guide* that *combines*:
 
-* *Neubauer (lemma)*: DRW’s entry gives the core historical sense ("`one
-who settles as a farmer/new settler`"), with historical attestations.
-(https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=neubauer&utm_source=chatgpt.com[drw.hadw-bw.de])
-* *Einlieger (lemma/search results page)*: DRW provides the historically
-anchored lexeme family around _Einlieger_ (and related
-spellings/variants) in legal/administrative contexts.
-(https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger&utm_source=chatgpt.com[drw.hadw-bw.de])
-Why this is useful: DRW is designed exactly for *terminology encountered
-in older administrative records* (your Rentkammer material fits that
-world).
-(https://de.wikipedia.org/wiki/Deutsches_Rechtsw%C3%B6rterbuch?utm_source=chatgpt.com[Wikipedia])
+* the *hierarchical explanation* you found helpful, *and*
+* the *original source explanations with direct links* and guidance on
+*how to use each source*,
 
-*How to use it for your case file:* Treat DRW as a *baseline meaning*
-and then refine with *regional administrative usage* found in
-Schaumburg-Lippe documents.
+specifically for interpreting *Einlieger, Neubauer, Colon / Colonie* in
+*Schaumburg-Lippe Rentkammer* case files (ca. 1800).
+
+=== Sources, hierarchy, links, and proper use (Schaumburg-Lippe context)
+
+The correct approach is *layered*, not single-source. Each source type
+answers a different historical question.
 
 '''''
 
-== Secondary but still useful glossaries (good triangulation, not as authoritative as DRW)
+=== *Layer 1 — General legal-historical meaning (baseline control)*
 
-=== 2) GenWiki (genealogy.net) — Brinksitzer
+==== *Deutsches Rechtswörterbuch (DRW)*
 
-GenWiki summarizes _Brinksitzer_ as a social/tenurial class and
-explicitly points readers to DRW for historical legal-language backing.
-(https://wiki.genealogy.net/Brinksitzer?utm_source=chatgpt.com[wiki.genealogy.net])
+*What it is* The DRW is the authoritative *historical legal dictionary*
+for German-language legal and administrative terminology (Middle Ages →
+19th c.).
 
-=== 3) OSFA Glossar — Brinklieger / Brinksitzer
+*Why it matters*
 
-A regional-style glossary defining _Brinklieger/Brinksitzer_ as a type
-of *Häusler* (house-holder/house-dweller class), i.e., a "`small
-people`" status term used in parts of (what is now) Lower Saxony and
-nearby regions.
-(https://alt.osfa.de/datenbanken/db_glossar.php?utm_source=chatgpt.com[alt.osfa.de])
+* Establishes *period-correct meanings* of terms.
+* Prevents modern or genealogical reinterpretation.
+* Based on *ordinances, court practice, administrative texts*.
 
-'''''
+*Key entries for your work*
 
-== Scholarly context sources (helpful for how these labels function socially)
+* *Einlieger*
+https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger
+* *Neubauer*
+https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&term=neubauer
 
-=== 4) LGLN Niedersachsen publication (PDF) — "`An- oder Neubauer`"
+*How to use it*
 
-This Lower Saxony surveying/land-history publication uses "`An- oder
-Neubauer`" in the context of *new settlers affecting common
-rights/Markennutzung*, i.e., the socio-economic role of "`new
-builders/settlers`" within village land regimes.
-(https://www.lgln.niedersachsen.de/download/99071/NaVKV_2014_2_3.pdf?utm_source=chatgpt.com[lgln.niedersachsen.de])
-This is not Schaumburg-Lippe-specific, but it’s *regionally adjacent*
-and good for understanding why "`Neubauer`" is a _status category_ with
-community implications.
+* Use DRW to define *what the word meant in historical legal German*.
+* Do *not* expect regional nuance here.
 
-=== 5) Historical social-history literature referencing these strata
+👉 *DRW answers:*
 
-Example: scholarship discussing lower rural strata and their labels
-(including *Einlieger* and *Brinksitzer/Häuslinge* variants) in
-preindustrial Germany.
-(https://www.jstor.org/stable/4545987?utm_source=chatgpt.com[JSTOR])
-This helps confirm that these are *recognized historical categories* and
-that terminology varies by region.
+____
+_"`What does this term mean in historical legal/administrative
+German?`"_
+____
 
 '''''
 
-== One caution (important for your verification goal)
+=== *Layer 2 — Regional social & administrative function (interpretive context)*
 
-Across North/Central Germany, these words can be:
+==== *Das Fürstentum Lippe im Zeitalter der Französischen Revolution 1770–1820 — Jürgen Arndt (1992)*
 
-* *regionally non-uniform*, and
-* *administratively specialized* (Rentkammer usage can be narrower than
-a dictionary gloss).
+===== *Direct PDF (LWL digital edition, Part II):*
 
-So: DRW + (your case file’s internal usage) + one regional historical
-source is the strongest triangulation.
+👉 https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf
+
+*What this PDF is*
+
+* A *complete internal section (Part II)* of a larger scholarly
+monograph.
+* Titled _"`Wirtschaft und Gesellschaft im Umbruch`"_.
+* Hosted by *LWL / Westfälische Geschichte* as a full-text scholarly
+resource.
+* *Not* the entire book, but a *coherent, substantial section*, not
+fragments.
+
+*Why it matters*
+
+* Explains *how terms like Einlieger, Neubauer, Colon functioned
+socially and administratively*, not just lexically.
+* Describes:
+** lower rural strata,
+** settlement policy,
+** fiscal-administrative thinking around 1800.
+* Explicitly *cites Schaumburg-Lippe* and relies on *Funke (1848)* for
+that territory.
+
+*How to use it*
+
+* Cite or paraphrase Arndt to explain:
+** why craftsmen could be Colonen,
+** how Neubauer fits into state settlement policy,
+** what social position Einlieger occupied.
+* Treat it as *interpretive synthesis*, not a glossary.
+
+👉 *Arndt answers:*
+
+____
+_"`How did these legally defined categories actually function in society
+and administration?`"_
+____
 
 '''''
 
-== If you also want sources for "`Colon / Colonie / Colonie-Bau`"
+=== *Layer 3 — Schaumburg-Lippe–specific, primary-era authority*
 
-You didn’t ask this explicitly, but since it’s entangled with Neubauer
-in your file cover ("`Colonie-bau (Haus und Garten)`"), the best next
-step is to pull:
+==== *Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe — Georg Funke (1848)*
 
-* DRW entries for *Kolonie / Kolonist / Kolonat / Colonat* (terms vary),
-and/or
-* a Schaumburg-Lippe–specific administrative history or glossary.
+*Direct digitized source (Bayerische Staatsbibliothek):* 👉
+https://www.digitale-sammlungen.de/de/view/bsb10709532?page=13 (Navigate
+within the volume to Funke’s article.)
 
-If you want, tell me whether you want *(a)* dictionary/lexicon sources
-only, or *(b)* also *Schaumburg-Lippe–specific* scholarly works—then
-I’ll fetch the most directly relevant items and cite them.
-= Sources for Explanation of Terms in Schaumburg=Lippe Rentkammer
+*What it is*
 
-Here are *independent, citable sources* you can use to pin down
-_Neubauer_ and _Einlieger_ (and to a lesser extent their relationship to
-_Colon/Colonus_) in the kind of early-modern / early-19th-century
-administrative usage you’re seeing in a *Schaumburg-Lippe Rentkammer*
-file.
+* A *19th-century scholarly/statistical study*.
+* Explicitly treats *Einlieger in Schaumburg-Lippe by name*.
+* Written within the *same conceptual-administrative world* as your
+Rentkammer officials.
 
-== 1) Deutsches Rechtswörterbuch (DRW) — lexicographic "`baseline`" definitions
+*Why it matters*
 
-These are _not Schaumburg-Lippe-specific_, but they’re a very strong
-independent control because they compile legal/administrative usage
-across German territories with dated attestations.
+* This is the *best region-specific source* for:
+** Einlieger status,
+** obligations,
+** dependency structures,
+** administrative perception.
+* It anchors interpretation *inside Schaumburg-Lippe*, not by analogy.
 
-* *Einlieger (DRW)* — defined (with citations) as _free persons who
-settle in a village without taking an "`unterthäniges Gut`" and without
-binding themselves to personal subjection; such persons are called
-Schutzuntertanen or Einlieger_ (the DRW quotes an 18th-century
-ordinance-style formulation).
-(https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger&utm_source=chatgpt.com[drw.hadw-bw.de])
-* *Neubauer (DRW)* — defined succinctly as _"`der sich als Bauer neu
-ansiedelt`"_ (someone who settles newly as a farmer/bauer).
-(https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&term=neubauer&utm_source=chatgpt.com[drw-www.adw.uni-heidelberg.de])
+*How to use it*
 
-Why this helps your case file: your cover label explicitly says
-*"`Neubauer … Krückeberg`"* and the petition describes moving from
-*Einlieger* status toward establishing his own household/building site.
-DRW gives you *neutral definitions* you can cite without relying on any
-one regional historian.
+* Cite Funke when you want to say:
+** _"`This is how Einlieger were understood in Schaumburg-Lippe
+itself.`"_
+* Especially strong when paired with:
+** DRW (definition),
+** Arndt (context).
 
-== 2) J. Arndt (1992) — scholarly regional social/agrarian context (Lippe, with explicit Schaumburg-Lippe linkage)
+👉 *Funke answers:*
 
-A very usable (and quotable-by-paraphrase) discussion is available in
-the LWL-hosted PDF of Arndt’s work.
+____
+_"`How were Einlieger understood and treated in Schaumburg-Lippe
+itself?`"_
+____
 
-=== Einlieger: social position / village membership (useful for interpreting "`Einlieger bei Wilharm No. 11`")
+'''''
 
-Arndt describes *Einlieger* as _not belonging to the village community_,
-but being allowed (depending on arrangements) limited use-rights such as
-putting 1–2 head of cattle on the common land; they appear socially as
-part of a patron’s "`Gefolge,`" etc.
-(https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf[lwl.org])
-(see the passage around *P61, L2679–L2684*)
+=== *Layer 4 — Your Rentkammer case files (authoritative local practice)*
 
-=== Neubauern: state policy of creating new small holdings (Binnenkolonisation)
+*What they are*
 
-Arndt explicitly frames "`Neubauern`" in the context of *land policy*:
-the government tried to counter land scarcity by *creating new
-Bauernstellen*, and "`Neubauern`" were drawn into *grund- und
-leibherrliche Abhängigkeit* (ground- and personal-lordship dependency),
-with the new settlements tending to be *small farms/holdings*.
-(https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf[lwl.org])
-(see *P62, L2719–L2725*)
+* The *actual administrative application* of these terms.
+* They show:
+** when someone is called Einlieger,
+** when Neubauer is applied,
+** what Colon / Colonie means in practice.
 
-=== Why this is especially relevant to you
+*Why they matter*
 
-Arndt’s bibliography in that same section explicitly points to *Georg
-Funke, "`Über die Verhältnisse der Einlieger in den Fürstentümern
-Lippe-Detmold und Schaumburg-Lippe`" (1848)* as a targeted study of
-_Einlieger_ for *both principalities*.
-(https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf[lwl.org])
-(see *P61, L2698–L2704*)
+* They are *not illustrations* of definitions.
+* They are *primary evidence* of how the state _used_ the terms.
 
-So even though Arndt’s monograph is centered on Lippe, it *directly
-bridges* into *Schaumburg-Lippe* for the _Einlieger_ topic via Funke.
+👉 *Your files answer:*
 
-== 3) Georg Funke (1848) — Schaumburg-Lippe-specific (primary-era analysis)
+____
+_"`What did the Schaumburg-Lippe administration actually do with this
+person under these labels?`"_
+____
 
-This is the best match to your request ("`sources for Schaumburg-Lippe
-that pin down … Einlieger, etc.`"):
+'''''
 
-* *Georg Funke (1848)*: _Über die Verhältnisse der Einlieger in den
-Fürstentümern Lippe-Detmold und Schaumburg-Lippe_, in the _Zeitschrift
-des Vereins für Deutsche Statistik_ (2nd year, Berlin 1848).
-(https://www.digitale-sammlungen.de/de/view/bsb10709532?page=13&utm_source=chatgpt.com[digitale-sammlungen.de])
+=== *Putting it all together (methodologically sound)*
 
-Practical note: I can verify its bibliographic existence and that modern
-scholarship cites it (see Arndt/LWL excerpt above), but the digitized
-full text is behind a viewer workflow that’s not reliably extractable in
-this interface. Still, as a *Schaumburg-Lippe-explicit* treatment, it’s
-the one you’d cite once you have the scan/PDF open locally.
+A defensible workflow for your Rentkammer material:
 
-== How to use these in your write-up (tight, defensible wording)
+[arabic]
+. *Define the term* → DRW
+. *Explain its function* → Arndt
+. *Anchor it regionally* → Funke
+. *Demonstrate local use* → your case files
 
-* When you gloss *Einlieger* in your case narrative: cite *DRW* for the
-_core legal meaning_ and cite *Arndt* for the _social-economic role
-(non-community member; dependent arrangements)_.
-(https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger&utm_source=chatgpt.com[drw.hadw-bw.de])
-* When you gloss *Neubauer* on the cover label: cite *DRW* for the
-literal sense (_newly settling as a Bauer_) and cite *Arndt* for the
-administrative-policy context (_state creation of new small holdings /
-colonization_).
-(https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&term=neubauer&utm_source=chatgpt.com[drw-www.adw.uni-heidelberg.de])
-* When you want something *explicitly naming Schaumburg-Lippe* for
-_Einlieger_: cite *Funke (1848)* (once you’ve accessed the text).
-(https://www.digitale-sammlungen.de/de/view/bsb10709532?page=13&utm_source=chatgpt.com[digitale-sammlungen.de])
+This is exactly how regional historians and archival editors proceed.
 
-If you want, paste a short excerpt from Funke (once you have it open)
-and I’ll help you translate it and turn it into a clean glossary entry
-that matches your Rentkammer file’s usage.
+'''''
+
+=== *Bottom-line synthesis (safe to quote/paraphrase)*
+
+____
+_The interpretation of rural status terms such as *Einlieger*,
+*Neubauer*, and *Colon* in Schaumburg-Lippe Rentkammer records rests on
+general legal-historical definitions provided by the Deutsches
+Rechtswörterbuch, regional social-historical analysis by Jürgen Arndt
+(1992), and contemporary, territory-specific discussion by Georg Funke
+(1848), with the Rentkammer files themselves providing authoritative
+evidence of local administrative practice._
+____
+
+'''''
+
+=== *In one sentence*
+
+* *DRW* controls _meaning_
+* *Arndt* explains _function_
+* *Funke* anchors _Schaumburg-Lippe_
+* *Your files* prove _practice_
+
+If you want next, I can turn this directly into:
+
+* a *glossary section* for your Antora site, or
+* *footnote-ready citations* (Chicago / Evidence Explained).
