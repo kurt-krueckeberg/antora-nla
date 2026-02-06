@@ -356,49 +356,34 @@ _"`How did these legally defined categories actually function in society
 and administration?`"_
 ____
 
-'''''
+
+The relevant discussion is in the section on:
+____
+Ländliche Sozialstruktur / Untere ländliche Schichten
+____
+
+This is where Arndt discusses:
+
+Bauern vs. Nichtbauern
+
+* Einlieger
+* Häuslinge / Brinksitzer
+* Neubauern
+* settlement and colonization policy
+
+You can ignore sections on:
+
+* proto-industry
+* trade
+* taxation tables
+* population statistics
+* military matters
+
+TODO: Continue here: https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb
 
 === *Layer 3 — Schaumburg-Lippe–specific, primary-era authority*
 
-==== *Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe — Georg Funke (1848)*
-
-*Direct digitized source (Bayerische Staatsbibliothek):* 👉
-https://www.digitale-sammlungen.de/de/view/bsb10709532?page=13 (Navigate
-within the volume to Funke’s article.)
-
-*What it is*
-
-* A *19th-century scholarly/statistical study*.
-* Explicitly treats *Einlieger in Schaumburg-Lippe by name*.
-* Written within the *same conceptual-administrative world* as your
-Rentkammer officials.
-
-*Why it matters*
-
-* This is the *best region-specific source* for:
-** Einlieger status,
-** obligations,
-** dependency structures,
-** administrative perception.
-* It anchors interpretation *inside Schaumburg-Lippe*, not by analogy.
-
-*How to use it*
-
-* Cite Funke when you want to say:
-** _"`This is how Einlieger were understood in Schaumburg-Lippe
-itself.`"_
-* Especially strong when paired with:
-** DRW (definition),
-** Arndt (context).
-
-👉 *Funke answers:*
-
-____
-_"`How were Einlieger understood and treated in Schaumburg-Lippe
-itself?`"_
-____
-
-'''''
+I will skip this since J. Arndt uses this as his primary sources!
 
 === *Layer 4 — Your Rentkammer case files (authoritative local practice)*
 
