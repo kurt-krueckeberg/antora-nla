@@ -4,7 +4,7 @@
 * xref:contents-list.adoc[]
 ** xref:doc1.adoc[]
 ** xref:doc1-analysis.adoc[]
-** xref:doc1-2nd-analysis.aodc[]
+** xref:doc1-2nd-analysis.adoc[]
 ** xref:doc2.adoc[]
 ** xref:doc3.adoc[]
 ** xref:doc4.adoc[]
