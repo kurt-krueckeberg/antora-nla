@@ -245,35 +245,43 @@ for ‘not’]
 
 18. [Dues listed below]
 
-a) contributes 2 [Groschen] 2 [Pfennige]
+a) Contribution tax — 2 Groschen 2 Pfennige
+   General personal state tax, not tied to landholding.
 
-b) Rottzinß 11 [Groschen]
+b) Rottland rent — 11 Groschen
+   Payment for use of cleared marginal land taken from forest or heath.
 
-c) Mill[...] 12 [Groschen]
+c) Milling due — 12 Groschen
+   Fee for compulsory use of the lord’s mill (Mühlenzwang).
 
-d) Michael tax cessit
+d) Michaelmas tax — ceased
+   Former annual tax due at St. Michael’s Day (29 September) no longer owed.
 
-e) –
+e) none
 
-f) – 4 [Pfennige]
+f) Minor due — 4 Pfennige
+   Small unspecified local fee, often court or parish related.
 
-g) He does not pay land tax because
+g) Land tax — not paid because he owns no land
+   Indicates legally landless or near-landless status.
 
-he has no land.
+h) does not know
+   Category not applicable or no obligation remembered.
 
-h) nescit
+i) like the others
+   Pays the customary village amount.
 
-i) ut reliqui
+k) Livestock tax according to number of animals — 4 Mariengroschen 4 Pfennige, also 8 Mariengroschen
+   Assessed per head of livestock, probably different animal classes.
 
-k) Livestock tax p no. of livestock
+l) exempt / not applicable
 
-4 mgr [Groschen] 4 Pf [Pfennige] also 8 mgr [Groschen]
+m) One hearth-chicken to the gracious lordship
+   Traditional household tribute (feudal survival).
 
-l) cessat
+n) does not know
+   No obligation known in this category.
 
-m) One smoked chicken to His Lordship
-
-n) nescit
 
 19)
 
