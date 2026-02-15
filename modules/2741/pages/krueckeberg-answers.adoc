@@ -198,6 +198,12 @@ der Waldung
 oder kauffe es.
 ....
 
+[IMPORTANT]
+====
+The reply to question #1 only gives the prior holders of no. 10 Berenbusch.
+It does not give the persons through whom the tenure right could pass. 
+====
+
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -206,8 +212,8 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 1. Johann Heinrich Krückeberg — formerly Friedrich Kuhlmann, also Johann Tönnies Eggerding
    Indicates earlier holders of the same dwelling/holding.
 
-2. He married into it
-   The property was obtained by marriage, not inheritance.
+2. He married in connection with it.
+   Formulaic reply indicating acquisition of the holding by marriage; the exact relationship to the predecessor is not specified.
 
 3. A Brinksitzer
    Small cottager living on the village edge with minimal land.
