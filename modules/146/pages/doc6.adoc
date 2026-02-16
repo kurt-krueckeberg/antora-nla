@@ -5,10 +5,7 @@
 == TODO: provide a summary/overview
 
 [.narrow]
-== Essential Explanations in Understanding Document 6
-
-Certain terms like *Michaelmas*, *Meyerbrief* and *Rauchhuhn* appear in the orignal German.
-What do they mean?
+== Essential Explanations to Understanding Document 6
 
 === Michaelmas
 
@@ -49,7 +46,7 @@ which both the land and buildings are owned outright, termed
 *fee simple* ownership.
 ****
 
-=== Annaul Fees and Obligations (a Smoke-Hen really?)
+=== Annaul Fees and Obligations (a Hearth Hen really?)
 
 The *10 groschen 2 denarii (Kottzmis)* was a small *annual cash
 payment associated with cottager (Kötter) or tenant (Einlieger)
