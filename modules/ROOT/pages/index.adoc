@@ -47,21 +47,14 @@ Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrö
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237]
 
 |1808-1810
-|Holding No. 18 in Berenbusch
+|xref:146:index.adoc[]
 
 Die Stätte Nr. 18 zu Berenbusch
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522[NLA BU K 2 B Nr. 146]
 
 |1817-1818
-|xref:146:index.adoc[]
-//Allocation from forest land
-
-. to the Colon Krückeberg no. 10 at Berenbusch,
-. to the lodgers Vogt and Brüggemann,
-
-for the establishment of new settler holdings,
-nos. 13 & 14 at Nordholz.
+|xref:1291:index.adoc[]
 
 Ausweisung vom Forstgrunde
 
@@ -72,7 +65,7 @@ zur Errichtung der Neubauerstätten den N. 13 & 14 in Nordholz.
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697[NLA BU, K 2, A Nr. 1291]
 
 |1824-1849
-|Holding No. 10 in Berenbusch
+|xref:139:index.adoc[]
 
 Die Stätte Nr. 10 zu Berenbusch
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979527[NLA BU, K 2, B Nr. 139]
@@ -86,14 +79,13 @@ Die Stätte Nr. 10 zu Berenbusch
 //|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697[NLA BU K 2 A Nr. 1291]
 
 |1841 - 1845
-|A capital loan of 200 Reichstaler currency lent from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch.
+|xref:689:index.adoc[]
 
 Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4988863[NLA BU, K 2, A Nr. 689]
 
-
 |1850-1850
-|Sale of the Krückeberg holding no. 18 in Berenbusch to the shoemaker Wilhelm Meyer of Röcke
+|xref:188:index.adoc[]
 
 Verkauf der Krückebergschen Stätte Nr. 18 in Berenbusch an den Schuster Wilhelm Meyer zu Röcke
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11398990[NLA BU, L 120a, D Nr. 188]
