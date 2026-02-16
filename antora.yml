@@ -9,7 +9,6 @@ asciidoc:
     table-caption: false
 nav:
   - modules/ROOT/nav-top.adoc
-  - modules/stand-terms/nav.adoc
 # - modules/354/nav.adoc
   - modules/2728/nav.adoc
   - modules/2741/nav.adoc
