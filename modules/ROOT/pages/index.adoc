@@ -10,7 +10,8 @@ related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
 |Life Span|Denotation|Identifier
 
 |1737
-|Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey
+|xref:2728:survey-1737.adoc[]
+//Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey
 
 Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
