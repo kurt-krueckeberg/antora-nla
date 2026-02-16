@@ -21,15 +21,6 @@ It is located in ~/backup_folder/2026-01-15_Auftrag_Krückeberg_2026-01-21_14551
 
 The contents of case file 188
 
-== Add "Overview" section to Module's Document
-
-For example in module 146, documents 3 and onward need an Overview section
-that also explains arcane terms.
-
-Many other modules need the same.
-
-They likely would benefit, too, from converting their .pngs to .jpgs.
-
 == Module 139: Analyze Image Sections
 
 . For each Designatio Actorum item decide which part of which image is the
