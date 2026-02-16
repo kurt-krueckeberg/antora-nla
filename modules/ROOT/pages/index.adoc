@@ -26,7 +26,8 @@ Generallandesvisitation (Landesvermessung)
 |link:[NLA BU L 2 L Nr. 27/41]
 
 |1745
-|Survey of the Villages of Evesen, Berenbusch, and Nordholz.
+|xref:2713:index.adoc[]
+//Survey of the Villages of Evesen, Berenbusch, and Nordholz.
 
 Vermessung der Dörfer Evesen, Berenbusch und Nordholz 
 link:|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
