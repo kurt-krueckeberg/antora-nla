@@ -4,9 +4,9 @@
 [.narrow]
 == Overview
 
-Document 2 is contained on two images. *2* is visible in the upper
-right corner of the document and is bordered by an hand-drawn square.
-It was presented in the Rentkammer on 27 October 1808
+Document 2 is contained on two images. *2* is visible in the upper right
+corner of the document. It was presented in the Rentkammer on 27 October
+1808
 
 It is the report of the administrative offices of Bückeburg and
 Arensburg, requested by the Rentkammer after its initial review of
@@ -167,7 +167,7 @@ To the Princely Chamber
 Report of the Offices of Bückeburg and Arensburg
 Re: New settlement.
 
-The tenant Jobst Henrich Krückeberg, as well as his wife, was born
+The lodger Jobst Henrich Krückeberg, as well as his wife, was born
 in Evesen. His father later became Ackervogt (agricultural bailiff) at
 Arensburg, from whom he may well have inherited enough that he will
 require a loan of no more than 200 Reichtsthaler, as he has assured
