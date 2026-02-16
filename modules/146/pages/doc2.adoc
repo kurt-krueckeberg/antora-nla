@@ -4,11 +4,7 @@
 [.narrow]
 == Overview
 
-Document 2 is contained on two images. *2* is visible in the upper right
-corner of the document. It was presented in the Rentkammer on 27 October
-1808
-
-It is the report of the administrative offices of Bückeburg and
+This is the report of the administrative offices of Bückeburg and
 Arensburg, requested by the Rentkammer after its initial review of
 Jobst Heinrich Krückeberg’s petition to purchase a tract of land from
 the princely authorities at a reasonable price, on the grounds that
@@ -22,14 +18,7 @@ resembling a double dagger, and the text referenced by the double
 dagger lies at the bottom of the first page.
 
 [.narrow]
-== Summary
-
-The Offices of Bückeburg and Arensburg report that Jobst Heinrich and
-his wife are "known to be of good repution." He currently is a tenant.
-He desires to build in Berenbusch, in order to be close to the
-customer's of his tailor's business. His father became an *Ackervogt* in
-Arensburg, and Jobst may have inherited enough funds from him that as
-he claims he will only need 200 Reichtsthaler as a loan. 
+== Comments
 
 .What was an Ackervogt
 ****
@@ -45,16 +34,10 @@ of his own house.
 
 [NOTE]
 ====
-Jobst Heinrich's father Johann Heinrich was, in 1802 when he remarried as a
-widower, a Leibzüchter, which implies he had  the holder of Stätte no. 10
-in Berenbusch. Holding a Stätte implied *agricultural responsibility and
-competence*, not necessarily *exclusive or full-time farming*. That level
-of experience would indeed support appointment as an *Ackervogt*.
-
-We know that he was no longer the holder in May of 1798 because his son Jobst
-Heinrich, when he petitions the Rentkammer to expands his grounds and garden,
-is called xref:1237:cover.adoc[Colon Krückeberg]. See references to Jobst
-Heinrich:
+We know that Jobst Heinrich's father, Johann Heinrich, was no longer the
+holder in May of 1798 because his son Jobst Heinrich, when he petitions the
+Rentkammer to expands his grounds and garden, is called
+xref:1237:cover.adoc[Colon Krückeberg]. See references to Jobst Heinrich:
 
 * xref:1237:doc2.adoc[]
 * xref:1237:doc4.adoc[]
