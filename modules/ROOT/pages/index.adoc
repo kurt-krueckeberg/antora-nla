@@ -40,7 +40,8 @@ Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit N
 BU, L 101a, A Nr. 140] 
 
 |1798 - 1800
-|The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his holding and garden
+|xref:1237:index.adoc[]
+//The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his holding and garden
 
 Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766[NLA BU, K 2, A Nr. 1237]
@@ -53,7 +54,8 @@ Die Stätte Nr. 18 zu Berenbusch
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522[NLA BU K 2 B Nr. 146]
 
 |1817-1818
-|Allocation from forest land
+|xref:146:index.adoc[]
+//Allocation from forest land
 
 . to the Colon Krückeberg no. 10 at Berenbusch,
 . to the lodgers Vogt and Brüggemann,
