@@ -11,14 +11,12 @@ related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
 
 |1737
 |xref:2728:survey-1737.adoc[]
-//Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey
 
 Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
 
 |1743-1744
 |xref:2741:index.adoc[]
-//Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement)
 
 Protokolle über die Befragung der einzelnen Hofbesitzer in 
 Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der 
@@ -27,13 +25,13 @@ Generallandesvisitation (Landesvermessung)
 
 |1745
 |xref:2713:index.adoc[]
-//Survey of the Villages of Evesen, Berenbusch, and Nordholz.
 
 Vermessung der Dörfer Evesen, Berenbusch und Nordholz 
 link:|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
 
 |1740–1830
-|List of names of all Kolons of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
+|xref:140:index.adoc[]
+//List of names of all Kolons of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
 
 Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.
 
