@@ -5,6 +5,8 @@
 
 image::07-r.png[link=self]
 
+image::08-l.png[link=self]
+
 image::07-r-vertical-text.png[link=self]
 
 [.narrow]
@@ -37,10 +39,42 @@ Da ich Etwas Geld, dazu vorrauthig habe, und als Zimmermanns und
 Tischler selbst mit daran arbeiten kann, so werde ich im Stande seyn,
 meinen Entschluß auszuführen, wenn Ew. Durchlaucht die Gnade haben, mir
 ein Plätzchen zum Hausbau gegen billige Bezahlung anzuweisen. Es
-befindet sich ein Solches vor
+befindet sich ein Solches vor Nordholz, in der Nachbarschaft des
+Neubauers Bruns. Es ist mir gesagt worden, daß der Platz von der Forst
+könne entbehret werden.  An Ew. Durchlauchten ergehet demnach meine
+unterthänigste Bitte:
+
+Mir gnädigst jene Stelle zum Hausbau nebst etwas Hofraum und Gartenland
+auszuweisen.
+
+Da tiefster Ehrfurcht ersterbe ich Ew. Durchlauchten
+
+unterthänigsten Knecht
+Einlieger Voigt zu Evesen
+
+
+supnt Bbg
+3t Nov. 1817
+[various initials]
 ....
 
 
 === Res. Cam Vertical Text
+
 [literal.bordered,subs="verbatim,quotes"]
+....
+Res: Cam: Dem Amte Bückeburg b: M: zum Berichte
+mitzuteilen in Beziehung auf die Huthberechtigten, und
+auf das Vermögen und die Persönlichkeit des Supplicaten
+
+B. 10 Nov. 1817                            MKaas
+....
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Royal Chamber Resolution:
+The Amt of Bückeburg is instructed to submit a report concerning the holders of grazing (common pasture) rights, and concerning the petitioner’s financial means and personal circumstances.
+Bückeburg, 10 November 1817.
+M. Klaas
 ....
