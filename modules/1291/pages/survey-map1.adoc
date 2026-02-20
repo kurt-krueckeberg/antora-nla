@@ -1,4 +1,8 @@
-= 05-r.png
+= Survey Map 1
+
+== Image
+
+image::05-r.png[link=self]
 
 ....
                      Der Raue Knick
