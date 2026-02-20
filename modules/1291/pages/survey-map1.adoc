@@ -4,6 +4,9 @@
 
 image::05-r.png[link=self]
 
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
 ....
                      Der Raue Knick
 

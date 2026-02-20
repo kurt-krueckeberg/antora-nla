@@ -8,6 +8,7 @@ image::04-r.png[link=self]
 
 == Transliteration and Translatin
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 ad 2.
 
