@@ -1,0 +1,46 @@
+= Document 4: Petition of the lodger Vogt at Evesen, with chamber resolution.
+:page-role: wide
+
+== Image
+
+image::07-r.png[link=self]
+
+image::07-r-vertical-text.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. 520                                  4.
+
+[3 GR Stempel]
+
+[initials]
+
+p[räsentiert] 3 Nov 1827
+
+Durchlauchtigster Fürst!
+Gnädigst regierender
+Fürst und Herr!
+
+P. N. Der Platz qu: könnte vom Forste wohl entbehrt werden.  Er ist in
+der Pezer Mastforst belegen. B[ückeburg]. 9. Nov. 1817.  MKaas.
+
+Ich habe bisher beÿ meinem Schwager No 11 in Evesen zur Miethe gewohnet
+muß aber jetzt ausziehen, weil die Töchter desselben heÿrathet.
+
+Weil es nun so schwehr halt eine Wohnung zur Miethe zu bekommen, so habe
+mich entschlossen, ein eignes Haus zu bauen.
+
+Da ich Etwas Geld, dazu vorrauthig habe, und als Zimmermanns und
+Tischler selbst mit daran arbeiten kann, so werde ich im Stande seyn,
+meinen Entschluß auszuführen, wenn Ew. Durchlaucht die Gnade haben, mir
+ein Plätzchen zum Hausbau gegen billige Bezahlung anzuweisen. Es
+befindet sich ein Solches vor
+....
+
+
+=== Res. Cam Vertical Text
+[literal.bordered,subs="verbatim,quotes"]
+....
