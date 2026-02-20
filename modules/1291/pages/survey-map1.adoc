@@ -1,9 +1,11 @@
 = Survey Map 1
+:page-role: wide
 
 == Image
 
 image::05-r.png[link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]

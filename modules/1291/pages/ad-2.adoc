@@ -1,11 +1,12 @@
 = ad 2
+:page-role: wide
 
 
 == Image
 
 image::04-r.png[link=self]
 
-
+[.narrow]
 == Transliteration and Translatin
 
 [literal.bordered,subs="verbatim,quotes"]

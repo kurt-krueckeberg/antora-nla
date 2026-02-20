@@ -1,9 +1,11 @@
 = Document 3
+:page-role: wide
 
 == Image
 
 image::06-r.png[link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
