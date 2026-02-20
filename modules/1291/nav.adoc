@@ -4,3 +4,4 @@
 *** xref:doc2.adoc[]
 *** xref:ad-2.adoc[]
 *** xref:survey-map1.adoc[]
+*** xref:doc3.adoc[]
