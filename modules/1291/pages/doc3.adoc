@@ -1,5 +1,10 @@
 = Document 3
 
+== Image
+
+image::06-r.png[link=self]
+
+== Transliteration and Translation
 
 ....
 N.C. 62                              3

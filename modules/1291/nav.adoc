@@ -2,3 +2,5 @@
 ** xref:contents-list.adoc[]
 *** xref:doc1.adoc[]
 *** xref:doc2.adoc[]
+*** xref:ad-2.adoc[]
+*** xref:survery-map1.adoc[]

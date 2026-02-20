@@ -1,5 +1,13 @@
 = ad 2
 
+
+== Image
+
+image::04-r.png[link=self]
+
+
+== Transliteration and Translatin
+
 ....
 ad 2.
 
