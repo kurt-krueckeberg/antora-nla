@@ -76,7 +76,6 @@ table.tableblock.widepair td {
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
 
-
 /* used in: [role="literal-max-width"] */
 .literal-narrower {
     max-width: 90ch;
