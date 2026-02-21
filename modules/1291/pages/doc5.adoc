@@ -57,7 +57,45 @@ Bbrg d 15 Dbr 1817
 Aswellmann p [?] [?]
 ....
 
-=== Rese Cam.
+[literal.bordered,subs="verbatim,quotes"]
+....
+No. 584
+
+presented 16 December 1817
+
+Most Serene Prince!
+Most gracious reigning Prince and Lord!
+
+To the new settler Voigt at Nordholz, directly in front of the village in the forest,
+a site for building a house together with some garden land has been promised,
+beside which enough ground still remains so that I too may build there.
+
+I can demonstrate the required one hundred thalers, as the same are secured for me
+by the Amt. I have not yet received my discharge from the present military service,
+since I have not applied for it; however, my military obligation should not hinder
+the building of a new dwelling. Concerning my person I further state that I marched
+with Captain Barkhausen to Spain and was captured with him, and, because of the
+intolerable treatment of the prisoners by the English, was compelled to enter
+English service.
+
+Since the place promised to Voigt has not yet been surveyed, then, if the desired
+place were likewise allotted to me, it would require only one surveying; therefore
+I most submissively request:
+
+that a gracious and prompt favorable resolution be granted to me.
+
+In deepest reverence I remain unto Your Serene Highness
+
+most humble
+Soldier Brüggemann
+from No. 1 at Nordholz
+
+Petition
+Bückeburg, 15 December 1817
+Aswellmann p [?] [?]
+....
+
+=== Resolution of Rentkammer
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -68,4 +106,17 @@ Situations-Zeichnung der Lage der in Antrag gebrachten neuen Colonien
 beizufügen. 
 
 Bückeb: 22 Dec. 1817 MKaaas
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Rent Chamber resolution:
+
+To the Amt Bückeburg, B.M., for a report with respect to the holders of
+grazing rights and the customary considerations. To the report concerning
+the similar petition of the lodger Voigt, a situational drawing (site plan)
+of the location of the newly requested colonies is to be attached.
+
+Bückeburg, 22 December 1817
+M. Kaas
 ....
