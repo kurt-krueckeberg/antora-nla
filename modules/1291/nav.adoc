@@ -1,4 +1,5 @@
 * xref:1291:index.adoc[]
+** xref:brueggemann-admin-label.adoc[]
 ** xref:contents-list.adoc[]
 *** xref:doc1.adoc[]
 *** xref:doc2.adoc[]
