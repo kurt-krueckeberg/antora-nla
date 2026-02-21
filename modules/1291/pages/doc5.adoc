@@ -1,0 +1,21 @@
+= Document 5: 
+
+
+== Images
+
+image::08-r.png[link=self]
+
+image::09-l.png[link=self]
+
+image::08-r-vert-text.png[link=self]
+
+== Transliteration and Translation
+
+....
+Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in
+Beziehung auf die Huthberichtigetn und auf die gewönhlichen
+Berücksichtigungen. Dem Berichte in Betreff des öfelichen
+Gesuchts des Einl: Voigt ist eine Situations-Zeichnung
+def Cage der-in Antrag gebrachten [euren/enenen]  Coloninn
+beizufügen. Bückeb: 22 Dec. 1817 MKaaas
+....
