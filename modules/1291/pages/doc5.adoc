@@ -1,5 +1,7 @@
 = Document 5: 
+:page-role: wide
 
+== Citation
 
 == Images
 
@@ -9,8 +11,58 @@ image::09-l.png[link=self]
 
 image::08-r-vert-text.png[link=self]
 
+[.narrow]
 == Transliteration and Translation
 
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. 584.
+
+p 16  xbr 1817
+
+[3 GR Stempel]
+
+[initials]
+
+Durchlauchtigster Fürst!
+Gnädigst regierender Jurist und Herr!
+
+Dem Neubauer Voigt zu Nordholz ist dicht vor dem Dorf, im Forst ein Platz
+zum Haus- bau nebst etwas Gartenland zugesichert worden, neben welchem noch
+Erdreich genug übrig bleibt, so daß auch ich daselbst anbauen kann.
+
+Die erforderlichen Einhundert Thaler kann ich nachweisen, indem dieselbigen
+von Seiten des Amts für mich belegt sind. Meinen Abschied aus hiesigen
+Kriegsdien- ten habe ich zwar noch nicht, dieweil ich nicht darauf
+angetragen habe. Es kann und aber meine Stilitairpflichtigkeit am Neu-
+bauen wohl nicht hinderlich seÿn. Ich führ wegen meiner Persönlichkeit
+nach an, daß ich mit dem Hauptmann Barkhausen nach Spanien marschiret und
+mit demselben gefangen genommen, wegen Unerträglichkeit der engli-
+chen Behandlung der Gefangenen, englische Dienste habe nahmen müssen.
+
+Da dem Voigt der zugeseherte Platz noch nicht ausgemessen ist, so würde, wenn
+ich auch mir der erwünschte Platz zugetheilte wurde es Ein Ausmessen seÿn, daher ich
+nur noch unterthänigst darauf antrage:
+
+Mir gnädigst fordersamst
+willfährige Resolution zu
+ertheilen.
+
+In tiefster Erfurcht ersterbe ich
+Ew. Durchlauchten
+
+unterthänigster
+Soldat Brüggemann
+von No 1 zu Nordholz
+
+Suppl
+Bbrg d 15 Dbr 1817
+Aswellmann p 9 mg
+....
+
+=== Rese Cam.
+
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in
 Beziehung auf die Huthberichtigetn und auf die gewönhlichen
