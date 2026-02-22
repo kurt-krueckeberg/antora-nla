@@ -57,6 +57,21 @@ Bbrg d 15 Dbr 1817
 Aswellmann p [?] [?]
 ....
 
+[IMPORTANT]
+====
+**Historical note (military service):**
+The petitioner’s statement that he marched “to Spain” and later entered
+“English military service” refers to the Napoleonic Wars (1808–1814),
+specifically the *Peninsular War*. At that time Schaumburg-Lippe belonged to
+the *Confederation of the Rhine* and supplied troops serving under French
+command in Napoleon’s campaign in Spain. German soldiers captured there by
+British forces were often given the choice of remaining prisoners or
+enlisting in British-organized units (such as German auxiliary formations
+associated with the King’s German Legion). The petitioner is therefore
+explaining that his service with the British resulted from captivity during
+the war, not voluntary disloyalty.
+====
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 584
@@ -66,17 +81,18 @@ presented 16 December 1817
 Most Serene Prince!
 Most gracious reigning Prince and Lord!
 
-To the new settler Voigt at Nordholz, directly in front of the village in the forest,
-a site for building a house together with some garden land has been promised,
-beside which enough ground still remains so that I too may build there.
+A house site together with some garden land has been promised to the new
+settler Voigt at Nordholz, just outside the village in the forest, and
+sufficient ground remains beside it that I could also build there.
 
-I can demonstrate the required one hundred thalers, as the same are secured for me
-by the Amt. I have not yet received my discharge from the present military service,
-since I have not applied for it; however, my military obligation should not hinder
-the building of a new dwelling. Concerning my person I further state that I marched
-with Captain Barkhausen to Spain and was captured with him, and, because of the
-intolerable treatment of the prisoners by the English, was compelled to enter
-English service.
+I can document the required one hundred thalers, as they are officially
+recorded for me by the Amt.  I have not yet received my discharge from the
+present military service, since I have not applied for it; however, my
+military obligation should not hinder the building of a new dwelling.
+Concerning my person I further state that I marched with Captain Barkhausen
+to Spain and was captured with him, and, because of the intolerable
+treatment of the prisoners by the English, was compelled to enter English
+military service.
 
 Since the place promised to Voigt has not yet been surveyed, then, if the desired
 place were likewise allotted to me, it would require only one surveying; therefore
