@@ -14,7 +14,7 @@ N.C. 62                              3
 
 [set of initials]
 
-{empty}C.
+C.
 
 Ans Amt Buckeberg Ausweisung
 
@@ -52,7 +52,7 @@ equivalents.
 ....
 N.C. 62                              3
 
-{empty}C.
+C.
 
 To the Amt of Bückeburg
 Land Allotment
