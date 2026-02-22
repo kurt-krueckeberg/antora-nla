@@ -1,0 +1,232 @@
+[%header,cols="1,5a,3a,2,1,1,1",frame=none]
+|===
+|No.|Description of Documents|Subject|Place|Year|Month|Day
+
+|1.
+|xref:doc1.adoc[Petition of the shoemaker Krückeberg No. 10 at Berenbusch.]
+
+xref:doc1.adoc[Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
+.11+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
+Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
+
+Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
+Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:
+|Berenbusch
+|1817
+|Jan.
+|1.
+
+|2.
+|xref:doc2.adoc[Submission by the Forestry Department, together with
+a report by Chief Forester Falkmann
+regarding timber, with a drawing.]
+
+xref:doc2.adoc[Vortrag des Forstdepartements, samt
+Bericht des Oberförsters Falkmann
+zum Baum mit Zeichnung.]
+|Bburg
+|1817
+|Febr
+|3
+
+|3.
+|xref:doc3.adoc[Concluded Chancery rescript to the local office.]
+
+xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
+|Bburg
+|1817
+|Febr.
+|13
+
+|4.
+|xref:doc4.adoc[Petition of the lodger Vogt at Evesen, with
+chamber resolution.]
+
+xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
+|Bburg
+|1817
+|Novbr
+|3
+
+|5.
+|xref:doc5.adoc[Likewise, petition of the soldier Brüggemann
+from No. 1 at Nordholz, with chamber resolution.]
+
+xref:doc5.adoc[desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum
+Res. Cam.]
+|Bburg
+|1817
+|Decbr.
+|15.
+
+|6.
+|Report of the local office.
+
+Bericht hiesigen Amts.
+|Bburg
+|1817
+|Decbr
+|31.
+
+|7.
+|Concluded Chancery rescript to the local office.
+
+Conc. K. Rescript ans Amt dahier.
+|Bburg
+|1818
+|Jan
+|13
+
+|8.
+|Report of the local office, with
+drawing.
+
+Bericht hiesigen Amts, samt
+Zeichnung.
+|Bburg
+|1818
+|Febr.
+|16.
+
+|9.
+|Concluded Chancery rescript from the local office.
+
+Conc. K. Rescript aus hiesige[m] Amt.
+|Bburg
+|1818
+|Febr.
+|26
+
+|10.
+|Petition of Vogt from Nordholz,
+with drawing.
+
+Vorstellung von Vogt aus Nord-
+holz, samt Zeichnung.
+|Bburg
+|1818
+|Maÿ.
+|24.
+
+|11.
+|Report of the local office, with drawing
+and specification.
+
+Bericht hiesigen Amts, samt Zeich-
+nung mit Specification.
+|Bburg
+|1818
+|Maÿ.
+|30.
+
+|12.
+|Concluded Chancery rescript to the local office,
+likewise to the Chamber treasury.
+
+Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
+|
+|Bburg
+|1818
+|Junÿ
+|17
+
+|13.
+|Chamber treasury receipt.
+
+Kammercassenquittung.
+|
+|Bburg
+|1818
+|Sept
+|14.
+
+|14.
+|Petition of the new settler Brüggemann No. 14 at Nordholz.
+
+Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
+|
+|Bburg
+|1818
+|Sept
+|30
+
+|15.
+|Chancery resolution to the persons previously named.
+
+Com. K. Resolution an Vorhin genannten.
+|
+|Bburg
+|1818
+|Oct
+|7
+
+|16.
+|Petition of the shoemaker Krückeberg No. 10 at Berenbusch.
+
+Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
+.2+|Remission of the purchase price, as remitted, concerning:
+
+Erlaß des Kaufpreises, so abgeschlagen betr:
+|Berenbusch
+|1818
+|Sept
+|7
+
+|17.
+|Concluded Chancery resolution to the same party.
+
+Conc. K. Resolution an denselben
+|Bburg
+|1818
+|Oct.
+|7
+
+|18.
+|Chamber treasury receipt.
+
+Kammercassenquittung
+.5+|Land allocation concerning (Krückeberg, Vogt, Brüggemann).
+
+Ausweisung betr. +
+(Krückeberg, Vogt, Brüggemann)
+|Bburg
+|1818
+|Oct.
+|27
+
+|19.
+|Concluded purchase contract for the colonist Krückeberg No. 10 at Berenbusch.
+
+Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch
+|Bburg
+|1818
+|Novbr
+|16
+
+|20.
+|Likewise, for the new settler Vogt No. 13 at Nordholz.
+
+desgl. für den Neubauer Vogt No 13. zu Nordholz.
+|Bburg
+|1818
+|Novbr
+|16
+
+|21.
+|Chamber treasury receipt.
+
+Kammercassenquitung.
+|Bburg
+|1818
+|Dec[?]
+|4
+
+|22.
+|Concluded purchase contract for Brüggemann No. 14 at Nordholz.
+
+Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.
+|Bburg
+|1818
+|Dec
+|14
+|===

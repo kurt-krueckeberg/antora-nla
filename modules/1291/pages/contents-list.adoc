@@ -153,7 +153,7 @@ holz, samt Zeichnung.
 |1818
 |Maÿ.
 |24.
- 
+
 |11.
 |Report of the local office, with drawing
 and specification.
@@ -170,6 +170,7 @@ nung mit Specification.
 likewise to the Chamber treasury.
 
 Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
+|
 |Bburg
 |1818
 |Junÿ
@@ -179,6 +180,7 @@ Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
 |Chamber treasury receipt.
 
 Kammercassenquittung.
+|
 |Bburg
 |1818
 |Sept
@@ -188,6 +190,7 @@ Kammercassenquittung.
 |Petition of the new settler Brüggemann No. 14 at Nordholz.
 
 Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
+|
 |Bburg
 |1818
 |Sept
@@ -197,6 +200,7 @@ Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
 |Chancery resolution to the persons previously named.
 
 Com. K. Resolution an Vorhin genannten.
+|
 |Bburg
 |1818
 |Oct
@@ -272,6 +276,7 @@ Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.
 |Dec
 |14
 |===
+
 
 [%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
