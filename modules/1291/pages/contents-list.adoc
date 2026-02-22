@@ -49,7 +49,7 @@ image::01-r.jpg[link=self]
 |No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
 |1.
-|Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
+|xref:doc1.adoc[Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
 .11+|Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
 Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:
 |Berenbusch
@@ -58,9 +58,9 @@ Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:
 |1.
 
 |2.
-|Vortrag des Forstdepartements, samt
+|xref:doc2.adoc[Vortrag des Forstdepartements, samt
 Bericht des Oberförsters Falkmann
-zum Baum mit Zeichnung.
+zum Baum mit Zeichnung.]
 |Bburg
 |1817
 |Febr
@@ -226,7 +226,7 @@ Schmacher Krückeberg
 |No.|Description of Documents|Subject|Place|Year|Month|Day
 
 |1.
-|Petition of the shoemaker Krückeberg No. 10 at Berenbusch.
+|xref:doc1.adoc[etition of the shoemaker Krückeberg No. 10 at Berenbusch.]
 .11+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
 Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
 |Berenbusch
@@ -235,9 +235,9 @@ Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
 |1.
 
 |2.
-|Submission by the Forestry Department, together with
+|xref:doc2.adoc[Submission by the Forestry Department, together with
 a report by Chief Forester Falkmann
-regarding timber, with a drawing.
+regarding timber, with a drawing.]
 |Bburg
 |1817
 |Febr

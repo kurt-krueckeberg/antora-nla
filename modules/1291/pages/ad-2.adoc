@@ -1,7 +1,6 @@
 = ad 2
 :page-role: wide
 
-
 == Image
 
 image::04-r.png[link=self]
@@ -15,7 +14,6 @@ ad 2.
 
 
 Ausweisung betrefft
-
 
 In Gefolge des von Fürstl. Forstdirec tion erhaltenen Auftrags, habe ich
 den Platz um deßen Ausweisung, Krückeberg no 10 in Berenbusch
