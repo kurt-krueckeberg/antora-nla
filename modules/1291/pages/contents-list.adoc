@@ -74,15 +74,15 @@ zum Baum mit Zeichnung.]
 |13
 
 |4.
-|Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:
+|xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
 |Bburg
 |1817
 |Novbr
 |3
 
 |5.
-|desgl. vom Soldat Brüggemann
-von No. 1. zu Nordholz, cum Res. Cam.
+|xref:doc5.adoc[desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum
+Res. Cam.]
 |Bburg
 |1817
 |Decbr.
@@ -251,17 +251,16 @@ regarding timber, with a drawing.]
 |13
 
 |4.
-|Petition of the lodger Vogt at Evesen, with
-chamber resolution.
+|xref:doc4.adoc[Petition of the lodger Vogt at Evesen, with
+chamber resolution.]
 |Bburg
 |1817
 |Novbr
 |3
 
 |5.
-|Likewise, petition of the soldier Brüggemann
-from No. 1 at Nordholz, with
-chamber resolution.
+|xref:doc5.adoc[Likewise, petition of the soldier Brüggemann
+from No. 1 at Nordholz, with chamber resolution.]
 |Bburg
 |1817
 |Decbr.
