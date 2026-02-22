@@ -19,7 +19,7 @@ C.
 Ans Amt Buckeberg Ausweisung
 
 Das Amt wird beauftragt, den Krückeberg N. 10 zu Berenbusch wissen, daß ihn
-die auf die Anlage erzeichnete Forstade, sich gegenwärtig einen halben Morgen haltend,
+die auf die Anlage erzeichnete Forstade, ist ohngefähr einen halben Morgen haltend,
 gegen billige Bezahlung ansgewiesen werde solle.
 
 Zuvor hat aber d. Amt über die etwaigen Widersprüche der
@@ -33,6 +33,20 @@ Bbg. 13 Feb
 Exp: pr: Schultz
 ....
 
+.Note on the Size of a Morgen
+****
+[NOTE]
+====
+The Morgen was a traditional German unit of land measurement whose exact
+size varied by region. In Schaumburg-Lippe in the early 19th century, one
+Morgen generally corresponded to approximately 0.25 hectares (about 0.6
+acres, or roughly 6,000 square meters). Accordingly, the half-Morgen
+referenced in this document would have measured about 0.12–0.13 hectares
+(approximately 0.3 acres, or about 3,000 square meters). Because the Morgen
+was not a standardized unit, these figures represent approximate modern
+equivalents.
+====
+****
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -44,11 +58,11 @@ To the Amt of Bückeburg
 Land Allotment
 
 The Amt is instructed to inform Krückeberg No. 10 at Berenbusch that the
-forest parcel marked on the plan, presently amounting to one half Morgen,
-is to be allotted to him in return for reasonable payment.
+forest parcel marked on the plan, being approximately one half Morgen in
+size, is to be allotted to him in return for reasonable payment.
 
-However, the Amt must first report on any possible objections of the
-holders of pasture rights, after hearing them.
+However, before doing so, the Amt is to report on any possible objections
+of the holders of pasture rights, after hearing them.
 
 Bückeburg, 13 February
 
