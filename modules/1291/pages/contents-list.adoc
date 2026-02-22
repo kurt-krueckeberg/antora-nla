@@ -67,7 +67,7 @@ zum Baum mit Zeichnung.]
 |3
 
 |3.
-|Conc. K. Rescript ans Amt dahier.
+|xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
 |1817
 |Febr.
@@ -244,7 +244,7 @@ regarding timber, with a drawing.]
 |3
 
 |3.
-|Concluded Chancery rescript to the local office.
+|xref:doc3.adoc[Concluded Chancery rescript to the local office.]
 |Bburg
 |1817
 |Febr.

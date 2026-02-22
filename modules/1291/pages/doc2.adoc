@@ -1,4 +1,4 @@
-= Document 2:Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann zum Baum mit Zeichnung 
+= Document 2: Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann zum Baum mit Zeichnung 
 :page-role: wide
 
 == Image
