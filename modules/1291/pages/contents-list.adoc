@@ -226,7 +226,7 @@ Schmacher Krückeberg
 |No.|Description of Documents|Subject|Place|Year|Month|Day
 
 |1.
-|xref:doc1.adoc[etition of the shoemaker Krückeberg No. 10 at Berenbusch.]
+|xref:doc1.adoc[Petition of the shoemaker Krückeberg No. 10 at Berenbusch.]
 .11+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
 Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
 |Berenbusch
@@ -394,7 +394,6 @@ likewise to the Chamber treasury.
 |1818
 |Dec
 |14
-
 |===
 
 Shoemaker Krückeberg
