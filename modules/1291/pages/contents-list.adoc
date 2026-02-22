@@ -52,7 +52,7 @@ image::01-r.jpg[link=self]
 |xref:doc1.adoc[Petition of the shoemaker Krückeberg No. 10 at Berenbusch.]
 
 xref:doc1.adoc[Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
-.11+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
+.15+|Allocations from forest land in the Söhre for Krückeberg No. 10 at
 Berenbusch, Vogt No. 13 at Nordholz, and Brüggemann No. 14 there, concerning.
 
 Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
@@ -170,7 +170,6 @@ nung mit Specification.
 likewise to the Chamber treasury.
 
 Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
-|
 |Bburg
 |1818
 |Junÿ
@@ -180,7 +179,6 @@ Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
 |Chamber treasury receipt.
 
 Kammercassenquittung.
-|
 |Bburg
 |1818
 |Sept
@@ -190,7 +188,6 @@ Kammercassenquittung.
 |Petition of the new settler Brüggemann No. 14 at Nordholz.
 
 Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
-|
 |Bburg
 |1818
 |Sept
@@ -200,7 +197,6 @@ Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
 |Chancery resolution to the persons previously named.
 
 Com. K. Resolution an Vorhin genannten.
-|
 |Bburg
 |1818
 |Oct
