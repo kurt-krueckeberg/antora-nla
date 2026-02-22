@@ -1,4 +1,4 @@
-= Survey Map 1
+= Document 2 Enclosure: Survey Drawing
 :page-role: wide
 
 == Image

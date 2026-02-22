@@ -1,4 +1,4 @@
-= ad 2
+= Document 2 Enclosure: Report of Chief Forester Falkmann 
 :page-role: wide
 
 == Image
@@ -30,7 +30,7 @@ Falckmann
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-ad 2
+ad 2 [pertaining to document 2]
 
 Re: Land allotment
 
