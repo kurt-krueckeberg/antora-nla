@@ -15,7 +15,7 @@ N. A. 749.
 
 [various initials]
 
-C. Aus Amt Rückeburg
+C. Aus Amt Bückeburg
 
 mit Zuziehung des
 Oberförsters, in einer
@@ -24,20 +24,41 @@ Exp: p: Alocis
 Mein
 
 Ausweisung.
-Auf angezogene Bericht und
-Amt beruftragt, die denen
-erwähnte Ausweisung für den
-heiliger Vogt zur Evesen zur
-bewerkstelligen u. demnächst hier-
-über zu berichten.
 
-Bdg. d. 13 Jan 18
-Snos??
-[????]
+Auf angezogenen Bericht wird d. Amt beauftragt, die darin
+erwähnte Ausweisung für den Einlieger Vogt zu Evesen zu
+bewerkstelligen u. demnächst hierüber zu berichten.
 
-mit Zuziehung des
-Oberförsters, in einer
-Fläche von 1 bis 1 ½ Morgen
+Bbg. d. 13 Jan 18
+Schnor
+Spring
 
-Exp: p: Alocis
+mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
+
+Exp: pr: Alocis
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+N.C. 16.
+N.A. 749.
+(Folio 7)
+
+C. From the Amt of Bückeburg
+
+Allotment.
+
+On the basis of the report, the Amt is instructed to carry out the land
+allotment mentioned therein for Einlieger (lodger/tenant) Vogt of Evesen
+and thereafter to report back.  
+
+Bückeburg, 13 January 1818
+
+Schnor
+Spring
+
+The allotment of the land is to be carried out with the involvement of the Chief
+Forester and is to comprise an area of 1 to 1½ Morgen.
+
+Expedited by: Alocis.
 ....
