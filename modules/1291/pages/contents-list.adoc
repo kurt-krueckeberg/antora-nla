@@ -75,7 +75,7 @@ Res. Cam.]
 |15.
 
 |6.
-|Report of the local office.
+|xref:doc6.adoc[Report of the local office.]
 
 Bericht hiesigen Amts.
 |Bburg
