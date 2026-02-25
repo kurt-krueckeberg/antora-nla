@@ -9,14 +9,77 @@ image::13-l.png[link=self]
 
 image::12-r-vert-text.png[title="Res. Cam.",link=self]
 
+== Summary
+
+The report recommends granting the land assignment to Vogt, who has
+demonstrated sufficient financial means. Some Hude-interest holders
+(specifically members of the Meier and Halbmeier class) were asked whether
+they had objections, and they stated that they had none.
+
+The report explains that smaller holders tend to object when formally
+asked, and that requiring unanimous waiver of all objections would make
+land assignments practically impossible without lengthy negotiations. In
+practice, however, when they are not formally consulted, they usually
+acquiesce because they lack the support of larger landholders.
+
+Although no objections currently exist, Vogt must formally agree that if
+objections arise in the future, he will contest them himself, in and out of
+court, at his own expense, and without any right to legal representation or
+indemnification from the Princely Chamber.
+
 [.narrow]
 == Transliteration and Translation
+
+.What does Hude mean?
+****
+*Hude* is a North German legal term meaning:
+
+____
+the right to pasture livestock on common land, especially woodland or
+communal grazing areas.
+____
+
+It does *not* mean ownership of land. It refers to a *usage right* —
+specifically grazing rights.
+
+In early modern and 19th-century rural law (including Schaumburg-Lippe),
+villages often had:
+
+* common woodland
+* common pasture
+* heath or forest areas
+
+Farmers held legally recognized rights to drive their cattle, pigs, or
+sheep onto that land. Those rights were called *Hude* (also related to
+_Huterecht_ or _Hutrecht_).
+
+So:
+
+* *Hude* = common grazing right
+* *Hude-Interessenten* = those who hold such grazing rights
+* *Hudeberechtigte* = those legally entitled to graze livestock there
+
+In your document, the land being assigned to Vogt likely came out of
+land subject to these communal grazing rights. That is why the holders
+of those rights were consulted.
+
+There is no exact modern English equivalent word. The clearest
+translation is:
+
+____
+common grazing rights or rights of common pasture
+____
+
+A modern English reader would not understand "`Hude`" without
+explanation, so translating it descriptively — as you have now done — is
+appropriate.
+****
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 16                                                          6.,
 
-[3 Gr Stemple]
+[3 Gr Stempel]
 
 [routing notation]
 
@@ -25,36 +88,36 @@ No pr: 749
 
 p[räsenitert] 7 Juni 1818
 
-Fürstliche Kammer Bericht der Aemter Buckeburg und Arensburg
+Fürstliche Kammer Bericht der Ämter Bückeburg und Arensburg
 
 Ausweisung
 
-Der Einlieger Vogt zu Evesen hat zum Nachweisen seiner Vermögensmitteln,
-die er zum Neubauen anwenden kann, 68 rd baar, am 9 Dec d 3.  beÿ hiesigem
-Amte niedergelegt, und sein Schwager Wilharm No 11 zu Evesen hat, um die
-Summe von 100 rt vollzählig zu machen, dabeÿ versprochen, 20 rt Brautschat
-und 12 rd ex Åedito, sobald Vogt, es bedärffe, noch beizulegen. Von Seiten
-der Hude-Intressen, ten hat der Amtsdiener Hartmann von mehreren derselben,
-und zwar der Meier und Halbmeier-Klasse, auf die bey ihnen noch etwaigen
-gegen die Ausweisung vorzubringenden Einreden gehaltene Nachfrage, die
-Antworte halten, daß sie dergleichen nicht vorzubringen hätten. So wie die
-kleineren hingegen, wenn dergleichen Anfragen an sie geschehen, jedesmalen
-gern gegen jede Ausweisung sprechen, und wenn deren einmüthigliche Begebung
-aller Einreden erhalten werden soll, wohl niemals eine ihre Intresse
-berührende Ausweisung ohne vorherige weitläuftige Beseitigung derselben, zu
-Stande kommen würde, im Gegentheil aber dieselben sich beÿ der Ausweisung,
-wenn sie ohne vorgängige Anfrage beÿ ihnen vollzogen wird, in Ermangelung
-des Beistandes von ihren gröseren Nachbaren, gemeiniglich beruhigen, so
-versichert auch der Amtsdiener Hartmann, daß ebenwohl die gebethene
-Ausweisung keinen weitern Einspruch leiden wurde. In aller Vorsicht möchte
-vor der Verrichtung derselben, von dem Vogt Coram protocollo die Bedingung
-einzugehen seÿn, daß bey etwa noch in der Folge entstehenden Einreden der
-Hude berechtigten, er solche, ohne von fürstl. Kammer einige Vertretung
+Der Einlieger Vogt zu Evesen hat zum Nachweisen seiner Vermögensmittel, die
+er zum Neubauen anwenden kann, 68 rt bar, am 9 Dez. 13. bei hiesigem Amte
+niedergelegt, und sein Schwager Wilharm Nr. 11 zu Evesen hat, um die Summe
+von 100 rt vollzählig zu machen, dabei versprochen, 20 rt Brautschatz und
+12 rt ex Ædito, sobald Vogt es bedürffe, noch beizulegen. Von Seiten der
+Hude-Interessenten hat der Amtsdiener Hartmann von mehreren derselben, und
+zwar der Meier und Halbmeier-Klasse, auf die bei ihnen noch etwaigen gegen
+die Ausweisung vorzubringenden Einreden gehaltene Nachfrage, die Antwort
+erhalten, daß sie dergleichen nicht vorzubringen hätten. So wie die
+kleineren hingegen, wenn dergleichen Anfragen an sie geschehen, jedes Mal
+gern gegen jede Ausweisung sprechen, und wenn deren einmütigliche Begebung
+aller Einreden erhalten werden soll, wohl niemals eine ihre Interessen
+berührende Ausweisung ohne vorherige weitläufige Beseitigung derselben,
+zustande kommen würde, im Gegenteil aber dieselben sich bei der Ausweisung,
+wenn sie ohne vorgängige Anfrage bei ihnen vollzogen wird, in Ermangelung
+des Beistandes von ihren größeren Nachbarn, gemeiniglich beruhigen, so
+versichert auch der Amtsdiener Hartmann, daß ebenwohl die gebetene
+Ausweisung keinen weiteren Einspruch leiden würde. In aller Vorsicht möchte
+vor der Verrichtung derselben, von dem Vogt coram protocollo die Bedingung
+einzugehen sein, daß bei etwa noch in der Folge entstehenden Einreden der
+Hudeberechtigten, er solche, ohne von der fürstlichen Kammer Vertretung
 oder Schadloshaltung fordern zu dürfen in und außerhalb Gerichtes eigenen
 Hautes zu verfechten suchen wolle.
 
 Bückeburg
-d. 31ten Dec 1817.
+d. 31. Dez. 1817.
 
 Habicht Neussel
 ....
@@ -62,6 +125,48 @@ Habicht Neussel
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
+No. 16 6.
+
+Presented 7 June 1818
+
+Princely Chamber
+Report of the Offices of Bückeburg and Arensburg
+
+Land Assignment
+
+The lodger (Einlieger) Vogt of Evesen, in order to demonstrate that he has
+the financial means to construct a new dwelling, deposited 68 Reichstaler
+in cash at this office on 9 December 1813; and his brother-in-law Wilharm,
+No. 11 in Evesen, in order to bring the total to 100 Reichstaler, further
+promised to contribute 20 Reichstaler from his wife’s dowry and 12
+Reichstaler ex ædito, should Vogt require it.
+
+On behalf of the holders of common grazing rights, the court officer
+Hartmann inquired of several of them—namely those of the Meier and
+Halbmeier class—whether they had any objections to the proposed land
+assignment. He was told that they had none.
+
+The smaller holders, when such inquiries are addressed to them, are
+accustomed to speak against every land assignment. If unanimous waiver of
+all objections were required, scarcely any assignment affecting their
+interests would ever take place without lengthy prior negotiations to
+remove those objections. In practice, however, when an assignment is
+carried out without first consulting them, they generally acquiesce, since
+they lack the support of their larger neighbors. The court officer Hartmann
+therefore states that the requested land assignment would likewise
+encounter no further objection.
+
+As a precaution, before carrying out the assignment, Vogt should be
+required, coram protocollo, to undertake that, should objections
+subsequently arise from the Hude-entitled parties, he will seek to contest
+them, in and out of court, at his own expense, without being entitled to
+demand representation or compensation from the Princely Chamber.
+
+Bückeburg
+31 December 1817
+
+Habicht
+Neussel
 ....
 
 === Resolution of Rentkammer

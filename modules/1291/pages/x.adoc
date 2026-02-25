@@ -1,0 +1,44 @@
+.What does Hude mean?
+****
+*Hude* is a North German legal term meaning:
+
+____
+the right to pasture livestock on common land, especially woodland or
+communal grazing areas.
+____
+
+It does *not* mean ownership of land. It refers to a *usage right* —
+specifically grazing rights.
+
+In early modern and 19th-century rural law (including Schaumburg-Lippe),
+villages often had:
+
+* common woodland
+* common pasture
+* heath or forest areas
+
+Farmers held legally recognized rights to drive their cattle, pigs, or
+sheep onto that land. Those rights were called *Hude* (also related to
+_Huterecht_ or _Hutrecht_).
+
+So:
+
+* *Hude* = common grazing right
+* *Hude-Interessenten* = those who hold such grazing rights
+* *Hudeberechtigte* = those legally entitled to graze livestock there
+
+In your document, the land being assigned to Vogt likely came out of
+land subject to these communal grazing rights. That is why the holders
+of those rights were consulted.
+
+There is no exact modern English equivalent word. The clearest
+translation is:
+
+____
+common grazing rights or rights of common pasture
+____
+
+A modern English reader would not understand "`Hude`" without
+explanation, so translating it descriptively — as you have now done — is
+appropriate.
+****
