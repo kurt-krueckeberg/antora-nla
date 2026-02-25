@@ -7,6 +7,7 @@ image::13-r.png[link=self]
 
 == Tramsliteration and Translation
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. C. 16.                                             7.,
 N. A. 749.
