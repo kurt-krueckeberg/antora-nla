@@ -14,7 +14,7 @@ image::12-r-vert-text.png[title="Res. Cam.",link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N. 16                                      6
+N. 16                                                          6.,
 
 [3 Gr Stemple]
 
