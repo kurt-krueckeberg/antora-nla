@@ -9,6 +9,7 @@ image::13-l.png[link=self]
 
 image::12-r-vert-text.png[title="Res. Cam.",link=self]
 
+[.narrow]
 == Summary
 
 The report recommends granting the land assignment to Vogt, who has
@@ -26,9 +27,6 @@ Although no objections currently exist, Vogt must formally agree that if
 objections arise in the future, he will contest them himself, in and out of
 court, at his own expense, and without any right to legal representation or
 indemnification from the Princely Chamber.
-
-[.narrow]
-== Transliteration and Translation
 
 .What does Hude mean?
 ****
@@ -75,6 +73,8 @@ explanation, so translating it descriptively — as you have now done — is
 appropriate.
 ****
 
+[.narrow]
+== Transliteration and Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 16                                                          6.,
