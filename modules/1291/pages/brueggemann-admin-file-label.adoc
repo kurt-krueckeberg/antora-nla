@@ -1,5 +1,14 @@
 = Administrative Label of Brüggemann Petition
 
+== Image 
+
+TODO: add it!
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+
 ....
 An 
 fürstl. Rentkammer
