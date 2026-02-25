@@ -169,12 +169,20 @@ Habicht
 Neussel
 ....
 
-=== Resolution of Rentkammer
+=== Notation about Document
+
+It is a brief registry note indicating that the matter concerns the land allotment that is to be carried into effect under a Chamber resolution. It does not issue a new order; it simply records that the allotment stands in the implementation stage.
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Res. Cam. Nach
+die Ausweisung einer zu  bewirkfällige[n]
+ Bbg d 12 Jan 1818
+         in. fid. Spring
 ....
+
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Resolution of the Chamber — concerning the allotment to be effected.
 ....
