@@ -5,6 +5,7 @@
 
 image::13-r.png[link=self]
 
+[.narrow]
 == Tramsliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
