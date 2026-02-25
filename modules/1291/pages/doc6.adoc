@@ -1,0 +1,58 @@
+= Document 5: Likewise, petition of the soldier Brüggemann from No. 1 at Nordholz, with chamber resolution.
+:page-role: wide
+
+== Images
+
+image::12-r.png[link=self]
+
+image::13-l.png[link=self]
+
+image::12-r-vert-text.png[title="Res. Cam.",link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. 16                                      6
+
+[3 Gr Stemple]
+
+[routing notation]
+
+ad: C: N: 520
+No pr: 749
+
+p[räsenitert] 7 Juni 1818
+
+Fürstliche Kammer Bericht der Aemter Buckeburg und Arensburg
+
+Ausweisung
+
+Der Einlieger Vogt zu Evesen hat zum Nachweisen seiner Vermögensmitteln,
+die er zum Neubauen anwenden kann, 68 rd baar, am 9 Dec d 3.  beÿ hiesigem
+Amte niedergelegt, und sein Schwager Wilharm No 11 zu Evesen hat, um die
+Summe von 100 rt vollzählig zu machen, dabeÿ versprochen, 20 rt Brautschat
+und 12 rd ex Åedito, sobald Vogt, es bedärffe, noch beizulegen. Von Seiten
+der Hude-Intressen, ten hat der Amtsdiener Hartmann von mehreren derselben,
+und zwar der Meier und Halb- meier-Klasse, auf die bey ihnen noch etwaigen
+gegen die Ausweisung vorzubringenden Eingereden gehaltene Nachfrage, die
+Antworte halten, daß sie dergleichen nicht vorzubringen hätten. So wie die
+kleineren hingegen, wenn dergleichen Anfragen an sie geschehen, jedesmalen
+gern gegen jede Ausweisung sprechen, und wenn
+....
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+
+=== Resolution of Rentkammer
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
