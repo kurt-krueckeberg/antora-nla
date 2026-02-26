@@ -7,6 +7,8 @@ image::14-r.png[link=self]
 
 [.narrow]
 == Translation and Transliteration
+
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. 101.
 p. 20 Febr. 1828
