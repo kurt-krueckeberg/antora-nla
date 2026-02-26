@@ -86,7 +86,7 @@ Bericht hiesigen Amts.
 |7.
 |xref:doc7.adoc[Concluded Chancery rescript to the local office.]
 
-Conc. K. Rescript ans Amt dahier.
+xref:doc7.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
 |1818
 |Jan
@@ -95,8 +95,7 @@ Conc. K. Rescript ans Amt dahier.
 |8.
 |xref:doc8.adoc[Report of the local office, with drawing.]
 
-Bericht hiesigen Amts, samt
-Zeichnung.
+xref:doc8.adoc[Bericht hiesigen Amts, samt Zeichnung.]
 |Bburg
 |1818
 |Febr.
