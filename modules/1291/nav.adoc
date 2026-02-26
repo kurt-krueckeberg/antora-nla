@@ -11,3 +11,4 @@
 *** xref:doc5.adoc[]
 *** xref:doc6.adoc[]
 *** xref:doc7.adoc[]
+*** xref:doc8.adoc[]
