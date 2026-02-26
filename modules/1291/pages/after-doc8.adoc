@@ -1,0 +1,28 @@
+= After Document 8
+:page-role: wide
+
+== Image
+
+image::15-l.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.border,subs="verbatim,quotes"]
+....
+Colonine nach derjenigen Richtung zu bestimmen, welche in der
+Situations Zeichnung angegeben ist.
+
+In wie fere der Wald-Abschnitt A. Rud B. für diese zwey Colonien zu
+auszuweisen bei wird sich seÿn wird, wird sich bei der Vermessung der
+Plätze ergeben.
+
+Ein halber Morgen jeder Colonie ist mit 6 mg. P. Quadrat-Rute und der
+übrige Grund u Boden ist mit 12. mg. P. Quadrat-Rute zu bezahlen.  Da vor
+künftigen Herbst kein Bauholz im Baumer Forst Rerirere mehr angewiesen
+werden mag; so hätte das Amt dieses der Neubauern bekannt zu machen, um
+sich darnach zu richten.
+
+Bückeb: 23. Febr. 1818.
+MKaas
+....
