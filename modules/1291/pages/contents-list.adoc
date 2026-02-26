@@ -84,7 +84,7 @@ Bericht hiesigen Amts.
 |31.
 
 |7.
-|Concluded Chancery rescript to the local office.
+|xref:doc7.adoc[Concluded Chancery rescript to the local office.]
 
 Conc. K. Rescript ans Amt dahier.
 |Bburg
@@ -93,8 +93,7 @@ Conc. K. Rescript ans Amt dahier.
 |13
 
 |8.
-|Report of the local office, with
-drawing.
+|xref:doc8.adoc[Report of the local office, with drawing.]
 
 Bericht hiesigen Amts, samt
 Zeichnung.
