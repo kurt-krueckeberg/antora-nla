@@ -1,0 +1,20 @@
+= Document 9: Concluded Chancery rescript from the local office
+:page-role: wide
+
+== Images
+
+image::16-r.png[link=self]
+
+image::17-l.png[link=self]
+
+[.narrow]
+== Translation and Transliteration
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
