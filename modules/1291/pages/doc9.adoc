@@ -12,6 +12,17 @@ image::17-l.png[link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
+ad. Num: Cam: 101.                                          9.,
+ad. Num. Praef. 831.
+Concept.
+
+Spring
+Wag
+vlandesberg
+Waceckwerten
+
+Expd: Knöttge.
+
 Ans
 Amt Bückeberg
 Ausweisung betr:
@@ -40,4 +51,40 @@ Furstl: Schaumbl: Lippl: Rentkammer
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
+ad Num: Cam: 101. 9.,
+ad Num. Praef. 831.
+Draft.
+
+[signatures of: 
+Spring
+Wag
+vlandesberg
+Waceckwerten]
+
+Dispatched: Knöttge.
+
+To the
+Office of Bückeburg
+Re: Land assignment
+
+The Office is hereby informed, in response to the report of 16 February,
+that to the soldier Brüggemann a plot of 1 to 1½ Morgen, adjoining the
+colony plot of the lodger Vogt, is likewise to be assigned for the
+establishment of a colony.
+
+The boundary at the forest is to be determined for both colonies according
+to the direction indicated in the situational drawing. To what extent the
+forest section A and B is to be assigned for these two colonies will be
+determined during the surveying of the plots.
+
+Half a Morgen of each colony is to be paid for at 6 mgl. P. per square rod,
+and the remaining land is to be paid for at 12 mgl. P. per square rod.
+
+Since no construction timber will be allocated in the Baumerdornst district
+before the coming autumn, the Office is instructed to make this known to
+the new farmers, by which they are to govern themselves.
+
+Bückeburg, 26 February 1818.
+
+Princely Schaumburg-Lippe Rentkammer.
 ....
