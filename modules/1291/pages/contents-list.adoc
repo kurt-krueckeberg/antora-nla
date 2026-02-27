@@ -102,7 +102,7 @@ xref:doc8.adoc[Bericht hiesigen Amts, samt Zeichnung.]
 |16.
 
 |9.
-|Concluded Chancery rescript from the local office.
+|xref:doc9.adoc[Concluded Chancery rescript from the local office.]
 
 Conc. K. Rescript aus hiesige[m] Amt.
 |Bburg
@@ -111,8 +111,7 @@ Conc. K. Rescript aus hiesige[m] Amt.
 |26
 
 |10.
-|Petition of Vogt from Nordholz,
-with drawing.
+|xref:doc10.adoc[Petition of Vogt from Nordholz, with drawing.]
 
 Vorstellung von Vogt aus Nord-
 holz, samt Zeichnung.
