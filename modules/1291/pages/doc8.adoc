@@ -7,6 +7,8 @@ image::14-r.png[link=self]
 
 image::15-l.png[link=self]
 
+image::15-r.png[link=self]
+
 [.narrow]
 == Translation and Transliteration
 
@@ -114,4 +116,26 @@ of this so that they may make their arrangements accordingly.
 
 Bückeburg, 23 February 1818.
 M. Kaas
+....
+
+=== Drawing Legend
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Auf Befehl der Forst Direction soll der Platz, mit A und B. bezeichnete
+für zwey Neubauer sein, welcher in der Petzer Hanß belegen, und an Nordholz
+grenzet.
+
+A. Für den Vogt.
+B. Für den Bruggeman.
+C. Bruns Haus N 12 in Nordholz
+D. Die Strasse, welche aus Nordholz
+im Wald führet.
+E. Der Weg von Bruns Hause nach der Tiefen Strasse
+F. Rinnen Kamp N. S. in Ewesen.
+G. Brügemans Kamp N. 1. in Nordholz
+H. Ein Weg nach Weilands Kamp N. 1. in Behrenbusch
+J. Weilandt Kamp N. 6. ein Nordholz
+K. die angrenzende Petzen Horst
 ....
