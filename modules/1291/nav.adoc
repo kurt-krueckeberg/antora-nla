@@ -12,4 +12,3 @@
 *** xref:doc6.adoc[]
 *** xref:doc7.adoc[]
 *** xref:doc8.adoc[]
-*** xref:intermediate-instruction.adoc[]

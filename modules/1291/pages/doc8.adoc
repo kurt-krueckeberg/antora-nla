@@ -1,9 +1,11 @@
 = Document 8: Report of the local office, with drawing
 :page-role: wide
 
-== Image
+== Images
 
 image::14-r.png[link=self]
+
+image::15-l.png[link=self]
 
 [.narrow]
 == Translation and Transliteration
@@ -44,7 +46,20 @@ Neußel
 Res: Cam:
 Dem Soldaten Brüggemann wäre ein Platz von 1 bis 1 1/2 Morgen neben dem
 Colonie-Platze des Einliegers Vogt ebenfalls zur Erbauung einer Colonie
-anzuweisen. Die Grenze am Walde ist für beide Colonien.
+anzuweisen. Die Grenze am Walde ist für beide Colonien nach derjenigen
+Richtung zu bestimmen, welche in der Situations Zeichnung angegeben ist.
+
+In wie fern der Wald-Abschnitt A. und B. für diese zwey Colonien
+auszuweisen seÿn wird, wird sich bei der Vermessung der Plätze ergeben.
+
+Ein halber Morgen jeder Colonie ist mit 6 mg. P. Quadrat-Rute und der
+übrige Grund und Boden ist mit 12 mg. P. Quadrat-Rute zu bezahlen. Da vor
+künftigen Herbst kein Bauholz im Baumer Forst Reviere mehr angewiesen
+werden mag; so hätte das Amt dieses den Neubauern bekannt zu machen, um
+sich darnach zu richten.
+
+Bückeb: 23. Febr. 1818.
+MKaas
 ....
 
 
@@ -81,8 +96,22 @@ Neußel
 
 Resolution of the Chamber:
 
-To the soldier Brüggemann there is to be assigned a plot of 1 to 1½ Morgen
-next to the colony plot of the Einlieger Vogt, likewise for the
-construction of a colony holding. The boundary at the forest shall serve
-for both colonies.
+A plot of 1 to 1½ Morgen is to be assigned to the soldier Brüggemann next
+to the homestead plot of the Einlieger Vogt, likewise for the establishment
+of a new homestead.
+
+The boundary along the forest is to be determined for both homestead plots
+in the direction indicated in the layout drawing.
+
+The extent of forest sections A and B to be assigned to these two homestead
+plots will be determined when the plots are surveyed.
+
+One half-Morgen of each homestead plot is to be paid for at 6
+Mariengroschen per square rod, and the remaining land at 12 Mariengroschen
+per square rod. Since no building timber may be allocated from the Baumer
+forest district before next autumn, the Amt is to inform the new settlers
+of this so that they may make their arrangements accordingly.
+
+Bückeburg, 23 February 1818.
+M. Kaas
 ....
