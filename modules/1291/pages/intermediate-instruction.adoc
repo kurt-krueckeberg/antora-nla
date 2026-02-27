@@ -8,7 +8,7 @@ image::15-l.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
-[literal.border,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Colonien nach derjenigen Richtung zu bestimmen, welche in der
 Situations Zeichnung angegeben ist.
@@ -27,7 +27,7 @@ MKaas
 ....
 
 
-[literal.border,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 The homestead plots are to be laid out in the direction indicated in the
 site plan.
