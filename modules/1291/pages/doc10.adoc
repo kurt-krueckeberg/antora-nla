@@ -4,6 +4,12 @@
 
 image::17-r.png[link=self]
 
+image::18-l.png[link=self]
+
+image::19-r.png[link=self]
+
+image::18-r.png[link=self]
+
 [.narrow]
 == Transliteration and Translation
 
