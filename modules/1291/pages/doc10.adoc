@@ -2,13 +2,13 @@
 
 == Image
 
-image::17-r.png[link=self]
+image::17-r.png[title=page 1,link=self]
 
-image::18-l.png[link=self]
+image::18-l.png[title=page 2,link=self]
 
-image::19-r.png[link=self]
+image::19-r.png[title=page 3,link=self]
 
-image::18-r.png[link=self]
+image::18-r.png[title=Drawing,link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -65,5 +65,20 @@ ehinter befördet, als gestöhrt.
 An Eure Durchlaucht geht also meine Untertsängste bitte dahin:
 
 gnädigst zu erlauben, dass ich das Haus
-in der gewünschten Richtung erbauen
+in der gewünschten Richtung erbauen darf,
+und hierüber noch morgen gnädigst zu
+entscheiden, weil, wie schon gesagt, am
+Mittwochen die Richtung seÿn soll.
+Ich ersterbe in tiefster Ehesucht
+
+
+Zur Durchleucht
+
+Unterthänigster
+Vogt
+in Nordholz
+
+Suppli.
+Bückeburg am 24sten Maj 1818.
+Adb. Weissich pr. Gh
 ....
