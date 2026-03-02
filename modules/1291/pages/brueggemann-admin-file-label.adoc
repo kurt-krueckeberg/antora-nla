@@ -2,20 +2,18 @@
 
 == Image 
 
-TODO: add it!
+image::10-l.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
-
 ....
 An 
 fürstl. Rentkammer
 
 des Soldaten Brüggeman
 von No 1 in Nordholz
-
 
 Unterthänigste Vorstellung
 und Bitte:

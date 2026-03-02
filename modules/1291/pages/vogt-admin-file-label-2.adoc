@@ -1,0 +1,37 @@
+= Administrative Label of Vogt's Second Petition
+
+== Image 
+
+image::20-l.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Unterthänigste Bitte
+des Neubauers Vogt in
+Nordholz
+
+Neubeuer betr.
+
+hat eine Anlage
+
+[nöthig]
+
+An
+Fürstliche Rentkammer
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Most humble petition
+of the Neubauer (newly settled farmer) Vogt in
+Nordholz
+
+Concerning the Neubauer:
+requires a building layout
+
+To the
+Princely Rent Chamber
+....
