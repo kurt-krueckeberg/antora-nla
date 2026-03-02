@@ -1,6 +1,7 @@
 * xref:1291:index.adoc[]
 ** xref:brueggemann-admin-file-label.adoc[]
 ** xref:voigt-admin-file-label.adoc[]
+** xref:vogt-admin-file-label-2.adoc[]
 ** xref:contents-list.adoc[]
 *** xref:doc1.adoc[]
 *** xref:doc2.adoc[]
