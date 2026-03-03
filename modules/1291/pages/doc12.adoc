@@ -7,6 +7,8 @@ image::24-r.png[link=self]
 
 image::25-l.png[link=self]
 
+image::25-r.png[link=self]
+
 [.narrow]
 == Transliteration and Translation
 
@@ -38,36 +40,44 @@ Ausweisungen anzuhalten.
 Ablauf 3. freier Jahre, von den Suplicanten zu entrichten sind, also
 spätestens zu Michaely 1822.
 
-TODO: Validate this text:
-Hiernadh ist das Nöthige Amtsseitig wahrzunehmen und auch hiervon die 
+Hiernadh ist das Nöthige Amtsseitig wahrzunehmen und auch hiervon die
 Ausweisungsinteressenten in Kenntniß zu setzen.
 
 Bburg. 17. Juny 1818.
+
 Fürstlich pp.
+
 Spring
 
 Concept
 An den Kammerrentmeister
 Berger dahier.
-KProbator Botte.
-[???] Botte
+KProbator Botte
+Botte
 MKaas
 Exp.
 
 Der Kammerrentmeister Berger wird angewiesen von nachstehenden Personen für
-ausgewiesene Plätze da Geld zu erheben:
+ausgewiesene Plätze das Geld zu erheben:
 
-1., Von Krückeberg No. 10. zu Berenbusch
-für 49 Quadrat-Rute à 12 gl. –- 16 rl. 12 mk.
+1., Von Krückeberg
+N:o 10. zu Berenbusch
+für 49 Qr. à 12 gl. –           16 rl. 12 gl.
 
-2., Von Vogt No 13.  zu Nordholz für
-60 Quadrat-Rute. à   6 gl. -- 10 rl.      
-117 Quadrat-Rute. à 12 gl. -- 39.      }   49rl.
+2., Von Vogt N:o 13.
+zu Nordholz für
+60 Qr. à 6 gl. – 10 rl.
+117 Qr. à 12 gl. – 39 rl.       49 rl.
+                              
 
-3., Von Brüggemann No. 14. zu Nordholz für
-60 Quadrat-Rute. à 6 gl. -- 10 rl.
-103 Quadrat-Rute. 30 Quadrat-F 4. à 12 gl. -- 34 rl.} 44 rl. 154
-15 gl. 4 pf
----------------------
-Summa 109 rt. 27 gl 4.
+3., Von Brüggemann
+N:o 14. zu Nordholz für
+60 Qr. à 6 gl. – 10 rl.
+103 Qr. 30 F. à 12 gl. – 34 rl.
+15 gl. 4 pf.
+                                44 rl. 15 gl. 4 pf.
+                            -----------------------
+                          Summa 109 rl. 27 gl. 4 pf.
+
+Diese
 ....
