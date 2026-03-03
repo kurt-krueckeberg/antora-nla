@@ -18,29 +18,25 @@ image::29-l.png[link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 An
-Se. Durchlaucht, meinem gnädigsten Fürsten und
-Herrn
+Se. Durchlaucht, meinem gnädigsten Fürsten und Herrn
 
 des Neubauers Brüggemann No 14 zu Nordholz
 
 Unterthänigste Vorstellung
 und Bitte:
 
-Ich um einen ausgewiesenen Platz gnädigst
-zu schenken
+Ich um einen ausgewiesenen Platz gnädigst zu schenken
 ....
 
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
 To
-His Serene Highness, my most gracious Prince and
-Lord,
+His Serene Highness, my most gracious Prince and Lord,
 
 [from] the Neubauer Brüggemann, No. 14 in Nordholz
 
-Most humble statement
-and petition:
+Most humble statement and petition:
 
 I humbly request that the allotted plot
 be most graciously granted to me.
