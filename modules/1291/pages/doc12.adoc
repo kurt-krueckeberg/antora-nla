@@ -5,31 +5,46 @@
 
 image::24-r.png[link=self]
 
+image::25-l.png[link=self]
+
 [.narrow]
 == Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-St. 3mg.                                      12.,
+St. 3 mgl.                                      12.,
+
 Num: Cam: 257.
 Num: Pr: 136.
-Koncept Cam: Rescript
+
+Concept Cam: Rescript
 
 Ans Amt Bückeburg
-Ausweisung bet:
+Ausweisung betr:
 
-vwaeedemdy
+vdankwarts
+
 MKaas
-Exp: p: Knötfges
 
-Auf den mit planinmetrischer Zeichnung versehenen Bericht vom 30. v. M.,
-obigen Gegenstand bet., wird dem Amte eröffnet, daß die im angezogenen
-Berichte erwähnten Ausweisungen für Krückeberg N. 10. in Berenbuch, für
-Vogt No. 13. in Nordholz und für Brüggemann No 14. ebendaselbst genehmigt
+Exp: p: Knöttge.
+
+Auf den mit planimetrischer Zeichnung versehenen Bericht vom 30. v. M.,
+obigen Gegenstand betr., wird dem Amte eröffnet, daß die im angezogenen
+Berichte erwähnten Ausweisungen für Krückeberg N. 10. in Berenbusch, für
+Vogt No. 13. in Nordholz und für Brüggemann No. 14. ebendaselbst genehmigt
 sind, und hat das Amt die Suplicanten an die Entrichtung der Gelder für die
 Ausweisungen anzuhalten.
 
-Uebrigens wird dem Amte noch erwiedert, daß die Praestanden erst nach
+Übrigens wird dem Amte noch erwiedert, daß die Prästanden erst nach
 Ablauf 3. freier Jahre, von den Suplicanten zu entrichten sind, also
-spätestens zu Michaely 1822.  hiernadh ist das Nöthige Amts
+spätestens zu Michaely 1822.
+
+Hiernadh ist das Nöthige Amtsseitig wahrzunehmen
+und auch hiervon die Ausweisungs Interessenten in Kennniß zu setzen.
+
+Bburg. 17. Juny 1818.
+Fürstlich pp.
+Spring
+
+TODO: Complete
 ....
