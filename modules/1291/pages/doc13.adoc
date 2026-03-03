@@ -14,7 +14,7 @@ image::26-r.png[title=Receipt,link=self]
 
 No. 372.
 
-[vdankwarts]
+[vdankwarts: possible routing instruction]
 
 Daß der Kolon Vogt N. 13 in Nordholz für einen
 ausgewiesenen Platz Neun und Vierzig Rthlr in
