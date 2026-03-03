@@ -12,6 +12,7 @@ image::25-r.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 St. 3 mgl.                                      12.)
@@ -91,6 +92,7 @@ Spring
 ....
 
 
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Stamp: 3 Mariengroschen                                    12.)
