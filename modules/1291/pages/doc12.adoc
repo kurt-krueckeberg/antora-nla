@@ -14,7 +14,7 @@ image::25-r.png[link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-St. 3 mgl.                                      12.,
+St. 3 mgl.                                      12.)
 
 Num: Cam: 257.
 Num: Pr: 136.
@@ -40,7 +40,7 @@ Ausweisungen anzuhalten.
 Ablauf 3. freier Jahre, von den Suplicanten zu entrichten sind, also
 spätestens zu Michaely 1822.
 
-Hiernadh ist das Nöthige Amtsseitig wahrzunehmen und auch hiervon die
+Hiernach ist das Nöthige Amtsseitig wahrzunehmen und auch hiervon die
 Ausweisungsinteressenten in Kenntniß zu setzen.
 
 Bburg. 17. Juny 1818.
@@ -79,5 +79,95 @@ N:o 14. zu Nordholz für
                             -----------------------
                           Summa 109 rl. 27 gl. 4 pf.
 
-Diese
+
+Diese Gelder hat der Kammerrentmeister gehörigen Orts zu vereinnahmen und
+zu verrechnen.
+
+Bburg. 17. Junÿ 1818.
+
+Fürstlich pp.
+
+Spring
+....
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Stamp: 3 Mariengroschen                                    12.)
+
+No. Cam: 257.
+No. Pr: 136.
+
+vdankwarts
+MKaas
+
+Exp: by Knötge.
+
+Concept – Cammer Rescript
+
+To the Office of Bückeburg
+Re: Land allotment
+
+In response to the report, accompanied by a planimetric drawing,
+dated the 30th of last month, concerning the above matter, the Office
+is hereby informed that the allotments mentioned in the cited report,
+for Krückeberg No. 10 in Berenbusch, for Vogt No. 13 in Nordholz,
+and for Brüggemann No. 14 there as well, are approved. The Office
+is to require the petitioners to remit the payments for the allotments.
+
+Furthermore, the Office is advised that the annual dues (Prästanden)
+are to be paid by the petitioners only after the expiration of three
+free years, thus at the latest by Michaelmas 1822.
+
+Accordingly, the necessary steps are to be taken by the Office,
+and the allotment beneficiaries are also to be informed thereof.
+
+Bückeburg, 17 June 1818.
+
+By Princely order, etc.
+
+Spring
+
+
+Concept
+
+To the Chamber Rentmaster
+Berger here.
+
+Chamber Examiner Botte
+Botte
+MKaas
+Exp.
+
+The Chamber Rentmaster Berger is instructed to collect from the
+following persons the monies for the allotted parcels:
+
+1. From Krückeberg
+   No. 10 in Berenbusch
+   for 49 square rods at 12 groschen each – 16 Reichsthaler 12 groschen.
+
+2. From Vogt No. 13
+   in Nordholz for
+   60 square rods at 6 groschen – 10 Reichsthaler.
+   117 square rods at 12 groschen – 39 Reichsthaler.
+                                                   49 Reichsthaler.
+
+3. From Brüggemann
+   No. 14 in Nordholz for
+   60 square rods at 6 groschen – 10 Reichsthaler.
+   103 square rods 30 square feet at 12 groschen – 34 Reichsthaler.
+   15 groschen 4 pfennigs.
+                                                   44 Reichsthaler 15 groschen 4 pfennigs.
+                                                   ------------------------------
+                                                   Total 109 Reichsthaler 27 groschen 4 pfennigs.
+
+
+These monies are to be received by the Chamber Rentmaster at the proper
+place and duly accounted for.
+
+Bückeburg, 17 Junÿ 1818.
+
+By Princely order, etc.
+
+Spring
 ....
