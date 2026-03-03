@@ -1,0 +1,29 @@
+= Document 13: Chamber treasury receipt
+:page-role: img-bordered
+
+== Image
+
+image::26-r.png[title=Receipt,link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+13.)
+
+No. .372.
+
+[vdanckwärts]
+
+Daß der Kolon Vogt N. 13 in Nordholz für einen
+ausgemiesenen Platz Neun und Vierzig Sthol in
+Fürstl. Kammerkaste bezalt hat quittirt.
+
+Berger
+
+Bückeburg
+14 Sept 1818
+
+49 Rthr
+....
