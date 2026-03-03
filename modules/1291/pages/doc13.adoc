@@ -12,7 +12,7 @@ image::26-r.png[title=Receipt,link=self]
 ....
 13.)
 
-No. .372.
+No. 372.
 
 [vdankwarts]
 
