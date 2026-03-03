@@ -1,1 +1,36 @@
 = Document 12: TODO
+:page-role: wide
+
+
+== Images
+
+image::24-l.png[link=self]
+
+
+[.narrow]
+== Transliteration and Translation
+
+....
+St. 3mg.                                      12.,
+Num: Cam: 257.
+Num: Pr: 136.
+Koncept Cam: Rescript
+
+Ans Amt Bückeburg
+Ausweisung bet:
+
+vwaeedemdy
+MKaas
+Exp: p: Knötfges
+
+Auf den mit planinmetrischer Zeichnung versehenen Bericht vom 30. v. M.,
+obigen Gegenstand bet., wird dem Amte eröffnet, daß die im angezogenen
+Berichte erwähnten Ausweisungen für Krückeberg N. 10. in Berenbuch, für
+Vogt No. 13. in Nordholz und für Brüggemann No 14. ebendaselbst genehmigt
+sind, und hat das Amt die Suplicanten an die Entrichtung der Gelder für die
+Ausweisungen anzuhalten.
+
+Uebrigens wird dem Amte noch erwiedert, daß die Praestanden erst nach
+Ablauf 3. freier Jahre, von den Suplicanten zu entrichten sind, also
+spätestens zu Michaely 1822.  hiernadh ist das Nöthige Amts
+....
