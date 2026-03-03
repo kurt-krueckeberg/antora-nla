@@ -3,6 +3,60 @@
 
 *TODO:* The date at the end doesn't seem, to match the Designatio Actorum?!
 
+== Image of Outer Address Page
+
+== Image
+
+image::29-l.png[link=self]
+
+== Transliteration and Translation of Outer Address Page
+
+[.widepair,cols="1a,1a"]
+|===
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+An
+Se. Durchlaucht, meinem
+gnädigsten Fürsten und
+Herrn
+
+des Neubauers Brüggemann
+No 14 zu
+Nordholz
+
+Unterthänigste Vorstellung
+und Bitte:
+
+Ich
+um einen ausgewiesenen
+Platz gnädigst
+zu schenken
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+To
+His Serene Highness, my
+most gracious Prince and
+Lord,
+
+[from] the Neubauer Brüggemann,
+No. 14 in
+Nordholz
+
+Most humble statement
+and petition:
+
+I humbly request
+that the allotted plot
+be most graciously
+granted to me.
+....
+|===
+
 == Image
 
 image::27-l.png[title=Receipt,link=self]
