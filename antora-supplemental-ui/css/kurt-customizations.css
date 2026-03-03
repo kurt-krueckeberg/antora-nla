@@ -31,8 +31,9 @@ body.very-wide .doc
   background: none !important;    /* avoid gray highlight */
 }
 
-/* When ':page-role: wide' is used, images will have shadwow-border. */
-body.wide,body.img-bordered .imageblock img {
+/* When ':page-role: wide' or ':page-role: img-bordered' is used, images will have shadwow-border. */
+body.wide .imageblock img,
+body.img-bordered .imageblock img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   background: white;
@@ -40,6 +41,7 @@ body.wide,body.img-bordered .imageblock img {
   max-width: 100%;
   height: auto;
 }
+
 
 /* CSS style for adding a border to literal blocks within tables. This is used
  * for displaying the transliteration/translation tables. The steps:
