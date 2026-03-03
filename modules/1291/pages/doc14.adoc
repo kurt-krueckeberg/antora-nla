@@ -1,0 +1,60 @@
+= Document 14: Petition of the new settler Brüggemann No. 14 at Nordholz
+:page-role: wide
+
+== Image
+
+image::27-l.png[title=Receipt,link=self]
+
+image::28-l.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+3 Gr. Stempel
+
+An die Cammer
+[routing/handling notation]
+
+P. N.
+Die gutachtliche Meinung der Kammer 
+ist auf der 3ten Seite bemerkt.
+N. MKaas.
+
+Durchlauchtigster Fürst
+Gnädigst regierender Fürst und Herr!
+
+Es ist mir von Ew. Durchlauchten Rentkammer ein Platz zum Hausbau nebst
+etwas Gartenland, 1 Morgen und 45 Ruthen groß, gnädigst ausgewiesen worden,
+wofür ich 44 rt 15 gl 4 d bezahlen soll.
+
+Allein diese Bezahlung wird mir sehr schwer. Denn 12 Jahre lang bin ich
+Soldat gewesen. Ich war Einer der Ersten, welche erst nach Hameln von da
+nach Stettin und dann nach Spanien marschiren mußten. Ich gerieth da in die
+Gefangenschaft der Engländer, und nahm beÿ den letzteren Dienste, als die
+Gefangenschaft nicht länger zu ertragen war. Ich habe also in diesem ganzen
+Zeitraum nichts erübrigen können, ja, das noch schlimmer ist, meine
+Gesundheit fast dabeÿ zugesetzt. Darüber bin ich nun 33 Jahre alt
+geworden, bin verheÿrathet und habe schon Familie. Mein erlerntes
+Schneiderhandwerk habe ich fast wieder verlernet, und kann nicht darauf
+rechnen, etwas bedretendes damit zu verdienen.
+
+An Ew. Durchlauchten ergehet demnach meine unterthänigste Bitte:
+
+Gnädigst mir den ausgewiesenen
+Platz zu schenkan.
+
+In tiefster Ehrfurcht ersterbe ich
+Ew. Durchlauchten
+unterthänigster
+
+Neubauer Brüggemann
+No 14 zu Nordholz
+
+Suppl
+Bbrg d 33 Feb: 1818.
+Opt. Adv. Alwellmann
+n g n
+Vert.
+....
