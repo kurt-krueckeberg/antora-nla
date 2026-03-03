@@ -7,7 +7,7 @@
 
 == Image
 
-image::29-l.png[link=self]
+image::29-l.png[width=65%,link=self]
 
 == Transliteration and Translation of Outer Address Page
 
