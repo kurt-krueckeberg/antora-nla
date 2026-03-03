@@ -131,8 +131,8 @@ nung mit Specification.
 |30.
 
 |12.
-|Concluded Chancery rescript to the local office,
-likewise to the Chamber treasury.
+|xref:doc12.adoc[Concluded Chancery rescript to the local office, likewise
+to the Chamber treasury].
 
 Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
 |Bburg
@@ -141,7 +141,7 @@ Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.
 |17
 
 |13.
-|Chamber treasury receipt.
+|xref:doc13.adoc[Chamber treasury receipt].
 
 Kammercassenquittung.
 |Bburg
