@@ -121,8 +121,7 @@ holz, samt Zeichnung.
 |24.
 
 |11.
-|Report of the local office, with drawing
-and specification.
+|xref:doc11.adoc[Report of the local office, with drawing and specification.]
 
 Bericht hiesigen Amts, samt Zeich-
 nung mit Specification.

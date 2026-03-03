@@ -1,4 +1,5 @@
-= Document 11: 
+= Document 11: Report of the local office, with drawing and specification.
+:page-role: wide
 
 == Image
 
@@ -41,23 +42,7 @@ auf 6 gl. 5 p.  Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
 ....
 
-.an Kaufgeld an Kammeral Prestanden
-|===
-||rl|g|d|rl|g|d
 
-|Krückeberg no 10 zu Berenbuch für
-die zur Vergrößerung seines
-Stampes erhaltene 49 Quadrat-Rute a 12g| 16 rl.|12---|----|"|4|1
-
-Vogt no 13 zu Nordholz für Haus
-und Hartenplatz 60 R. a 6 gl.–10 rl.
-               117 R. a. 12g -- 3g: | 49|---|---
-
-
-
-|===
-
-Rotzins auf Michaeli 1819
 
 ....
 
