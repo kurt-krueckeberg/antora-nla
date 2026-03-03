@@ -3,12 +3,12 @@
 
 == Images
 
-image::24-l.png[link=self]
-
+image::24-r.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 St. 3mg.                                      12.,
 Num: Cam: 257.
