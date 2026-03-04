@@ -1,7 +1,23 @@
 = Document 4: Petition of the lodger Vogt at Evesen, with chamber resolution.
 :page-role: wide
 
-== Image
+== Petition Docket Page
+
+image::11-l.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+An furstl. Rentkammer
+
+des Eininliegers Voigt zu Evesen
+Untertänigste Vorstellung Bitte:
+Um Platz zum Hausbau
+....
+
+== Petition of the lodger Vogt at Evesen
 
 image::07-r.png[link=self]
 
@@ -58,8 +74,7 @@ supnt Bbg
 [various initials]
 ....
 
-
-=== Res. Cam Vertical Text
+== Chamber Resolution (vertical text)
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
