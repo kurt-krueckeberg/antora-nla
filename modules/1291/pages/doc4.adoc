@@ -74,6 +74,7 @@ supnt Bbg
 [various initials]
 ....
 
+[.narrow]
 == Chamber Resolution (vertical text)
 
 [literal.bordered,subs="verbatim,quotes"]
