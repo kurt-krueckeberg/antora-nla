@@ -41,6 +41,58 @@ show the family:
 The Rentkammer asked the Bückeburg Amt (administrative office) to report on
 the " financial circumstances and on the personal qualities of the petitioner." 
 
+== Petition Cover Page
+
+image::05-l.png[link=self]
+
+[NOTE]
+====
+Petition cover pages typically identify individuals by occupation and place
+of association, which may reflect where they worked, were registered, or
+were administratively known, and does not always prove their legal
+residence. The label “des Schneiders Krückeberg in Evesen” therefore
+indicates that Krückeberg was known as a tailor in Evesen but does not by
+itself establish domicile there. Consistent church records identifying
+Krückeberg as resident at Berenbusch No. 10 carry greater evidentiary
+weight for determining residence.
+====
+[.narrow]
+== Transliteration and Translation of Petition Cover Page
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+An Fürstl[iche]. Rentkammer
+
+des Schneiders Krückeberg
+in Evesen
+
+Unterthänigste Vorstellung
+und Bitte
+
+gnädigste Überlassung
+eines Platzes zum Hausbau
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+To
+the Princely Rent Chamber
+
+of the tailor Krückeberg
+in Evesen
+
+Most humble petition
+and request
+
+for the gracious granting
+of a plot of land for the construction of a house
+....
+
+
+
 == Images for Petition submitted by the tailor Krückeberg in Evesen
 
 image::02-r.png[title=1st page of tailor Krückeberg's peitition (click to enlarge),width=75%,link=self]
