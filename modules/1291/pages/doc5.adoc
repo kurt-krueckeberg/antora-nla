@@ -1,13 +1,17 @@
 = Document 5: Likewise, petition of the soldier Brüggemann from No. 1 at Nordholz, with chamber resolution.
 :page-role: wide
 
-== Outer Address Page
+== Petition Docket Page
 
 image::10-l.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
 
+[.widepair,cols="1a,1a"]
+|===
+
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 An 
@@ -22,6 +26,25 @@ und Bitte:
 gnädigste Answeisung eines
 Platzes zum Hausbau mit Garten
 ....
+
+|
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+To the
+Princely Rent Chamber
+
+[from] the soldier Brüggemann
+of No. 1 in Nordholz
+
+Most humble representation
+and petition:
+
+most gracious allotment of
+a place for house construction with a garden
+....
+|===
 
 == Citation
 
