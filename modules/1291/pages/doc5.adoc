@@ -3,12 +3,10 @@
 
 == Outer Address Page
 
-=== Image
-
 image::10-l.png[link=self]
 
 [.narrow]
-=== Transliteration and Translation
+== Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
