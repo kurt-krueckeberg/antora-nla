@@ -1,7 +1,42 @@
 = Document 10: Petition of Vogt from Nordholz, with drawing
 :page-role: img-bordered
 
-== Image
+== Petition Docket Page
+
+image::20-l.png[link=self]
+
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Unterthänigste Bitte
+des Neubauers Vogt in
+Nordholz
+
+Neubeuer betr.
+
+hat eine Anlage
+
+[nöthig]
+
+An
+Fürstliche Rentkammer
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Most humble petition
+of the Neubauer (newly settled farmer) Vogt in
+Nordholz
+
+Concerning the Neubauer:
+requires a building layout
+
+To the
+Princely Rent Chamber
+....
+
+== Petition of Vogt
 
 image::17-r.png[title=page 1,link=self]
 
