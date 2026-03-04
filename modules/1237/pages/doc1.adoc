@@ -36,7 +36,6 @@ Guardianship
 Rent Chamber  
 ....
 
-
 [.narrow]
 [[doc-index-1-1]]
 == Jobst Heinrich Krückeberg's Petition
@@ -204,9 +203,10 @@ B. 18 Febr 1799    MKaas
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Pursuant to a Rentkammer resolution, the case was sent to the Bückeburg Amt
-for a report.
+Chamber decision:
+Sent directly to the Amt for a report.
 
-Bückeburg, 18 February 1799. MKaas.
+Bückeburg, 18 February 1799
+M. Kaas
 ....
 
