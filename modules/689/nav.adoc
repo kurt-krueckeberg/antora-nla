@@ -5,7 +5,6 @@
 * xref:rentcammer-and-amt.adoc[]
 * xref:common:case-file-docs-explained.adoc[]
 * xref:cover.adoc[]
-* xref:administrative-filing-rubric.adoc[]
 * xref:amt-decree.adoc[]
 * xref:content-list.adoc[]
 ** xref:doc1.adoc[]
