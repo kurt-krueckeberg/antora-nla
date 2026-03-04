@@ -5,8 +5,6 @@
 
 == Petition Docket Page
 
-=== Image
-
 image::29-l.png[width=65%,link=self]
 
 
