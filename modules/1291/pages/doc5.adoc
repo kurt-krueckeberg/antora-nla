@@ -1,9 +1,33 @@
 = Document 5: Likewise, petition of the soldier Brüggemann from No. 1 at Nordholz, with chamber resolution.
 :page-role: wide
 
+== Outer Address Page
+
+=== Image
+
+image::10-l.png[link=self]
+
+[.narrow]
+=== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+An 
+fürstl. Rentkammer
+
+des Soldaten Brüggeman
+von No 1 in Nordholz
+
+Unterthänigste Vorstellung
+und Bitte:
+
+gnädigste Answeisung eines
+Platzes zum Hausbau mit Garten
+....
+
 == Citation
 
-== Images
+== Document 5
 
 image::08-r.png[link=self]
 

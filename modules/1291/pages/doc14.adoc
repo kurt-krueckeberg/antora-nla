@@ -3,13 +3,14 @@
 
 *TODO:* The date at the end doesn't seem, to match the Designatio Actorum?!
 
-== Image of Outer Address Page
+== Outer Address Page
 
-== Image
+=== Image
 
 image::29-l.png[width=65%,link=self]
 
-== Transliteration and Translation of Outer Address Page
+
+=== Transliteration and Translation of Outer Address Page
 
 [.widepair,cols="1a,1a"]
 |===
@@ -43,7 +44,9 @@ be most graciously granted to me.
 ....
 |===
 
-== Image
+== Document 14
+
+=== Image
 
 image::27-l.png[title=Receipt,link=self]
 
