@@ -8,14 +8,14 @@
 image::01.png[link=self]
 
 === Transliteration and Translation
+
 .Transliteration and Translation of Document Index
-[cols="1,7,7,2,2,2,1",options="header"]
+[cols="1,7a,2,2,2,1",options="header"]
 |===
 |Nos +
 (Nos.)
 |Designatio Actorum +
 (Document Description)
-|Translation
 |Amt +
 (Office)
 |Jahre +
@@ -26,8 +26,10 @@ image::01.png[link=self]
 (Day)
 
 |1.
-|xref:doc1.adoc[Vorstellung des Colons Krückeberg No: 10 zu Berenbusch, d.d.]
-|xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, dated.]
+|
+xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, dated.]
+
+xref:doc1.adoc[Vorstellung des Colons Krückeberg No: 10 zu Berenbusch, d.d.]
 |Bburg
 |1798
 |May
@@ -35,52 +37,60 @@ image::01.png[link=self]
 
 [[desfallsiger-bericht]]
 |2.
-|xref:doc2.adoc[Desfallsiger Bericht der Beamten zu Bückeburg, d.d.]
-|xref:doc3.adoc[Report on the matter from the Bückeburg officials, dated.]
+|
+xref:doc3.adoc[Report on the matter from the Bückeburg officials, dated.]
+
+xref:doc2.adoc[Desfallsiger Bericht der Beamten zu Bückeburg, d.d.]
 |
 |1799
 |Febr
 |27
 
 |3.
-|xref:doc3.adoc[Concept Cammer Rescripts an gedachte Beamte, d.d.]
-|xref:doc3.adoc[Draft of the Chamber’s official resolution to those aforementioned officials, dated]
+|
+xref:doc3.adoc[Draft of the Chamber’s official resolution to those aforementioned officials, dated]
+
+xref:doc3.adoc[Concept Cammer Rescripts an gedachte Beamte, d.d.]
 |
 |1800
 |Mart
 |11
 
 |4.
-|xref:doc4.adoc[Bericht von denselben Beamten]
-|xref:doc4.adoc[Report from the same officials.]
+|
+xref:doc4.adoc[Report from the same officials.]
+
+xref:doc4.adoc[Bericht von denselben Beamten]
 |
 |1800
 |Oct
 |18
 
 |4 ½.
-|xref:doc4pt5.adoc[dazu gehöriger Bericht von Lieutenant Funck]
-|xref:doc4pt5.adoc[Related report from Lieutenant Funck]
+|
+xref:doc4pt5.adoc[Related report from Lieutenant Funck]
+
+xref:doc4pt5.adoc[dazu gehöriger Bericht von Lieutenant Funck]
 |
 |
 |
 |
 
 |5.
-|xref:doc5.adoc[Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann
-d.d.]
-|xref:doc5.adoc[Draft of Chamber's official resolutions to the Bückeburg officials, and likewise to the fiscal
-treasurer Stackmann, dated]
+|
+xref:doc5.adoc[Draft of Chamber's official resolutions to the Bückeburg officials, and likewise to the fiscal treasurer Stackmann, dated]
+
+xref:doc5.adoc[Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann d.d.]
 |
 |
 |
 |27
 
 |6.
-|xref:doc6.adoc[Concept Kaufbrief der Rentkammer für den Colon Krückeberg No. 10 zu Berenbusch über einen Platz
-zur Vergrößerung seines Gartens]
-|xref:doc6.adoc[Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the
-enlargement of his garden]
+|
+xref:doc6.adoc[Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the enlargement of his garden]
+
+xref:doc6.adoc[Concept Kaufbrief der Rentkammer für den Colon Krückeberg No. 10 zu Berenbusch über einen Platz zur Vergrößerung seines Gartens]
 |
 |
 |Dec
