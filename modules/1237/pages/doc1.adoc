@@ -1,6 +1,42 @@
 = Document 1: Jobst Heinrich Krückeberg Petition (29 May 1798)
 :page-role: wide
 
+== Petition Docket Item
+
+image::05-left-page.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+der Colon Krückeberg Nr. 10  
+zu Berenbusch bittet unter-  
+thänigst:  
+ihm die beÿ seinem Garten belegene Ecke gnädigst käuflich zu überlaßen. 
+  
+  
+zur  
+vormundschaftlichen  
+Rentkammer  
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+The Colon Krückeberg No. 10  
+in Berenbusch humbly requests:  
+that the corner adjoining his garden be graciously made available for
+purchase.  
+  
+  
+To the  
+Guardianship  
+Rent Chamber  
+....
+
+
 [.narrow]
 [[doc-index-1-1]]
 == Jobst Heinrich Krückeberg's Petition
@@ -22,14 +58,11 @@ MKaas (MK), who initials appear several times, was very likely a Forstamt
 official who also functioned as an administrative clerk, which explains why
 the "Res Cam" was initialed by him.
 
-== Images of Document 1
+== Petition
 
-[cols="1a,1a",options="noheader",frame="none",grid="none"]
-|===
-|image::02.png[align=left,sclae=25,link=self]
+image::02.png[align=left,width=75%,link=self]
 
-|image::03-left-page.png[algin=left,scale=25,link=self]
-|===
+image::03-left-page.png[algin=left,width=75%,link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -46,15 +79,15 @@ Gnädigst Regierende Fürstin und Frau
 Hochgeborner Graf!
 Gnädigst Regierender Graf und Herr
 
-Nahe an meinen Garten bragt auf der Gemeinheit beÿ der Straße eine
-schiebe Ecke Landes die unbebauet ist und mithin auch niemand einen
-Nutzen verschafft, wodurch über dem noch die Straße unegal wird.  Da
-dieselbe nun nahe an meinen Garten stößt, so wünschte ich diesel- be gern
-urbar zu machen und käuflich an mich zu bringen. An Ewr. Durchlauchten
-und Ewr. Hochgräflichen Gnaden ergehet daher meine unterthänigst bitte:
+Nahe an meinen Garten bragt auf der Gemeinheit beÿ der Straße eine schiebe
+Ecke Landes die unbebauet ist und mithin auch niemand einen Nutzen
+verschafft, wodurch über dem noch die Straße unegal wird. Da dieselbe nun
+nahe an meinen Garten stößt, so wünschte ich diesel- be gern urbar zu
+machen und käuflich an mich zu bringen. An Ewr. Durchlauchten und Ewr.
+Hochgräflichen Gnaden ergehet daher meine unterthänigst bitte:
 
-Mir jene Ecke gnädigst für einen billigen Preis käuflich zu überlassen
-und dieselbe deßhalb baldigst besichtigen und ausmessen zu lassen.
+Mir jene Ecke gnädigst für einen billigen Preis käuflich zu überlassen und
+dieselbe deßhalb baldigst besichtigen und ausmessen zu lassen.
 
 In tiefster Ehrfurcht verharre ich
 Ewr. Durchlauchten
@@ -83,21 +116,19 @@ High-born Count!
 Most Gracious Ruling Count and Lord.
 
 Close to my garden, on the common land by the road, there lies a sloping
-corner of land which is uncultivated and therefore of no use to anyone,
-and which even causes the road to be uneven.  Since this corner adjoins
-my garden, I would like to cultivate it and purchase it.
+corner of land which is uncultivated and therefore of no use to anyone, and
+which even causes the road to be uneven.  Since this corner adjoins my
+garden, I would like to cultivate it and purchase it.
 
-I therefore respectfully present this petition to your serene highness
-and your high comital grace:
+I therefore respectfully present this petition to your serene highness and
+your high comital grace:
 
-I most humbly request that the corner of land be most graciously sold to
-me for a fair price, and that it therefore be inspected as soon as
-possible and measured for this purpose.
+I most humbly request that the corner of land be most graciously sold to me
+for a fair price, and that it therefore be inspected as soon as possible
+and measured for this purpose.
 
 With deepest respect, I remain before
-Your Serene Highness and
-Your High Comital Grace.
-
+Your Serene Highness and Your High Comital Grace.
 
 
 Petition.  
