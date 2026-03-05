@@ -1,0 +1,44 @@
+= Document 15: Chancery resolution to the persons previously named
+:page-role: wide
+
+== Chancery resolution
+
+image::30-r.png[width=65%,link=self]
+
+[.narrow]
+== Transliteration and Translation of Outer Address Page
+
+[.widepair,cols="1a,1a"]
+|===
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+Num: Cam: 386                             .5.)
+St. 3 mg.
+
+An den Neubauer Brüggemann No. 14.  zu Nordholz
+
+vdanwart
+Winde
+MKaas
+Exp: p: Knöttge.
+
+Dem Gesuche des Neubauers Brüggemann, ihm den ihm ausgewiesenen Platz zum
+Hausbau zu schenken, steht nicht zu willfahren, sondern es ist die Zahlung
+dafür sofort zu entrichten.
+
+Bberg. 7. Oct. 1818.
+Fürstlich pp.
+[initials]
+
+
+[Son?]
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+|===
+
