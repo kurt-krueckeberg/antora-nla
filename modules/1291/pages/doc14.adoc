@@ -7,7 +7,6 @@
 
 image::29-l.png[width=65%,link=self]
 
-
 === Transliteration and Translation of Outer Address Page
 
 [.widepair,cols="1a,1a"]
@@ -49,6 +48,8 @@ be most graciously granted to me.
 image::27-l.png[title=Receipt,link=self]
 
 image::28-l.png[link=self]
+
+image::28-r.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
