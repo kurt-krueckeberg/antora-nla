@@ -150,7 +150,8 @@ Kammercassenquittung.
 |14.
 
 |14.
-|Petition of the new settler Brüggemann No. 14 at Nordholz.
+|xref:doc14.adoc[Petition of the new settler Brüggemann No. 14 at
+Nordholz].
 
 Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
 |Bburg
@@ -159,7 +160,7 @@ Vorstellung des Neubauers Brüggemann No 14. in Nordholz.
 |30
 
 |15.
-|Chancery resolution to the persons previously named.
+|xref:doc15.adoc[Chancery resolution to the persons previously named].
 
 Com. K. Resolution an Vorhin genannten.
 |Bburg
@@ -168,7 +169,8 @@ Com. K. Resolution an Vorhin genannten.
 |7
 
 |16.
-|Petition of the shoemaker Krückeberg No. 10 at Berenbusch.
+|xref:doc16.adoc[Petition of the shoemaker Krückeberg No. 10 at
+Berenbusch].
 
 Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.
 .2+|Remission of the purchase price, as remitted, concerning:
@@ -180,7 +182,7 @@ Erlaß des Kaufpreises, so abgeschlagen betr:
 |7
 
 |17.
-|Concluded Chancery resolution to the same party.
+|xref:doc17.adoc[Concluded Chancery resolution to the same party].
 
 Conc. K. Resolution an denselben
 |Bburg
@@ -189,7 +191,7 @@ Conc. K. Resolution an denselben
 |7
 
 |18.
-|Chamber treasury receipt.
+|xref:doc18.adoc[Chamber treasury receipt].
 
 Kammercassenquittung
 .5+|Land allocation concerning (Krückeberg, Vogt, Brüggemann).
