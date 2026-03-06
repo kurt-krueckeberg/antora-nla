@@ -1,6 +1,8 @@
 = Documnet 16: Petition of the shoemaker Krückeberg No. 10 at Berenbusch
+:page-role: wide
 
-== Petition  
+== Petition
+
 image::31-r.png[link=self]
 
 image::32-l.png[link=self]
@@ -10,6 +12,7 @@ image::31-r-vert-text.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+[literal.bordered,subs="quotes,verbatim"]
 ....
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
                                                16.
@@ -52,6 +55,7 @@ MKaas
 ....                                             
 
 .Vertical Text on Right Side of Page
+[literal.bordered,subs="quotes,verbatim"]
 ....
 P.N.
 
@@ -63,6 +67,7 @@ erhaltene Vergrößerung umsonst haben! Das ist unbescheiden.
 MKaas
 ....
 
+[literal.bordered,subs="quotes,verbatim"]
 ....
 To the Chamber
 [Graf Witski]
@@ -99,6 +104,8 @@ Bückeburg, 21 September 1818
 M. Kaas
 ....
 
+.Vertical Text on Right Side of Page
+[literal.bordered,subs="quotes,verbatim"]
 ....
 For the record:
 
