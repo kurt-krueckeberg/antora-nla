@@ -1,7 +1,8 @@
-= Document 19: 
+= Document 19: TODO?
 
+*TODO:* proofread
 
-== Image
+== Image TODO?
 
 image::34-r.png[link=self]
 
