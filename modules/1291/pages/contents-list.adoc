@@ -213,7 +213,7 @@ Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch
 |16
 
 |20.
-|Likewise, for the new settler Vogt No. 13 at Nordholz.
+xref:doc20.edoc[Likewise, for the new settler Vogt No. 13 at Nordholz].
 
 desgl. für den Neubauer Vogt No 13. zu Nordholz.
 |Bburg
