@@ -204,7 +204,7 @@ Ausweisung betr. +
 |27
 
 |19.
-|Concluded purchase contract for the colonist Krückeberg No. 10 at Berenbusch.
+|xref:doc19.adoc[Concluded purchase contract for the Colon Krückeberg No.  10 at Berenbusch].
 
 Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch
 |Bburg
