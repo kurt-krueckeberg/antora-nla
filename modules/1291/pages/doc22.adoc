@@ -142,13 +142,13 @@ Neubauer::
 A newly established settler granted land for a house and garden.
 
 Morgen::
-A historical unit of land area used in German territories.
+A historical unit of land area; in this region roughly about 0.6 acres (≈0.25 hectares).
 
 Quadrat-Ruthe::
-A square rod; a traditional unit of land area used in surveys.
+A square rod; about 14 m² (≈150 square feet).
 
 Quadrat-Fuß::
-A square foot; a small unit of land area.
+A square foot; about 0.093 m².
 
 Mariengroschen (mg.)::
 A small coin used in northern German states.
@@ -160,12 +160,10 @@ Pfennig (d.)::
 A small denomination of currency.
 
 Rottzins::
-A fee or rent charged on newly cleared land.
+An annual ground rent on land cleared from forest, similar to a property tax tied to the parcel.
 
 Contribution::
 A regular tax or levy.
 
 Prästanden::
-Dues or obligations owed to the authorities.
-
-
+A general term for dues or obligations owed to the authorities, including payments, services, or other required charges.
