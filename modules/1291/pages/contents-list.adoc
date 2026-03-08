@@ -231,7 +231,8 @@ Kammercassenquitung.
 |4
 
 |22.
-|Concluded purchase contract for Brüggemann No. 14 at Nordholz.
+|xref:doc22.adoc[Concluded purchase contract for Brüggemann No. 14 at
+Nordholz].
 
 Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.
 |Bburg
