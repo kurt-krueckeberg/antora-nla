@@ -10,6 +10,8 @@ image::37-l.png[width=70%,link=slef]
 
 image::37-r.png[width=75%,link=self]
 
+image::38-r.png[width=75%,link=self]
+
 [.narrow]
 == Transliteration and Translation
 
@@ -65,6 +67,23 @@ F. S. L. z. R.
 v. D. R. u. A
 ....
 
+
+....
+Num: 458.         20.)
+Spring
+
+Daß der Kolon Brüggemann N: 14 in Nordholz für
+einen ausgewiesenen Platz 44 Rthrl. 15 gl. 4 d. in
+Fürstl. Kammerkaste bezalt hat quittirt.
+
+Berger
+
+Bückeburg
+4 Nov. 1818
+44 Rthrl 15 gl 4 d
+....
+
+
 ....
 St. 6 mg.                                                20.)
 
@@ -115,5 +134,6 @@ Bückeburg, 16 November 1818.
 
 For the Princely Schaumburg-Lippe Rentkammer:
 Director, Councillors, and Clerk
-
 ....
+
+
