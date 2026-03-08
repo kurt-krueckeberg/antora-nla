@@ -23,3 +23,4 @@
 *** xref:doc19.adoc[]
 *** xref:doc20.adoc[]
 *** xref:doc21.adoc[]
+*** xref:doc22.adoc[]
