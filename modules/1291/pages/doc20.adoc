@@ -67,23 +67,26 @@ F. S. L. z. R.
 v. D. R. u. A
 ....
 
-
+.Receipt
+[literal.bordered,subs="quotes,verbatim"]
 ....
-Num: 458.         20.)
+Num: 458.                                20.)
 Spring
 
 Daß der Kolon Brüggemann N: 14 in Nordholz für
 einen ausgewiesenen Platz 44 Rthrl. 15 gl. 4 d. in
-Fürstl. Kammerkaste bezalt hat quittirt.
+Fürstl. Kammerkasse bezahlt hat quittirt.
 
 Berger
 
 Bückeburg
 4 Nov. 1818
-44 Rthrl 15 gl 4 d
+
+44 Rthrl. 15 gl. 4 d.
 ....
 
 
+[literal.bordered,subs="quotes,verbatim"]
 ....
 St. 6 mg.                                                20.)
 
@@ -136,4 +139,21 @@ For the Princely Schaumburg-Lippe Rentkammer:
 Director, Councillors, and Clerk
 ....
 
+.Receipt
+[literal.bordered,subs="quotes,verbatim"]
+....
+No. 458.                                      20.)
+Spring
+
+That the Colon Brüggemann No. 14 in Nordholz has paid
+for an assigned plot 44 Reichsthaler 15 Groschen 4 Pfennige
+into the Princely Chamber Treasury is hereby receipted.
+
+Berger
+
+Bückeburg
+4 November 1818
+
+44 Reichsthaler 15 Groschen 4 Pfennige
+....
 
