@@ -15,6 +15,7 @@ image::38-r.png[width=75%,link=self]
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
 [literal.bordered,subs="quotes,verbatim"]
 ....
 St. 6 mg.                                                20.)
@@ -85,7 +86,7 @@ Bückeburg
 44 Rthrl. 15 gl. 4 d.
 ....
 
-
+.Translation of Purchase Contract
 [literal.bordered,subs="quotes,verbatim"]
 ....
 St. 6 mg.                                                20.)
@@ -139,7 +140,7 @@ For the Princely Schaumburg-Lippe Rentkammer:
 Director, Councillors, and Clerk
 ....
 
-.Receipt
+.Translation of Receipt
 [literal.bordered,subs="quotes,verbatim"]
 ....
 No. 458.                                      20.)
