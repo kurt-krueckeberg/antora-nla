@@ -1,0 +1,50 @@
+= Document 21: Chamber treasury receipt
+:page-role: wide
+
+== Receipt
+
+image::38-r.png[width=75%,link=self]
+
+NOTE: The clerk incorrectly numbered this document a "20." instead of "21."
+in the upper right corner; however, it is listed as a separate document in the
+xref:contents-list.adoc[Designatio Actorum].
+
+[.narrow]
+== Transliteration and Translation
+
+.Receipt
+[literal.bordered,subs="quotes,verbatim"]
+....
+Num: 458.                                20.)
+Spring
+
+Daß der Kolon Brüggemann N: 14 in Nordholz für
+einen ausgewiesenen Platz 44 Rthrl. 15 gl. 4 d. in
+Fürstl. Kammerkasse bezahlt hat quittirt.
+
+Berger
+
+Bückeburg
+4 Nov. 1818
+
+44 Rthrl. 15 gl. 4 d.
+....
+
+.Translation of Receipt
+[literal.bordered,subs="quotes,verbatim"]
+....
+No. 458.                                      20.)
+Spring
+
+That the Colon Brüggemann No. 14 in Nordholz has paid
+for an assigned plot 44 Reichsthaler 15 Groschen 4 Pfennige
+into the Princely Chamber Treasury is hereby receipted.
+
+Berger
+
+Bückeburg
+4 November 1818
+
+44 Reichsthaler 15 Groschen 4 Pfennige
+....
+

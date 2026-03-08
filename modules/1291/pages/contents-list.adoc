@@ -222,7 +222,7 @@ desgl. für den Neubauer Vogt No 13. zu Nordholz.
 |16
 
 |21.
-|Chamber treasury receipt.
+|xref:doc21.adoc[Chamber treasury receipt].
 
 Kammercassenquitung.
 |Bburg
