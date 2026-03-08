@@ -6,7 +6,7 @@
 
 image::36-r.png[width=75%,link=self]
 
-image::37-l.png[width=75%,link=slef]
+image::37-l.png[width=70%,link=slef]
 
 image::37-r.png[width=75%,link=self]
 
