@@ -4,11 +4,11 @@
 
 == Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 
-image::36-r.png[link=self]
+image::36-r.png[width=75%,link=self]
 
-image::37-l.png[link=slef]
+image::37-l.png[width=75%,link=slef]
 
-image::37-r.png[link=self]
+image::37-r.png[width=75%,link=self]
 
 [.narrow]
 == Transliteration and Translation
