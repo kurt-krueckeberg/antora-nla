@@ -5,12 +5,13 @@
 
 image::38-r.png[width=75%,link=self]
 
+[.narrow]
+== Transliteration and Translation
+
 NOTE: The clerk incorrectly numbered this document as "20." in the upper
 right corner instead of "21.";however, it is listed as a separate
 document in the xref:contents-list.adoc[Designatio Actorum].
 
-[.narrow]
-== Transliteration and Translation
 
 .Receipt
 [literal.bordered,subs="quotes,verbatim"]
