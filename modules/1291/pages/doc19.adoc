@@ -9,6 +9,7 @@ image::35-l.png[link=self]
 
 image::35-r.png[link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
