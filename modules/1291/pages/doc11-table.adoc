@@ -1,30 +1,49 @@
 
-.Kaufgeld and Kammerl Prestanden
+.Kaufgeld
 |===
-|Person|rl|g|d|Description|rl|g|d
+|Person|rl|g|d
 
 |Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines
-Stampes erhaltene 49 Quadrat-Rute a 12 g
-|16
-|12
+Stampes erhaltene 49 Quadrat-Ruten a 12 g
+|16rl
+|12g
 |
-|Rottzins +
-auf Michaeli 1819
-|
-|4
-|1
 
+|1
 |Vogt no 13 zu Nordholz für Haus und Gartenplatz +
 60 Ruthen. a   6g = 10 rl. +
 117 Ruthen a. 12g = 3g  
 |49
 |
 |
+
+|Neubauer Brügemann no 14 zu
+Nordholz für Haus und Gartenplatz
+60 Ruten a 6g = 10 rl. +
+103 Quadrat Ruthe 20 Fuß a 12g = 34rl 14g 4d
+|44
+|15
+|4
+|===
+
+.Kammeral Prestanden
+|===
+|Person|Decription|rl|g|d
+
+|Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines Stampes
+|Rottzins +
+auf Michaeli 1819
+|
+|4
+
+|Vogt no 13 zu Nordholz für Haus und Gartenplatz
 |
 |
 |
 
 
+|Neubauer Brügemann no 14 zu
+Nordholz für Haus und Gartenplatz
 |
 |
 |
