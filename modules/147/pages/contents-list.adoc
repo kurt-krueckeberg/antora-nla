@@ -1,0 +1,79 @@
+= Contents List
+:page-role: wide
+
+== Image
+
+image::01-r.png[link=self]
+
+
+== Transliteration and Translation
+
+[cols="1,7,6,3,3,3,1",options="header"]
+|===
+|No.|Designatio Actorum|(Topic)|Ort.|Jahr|Monat|Tag
+
+|1.
+|Vorstellung des Einliegers
+Driftmeier bey No. 5. zu
+Bernebusch, cum Res. Cam
+.8+|Ausweisung vom Forstgründe
+für den Einlieger Triftmeier
+beÿ No. 5. zu Berenbusch betr.
+|Bburg
+|1819
+|Febr.
+|22.
+
+|2.
+|Bericht hiesigen Amts.
+|"
+|"
+|Apr.
+|19
+
+
+|3.
+|Conc. K. Rescript aus Amt dahier.
+|"
+|"
+|Maÿ
+|4
+
+|4.
+|Vorstellung des Colons Niemann
+No. 2. zu Berenbusch, cum Res. Cam.
+|"
+|"
+|Junÿ
+|14
+
+|5.
+|Bericht des Amts Bückeburg,
+samt Anlage einer Zeichnung
+|"
+|"
+|October
+|29
+
+|6.
+|Conc. K. Rescript ans Amt dahier.
+desgl. an die Kammercasse.
+|"
+|"
+|November
+|22
+
+|7.
+|Kammercassenquitung
+|"
+|"
+|Decbr.
+|30
+
+|8.
+|Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch
+|"
+|1820
+|Apr.
+|20
+|====

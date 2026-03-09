@@ -1,1 +1,3 @@
 .Die Stätte Nr. 19 zu Berenbusch
+* xref:cover.adoc[]
+* xref:contents-list.adoc[]
