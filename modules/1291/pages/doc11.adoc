@@ -27,8 +27,8 @@ p[räsentiert]. 7. Juni 1818
 [routing notation]
 
 [vertical text on left side]
-Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen. +
-B. 15. Jun. 1818 +
+Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen.
+B. 15. Jun. 1818
 MKaas
 
 ad N: C. 62.      anni 1817
@@ -36,8 +36,8 @@ __ __   168. 101. anni 1878
 N: pr. 237. a. p: ct 33. 136. ac.
 a. Zuml
 
-An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg +
-betr. +
+An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg
+betr.
 Ausweisung
 
 
@@ -62,7 +62,7 @@ Bückeburg 30t Maÿ 1818.
 Habicht Neufsel
 ....
 
-.Kaufgeld
+.Kaufgeld table in text 
 [%header,cols="6,^1,^1,^1"]
 |===
 |Person |Reichdthaler +
@@ -92,7 +92,7 @@ Nordholz für Haus und Gartenplatz
 |4
 |===
 
-.Kammeral Prestanden
+.Kammeral Prestanden table in text
 [%header,cols="6,3,^1,^1,^1"]
 |===
 |Person|Decription|rl|g|d
