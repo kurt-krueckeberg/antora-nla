@@ -7,6 +7,8 @@ image::09-r.png[link=self]
 
 image::10-l.png[link=self]
 
+image:09-vert-text.png[link=self]
+
 image::11.png[link=self]
 
 [.narrow]
