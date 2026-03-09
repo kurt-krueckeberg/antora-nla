@@ -7,9 +7,9 @@
 
 image::21-r.png[title=Drawing,link=self]
 
-image::21-r-vert-text.png[link=self]
-
 image::22-l.png[title=Drawing,link=self]
+
+image::21-r-vert-text.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -52,6 +52,14 @@ Revierforstbedienten am 9t Mertz d: J. vollzogenen Ausweisungen,
 Neubauer Brügemann Sub No. C. 101 der zu bezahlende Rübenpreiß A 1/2 Mg.
 auf 6 gl. 5 p.  Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
+
+P. N.
+Die prastanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
+spätestens zu Michaeli 1822.
+MKaas
+
+Bückeburg 30t Maÿ 1818.
+Habicht Neufsel
 ....
 
 .Kaufgeld
@@ -145,16 +153,3 @@ Nordholz für Haus und Gartenplatz
 |
 |
 |===
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-P. N.
-Die prastanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
-spätestens zu Michaeli 1822.
-MKaas
-
-Bückeburg 30t Maÿ 1818.
-Habicht Neufsel
-....
-
-
