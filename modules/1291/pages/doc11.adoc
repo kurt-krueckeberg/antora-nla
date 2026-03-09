@@ -1,6 +1,8 @@
 = Document 11: Report of the local office, with drawing and specification.
 :page-role: wide
 
+*TODO:* Proofread
+
 == Image
 
 image::21-r.png[title=Drawing,link=self]
@@ -107,7 +109,7 @@ Nordholz für Haus und Gartenplatz
 |     
 
 |Dienstgeld
-|1
+^|1
 |
 |        
 
