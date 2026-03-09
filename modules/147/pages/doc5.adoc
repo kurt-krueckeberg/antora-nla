@@ -1,0 +1,29 @@
+= Document 5: Report of the Bückeburg office together with an attached drawing 
+:page-role: wide
+
+== Images
+
+image::09-r.png[link=self]
+
+image::10-l.png[link=self]
+
+image::11.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+[.widepair,cols="1a,1a"]
+|===
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+
+....
+|===
+
