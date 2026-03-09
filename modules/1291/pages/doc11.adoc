@@ -5,6 +5,7 @@
 
 image::21-r.png[title=Drawing,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
@@ -46,8 +47,10 @@ Neubauer Brügemann Sub No. C. 101 der zu bezahlende Rübenpreiß A 1/2 Mg.
 auf 6 gl. 5 p.  Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
 
-
+[sidebar]
+--
 .Kaufgeld
+[cols="6,1,1,1"]
 |===
 |Person|Reichdthaler +
 rl|Groschen +
@@ -75,6 +78,7 @@ Nordholz für Haus und Gartenplatz
 |15
 |4
 |===
+--
 
 .Kammeral Prestanden
 |===
