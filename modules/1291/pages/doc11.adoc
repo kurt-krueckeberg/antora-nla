@@ -9,7 +9,9 @@ image::21-r.png[title=Drawing,link=self]
 == Transliteration and Translation
 
 .Transliteration
-{empty}N. 257.
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. 257.
 [document number:]11.
 
 [3G Stempel]
@@ -23,19 +25,17 @@ Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen. +
 B. 15. Jun. 1818 +
 MKaas
 
-....
 ad N: C. 62.      anni 1817
 __ __   168. 101. anni 1878
 N: pr. 237. a. p: ct 33. 136. ac.
 a. Zuml
-....
 
 An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg +
 betr. +
 Ausweisung
 
 
-{empty}M. Von diesem Berichte, dem folgenden Kammer rescripte und den betr.
+M. Von diesem Berichte, dem folgenden Kammer rescripte und den betr.
 Kaufbriefen sind Abschriften zur Formirung von Stätteacten (No 13 & 14
 in Nordholz) sub inbro i Bauergüter & Colonien im Amte Bückeburg genommen.
 Lösenrein Ueber die in den vorangezogenen Kammeral-Nummern für Krückebag No
@@ -46,15 +46,14 @@ Revierforstbedienten am 9t Mertz d: J. vollzogenen Ausweisungen,
 Neubauer Brügemann Sub No. C. 101 der zu bezahlende Rübenpreiß A 1/2 Mg.
 auf 6 gl. 5 p.  Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
+....
 
-//[sidebar]
-//--
 .Kaufgeld
-[%header,cols="6,1,1,1"]
+[%header,cols="6,^1,^1,^1"]
 |===
-|Person ^|Reichdthaler +
-rl ^|Groschen +
-++g++ ^|Pfennig +
+|Person |Reichdthaler +
+rl|Groschen +
+++g++|Pfennig +
 d
 
 |Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines
@@ -78,9 +77,9 @@ Nordholz für Haus und Gartenplatz
 |15
 |4
 |===
-//--
 
 .Kammeral Prestanden
+[%header,cols="6,3,^1,^1,^1"]
 |===
 |Person|Decription|rl|g|d
 
@@ -94,21 +93,21 @@ Nordholz für Haus und Gartenplatz
 (auch Michaeli a 1823)
 |Rottzins       
 |
-|17g
-|5d
+|17
+|5
   
 |Mahlschweingeld
 |
-|6g
+|6
 |
       
 |Michaelischen
 |
-|1g
+|1
 |     
 
 |Dienstgeld
-|1rl
+|1
 |
 |        
 
@@ -141,15 +140,15 @@ Nordholz für Haus und Gartenplatz
 |
 |===
 
-{empty}P. N.
-Die prastanden sind
-nach Ablauf 3. Freier
-Jahre zu entrichten, also
+[literal.bordered,subs="verbatim,quotes"]
+....
+P. N.
+Die prastanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
 spätestens zu Michaeli 1822.
 MKaas
 
 Bückeburg 30t Maÿ 1818.
 Habicht Neufsel
-
+....
 
 
