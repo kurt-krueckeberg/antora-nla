@@ -7,33 +7,35 @@ image::21-r.png[title=Drawing,link=self]
 
 == Transliteration and Translation
 
-[literal.bordered,subs="verbatim,quotes"]
-....
-N. 257.                                                           11.,
+.Transliteration
+{empty}N. 257.
+[document number:]11.
 
 [3G Stempel]
+
 p[räsentiert]. 7. Juni 1818
 
 [routing notation]
 
 [vertical text on left side]
-Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen.
-B. 15. Jun. 1818 
+Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen. +
+B. 15. Jun. 1818 +
 MKaas
 
+....
 ad N: C. 62.      anni 1817
 __ __   168. 101. anni 1878
 N: pr. 237. a. p: ct 33. 136. ac.
 a. Zuml
+....
 
-
-An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg
-betr.
+An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg +
+betr. +
 Ausweisung
 
 
-M. Von diesem Berichte, dem folgenden Kammer rescripte und den betr.
-Kaufbriefen sind Abschrif- ten zur Formirung von Stätteacten (No 13 & 14
+{empty}M. Von diesem Berichte, dem folgenden Kammer rescripte und den betr.
+Kaufbriefen sind Abschriften zur Formirung von Stätteacten (No 13 & 14
 in Nordholz) sub inbro i Bauergüter & Colonien im Amte Bückeburg genommen.
 Lösenrein Ueber die in den vorangezogenen Kammeral-Nummern für Krückebag No
 10 zu Berenbusch und für die beiden Neubauer Anton Otto Voigt und Gottlieb
@@ -44,59 +46,107 @@ Neubauer Brügemann Sub No. C. 101 der zu bezahlende Rübenpreiß A 1/2 Mg.
 auf 6 gl. 5 p.  Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
 
-                                             an                 an
-                                            Kaufgeld       Kammeral Prestanden
-                                             rl   g   d    rl     g     d
 
+.Kaufgeld
+|===
+|Person|Reichdthaler +
+rl|Groschen +
+++g++|Pfennig +
+d
 
-*TODO: See doc11-table.adoc for a table version of this information!!
+|Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines
+Stampes erhaltene 49 Quadrat-Ruten a 12 g
+|16rl
+|12g
+|
 
-Krückeberg no 10 zu Berenbuch für
-die zur Vergrößerung seines
-Stampes erhaltene 49 Quadrat-Rute a 12 g    16rl. 12               4     1
-                                                      Rottzins auf Michaeli 1819
+|Vogt no 13 zu Nordholz für Haus und Gartenplatz +
+60 Ruthen. a   6g = 10 rl. +
+117 Ruthen a. 12g = 3g  
+|49
+|
+|
 
-Vogt no 13 zu Nordholz für Haus
-und Gartenplatz 60 R. a   6g –-10 rl.}       49  Rottzins         17g   5d  
-                117 R. a. 12g --3g   }           Mahlschweingeld   6g      
-                                                 Michaelischen     1g     
-                                                 Dienstgeld   1rl        
-                                                 Ein Rauchhuhn
-                                                 fünf Erndtetage
-                                                 Jagden Wachten
-                                                 Landfalgen.      
-                                  Auch Michaeli a 1823 
+|Neubauer Brügemann no 14 zu
+Nordholz für Haus und Gartenplatz
+60 Ruten a 6g = 10 rl. +
+103 Quadrat Ruthe 20 Fuß a 12g = 34rl 14g 4d
+|44
+|15
+|4
+|===
 
+.Kammeral Prestanden
+|===
+|Person|Decription|rl|g|d
 
-P. N.
+|Krückeberg no 10 zu Berenbuch (auch Michaeli 1819)
+|Rottzins
+|
+|4
+|1
+
+.8+|Vogt no 13 zu Nordholz für Haus und Gartenplatz +
+(auch Michaeli a 1823)
+|Rottzins       
+|
+|17g
+|5d
+  
+|Mahlschweingeld
+|
+|6g
+|
+      
+|Michaelischen
+|
+|1g
+|     
+
+|Dienstgeld
+|1rl
+|
+|        
+
+|Ein Rauchhuhn
+|
+|
+|
+
+|fünf Erntetage
+|
+|
+|
+
+|Jagden Wachten
+|
+|
+|
+
+|Landfalgen.
+|
+|
+|      
+
+|Neubauer Brügemann no 14 zu
+Nordholz für Haus und Gartenplatz
+(Michaeli 1823)
+|übrige Prestanden wie der vorige
+|
+|
+|
+|===
+
+{empty}P. N.
 Die prastanden sind
 nach Ablauf 3. Freier
 Jahre zu entrichten, also
 spätestens zu Michaeli 1822.
 MKaas
 
-
-                                                   an              an
-                                                Kaufgeld        Kammeral Prestanden
-                                                rl. gl. d       rl. gl. d
- 
-Neubauer Brügemann no 14 zu
-Nordholz für Haus und Garten Platz
-            60 R: a 6 gl.----- 10rl
-103 Quadrat-Rute 30 Fuß a 12. 34 rt. 15 g. 4 d.} 44. 15 gl. 4: Rotzins “ – 16 g. 2 d. Micha
-
-
- 44. 15 gl. 4: Rotzins “ – 16 g. 2 d. Michai
-a 1823.
-übrige Prestan-
-den wie der vo-
-rige
 Bückeburg 30t Maÿ 1818.
-Habioht Neufsel
+Habicht Neufsel
 ....
 
 
 
-[literal.bordered,subs="verbatim,quotes"]
-....
-....

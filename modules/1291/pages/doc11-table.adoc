@@ -1,7 +1,10 @@
 
 .Kaufgeld
 |===
-|Person|rl|g|d
+|Person|Reichdthaler +
+rl|Groschen +
+++g++|Pfennig +
+d
 
 |Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines
 Stampes erhaltene 49 Quadrat-Ruten a 12 g
@@ -9,7 +12,6 @@ Stampes erhaltene 49 Quadrat-Ruten a 12 g
 |12g
 |
 
-|1
 |Vogt no 13 zu Nordholz für Haus und Gartenplatz +
 60 Ruthen. a   6g = 10 rl. +
 117 Ruthen a. 12g = 3g  
@@ -30,24 +32,58 @@ Nordholz für Haus und Gartenplatz
 |===
 |Person|Decription|rl|g|d
 
-|Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines Stampes
-|Rottzins +
-auf Michaeli 1819
+|Krückeberg no 10 zu Berenbuch (auch Michaeli 1819)
+|Rottzins
 |
 |4
+|1
 
-|Vogt no 13 zu Nordholz für Haus und Gartenplatz
+.8+|Vogt no 13 zu Nordholz für Haus und Gartenplatz +
+(auch Michaeli a 1823)
+|Rottzins       
+|
+|17g
+|5d
+  
+|Mahlschweingeld
+|
+|6g
+|
+      
+|Michaelischen
+|
+|1g
+|     
+
+|Dienstgeld
+|1rl
+|
+|        
+
+|Ein Rauchhuhn
 |
 |
 |
 
+|fünf Erntetage
+|
+|
+|
+
+|Jagden Wachten
+|
+|
+|
+
+|Landfalgen.
+|
+|
+|      
 
 |Neubauer Brügemann no 14 zu
 Nordholz für Haus und Gartenplatz
-|
-|
-|
-|
+(Michaeli 1823)
+|übrige Prestanden wie der vorige
 |
 |
 |
