@@ -78,11 +78,23 @@ image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 R. Cam. Die Kammer ist der Meinung, daß dem Krückeberg der kleine
-mit A auf der Zeichung bemerkte Platz, etwa 1/2 Morgen, gegen billige Be-
-zahlung zu überlaßen seÿn möchte. Rescr. dem Amte daß es dem Krückeberg
-dies zu bedeuten habe, und die eweigen Widerspruche der Hude berechtigten
+mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen, gegen billige Be-
+zahlung zu überlassen seÿn möchte. Rescr. dem Amte daß es dem Krückeberg
+dies zu bedeuten habe, und die etwaigen Widersprüche der Hude-Berechtigten
 vernehmen und sodann ad cameram berichte.
 
-Bbg. 10t Feb. 1817
-K Cendsberg
+Bbg. 10ten Feb. 1817
+T Landesberg
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+R. Cam. The Chamber is of the opinion that the small place marked
+with A on the drawing, about 1/2 Morgen, should be granted to Krückeberg
+for a reasonable payment. A rescript to the Office that it should inform
+Krückeberg of this, and hear any objections of the Hude-entitled persons,
+and then report to the Chamber.
+
+Bückeburg, 10 February 1817
+T Landesberg
 ....
