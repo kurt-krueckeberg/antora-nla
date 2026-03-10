@@ -201,8 +201,6 @@ Bückeburg, 30 May 1818
 Habicht Neufsel
 ....
 
-
-....
 .Kaufgeld table in text
 [%header,cols="6,^1,^1,^1"]
 |===
