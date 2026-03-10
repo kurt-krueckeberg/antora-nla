@@ -14,6 +14,32 @@ image::21-r-vert-text.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+=== Comments 
+
+There is an introductory remark written by a clerk before the report's
+text, in which the clerk says that copies of:
+
+* this report
+* the chamber rescript (decision)
+* the related purchase deeds
+
+were taken *to create the Stätteacten* (settlement files) for:
+
+* No. 13 Nordholz
+* No. 14 Nordholz
+
+under the archival series:
+
+____
+Bauergüter & Colonien im Amte Bückeburg
+____
+
+So this note is basically saying:
+
+____
+These documents were copied and placed in the individual property files for those two settlements.
+____
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
