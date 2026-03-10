@@ -9,37 +9,47 @@ image::02-r.jpg[title=Petition of the Shoemaker Krückeberg no. 10 at Berenbusch
 [.narrow]
 == Transliteration and Translation
 
+The spelling, grammar and punctuation have been normalized in this
+transliteration. 
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 67                                 1
 
-eingegange Benken
-7 Juni 1817
+eingegangen [in] Buckbg.
+7. Juni 1817
 
 [resolution or routing instruction written by the sovereign (or written in
 his name).]
-An die Kammer zum Gutachten
-Georg Wilhelm
+An die Kammer zum Gutachten.
+Georg Wilhelm.
 
-[?]  Oberf[orster] Kaas
-zum gutersten
-bz 8 Juni 1817
+[?] Oberf[orster] Kaas
+zum Gutachten
+[unreadable] 8. Juni 1817
 [initials]
 
-durch lautester Fürst und Herr
+Durchlauchtigster Fürst und Herr!
 
-Ich bitte unsern durch lautesten Fürsten und landes Vater wenn Es möchlig
-sein Könte in Walde an meinen angekauften sat Kampfe da liegt Eine Kleine
-schrat Ecke an der Herrschaftlichen Söhre so bitte ich um die Kleine Ecke
-Es sol wohl Ein halber morgen betragen so bitte ich unsern liebe vollesten
-durch lauteßen fürsten und landes Vatter schencken sie mir die Kleine Ecke
-daß ich die Erde da von Jahren kan in die niedergestellen auf den hat
-Kampfe ich habe dis leste Jahr umgeflüget und wieder gesänt und noch Korn
-nichts geErntet nun wolte ich gern die unnaßen Flecken damit aus fühlen;
-und wen ich die Erde von den Plaß abgefahren habe sowolte ich ihn Etwas
-verbeßern da mit Etwas graß darauf Waßen könte sich verlaße mich
-durchlaütester Fürst und Herr auf ihre liebe.
+Ich bitte unsern durchlauchtigsten Fürsten und Landesvater, wenn es möglich
+sein könnte, im Walde an meinem angekauften sat Kampfe [Saatkamp] — da liegt
+eine kleine schräge Ecke an der herrschaftlichen Söhre —, so bitte ich um die
+kleine Ecke. Es soll wohl ein halber Morgen betragen; so bitte ich unsern
+liebevollsten durchlauchtigsten Fürsten und Landesvater: Schenken Sie mir
+die kleine Ecke, daß ich die Erde davon fahren kann in die Niederstellen
+auf den Kampfe. Ich habe dieses letzte Jahr umgepflügt und wieder gesät
+und noch Korn nichts geerntet. Nun wollte ich gern die unnassen Flecken damit
+ausfüllen; und wenn ich die Erde vom Platz abgefahren habe, so wollte ich
+ihn etwas verbessern, damit etwas Gras darauf wachsen könnte.
 
-no: 10. Berubusch den 1ten Januarÿ 1817
+Ich verlasse mich, durchlauchtigster Fürst und Herr, auf Ihre Liebe.
+
+No. 10 Berenbusch, den 1ten Januarÿ 1817
 Schuster Krückeberg
+....
+
+
+....
+
+
 ....
