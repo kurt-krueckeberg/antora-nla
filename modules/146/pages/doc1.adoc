@@ -43,7 +43,7 @@ the " financial circumstances and on the personal qualities of the petitioner."
 
 == Petition Cover Page
 
-image::05-l.png[link=self]
+image::05-l.png[width=65%,link=self]
 
 [NOTE]
 ====
