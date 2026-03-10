@@ -51,12 +51,12 @@ Ueber die in den vorangezogenen Kammeral-Nummern für Krückeberg No
 Brüggemann No 13 & 14 zu Nordholz verordneten und von uns mit Beysein des
 Revierforstbedienten am 9t Mertz d: J. vollzogenen Ausweisungen,
 überreichen wir anbeÿ die planimetrische Zeichnung, und wird, da dem
-Neubauer Brüggemann Sub No. C. 101 der zu bezahlende Rutenpreiß A 1/2 Mg.
-auf 6 gl. 5 p: Ruthe, und auf 12 gl p Ruthe das übrige Grund und Boden
+Neubauer Brüggemann Sub No. C. 101 der zu bezahlende Rutenpreiß à 1/2 Mg.
+auf 6 gl. 5 p: Ruthe, und auf 12g p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
 
 P. N.
-Die prastanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
+Die Prästanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
 spätestens zu Michaeli 1822.
 MKaas
 
@@ -67,28 +67,28 @@ Habicht Neufsel
 .Kaufgeld table in text 
 [%header,cols="6,^1,^1,^1"]
 |===
-|Person |Reichdthaler +
+|Person |Reichsthaler +
 rl|Groschen +
 ++g++|Pfennig +
 d
 
-|Krückeberg no 10 zu Berenbuch für die zur Vergrößerung seines
-Stampes erhaltene 49 Quadrat-Ruten a 12 g
+|Krückeberg no 10 zu Berenbusch für die zur Vergrößerung seines
+Stampes erhaltene 49 Quadrat-Ruthen a 12 g
 |16rl
 |12g
 |
 
 |Vogt no 13 zu Nordholz für Haus und Gartenplatz +
-60 Ruthen. a   6g = 10 rl. +
-117 Ruthen a. 12g = 3g  
+60 Ruthen. a 6g = 10rl +
+117 Ruthen a. 12g = 39rl  
 |49
 |
 |
 
 |Neubauer Brüggemann no 14 zu
 Nordholz für Haus und Gartenplatz
-60 Ruten a 6g = 10 rl. +
-103 Quadrat Ruthe 20 Fuß a 12g = 34rl 14g 4d
+60 Ruthen a 6g = 10 rl. +
+103 Quadrat Ruthen 30 Fuß a 12g = 34rl 14g 4d
 |44
 |15
 |4
@@ -97,9 +97,9 @@ Nordholz für Haus und Gartenplatz
 .Kammeral Prestanden table in text
 [%header,cols="6,3,^1,^1,^1"]
 |===
-|Person|Decription|rl|g|d
+|Person|Description|rl|g|d
 
-|Krückeberg no 10 zu Berenbuch (auch Michaeli 1819)
+|Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)
 |Rottzins
 |
 |4
@@ -117,7 +117,7 @@ Nordholz für Haus und Gartenplatz
 |6
 |
       
-|Michaelischen
+|Michaelischsatz
 |
 |1
 |     
@@ -142,12 +142,12 @@ Nordholz für Haus und Gartenplatz
 |
 |
 
-|Landfalgen.
+|Landfolgen.
 |
 |
 |      
 
-|Neubauer Brügemann no 14 zu
+|Neubauer Brüggemann no 14 zu
 Nordholz für Haus und Gartenplatz
 (Michaeli 1823)
 |übrige Prestanden wie der vorige
@@ -155,3 +155,143 @@ Nordholz für Haus und Gartenplatz
 |
 |
 |===
+
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+No. 257
+[Document number:] 11
+
+[3-groschen stamp]
+
+Presented 7 June 1818
+
+[routing notation]
+
+[vertical text on left side]
+
+Resolution of the Chamber: Approved, and the necessary instructions are to be issued to the authorities.
+Bückeburg, 15 June 1818
+MKaas
+
+ad No. C. 62 year 1817
+__ __ 168. 101. year 1818
+No. pr. 237. a. p: ct 33. 136. ac.
+a. Zuml
+
+To the Princely Chamber
+Report of the Offices of Bückeburg and Arensburg
+concerning
+land assignment
+
+From this report, from the following chamber rescript, and from the related purchase deeds, copies have been taken for the formation of settlement files (Nos. 13 and 14 in Nordholz) under the series Bauergüter & Colonien in the Office of Bückeburg.
+
+[uncertain]
+
+Concerning the land assignments ordered in the previously cited chamber numbers for Krückeberg No. 10 in Berenbusch and for the two new settlers Anton Otto Voigt and Gottlieb Brüggemann Nos. 13 and 14 in Nordholz, and carried out by us on the 9th of March of this year in the presence of the district forest official, we herewith submit the planimetric drawing. And since for the new settler Brüggemann, under No. C. 101, the purchase price to be paid per ruthe has been fixed at the rate of ½ Morgen at 6 groschen 5 pfennig per ruthe, and at 12 groschen per ruthe for the remaining land and soil, payment is to be made accordingly.
+
+P.N.
+
+The dues are to be paid after the expiration of three free years, therefore at the latest by Michaelmas 1822.
+
+MKaas
+
+Bückeburg, 30 May 1818
+Habicht Neufsel
+....
+
+
+....
+.Kaufgeld table in text
+[%header,cols="6,^1,^1,^1"]
+|===
+|Person |Reichsthaler +
+rl|Groschen +
+++g++|Pfennig +
+d
+
+|Krückeberg no 10 in Berenbusch for the 49 square Ruthen
+received for the enlargement of his holding at 12 g
+|16rl
+|12g
+|
+
+|Vogt no 13 in Nordholz for house and garden plot +
+60 Ruthen. at 6g = 10rl +
+117 Ruthen at 12g = 39rl  
+|49
+|
+|
+
+|New settler Brüggemann no 14 in
+Nordholz for house and garden plot
+60 Ruthen at 6g = 10 rl. +
+103 square Ruthen 30 feet at 12g = 34rl 14g 4d
+|44
+|15
+|4
+|===
+
+.Kammeral dues table in text
+[%header,cols="6,3,^1,^1,^1"]
+|===
+|Person|Description|rl|g|d
+
+|Krückeberg no 10 in Berenbusch (also Michaelmas 1819)
+|clearing rent
+|
+|4
+|1
+
+.8+|Vogt no 13 in Nordholz for house and garden plot +
+(also Michaelmas 1823)
+|clearing rent       
+|
+|17
+|5
+  
+|mill-pig payment
+|
+|6
+|
+      
+|Michaelmas levy
+|
+|1
+|     
+
+|service fee
+^|1
+|
+|        
+
+|one hen
+|
+|
+|
+
+|five harvest days
+|
+|
+|
+
+|hunt watch duties
+|
+|
+|
+
+|land service duties
+|
+|
+|      
+
+|new settler Brüggemann no 14 in
+Nordholz for house and garden plot
+(Michaelmas 1823)
+|other dues as the previous
+|
+|
+|
+|===
+
