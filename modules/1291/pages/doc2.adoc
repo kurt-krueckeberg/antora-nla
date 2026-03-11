@@ -10,10 +10,10 @@ image::03-r.png[title=TODO??????,width=70%,link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N. M. 62.                            2.
+N. Cam. 62.                            2.
 
 p. 5 Febr. 1817
-ad Nm C. 67.
+ad Nᵐ C. 67 (ad Numero Camerae 67)
 
 Ausweisungen vom Forstgrunde
 
@@ -45,25 +45,28 @@ The *Söhre* was a locally named tract of village forest/common land near Berenb
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N. M. 62 2
+N. Cam. 62.                                         2.
 
-presented 5 February 1817 re. no. C. 67
+presented 5 February 1817 
+re: Chamber No. 67
 
-Allotments from the forest land
+Assignments from the forest land
 
-According to the enclosed report of the head forester Falkman and the
-attached site drawing of the place situated at the Söhre, for whose
-allotment the shoemaker Krückeberg No. 10 in Berenbusch applied on 1
-January of this year, the Forest Administration has nothing to object to
-regarding the allotment of the place marked A.
+[initials]
+
+According to the enclosed report of the Chief Forester Falkman and the
+attached site drawing of the place located on the Söhre, for the
+assignment of which the shoemaker Krückeberg No. 10 in Berenbusch applied
+on 1 January of this year, the forest administration has no objection to
+the assignment of the place marked A.
 
 But if one wished to allot to Krückeberg a larger area than about half a
 Morgen from the forest land, then the objections of those entitled to
-pasture rights would be all the more justified, since Colonist Krückeberg
+pasture rights would be all the more well-founded, since Colon Krückeberg
 already possesses a sizeable Brinksitzer holding, and he has purchased 8¾
-Morgen [about 5-6 acres] from the Söhre.
+Morgen [about 5–6 acres] from the Söhre.
 
-Bücke., 3 February 1817
+Bücke. 3 February 1817
 
 MKaas
 ....
