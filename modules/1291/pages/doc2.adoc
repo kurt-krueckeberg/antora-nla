@@ -50,23 +50,23 @@ N. Cam. 62.                                         2.
 presented 5 February 1817 
 re: Chamber No. 67
 
-Assignments from the forest land
+Land allotments from forest land
 
 [initials]
 
 According to the enclosed report of the Chief Forester Falkman and the
-attached site drawing of the place located on the Söhre, for the
-assignment of which the shoemaker Krückeberg No. 10 in Berenbusch applied
-on 1 January of this year, the forest administration has no objection to
-the assignment of the place marked A.
+attached site drawing of the parcel on the Söhre, for the allotment of
+which the shoemaker Krückeberg No. 10 in Berenbusch applied on 1 January of
+this year, the forest administration has no objection to the allotment of
+the parcel marked A.
 
 But if one wished to allot to Krückeberg a larger area than about half a
 Morgen from the forest land, then the objections of those entitled to
-pasture rights would be all the more well-founded, since Colon Krückeberg
+grazing rights would be all the more well-founded, since Colon Krückeberg
 already possesses a sizeable Brinksitzer holding, and he has purchased 8¾
 Morgen [about 5–6 acres] from the Söhre.
 
-Bücke. 3 February 1817
+Bückeburg 3 February 1817
 
 MKaas
 ....
@@ -77,6 +77,8 @@ image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 
 [.narrow]
 == Transliteration and Translation
+
+<-- RESUME HERE.
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
