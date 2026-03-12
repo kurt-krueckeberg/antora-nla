@@ -103,3 +103,107 @@ Chamber.
 Bückeburg, 10 February 1817
 T Landesberg
 ....
+
+== Document 2 Enclosure: Report of Chief Forester Falkmann 
+
+image::04-r.png[width=75%,link=self]
+
+[.narrow]
+== Transliteration and Translatin
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+ad 2.
+
+Ausweisung betreff
+
+In Gefolge des von Fürstl. Forstdirection erhaltenen Auftrags, habe ich den
+Platz um deßen Ausweisung, Krückeberg no 10 in Berenbusch nachgesucht, in
+Augenschein genommen, und eine davon aufgenommene, hier beÿgefügte
+Zeichnung gehorsamst überreichen wollen. Das darauf mit A bezeichnete
+Plätzchen enthält ohngefehr 1/2 Morgen, und der Zweite mit B bezeichnete
+Platz, 1 Morgen.  Krückeberg wünscht den ganzen Platz A und B zu haben, auf
+welchen 5 St. Eichen stehn.
+
+Baum d: 2ten Febr. 1817
+
+Falckmann
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+ad 2 [pertaining to document 2]
+
+Re: Land allotment
+
+Following the order received from the Princely Forestry Directorate, I have
+inspected the site for which Krückeberg No. 10 in Berenbusch has requested
+an allotment of land, and respectfully submit herewith the enclosed survey
+drawing made of it.
+
+The small plot marked A thereon contains approximately ½ Morgen, and the
+second plot marked B, 1 Morgen. Krückeberg wishes to have the entire plots
+A and B, upon which 5 oak trees stand.
+
+Baum, 2 February 1817
+
+Falckmann
+....
+
+== Document 2 Enclosure: Survey Drawing
+
+image::05-r.png[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+                     Der Raue Knick
+
+der Röcker Damm.
+
+                   Kohlmeyer no 5 in Berenbusch
+                   anzukaufter Theil von den Söhren
+
+ 
+
+                    8 3/4 Morgen von den                 Die Herrschaft
+                  Söhren, welche Krückeberg                 Söhren
+                  no. 10 in Berenbusch angekauft.
+
+
+
+                  A
+Forst
+                               B
+                                         Weiland No 1 in Berenbusch
+                                         Saat-Kamp
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+                     The Rough Hedge
+
+the Röcker Dam.
+
+                   Kohlmeyer No. 5 in Berenbusch
+                   part of the Söhren to be purchased
+                         from the Söhren
+
+ 
+
+                    8 3/4 Morgen from the Söhren         Government land
+                  of the Söhren, which Krückeberg        at the Söhren
+                  No. 10 in Berenbusch has purchased.
+
+
+
+                  A
+Forest
+                               B
+                                         Weiland No. 1 in Berenbusch
+                                         Seed field (Saat-Kamp)
+....
