@@ -80,11 +80,11 @@ image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-R. Cam. Die Kammer ist der Meinung, daß dem Krückeberg der kleine
-mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen, gegen billige Be-
-zahlung zu überlassen seÿn möchte. Rescr. dem Amte daß es dem Krückeberg
-dies zu bedeuten habe, und die etwaigen Widersprüche der Hude-Berechtigten
-vernehmen und sodann ad cameram berichte.
+R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
+   der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
+gegen billige Be- zahlung zu überlassen seÿn möchte. Rescr. dem Amte daß es
+dem Krückeberg dies zu bedeuten habe, und die etwaigen Widersprüche der
+Hude-Berechtigten vernehmen und sodann ad cameram berichte.
 
 Bbg. 10ten Feb. 1817
 T Landesberg
@@ -92,11 +92,11 @@ T Landesberg
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-R. Cam. The Chamber is of the opinion that the small parcel marked with A
-on the drawing, about 1/2 Morgen, should be granted to Krückeberg for a
-reasonable payment. Instruction to the Office: it is to inform Krückeberg
-of this, hear any objections of those entitled to grazing rights, and then
-report to the Chamber.
+Resolution of the Chamber. The Chamber is of the opinion that the small
+parcel marked with A on the drawing, about 1/2 Morgen, should be granted to
+Krückeberg for a reasonable payment. Instruction to the Office: it is to
+inform Krückeberg of this, hear any objections of those entitled to grazing
+rights, and then report to the Chamber.
 
 Bückeburg, 10 February 1817
 T Landesberg
