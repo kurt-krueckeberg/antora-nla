@@ -3,7 +3,7 @@
 
 == Image
 
-image::03-r.png[title=TODO??????,width=70%,link=self]
+image::03-r.png[width=70%,link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -78,8 +78,6 @@ image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 [.narrow]
 == Transliteration and Translation
 
-<-- RESUME HERE.
-
 [literal.bordered,subs="verbatim,quotes"]
 ....
 R. Cam. Die Kammer ist der Meinung, daß dem Krückeberg der kleine
@@ -94,11 +92,11 @@ T Landesberg
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-R. Cam. The Chamber is of the opinion that the small place marked
-with A on the drawing, about 1/2 Morgen, should be granted to Krückeberg
-for a reasonable payment. A rescript to the Office that it should inform
-Krückeberg of this, and hear any objections of the Hude-entitled persons,
-and then report to the Chamber.
+R. Cam. The Chamber is of the opinion that the small parcel marked with A
+on the drawing, about 1/2 Morgen, should be granted to Krückeberg for a
+reasonable payment. Instruction to the Office: it is to inform Krückeberg
+of this, hear any objections of those entitled to grazing rights, and then
+report to the Chamber.
 
 Bückeburg, 10 February 1817
 T Landesberg
