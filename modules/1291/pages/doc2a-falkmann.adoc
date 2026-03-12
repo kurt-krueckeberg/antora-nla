@@ -12,7 +12,6 @@ image::04-r.png[width=75%,link=self]
 ....
 ad 2.
 
-
 Ausweisung betreff
 
 In Gefolge des von Fürstl. Forstdirection erhaltenen Auftrags, habe ich den
