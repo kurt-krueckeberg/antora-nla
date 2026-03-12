@@ -8,6 +8,7 @@ image::05-r.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
                      Der Raue Knick
@@ -15,22 +16,45 @@ image::05-r.png[link=self]
 der Röcker Damm.
 
                    Kohlmeyer no 5 in Berenbusch
-                   anzukaufter Theil von
-                         den Söhren
+                   anzukaufter Theil von den Söhren
 
  
 
-                    8 3/4 Morgen von den                 die Herrschaft
-                  Söhren, welche Krüesenberg             Söhren
-                  no. 10 in Berenbusche an,
-                                      gekauft.
-
+                    8 3/4 Morgen von den                 Die Herrschaft
+                  Söhren, welche Krückeberg                 Söhren
+                  no. 10 in Berenbusch angekauft.
 
 
 
                   A
 Forst
                                B
-                                         Weiland N° 1 in Berenbusch
+                                         Weiland No 1 in Berenbusch
                                          Saat-Kamp
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+                     The Rough Hedge
+
+the Röcker Dam.
+
+                   Kohlmeyer No. 5 in Berenbusch
+                   part of the Söhren to be purchased
+                         from the Söhren
+
+ 
+
+                    8 3/4 Morgen from the Söhren         Government land
+                  of the Söhren, which Krückeberg        at the Söhren
+                  No. 10 in Berenbusch has purchased.
+
+
+
+                  A
+Forest
+                               B
+                                         Weiland No. 1 in Berenbusch
+                                         Seed field (Saat-kamp)
 ....
