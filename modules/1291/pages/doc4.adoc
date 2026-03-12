@@ -3,7 +3,7 @@
 
 == Petition Docket Page
 
-image::11-l.png[width=65%,link=self]
+image::11-l.png[width=50%,link=self]
 
 [.narrow]
 == Transliteration and Translation
