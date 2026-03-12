@@ -3,7 +3,7 @@
 
 == Image
 
-image::04-r.png[link=self]
+image::04-r.png[width=75%,link=self]
 
 [.narrow]
 == Transliteration and Translatin
