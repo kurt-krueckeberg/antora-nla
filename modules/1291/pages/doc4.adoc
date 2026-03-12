@@ -77,6 +77,7 @@ supnt Bbg
 [.narrow]
 == Chamber Resolution (vertical text)
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Res: Cam: Dem Amte Bückeburg b: M: zum Berichte
@@ -86,7 +87,7 @@ auf das Vermögen und die Persönlichkeit des Supplicaten
 B. 10 Nov. 1817                            MKaas
 ....
 
-
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Royal Chamber Resolution:
