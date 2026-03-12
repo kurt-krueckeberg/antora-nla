@@ -10,7 +10,7 @@ image::06-r.png[width=75%,link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-N.C. 62                              3
+N.C. 62                                          3.)
 
 [set of initials]
 
