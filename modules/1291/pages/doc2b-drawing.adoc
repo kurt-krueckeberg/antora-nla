@@ -1,60 +1,53 @@
-= Document 2 Enclosure: Survey Drawing
+= Document 2 Enclosure: Report of Chief Forester Falkmann 
 :page-role: wide
 
 == Image
 
-image::05-r.png[link=self]
+image::04-r.png[width=75%,link=self]
 
 [.narrow]
-== Transliteration and Translation
+== Transliteration and Translatin
 
-.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-                     Der Raue Knick
+ad 2.
 
-der Röcker Damm.
+Ausweisung betreffend
 
-                   Kohlmeyer no 5 in Berenbusch
-                   anzukaufter Theil von den Söhren
+In Folge des von der Fürstlichen Forstdirektion erhaltenen Auftrags habe
+ich den Platz, um dessen Ausweisung Krückeberg Nr. 10 in Berenbusch
+nachgesucht hat, in Augenschein genommen und eine davon aufgenommene, hier
+beigefügte Zeichnung gehorsamst überreichen wollen.
 
- 
+Das darauf mit A bezeichnete Plätzchen enthält ungefähr 1/2 Morgen, und der
+zweite mit B bezeichnete Platz 1 Morgen. Krückeberg wünscht den ganzen
+Platz A und B zu haben, auf welchen 5 Stück Eichen stehen.
 
-                    8 3/4 Morgen von den                 Die Herrschaft
-                  Söhren, welche Krückeberg                 Söhren
-                  no. 10 in Berenbusch angekauft.
+Baum, den 2. Februar 1817
 
-
-
-                  A
-Forst
-                               B
-                                         Weiland No 1 in Berenbusch
-                                         Saat-Kamp
+Falckmann
 ....
 
-.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-                     The Rough Hedge
+ad 2 [pertaining to document 2]
 
-the Röcker Dam.
+Re: Land allotment
 
-                   Kohlmeyer No. 5 in Berenbusch
-                   part of the Söhren to be purchased
-                         from the Söhren
+ad 2
 
- 
+Concerning the land allotment
 
-                    8 3/4 Morgen from the Söhren         Government land
-                  of the Söhren, which Krückeberg        at the Söhren
-                  No. 10 in Berenbusch has purchased.
+Pursuant to the commission received from the Princely Forestry Directorate,
+I have inspected the parcel for whose allotment Krückeberg No. 10 in
+Berenbusch has applied and respectfully submit the attached drawing that I
+made of it.
 
+The small plot marked A contains about ½ Morgen, and the second plot marked
+B contains 1 Morgen. Krückeberg wishes to have the entire parcel A and B,
+on which five oak trees stand.
 
+Baum, 2 February 1817
 
-                  A
-Forest
-                               B
-                                         Weiland No. 1 in Berenbusch
-                                         Seed field (Saat-kamp)
+Falckmann
 ....
