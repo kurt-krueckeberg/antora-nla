@@ -1,7 +1,7 @@
 = Document 9: Concluded Chancery rescript from the local office
 :page-role: wide
 
-== Images
+== Digital Images
 
 image::16-r.png[link=self]
 

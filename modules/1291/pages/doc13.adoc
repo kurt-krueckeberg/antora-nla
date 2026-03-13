@@ -1,7 +1,7 @@
 = Document 13: Chamber treasury receipt
 :page-role: img-bordered
 
-== Image
+== Digital Image
 
 image::26-r.png[title=Receipt,link=self]
 

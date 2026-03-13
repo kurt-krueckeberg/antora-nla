@@ -1,7 +1,7 @@
 = Document 2 Enclosure: Report of Chief Forester Falkmann 
 :page-role: wide
 
-== Image
+== Digital Image
 
 image::04-r.png[width=75%,link=self]
 

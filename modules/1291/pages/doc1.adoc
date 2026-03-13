@@ -2,7 +2,7 @@
 :page-role: wide
 
 
-== Image
+== Digital Image
 
 image::02-r.jpg[title=Petition of the Shoemaker Krückeberg no. 10 at Berenbusch,width=70%,link=self]
 

@@ -1,7 +1,7 @@
 = Document 2 Enclosure: Survey Drawing
 :page-role: wide
 
-== Image
+== Digital Image
 
 image::05-r.png[link=self]
 

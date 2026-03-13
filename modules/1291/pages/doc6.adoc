@@ -1,7 +1,7 @@
 = Document 6: Report of the local office.
 :page-role: wide
 
-== Images
+== Digital Images
 
 image::12-r.png[link=self]
 

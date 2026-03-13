@@ -1,7 +1,7 @@
 = Document 2: Submission by the Forestry Department, together with a report by Chief Forester Falkmann regarding timber, with a drawing.
 :page-role: wide
 
-== Image
+== Digital Image
 
 image::03-r.png[width=70%,link=self]
 
@@ -71,7 +71,7 @@ Bückeburg 3 February 1817
 MKaas
 ....
 
-== Image of Rentkammer Response
+== Digital Image of Rentkammer Response
 
 image::03-r-horz-text.png[title=Rentkammer Response,link=self]
 
