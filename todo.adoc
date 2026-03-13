@@ -6,6 +6,11 @@
   xref:1291:terms.adoc[]. Later do this for all the other modules.
 * Resume with doc #9 ancillary documents.
 
+[NOTE]
+====
+Document #8 shows the locations of houses in Nordholz and Evesen!
+====
+
 == NLA 147, No. 19 Berenbusch, mentions and shows "Krückeberg no. 18 Berenbusch"
 
 This case file mention "Krückberg of no. 18 Berenbusch", and it shows his
