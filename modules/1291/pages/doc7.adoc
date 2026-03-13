@@ -15,13 +15,9 @@ N. A. 749.
 
 [various initials]
 
-C. Aus Amt Bückeburg
+C. 
 
-mit Zuziehung des
-Oberförsters, in einer
-Fläche von 1 bis 1 ½ Morgen
-Exp: p: Alocis
-Mein
+Aus Amt Bückeburg
 
 Ausweisung.
 
@@ -35,7 +31,7 @@ Spring
 
 mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
 
-Exp: pr: Alocis
+Exp: p: Alocis
 ....
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -57,7 +53,7 @@ Bückeburg, 13 January 1818
 Schnor
 Spring
 
-The allotment of the land is to be carried out with the involvement of the Chief
+The allotment is to be carried out with the participation of the Chief
 Forester and is to comprise an area of 1 to 1½ Morgen.
 
 Expedited by: Alocis.
