@@ -196,5 +196,7 @@ die Ausweisung einer zu  bewirkfällige[n]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Resolution of the Chamber — concerning the allotment to be effected.
+Chamber Resolution: Accordingly, the allotment is to be carried out.
+Bückeburg, 12 January 1818.
+Certified: Spring.
 ....
