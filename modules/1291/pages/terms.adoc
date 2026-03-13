@@ -1,7 +1,8 @@
 = Terminology
 
-These terms are often used. They can be *false friends* whose actual
-meaning differs from their apparent meaning:
+These terms often appear the case file documents. They can be *false
+friends* whose actual meaning differs from their apparent meaning.
+This table clarifies their actual meaning.
 
 [width="100%",cols="29%,28%,43%",options="header",]
 |===
