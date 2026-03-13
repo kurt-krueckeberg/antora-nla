@@ -75,6 +75,7 @@ appropriate.
 
 [.narrow]
 == Transliteration and Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 16                                                          6.,
@@ -93,10 +94,10 @@ Fürstliche Kammer Bericht der Ämter Bückeburg und Arensburg
 Ausweisung
 
 Der Einlieger Vogt zu Evesen hat zum Nachweisen seiner Vermögensmittel, die
-er zum Neubauen anwenden kann, 68 rt bar, am 9 Dez. 13. bei hiesigem Amte
+er zum Neubauen anwenden kann, 68 rt bar, am 9 Dez. 17. bei hiesigem Amte
 niedergelegt, und sein Schwager Wilharm Nr. 11 zu Evesen hat, um die Summe
 von 100 rt vollzählig zu machen, dabei versprochen, 20 rt Brautschatz und
-12 rt ex Ædito, sobald Vogt es bedürffe, noch beizulegen. Von Seiten der
+12 rt ex aedito, sobald Vogt es bedürffe, noch beizulegen. Von Seiten der
 Hude-Interessenten hat der Amtsdiener Hartmann von mehreren derselben, und
 zwar der Meier und Halbmeier-Klasse, auf die bei ihnen noch etwaigen gegen
 die Ausweisung vorzubringenden Einreden gehaltene Nachfrage, die Antwort
@@ -119,59 +120,70 @@ Hautes zu verfechten suchen wolle.
 Bückeburg
 d. 31. Dez. 1817.
 
-Habicht Neussel
+Habicht Neufsel
 ....
 
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-No. 16 6.
+No. 16                    6
+
+[3 GR stamps]
+
+[routing notation]
+
+ad: C: N: 520
+No pr: 749
 
 Presented 7 June 1818
 
 Princely Chamber
 Report of the Offices of Bückeburg and Arensburg
 
-Land Assignment
+Allotment
 
-The Einlieger (lodger) Vogt of Evesen, in order to demonstrate that he has
-the financial means to construct a new dwelling, deposited 68 Reichstaler
-in cash at this office on 9 December 1813; and his brother-in-law Wilharm,
-No. 11 in Evesen, in order to bring the total to 100 Reichstaler, further
-promised to contribute 20 Reichstaler from his wife’s dowry and 12
-Reichstaler ex ædito, should Vogt require it.
+The Einlieger (lodger) Vogt of Evesen, in order to demonstrate the
+financial means which he can apply to building a new house, deposited 68
+Reichstaler in cash with the Office here on 9 December 1817. In addition,
+his brother-in-law Wilharm No. 11 at Evesen, in order to make the sum of
+100 Reichstaler complete, has promised to add 20 Reichstaler from a dowry
+(Brautschatz) and 12 Reichstaler from previously declared funds (ex
+aedito), as soon as Vogt should require it.
 
-On behalf of the holders of common grazing rights, the court officer
-Hartmann inquired of several of them—namely those of the Meier and
-Halbmeier class—whether they had any objections to the proposed land
-assignment. He was told that they had none.
+The office servant Hartmann, having inquired of several of the
+Hude-interested parties (holders of grazing rights in the common forest),
+namely those of the Meier and Halbmeier class, whether they had any
+objections to raise against the proposed allotment, received the answer
+that they had none. The smaller holders, however, whenever such inquiries
+are made of them, are always inclined to speak against any allotment; and
+if their unanimous waiver of all objections were to be required, an
+allotment affecting their interests would hardly ever come about without a
+prior extensive settlement of those objections. On the other hand, when an
+allotment is carried out without a prior inquiry addressed to them, they
+generally acquiesce in it for lack of support from their larger neighbors.
+The office servant Hartmann therefore also assures that the allotment now
+requested would likewise encounter no further objection.
 
-The smaller holders, when such inquiries are addressed to them, are
-accustomed to speak against every land assignment. If unanimous waiver of
-all objections were required, scarcely any assignment affecting their
-interests would ever take place without lengthy prior negotiations to
-remove those objections. In practice, however, when an assignment is
-carried out without first consulting them, they generally acquiesce, since
-they lack the support of their larger neighbors. The court officer Hartmann
-therefore states that the requested land assignment would likewise
-encounter no further objection.
-
-As a precaution, before carrying out the assignment, Vogt should be
-required, coram protocollo, to undertake that, should objections
-subsequently arise from the Hude-entitled parties, he will seek to contest
-them, in and out of court, at his own expense, without being entitled to
-demand representation or compensation from the Princely Chamber.
+As a precaution, however, before the allotment is carried out, Vogt should
+formally agree—on the official record—to the following condition: that if
+objections from the Hude-right holders should later arise, he will
+undertake to defend the matter at his own risk, both in and out of court,
+and may not demand representation or indemnification from the Princely
+Chamber.
 
 Bückeburg
 31 December 1817
 
 Habicht
-Neussel
+Neufsel
 ....
 
 === Notation about Document
 
-It is a brief registry note indicating that the matter concerns the land allotment that is to be carried into effect under a Chamber resolution. It does not issue a new order; it simply records that the allotment stands in the implementation stage.
+It is a brief registry note indicating that the matter concerns the land
+allotment that is to be carried into effect under a Chamber resolution. It
+does not issue a new order; it simply records that the allotment stands in
+the implementation stage.
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
