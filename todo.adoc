@@ -1,9 +1,10 @@
 = Todoes
 
-
 == Review 1291 documents
 
-Resume with doc #8 ancillary documents.
+* Change the headers to use the more understandable terms found in
+  xref:1291:terms.adoc[]. Later do this for all the other modules.
+* Resume with doc #8 ancillary documents.
 
 == NLA 147, No. 19 Berenbusch, mentions and shows "Krückeberg no. 18 Berenbusch"
 
