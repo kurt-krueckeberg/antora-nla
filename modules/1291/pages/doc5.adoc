@@ -36,11 +36,11 @@ Princely Rent Chamber
 [from] the soldier Brüggemann
 of No. 1 in Nordholz
 
-Most humble representation
-and petition:
+Most humble petition
+and request:
 
-most gracious allotment of
-a place for house construction with a garden
+Gracious assignment of
+a plot of land for the construction of a house with a garden.
 ....
 |===
 
@@ -68,7 +68,7 @@ p 16  xbr 1817
 [initials]
 
 Durchlauchtigster Fürst!
-Gnädigst regierender Jurist und Herr!
+Gnädigst regierender Fürst und Herr!
 
 Dem Neubauer Voigt zu Nordholz ist dicht vor dem Dorf, im Forst ein Platz
 zum Hausbau nebst etwas Gartenland zugesichert worden, neben welchem noch
@@ -76,20 +76,20 @@ Erdreich genug übrig bleibt, so daß auch ich daselbst anbauen kann.
 
 Die erforderlichen Einhundert Thaler kann ich nachweisen, indem dieselbigen
 von Seiten des Amts für mich belegt sind. Meinen Abschied aus hiesigen
-Kriegsdienten habe ich zwar noch nicht, dieweil ich nicht darauf angetragen
-habe. Es kann und aber meine Militairpflichtigkeit am Neubauen wohl nicht
+Kriegsdiensten habe ich zwar noch nicht, dieweil ich nicht darauf angetragen
+habe. Es kann aber meine Militärpflichtigkeit am Neubauen wohl nicht
 hinderlich seÿn. Ich führe wegen meiner Persönlichkeit noch an, daß ich mit
 dem Hauptmann Barkhausen nach Spanien marschiret und mit demselben gefangen
-genommen, wegen Unerträglichkeit der englichen Behandlung der Gefangenen,
+genommen, wegen Unerträglichkeit der englischen Behandlung der Gefangenen,
 englische Dienste habe nehmen müssen.
 
 Da dem Voigt der zugesicherte Platz noch nicht ausgemessen ist, so würde,
-wenn ich auch mir der erwünschte Platz zugetheilte wurde es Ein Ausmessen
+wenn ich auch mir der erwünschte Platz zugetheilt würde es ein Ausmessen
 seÿn, daher ich nur noch unterthänigst darauf antrage:
 
 Mir gnädigst fordersamst willfährige Resolution zu ertheilen.
 
-In tiefster Erfurcht ersterbe ich Ew. Durchlauchten
+In tiefster Ehrfurcht ersterbe ich Ew. Durchlauchten
 
 unterthänigster
 Soldat Brüggemann
@@ -117,35 +117,28 @@ the war, not voluntary disloyalty.
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-No. 584
+N. 584
 
-presented 16 December 1817
+Presented 16 December 1817
+
+[3 GR stamp]
+
+[initials]
 
 Most Serene Prince!
 Most gracious reigning Prince and Lord!
 
-A house site together with some garden land has been promised to the new
-settler Voigt at Nordholz, just outside the village in the forest, and
-sufficient ground remains beside it that I could also build there.
+A plot of land for building a house, together with a small garden, has been promised to the Neubauer (settler) Voigt of Nordholz, just outside the village in the forest; beside it enough ground still remains so that I also could build there.
 
-I can document the required one hundred thalers, as they are officially
-recorded for me by the Amt.  I have not yet received my discharge from the
-present military service, since I have not applied for it; however, my
-military obligation should not hinder the building of a new dwelling.
-Concerning my person I further state that I marched with Captain Barkhausen
-to Spain and was captured with him, and, because of the intolerable
-treatment of the prisoners by the English, was compelled to enter English
-military service.
+I can document the required one hundred thalers, since this is already recorded with the Office (local territorial administrative office of Bückeburg). I have not yet obtained my discharge from my present military service, because I have not applied for it. However, my military obligation cannot well be an obstacle to my building a house. Concerning my personal circumstances, I further state that I marched to Spain with Captain Barkhausen and was captured together with him and, because of the intolerable treatment of the prisoners by the English, was compelled to enter English service.
 
-Since the place promised to Voigt has not yet been surveyed, then, if the desired
-place were likewise allotted to me, it would require only one surveying; therefore
-I most submissively request:
+Because Voigt’s plot has not yet been surveyed, if my requested plot were granted as well, both could be measured out at the same time. Therefore I now most humbly petition only this:
 
-that a gracious and prompt favorable resolution be granted to me.
+That a gracious and prompt favorable decision be granted to me.
 
-In deepest reverence I remain unto Your Serene Highness
+In deepest reverence I remain before Your Serene Highness,
 
-most humble
+your most humble servant
 Soldier Brüggemann
 from No. 1 at Nordholz
 
