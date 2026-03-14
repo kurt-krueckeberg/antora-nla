@@ -5,7 +5,7 @@
 
 image::16-r.png[link=self]
 
-image::17-l.png[wide=50%,link=self]
+image::17-l.png[width=65%,link=self]
 
 [.narrow]
 == Translation and Transliteration
