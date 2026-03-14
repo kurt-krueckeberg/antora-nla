@@ -51,7 +51,7 @@ Furstl: Schaumbl: Lippl: Rentkammer
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-ad Num: Cam: 101. 9.,
+ad Num: Cam: 101.                                        9.,
 ad Num. Praef. 831.
 Draft.
 
