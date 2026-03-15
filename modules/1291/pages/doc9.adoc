@@ -51,6 +51,8 @@ Furstl: Schaumb: Lipp: Rentkammer
 
 .How big is a Rute (rod) and a Morgen?
 ****
+[NOTE]
+====
 This table shows how rods related to square feet, and how Morgens relate to 
 both square feet and acres.
 
@@ -78,6 +80,7 @@ both square feet and acres.
 |≈ 41,310 sq ft
 |≈ 0.95 acres
 |===
+====
 ****
 
 [literal.bordered,subs="verbatim,quotes"]
