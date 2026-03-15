@@ -60,16 +60,12 @@ Exp: p: Schultze.
 
 [routing notation]
 
-Res: Cam
-dem Suppl: wäre zu verstatten, das Colonie Haus so zu stellen, dass die
-Giebel-Seite gegen den Wald gerichtet werde, beide Colonie Häuser des Vogt
-u[nd]. Brüggeman wären jedoch in ganz gerader Linie zu stellen
-B[ückeburg]. 25. May 1818.
-MKaas
+Res: Cam dem Suppl: wäre zu verstatten, das Colonie Haus so zu stellen,
+dass die Giebel-Seite gegen den Wald gerichtet werde, beide Colonie Häuser
+des Vogt u[nd]. Brüggeman wären jedoch in ganz gerader Linie zu stellen
+B[ückeburg]. 25. May 1818.  MKaas
 
-Durchlauchtigster Fürst
-Gnädigster regierender Fürst
-und Herr!
+Durchlauchtigster Fürst Gnädigster regierender Fürst und Herr!
 
 Mit meinem neuen Hausbau bin ich so weit gekommen, daß das Haus am
 Mittwochen gerichtet werden kann, und ist mir dabeÿ vom Fürstlichen Amte
@@ -79,10 +75,10 @@ diese Richtung habe. Das Stubenende würde denn beÿ er, und dabey die
 Unannehmlichkeit verbunden seÿn, daß die Stube dann den Ostwinde, die
 Hinterthür aber dem Westwinde ausgesetzt ist. Auch würde das Dorf durch
 diese Lage nichts gewinnen, denn wer dann die Dorfstrasse passirt, die wird
-vom Hause nichts sehen, als die große Thur und die vor derselben befindliche
-Mistplätze. Auch würde ich dabei noch einen größen Schaden haben, denn das
-Stubenende käme dann dahin, wo durch ehemaliges Lehmgraben eine Kuhle ist,
-die ich mit grösten Kosten ausfüllen müsste.
+vom Hause nichts sehen, als die große Thur und die vor derselben
+befindliche Mistplätze. Auch würde ich dabei noch einen größen Schaden
+haben, denn das Stubenende käme dann dahin, wo durch ehemaliges Lehmgraben
+eine Kuhle ist, die ich mit grösten Kosten ausfüllen müsste.
 
 Ich wünsche also das Haus in der mit rothen Strichen bezeichneten Richtung
 zu erbauen, und dann würde der Stubenende beÿ S[üd] seÿn, die Mittagssonne
@@ -97,9 +93,7 @@ gnädigst zu erlauben, dass ich das Haus in der gewünschten Richtung erbauen
 darf, und hierüber noch morgen gnädigst zu entscheiden, weil, wie schon
 gesagt, am Mittwochen die Richtung seÿn soll.
 
-Ich ersterbe in tiefster Ehesucht
-
-Euer Durchleucht
+Ich ersterbe in tiefster Ehesucht Euer Durchleucht
 
 Unterthänigster
 Vogt
@@ -159,9 +153,7 @@ most graciously to permit that I may build the house in the desired
 direction, and to decide upon this still tomorrow, since, as already
 stated, the orientation is to be set on Wednesday.
 
-I expire in deepest reverence.
-
-Your Serene Highness’s
+In deepest reverence I remain before Your Serene Highness,
 
 Most humble
 Vogt
