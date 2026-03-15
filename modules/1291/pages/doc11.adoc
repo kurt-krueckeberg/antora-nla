@@ -91,9 +91,9 @@ Habicht Neufsel
 ....
 
 .Kaufgeld table in text 
-[%header,cols="6,^1,^1,^1"]
+[%header,cols="6,^1,^1,^1",frame=none,grid=none]
 |===
-|Person |Reichsthaler +
+|Petitioner |Reichsthaler +
 rl|Groschen +
 ++g++|Pfennig +
 d
@@ -121,7 +121,7 @@ Nordholz für Haus und Gartenplatz
 |===
 
 .Kammeral Prestanden table in text
-[%header,cols="6,3,^1,^1,^1"]
+[%header,cols="6,3,^1,^1,^1",frmae=none,gride=none]
 |===
 |Person|Description|rl|g|d
 
@@ -182,8 +182,6 @@ Nordholz für Haus und Gartenplatz
 |
 |===
 
-
-
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 257
@@ -240,37 +238,37 @@ Habicht Neufsel
 ....
 
 .Kaufgeld table in text
-[%header,cols="6,^1,^1,^1"]
+[%header,cols="6,^1,^1,^1",frame=none,grid=none]
 |===
 |Person |Reichsthaler +
 rl|Groschen +
 ++g++|Pfennig +
 d
 
-|Krückeberg no 10 in Berenbusch for the 49 square Ruthen
+|Krückeberg no 10 in Berenbusch for the 49 square rods
 received for the enlargement of his holding at 12 g
 |16rl
 |12g
 |
 
 |Vogt no 13 in Nordholz for house and garden plot +
-60 Ruthen. at 6g = 10rl +
-117 Ruthen at 12g = 39rl  
+60 rods at 6g = 10rl +
+117 rods at 12g = 39rl  
 |49
 |
 |
 
 |New settler Brüggemann no 14 in
 Nordholz for house and garden plot
-60 Ruthen at 6g = 10 rl. +
-103 square Ruthen 30 feet at 12g = 34rl 14g 4d
+60 rods at 6g = 10 rl. +
+103 square rods 30 feet at 12g = 34rl 14g 4d
 |44
 |15
 |4
 |===
 
 .Kammeral dues table in text
-[%header,cols="6,3,^1,^1,^1"]
+[%header,cols="6,3,^1,^1,^1",frame=none,grid=none]
 |===
 |Person|Description|rl|g|d
 
