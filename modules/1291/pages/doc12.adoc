@@ -3,11 +3,11 @@
 
 == Digital Images
 
-image::24-r.png[link=self]
+image::24-r.png[width=75%,link=self]
 
-image::25-l.png[link=self]
+image::25-l.png[width=75%,link=self]
 
-image::25-r.png[link=self]
+image::25-r.png[width=75%,link=self]
 
 [.narrow]
 == Transliteration and Translation

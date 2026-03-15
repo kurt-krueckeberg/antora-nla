@@ -11,6 +11,10 @@ image::22-l.png[title=Drawing,width=75%,link=self]
 
 image::21-r-vert-text.png[width=75%,link=self]
 
+image::23-l.png[width=75%,link=self]
+
+image::23-r.png[width=75%,link=self]
+
 [.narrow]
 == Transliteration and Translation
 
