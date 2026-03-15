@@ -90,7 +90,7 @@ Bückeburg 30t Maÿ 1818.
 Habicht Neufsel
 ....
 
-.Kaufgeld table in text 
+.an Kaufgeld table in text 
 [%header,cols="6,^1,^1,^1"]
 |===
 |Petitioner |Reichsthaler +
@@ -114,13 +114,13 @@ Stampes erhaltene 49 Quadrat-Ruthen a 12 g
 |Neubauer Brüggemann no 14 zu
 Nordholz für Haus und Gartenplatz
 60 Ruthen a 6g = 10 rl. +
-103 Quadrat Ruthen 30 Fuß a 12g = 34rl 14g 4d
+103 Quadrat Ruthen 30 Fuß a 12g = 34rl 15g 4d
 |44
 |15
 |4
 |===
 
-.Kammeral Prestanden table in text
+.an Kammeral Prestanden
 [%header,cols="6,3,^1,^1,^1"]
 |===
 |Person|Description|rl|g|d
@@ -143,7 +143,7 @@ Nordholz für Haus und Gartenplatz
 |6
 |
       
-|Michaelischsatz
+|Michaelischatz
 |
 |1
 |     
@@ -253,7 +253,7 @@ received for the enlargement of his holding at 12 g
 |New settler Brüggemann no 14 in
 Nordholz for house and garden plot
 60 rods at 6g = 10 rl. +
-103 square rods 30 feet at 12g = 34rl 14g 4d
+103 square rods 30 feet at 12g = 34rl 15g 4d
 |44
 |15
 |4
