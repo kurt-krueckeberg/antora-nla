@@ -4,7 +4,7 @@
 
 * Change the headers to use the more understandable terms found in
   xref:1291:terms.adoc[]. Later do this for all the other modules.
-* Resume with double checking the tables of document #11.
+* Resume with double checking the tables of document #12.
 
 [NOTE]
 ====
