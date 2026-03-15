@@ -1,4 +1,4 @@
-= Document 9: Concluded Chancery rescript from the local office
+= Document 9: Copy of Rentkammer Order to the Amt Bückeburg on the Brüggemann Allotment 
 :page-role: wide
 
 == Digital Images
@@ -16,6 +16,7 @@ ad. Num: Cam: 101.                                          9.,
 ad. Num. Praef. 831.
 Concept.
 
+[signatures]
 Spring
 Wag
 vlandesberg
@@ -24,7 +25,7 @@ Waceckwerten
 Expd: Knöttge.
 
 Ans
-Amt Bückeberg
+Amt Bückeburg
 Ausweisung betr:
 
 Dem Amt wird auf den Bericht vom 16ten Februar hierdurch eröffnet, daß dem
@@ -40,51 +41,52 @@ auszuweisen seÿn wird, wird sich beÿ der Vermessung der Plätze ergeben.
 Ein halber Morgen jeder Colonie ist mit 6 mgl. P. Quadrat-Rute und der
 übrige Grund und Boden ist mit 12 mgl. P. Quadrat-Rute zu bezahlen.
 
-Da vor künftigem Herbste kein Bauholz im Baumerdornst-Reviere mehr
+Da vor künftigem Herbste kein Bauholz im Baumer Forst-Reviere mehr
 angewiesen wird; so wird das Amt beauftragt dieses den Neubauern bekannt zu
 machen, wonach sich dieselben zu richten haben.
 
-Bückeberg den 26ten Feb: 1818.
-Furstl: Schaumbl: Lippl: Rentkammer
+Bückeburg den 26ten Feb: 1818.
+Furstl: Schaumb: Lipp: Rentkammer
 ....
 
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-ad Num: Cam: 101.                                        9.,
-ad Num. Praef. 831.
-Draft.
+ad. Num: Cam: 101 — 9.,
+ad. Num. Praef. 831.
+Draft
 
-[signatures of: 
+[signatures]
 Spring
 Wag
 vlandesberg
-Waceckwerten]
+Waceckwerten
 
 Dispatched: Knöttge.
 
-To the
-Office of Bückeburg
-Re: Land assignment
+To
+the Office of Bückeburg
 
-The Office is hereby informed, in response to the report of 16 February,
-that to the soldier Brüggemann a plot of 1 to 1½ Morgen, adjoining the
-colony plot of the lodger Vogt, is likewise to be assigned for the
-establishment of a colony.
+Concerning the assignment of land:
 
-The boundary at the forest is to be determined for both colonies according
-to the direction indicated in the situational drawing. To what extent the
-forest section A and B is to be assigned for these two colonies will be
-determined during the surveying of the plots.
+In response to the report of the 16th of February, the Office is hereby
+informed that a place of 1 to 1½ Morgen is likewise to be assigned to the
+soldier Brüggemann, beside the colony plot of the Einlieger Vogt, for the
+construction of a colony.
 
-Half a Morgen of each colony is to be paid for at 6 mgl. P. per square rod,
-and the remaining land is to be paid for at 12 mgl. P. per square rod.
+The boundary along the forest for both colonies is to be determined in the
+direction indicated in the situational drawing. To what extent the forest
+sections A and B are to be assigned for these two colonies will become
+apparent during the surveying of the plots.
 
-Since no construction timber will be allocated in the Baumerdornst district
-before the coming autumn, the Office is instructed to make this known to
-the new farmers, by which they are to govern themselves.
+Half a Morgen of each colony is to be paid for at 6 Mariengroschen per
+square rod, and the remaining land and soil is to be paid for at 12
+Mariengroschen per square rod.
 
-Bückeburg, 26 February 1818.
+Since no construction timber will be assigned any further in the Baumer
+forest district before next autumn, the Office is instructed to make this
+known to the new settlers, and they must adjust their plans accordingly.
 
+Bückeburg, the 26th of February 1818.
 Princely Schaumburg-Lippe Rentkammer.
 ....
