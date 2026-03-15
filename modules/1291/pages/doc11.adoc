@@ -5,11 +5,11 @@
 
 == Digital Image
 
-image::21-r.png[title=Drawing,link=self]
+image::21-r.png[title=Drawing,width=75%,link=self]
 
-image::22-l.png[title=Drawing,link=self]
+image::22-l.png[title=Drawing,width=75%,link=self]
 
-image::21-r-vert-text.png[link=self]
+image::21-r-vert-text.png[width=75%,link=self]
 
 [.narrow]
 == Transliteration and Translation
