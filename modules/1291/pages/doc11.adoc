@@ -325,3 +325,57 @@ Nordholz for house and garden plot
 |
 |===
 
+
+== Specification's Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+ad 11
+
+Specification von dreÿ Auswiesungen im Baumer Forste.
+....
+
+|===
+|Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
+
+|Vogt
+|Evesen Einlieger
+|A
+|1
+|57
+|"
+|Kolonienplatz
+
+|Brüggemann
+|Nordholz
+|B
+|1
+|43
+|30
+|Kolonienplatz
+
+|Krückeberg
+|Behrenbusch
+|D
+|"
+|49
+|"
+|Zur Vergrösserung des Kampes
+
+|
+|
+|=
+|3
+|29
+|30
+|===
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
+sind im Baumer Forste, bei Nordholz, belegen.
+
+Bburg d 9 Merz 1818
+L. Stille
+....
+
