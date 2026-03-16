@@ -2,7 +2,15 @@
 
 This is the typical Rentkammer workflow.
 
-== 1. Documents that received `Num: Pr:`
+== 1. Main kinds of numbers
+
+`N.` or `Num: Cam:`:: The Kammer file number for the case.
+
+`Num: Pr:` or `N: pr.`:: The entry number assigned when that specific document was entered in the Kammer’s register of received or sent documents.
+
+`ad N: C. ... anni ...`:: A cross-reference to another Kammer file. It means that the present document is to be associated with, compared with, or filed in relation to that earlier or related case.
+
+== 2. Documents that received `Num: Pr:`
 
 These were documents that physically arrived at the Kammer or were officially sent out from it.
 
@@ -10,12 +18,12 @@ Typical examples:
 
 * petitions from settlers
 * reports from the Amt Bückeburg
-* reports from officials (for example Oberförster Falckmann)
+* reports from officials, such as Oberförster Falckmann
 * official instructions sent from the Kammer to an Amt
 
-These were entered in the office’s register of incoming and outgoing documents, so they received a `Pr:` number.
+These were entered in the Kammer’s register of documents, so they received a `Pr:` number.
 
-== 2. Documents that do not have `Num: Pr:`
+== 3. Documents that do not have `Num: Pr:`
 
 These are usually working papers inside the Kammer.
 
@@ -26,10 +34,21 @@ Examples:
 * internal notes or summaries
 * copies placed in the file
 
-These were never sent or received as separate documents, so they were not
-entered in the register and therefore have no `Pr:` number.
+These were never sent or received as separate documents, so they were not entered in the register and therefore have no `Pr:` number.
 
-== 3. How a typical case moved
+== 4. Meaning of the `ad ...` notations
+
+These are not the main file number of the present document. They are cross-references.
+
+For example:
+
+`ad N: C. 62. anni 1817`:: Under Kammer no. 62 of the year 1817.
+
+`ad N: C. 168 & 101 anni 1818`:: Under Kammer nos. 168 and 101 of the year 1818.
+
+These notes mean that the present paper is connected with those other Kammer files. They were usually added as filing or routing notes, often in a smaller or different hand.
+
+== 5. How a typical case moved
 
 Very simplified:
 
@@ -38,8 +57,9 @@ Very simplified:
 3. Kammer sends an official instruction (`Rescript`) to the Amt → registered → `Pr:`
 4. Amt sends back a report (`Bericht`) → registered → `Pr:`
 5. Internal calculations or notes → not registered
+6. Clerks add cross-references such as `ad N: C. ...` to connect the paper with related Kammer files
 
-== 4. Meaning of the main terms
+== 6. Meaning of the main terms
 
 `Concept`:: Draft of a letter or decision.
 
@@ -47,9 +67,11 @@ Very simplified:
 
 `Bericht`:: A report sent back by an Amt or official.
 
-So your conclusion is essentially right: documents sent to or received from
-other offices were normally recorded and given `Pr:` numbers, while
-internal working papers inside the Kammer were not.
+So the main distinction is this:
+
+* `N.` / `Num: Cam:` = the Kammer file number of the present case
+* `Num: Pr:` = the register-entry number of the present document
+* `ad N: C. ...` = references to other related Kammer files
 
 === Terminology Clarification
 
