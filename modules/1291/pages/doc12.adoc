@@ -96,81 +96,80 @@ Spring
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Stamp: 3 Mariengroschen                                    12.)
+[literal]
+....
+Stamp: 3 Mariengroschen                                  12.)
 
-No. Cam: 257.
-No. Pr: 136.
+Kammer file no. 257
+Register entry no. 136
 
+[initials:]
 vdankwarts
 MKaas
 
-Exp: by Knötge.
+Exp.: by Knöttge
 
-Concept – Cammer Rescript
+Draft Chamber Rescript
 
-To the Office of Bückeburg
-Re: Land allotment
+To the Amt of Bückeburg
+Concerning land allocations
 
-In response to the report, accompanied by a survey drawing, dated the 30th
-of last month, concerning this matter, the Office is hereby informed
-that the allotments mentioned in the cited report, for Krückeberg No. 10 in
-Berenbusch, for Vogt No. 13 in Nordholz, and for Brüggemann No. 14 there as
-well, are approved. The Office is to require the petitioners to remit the
-payments for the allotments.
+In response to the report of the 30th of last month, accompanied by a survey
+drawing, regarding the proposed land allocations, the Amt is hereby informed
+that the allocations mentioned in that report—for Krückeberg No. 10 in
+Berenbusch, for Vogt No. 13 in Nordholz, and for Brüggemann No. 14 in the same
+place—have been approved. The Amt is therefore to require the supplicants to
+pay the monies due for these allocations.
 
-Furthermore, the Office is advised that the annual dues (Prästanden)
-are to be paid by the petitioners only after the expiration of three
-free years, thus at the latest by Michaelmas 1822.
+Furthermore, the Amt is informed that the dues (Praestanden) are to be paid by
+the supplicants only after the expiration of three free years, therefore at
+the latest by Michaelmas 1822.
 
-Accordingly, the necessary steps are to be taken by the Office,
-and the allotment beneficiaries are also to be informed thereof.
+Accordingly, the Amt is to take the steps necessary to implement this decision
+and is also to notify the persons concerned with the land allocations.
 
 Bückeburg, 17 June 1818.
 
-By Princely order, etc.
+Princely pp.
 
 Spring
 
-
-Concept
-
+Draft
 To the Chamber Rentmaster
 Berger here.
 
-Chamber Examiner Botte
+KProbator Botte
 Botte
 MKaas
 Exp.
 
-The Chamber Rentmaster Berger is instructed to collect from the
-following persons the monies for the allotted parcels:
+The Chamber Rentmaster Berger is instructed to collect from the following
+persons the money for the allotted plots:
 
 1. From Krückeberg
    No. 10 in Berenbusch
-   for 49 square rods at 12 groschen each – 16 Reichsthaler 12 groschen.
+   for 49 square rods at 12 groschen each –        16 rthlr. 12 gr.
 
 2. From Vogt No. 13
    in Nordholz for
-   60 square rods at 6 groschen – 10 Reichsthaler.
-   117 square rods at 12 groschen – 39 Reichsthaler.
-                                                   49 Reichsthaler.
+   60 square rods at 6 groschen – 10 rthlr.
+   117 square rods at 12 groschen – 39 rthlr.      49 rthlr.
 
 3. From Brüggemann
    No. 14 in Nordholz for
-   60 square rods at 6 groschen – 10 Reichsthaler.
-   103 square rods 30 square feet at 12 groschen – 34 Reichsthaler.
-   15 groschen 4 pfennigs.
-                                                   44 Reichsthaler 15 groschen 4 pfennigs.
-                                                   ------------------------------
-                                                   Total 109 Reichsthaler 27 groschen 4 pfennigs.
+   60 square rods at 6 groschen – 10 rthlr.
+   103 square rods 30 feet at 12 groschen –        34 rthlr. 15 gr. 4 pf.
 
+                                                 44 rthlr. 15 gr. 4 pf.
+                                           ---------------------------
+                                           Total 109 rthlr. 27 gr. 4 pf.
 
 These monies are to be received by the Chamber Rentmaster at the proper
-place and duly accounted for.
+place and entered into account.
 
-Bückeburg, 17 Junÿ 1818.
+Bückeburg, 17 June 1818.
 
-By Princely order, etc.
+Princely pp.
 
 Spring
 ....
