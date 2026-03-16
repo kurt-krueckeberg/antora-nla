@@ -1,8 +1,6 @@
 = Document 11: Report of the local office, with drawing and specification.
 :page-role: wide
 
-*TODO:* Proofread
-
 == Digital Image
 
 image::21-r.png[title=Drawing,width=75%,link=self]
