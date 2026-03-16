@@ -1,4 +1,4 @@
-= Rentkammer Workflow and Rentkammer Terms
+= Rentkammer Workflow and Terminology
 
 This is the typical Rentkammer workflow.
 
