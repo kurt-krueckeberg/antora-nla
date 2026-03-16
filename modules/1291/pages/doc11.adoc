@@ -16,7 +16,7 @@ image::23-l.png[link=self]
 image::23-r.png[width=75%,link=self]
 
 [.narrow]
-== Transliteration and Translation
+== Transliteration
 
 === Comments 
 
@@ -186,6 +186,64 @@ Nordholz für Haus und Gartenplatz
 |
 |===
 
+=== Specification's Transliteration
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+ad 11
+
+Specification von dreÿ Auswiesungen im Baumer Forste.
+....
+[cols="6,6,4,2,2,2,6"]
+|===
+|Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
+
+|Vogt
+|Evesen Einlieger
+|A
+|1
+|57
+|"
+|Kolonienplatz
+
+|Brüggemann
+|Nordholz
+|B
+|1
+|43
+|30
+|Kolonienplatz
+
+|Krückeberg
+|Behrenbusch
+|D
+|"
+|49
+|"
+|Zur Vergrösserung des Kampes
+
+|
+|
+|=
+|3
+|29
+|30
+|
+|===
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
+sind im Baumer Forste, bei Nordholz, belegen.
+
+Bburg d 9 Merz 1818
+L. Stille
+....
+
+
+[.narrow]
+== Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. 257 — 11.)
@@ -325,15 +383,7 @@ Nordholz for house and garden plot
 |
 |===
 
-[.narrow]
-== Specification's Transliteration and Translation
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-ad 11
-
-Specification von dreÿ Auswiesungen im Baumer Forste.
-....
+=== Specification's Translation
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -341,43 +391,6 @@ Regarding document 11
 
 Specification of three land assignments in the Baumer Forest.
 ....
-
-[cols="6,6,4,2,2,2,6"]
-|===
-|Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
-
-|Vogt
-|Evesen Einlieger
-|A
-|1
-|57
-|"
-|Kolonienplatz
-
-|Brüggemann
-|Nordholz
-|B
-|1
-|43
-|30
-|Kolonienplatz
-
-|Krückeberg
-|Behrenbusch
-|D
-|"
-|49
-|"
-|Zur Vergrösserung des Kampes
-
-|
-|
-|=
-|3
-|29
-|30
-|
-|===
 
 [cols="6,6,4,2,2,2,6"]
 |===
@@ -415,15 +428,6 @@ Specification of three land assignments in the Baumer Forest.
 |30
 |
 |===
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
-sind im Baumer Forste, bei Nordholz, belegen.
-
-Bburg d 9 Merz 1818
-L. Stille
-....
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
