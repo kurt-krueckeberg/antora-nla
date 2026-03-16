@@ -342,6 +342,7 @@ Regarding document 11
 Specification of three land assignments in the Baumer Forest.
 ....
 
+[cols="6,6,4,2,2,2,6"]
 |===
 |Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
 
@@ -378,6 +379,7 @@ Specification of three land assignments in the Baumer Forest.
 |
 |===
 
+[cols="6,6,4,2,2,2,6"]
 |===
 |Name of Holder |Place of Residence |Letter on the Drawing |Morgen |Rods |Feet |Remarks
 
