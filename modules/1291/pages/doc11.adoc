@@ -325,7 +325,7 @@ Nordholz for house and garden plot
 |
 |===
 
-
+[.narrow]
 == Specification's Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
