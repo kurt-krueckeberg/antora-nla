@@ -343,6 +343,42 @@ Specification of three land assignments in the Baumer Forest.
 ....
 
 |===
+|Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
+
+|Vogt
+|Evesen Einlieger
+|A
+|1
+|57
+|"
+|Kolonienplatz
+
+|Brüggemann
+|Nordholz
+|B
+|1
+|43
+|30
+|Kolonienplatz
+
+|Krückeberg
+|Behrenbusch
+|D
+|"
+|49
+|"
+|Zur Vergrösserung des Kampes
+
+|
+|
+|
+|=
+|3
+|29
+|30
+|===
+
+|===
 |Name of Holder |Place of Residence |Letter on the Drawing |Morgen |Rods |Feet |Remarks
 
 |Vogt
@@ -370,43 +406,6 @@ Specification of three land assignments in the Baumer Forest.
 |For enlargement of the field
 
 |
-|
-|=
-|3
-|29
-|30
-|===
-
-
-
-
-|===
-|Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
-
-|Vogt
-|Evesen Einlieger
-|A
-|1
-|57
-|"
-|Kolonienplatz
-
-|Brüggemann
-|Nordholz
-|B
-|1
-|43
-|30
-|Kolonienplatz
-
-|Krückeberg
-|Behrenbusch
-|D
-|"
-|49
-|"
-|Zur Vergrösserung des Kampes
-
 |
 |
 |=
