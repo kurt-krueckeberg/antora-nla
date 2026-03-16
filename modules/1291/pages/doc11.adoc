@@ -13,6 +13,27 @@ image::21-r-vert-text.png[width=75%,link=self]
 
 image::23-l.png[link=self]
 
+.Map Definitions
+[cols="1,3"]
+|===
+|Term on Map |Explanation
+
+|Walderung
+|Wooded land or land belonging to the forest. On survey maps this label
+usually marks an area that is forested or was recently cleared from the
+forest.
+
+|Krückeberg Kampp vor der Söhre
+|“Krückeberg field in front of the Söhre.” *Kampp* (modern *Kamp*) means an
+enclosed cultivated field. The phrase identifies a particular field
+belonging to Krückeberg that lies in front of a place called **Söhre**
+(likely a local field or woodland name).
+
+|Weg
+|Road or path. On land survey maps this marks a road that runs along the
+boundary of the parcels.
+|===
+
 image::23-r.png[width=75%,link=self]
 
 [.narrow]
