@@ -1,0 +1,73 @@
+= Rentkammer Workflow and Rentkammer Terms
+
+This is the typical Rentkammer workflow.
+
+== 1. Documents that received `Num: Pr:`
+
+These were documents that physically arrived at the Kammer or were officially sent out from it.
+
+Typical examples:
+
+* petitions from settlers
+* reports from the Amt Bückeburg
+* reports from officials (for example Oberförster Falckmann)
+* official instructions sent from the Kammer to an Amt
+
+These were entered in the office’s register of incoming and outgoing documents, so they received a `Pr:` number.
+
+== 2. Documents that do not have `Num: Pr:`
+
+These are usually working papers inside the Kammer.
+
+Examples:
+
+* `Concept` — the draft of a letter or decision
+* calculations of money owed
+* internal notes or summaries
+* copies placed in the file
+
+These were never sent or received as separate documents, so they were not
+entered in the register and therefore have no `Pr:` number.
+
+== 3. How a typical case moved
+
+Very simplified:
+
+1. Petition arrives → entered in register → gets `Pr:` number
+2. Kammer prepares a `Concept` (draft reply) → not registered
+3. Kammer sends an official instruction (`Rescript`) to the Amt → registered → `Pr:`
+4. Amt sends back a report (`Bericht`) → registered → `Pr:`
+5. Internal calculations or notes → not registered
+
+== 4. Meaning of the main terms
+
+`Concept`:: Draft of a letter or decision.
+
+`Rescript`:: The official written decision or instruction sent by the Kammer.
+
+`Bericht`:: A report sent back by an Amt or official.
+
+So your conclusion is essentially right: documents sent to or received from
+other offices were normally recorded and given `Pr:` numbers, while
+internal working papers inside the Kammer were not.
+
+=== Terminology Clarification
+
+These terms often appear the case file documents. They can be *false
+friends* whose actual meaning differs from their apparent meaning.
+This table clarifies their actual meaning.
+
+[width="100%",cols="29%,28%,43%",options="header",]
+|===
+|Term |Misleadingly Looks like |Actual meaning in the file
+|*Concept (Conc.)* |idea |office copy kept in the file
+
+|*Rescript* |something written |formal order from a superior authority
+
+|*Protocol / Protocollo* |procedure rules |the official written record
+or register
+
+|*Ausweisung* |expulsion / identification |allotment of land
+
+|*Exp. / Ex. (Expedite)*  ||issued / dispatched
+|===
