@@ -96,8 +96,6 @@ Spring
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-[literal]
-....
 Stamp: 3 Mariengroschen                                  12.)
 
 Kammer file no. 257
