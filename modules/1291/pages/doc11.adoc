@@ -77,16 +77,18 @@ p[räsentiert]. 7. Juni 1818
 
 [routing notation]
 
-[vertical text on left side]
+[vertical text on left side - Kammeral resolution]
 Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen.
 B. 15. Jun. 1818
 MKaas
 
-ad N: C. 62.      anni 1817
-ad N: C. 168 & 101 anni 1818
-N: pr. 237. a. p: ct 33. 136. ac.
+[cross references:]
+ad N: C. 62.       anni 1817 (See Kammer file no. 62 from 1817)
+ad N: C. 168 & 101 anni 1818 (See Kammer files nos. 168 & 101 from 1818)
 
-a. Zuml
+N: pr. 237. a. p: ct 33. 136. ac.
+[Explanation: Recorded in the Kammer’s document register as entry no. 237;
+see also entries 33 and 136.]
 
 An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg
 betr.
@@ -276,14 +278,16 @@ Presented 7 June 1818
 
 [routing notation]
 
-Res.: Cam. Approved, and the necessary orders are to be issued to the authorities.
+Chamber resoution: Approved, and the necessary orders are to be issued to
+the authorities.
 Bückeburg, 15 June 1818
 M. Kaas
 
-ad N: C. 62 — year 1817
-ad N: C. 168 & 101 — year 1818
-N: pr. 237. a. p: ct 33. 136. ac.
-a. Zuml
+See Kammer file no. 62 from 1817
+See Kammer files nos. 168 and 101 from 1818
+
+Recorded in the Kammer’s document register as entry no. 237; see also
+entries 33 and 136
 
 To the Princely Chamber
 Report of the Offices of Bückeburg and Arensburg
