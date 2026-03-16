@@ -15,6 +15,17 @@ cell. It should be "2" not "3"--I THINK!!!
 Document #8 shows the locations of houses in Nordholz and Evesen!
 ====
 
+== Consolidate Explantions
+
+Consolidate what is in these documents. Prefer the first, workflow.adoc[]:
+
+[arabic,start=1]
+. xref:1291:workflow.adoc[] 
+. xref:1237:narr-timeline.adoc[]
+. xref:common:case-file-docs-explained.adoc[]
+
+Then put the explantion in an introduction?
+
 == NLA 147, No. 19 Berenbusch, mentions and shows "Krückeberg no. 18 Berenbusch"
 
 This case file mention "Krückberg of no. 18 Berenbusch", and it shows his
