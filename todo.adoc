@@ -4,8 +4,10 @@
 
 * Change the headers to use the more understandable terms found in
   xref:1291:terms.adoc[]. Later do this for all the other modules.
-* Resume with double checking with the drawing that accopanies document 11.
-  NOTE --> There is an error in the Specification table in the Morgen sum
+
+* Resume with adding and double checking the drawing that accompanies document 11.
+
+NOTE --> There is an error in the Specification table in the Morgen sum
 cell. It should be "2" not "3"--I THINK!!!
 
 [NOTE]
