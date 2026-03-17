@@ -5,7 +5,8 @@
 
 image::32-r.png[width=65%,link=self]
 
-=== Transliteration and Translation of Outer Address Page
+[.narrow]
+== Transliteration and Translation of Outer Address Page
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
@@ -23,9 +24,9 @@ Exp: p: Knöttge.
 
 An den Colon Krückeberg No 10.  zu Bärenbusch
 
-Dem Gesuche des Krückeberg N. 10. in Bärenbusch, um Herabsetzung des Preises
-für den ihm auf der Söhre ausgewiesen erhaltenen Platz, steht nicht zu
-willfahren.
+Dem Gesuche des Krückeberg N. 10. in Bärenbusch, um Herabsetzung des
+Preises für den ihm auf der Söhre ausgewiesen erhaltenen Platz, steht nicht
+zu willfahren.
 
 Bburg 7. Oct. 1818.
 7. Oct. 1818.
@@ -49,9 +50,9 @@ Exp: p: Knöttge.
 An den Colon Krückeberg No 10.
 zu Bärenbusch
 
-Dem Gesuche des Krückeberg N. 10. in Bärenbusch, um Herabsetzung
-des Preises für den ihm auf der Söhre ausgewiesen erhaltenen Platz,
-steht nicht zu willfahren.
+Dem Gesuche des Krückeberg N. 10. in Bärenbusch, um Herabsetzung des
+Preises für den ihm auf der Söhre ausgewiesen erhaltenen Platz, steht nicht
+zu willfahren.
 
 Bburg 7. Oct. 1818.
 By order of the Princely authorities.
