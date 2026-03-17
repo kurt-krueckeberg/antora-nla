@@ -78,9 +78,9 @@ Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
 ....
 
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
-
+TODO
 ....
 |===
-
