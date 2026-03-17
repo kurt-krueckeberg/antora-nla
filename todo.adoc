@@ -17,9 +17,11 @@ cell. It should be "2" not "3"--I THINK!!!
 Document #8 shows the locations of houses in Nordholz and Evesen!
 ====
 
-== Consolidate Explantions
+== Consolidate Explantions of Rentcammer Workflow and Document Notations
 
-Consolidate what is in these documents. Prefer the first, workflow.adoc[]:
+Consolidate the explanationa and exmaples in these documents into one
+document. Use the first document, workflow.adoc, as the basis for the final
+document:
 
 [arabic,start=1]
 . xref:1291:workflow.adoc[] 

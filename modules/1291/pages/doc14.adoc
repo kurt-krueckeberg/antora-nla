@@ -56,7 +56,7 @@ image::28-r.png[link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-3 Gr. Stempel
+[3 Gr. Stempel]
 
 An die Cammer
 [routing/handling notation]
