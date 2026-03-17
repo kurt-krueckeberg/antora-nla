@@ -8,7 +8,6 @@ image::01-r.png[link=self]
 
 == Transliteration and Translation
 
-
 [cols="1,7a,5a,2,2,2,1",options="header"]
 |===
 |No.
@@ -91,7 +90,7 @@ Junÿ
 14
 
 |5.
-|xref:doc56.adoc[Report of the Bückeburg office together with an attached drawing].
+|xref:doc5.adoc[Report of the Bückeburg office together with an attached drawing].
 
 Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
 |"
