@@ -12,7 +12,7 @@ image::21-r-vert-text.png[width=75%,link=self]
 image::23-l.png[link=self]
 
 .Definitions of Map Terms
-[cols="1,3"]
+[cols="1,5"]
 |===
 |Term on Map |Explanation
 
