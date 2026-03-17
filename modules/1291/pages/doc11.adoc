@@ -206,8 +206,8 @@ Nordholz für Haus und Gartenplatz
 (Michaeli 1823)
 |Rottzins
 |
-|16g
-|2d
+|16
+|2
 
 |übrige Prestanden wie der vorige
 |
@@ -405,9 +405,14 @@ Nordholz for house and garden plot
 |
 |      
 
-|new settler Brüggemann no 14 in
+.2+|new settler Brüggemann no 14 in
 Nordholz for house and garden plot
 (Michaelmas 1823)
+|clearing rent
+|
+|16
+|2
+
 |other dues as the previous
 |
 |
