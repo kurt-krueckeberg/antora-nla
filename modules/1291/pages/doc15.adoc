@@ -7,10 +7,7 @@ image::30-r.png[width=65%,link=self]
 
 == Transliteration and Translation of Outer Address Page
 
-[.widepair,cols="1a,1a"]
-|===
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Num: Cam: 386                             15.)
@@ -36,7 +33,7 @@ Fürstlich pp.
 [uncertain]
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 No. Cam. 386                                               15.)
@@ -60,5 +57,4 @@ By Princely authority, etc.
 
 [uncertain]
 ....
-|===
 
