@@ -13,7 +13,7 @@ image::30-r.png[width=65%,link=self]
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Num: Cam: 386                             .5.)
+Num: Cam: 386                             5.)
 St. 3 mg.
 
 An den Neubauer Brüggemann No. 14.  zu Nordholz
