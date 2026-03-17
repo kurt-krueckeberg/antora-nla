@@ -5,6 +5,7 @@
 
 image::30-r.png[width=65%,link=self]
 
+[.narrow]
 == Transliteration and Translation of Outer Address Page
 
 .Transliteration
