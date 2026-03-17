@@ -7,7 +7,7 @@
 * In the translation use understandable explantions for the numeric
   notations found on the document, using document #1 as the template for
   doing this.
-* Resume with adding and double checking the drawing that accompanies document 12.
+* Resume with document 12. 
 * NOTE --> There is an error in the Specification table in the Morgen sum
 cell. It should be "2" not "3"--I THINK!!!
 
