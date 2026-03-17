@@ -7,7 +7,9 @@
 * In the translation use understandable explantions for the numeric
   notations found on the document, using document #1 as the template for
   doing this.
-* Resume with document 12. 
+* Resume with document 14, whose initial review is here:
+  https://chatgpt.com/share/69b96862-e124-8004-b0f8-bc0223b5dbb2
+ 
 * NOTE --> There is an error in the Specification table in the Morgen sum
 cell. It should be "2" not "3"--I THINK!!!
 
