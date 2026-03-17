@@ -12,6 +12,8 @@ image::31-r-vert-text.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+TODO: Normalize the spelling.
+
 [literal.bordered,subs="quotes,verbatim"]
 ....
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
@@ -21,10 +23,10 @@ An die Kammer
 
 Durchlautigster Fürst und Herr!
 
-Eine untertänigste Bitte an unsern durchlautesten Fürsten und Herrn
+Eine untertänigste Bitte an unsern durchlauchtigsten Fürsten und Herrn
 und an die gnädigst regierende Kammer:
 
-An meinem angekauften hat Kampf [Kamp] die Söhre genannt
+An meinem angekauften sat Kampf [Saat Kamp] die Söhre genannt
 die kleine schräge Ecke von 49 Ruten. Die Rute à 12 g.
 haben sie mir erteilet.
 
