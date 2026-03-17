@@ -13,7 +13,7 @@ image::30-r.png[width=65%,link=self]
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Num: Cam: 386                             5.)
+Num: Cam: 386                             15.)
 St. 3 mg.
 
 An den Neubauer Brüggemann No. 14.  zu Nordholz
@@ -24,7 +24,7 @@ Winde
 MKaas
 Exp: p: Knöttge.
 
-Dem Gesuche des Neubauers Brüggemann, ihm den ihm ausgewiesenen
+Dem Gesuche des Neubauers Brüggemann, ihm den ausgewiesenen
 Platz zum Hausbau zu schenken, steht nicht zu willfahren,
 sondern es ist die Zahlung dafür sofort zu entrichten.
 
@@ -39,28 +39,24 @@ Fürstlich pp.
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
-No.: Cam.: 386                                  5.)
-St. 3 mg.
+No. Cam. 386                                               15.)
+Stamp: 3 Mariengroschen
 
-To the Neubauer Brüggemann No. 14
-in Nordholz
+To Neubauer Brüggemann No. 14 in Nordholz
 
-vdanckwarts
-Wind
-MKaas
-Dispatched by: Knöttge.
+[initials:]
+v. Danckwarts
+Winde
+M. Kaas
+Dispatched by: Knöttge
 
-The request of the Neubauer Brüggemann that the plot
-assigned to him for house construction be granted to him
-free of charge cannot be granted; rather, payment for it
-is to be made immediately.
+The request of Neubauer Brüggemann that the plot assigned to him for the
+construction of a house be granted to him free of charge cannot be
+approved; rather, payment for it must be made immediately.
 
-Bückeburg, 7 Oct. 1818.
-
-By order of the Prince
-
+Bückeburg, 7 October 1818
+By Princely authority, etc.
 [initials]
-
 
 [uncertain]
 ....
