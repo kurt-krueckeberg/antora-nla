@@ -55,9 +55,9 @@ Concept
 An den Kammerrentmeister
 Berger dahier.
 KProbator Botte.
-E[?] Botte
+E[…] Botte
 MKaas
-E[??]
+E[…]
 
 Der Kammerrentmeister Berger wird angewiesen von nachstehenden Personen für
 ausgewiesene Plätze das Geld zu erheben:
@@ -137,9 +137,9 @@ To the Chamber Rentmaster
 Berger here.
 
 KProbator Botte
-Botte
+E[…] Botte
 MKaas
-E[??]
+E[…]
 
 The Chamber Rentmaster Berger is instructed to collect from the following
 persons the money for the allotted plots:
