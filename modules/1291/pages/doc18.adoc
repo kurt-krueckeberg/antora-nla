@@ -8,6 +8,7 @@ image::33-r.png[width=65%,link=self]
 [.narrow]
 == Transliteration and Translation of Outer Address Page
 
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 18.)
@@ -25,6 +26,7 @@ Bückeburg
 16 Rthrl. 12 Mg.
 ....
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 18.)
