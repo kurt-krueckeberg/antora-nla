@@ -15,32 +15,30 @@ image::35-r.png[link=self]
 .Transliteration
 [literal.bordered,subs="quotes,verbatim"]
 ....
-19.)
-
-St. 3 mg
+St. 3 mg                                                 19.)
 
 Exp:p:Knöttge
 
-Concept Kaufkontrakts für den Kolon Krückeberg Nr. 10 zu Berenbusch
+Concept Kaufcontracts für den Kolon Krückeberg Nr. 10 zu Berenbusch
 
 Zwischen Fürstlicher Rentkammer zu Bückeburg und dem Kolon Krückeberg
-Nr. 10 zu Berenbusch ist folgender Kaufkontrakt geschlossen worden.
+Nr. 10 zu Berenbusch ist folgender Kaufcontract geschlossen worden.
 
 § 1.
 Es ist dem genannten Kolon Krückeberg ein Platz vom Forstgrunde an der
-Söhre beim Dorfe Nordholz im Baumer Forste belegen zur Vergrößerung seiner
+Söhre beim Dorfe Nordholz im Baumer Forste belegen, zur Vergrößerung seiner
 Grundstücke, auf sein Nachsuchen käuflich überlassen und durch den
 Landmesser Stille zu neunundvierzig Quadratruten zugemessen worden.
 
 § 2.
 Der Kolon Krückeberg ist schuldig, das bestimmte Kaufgeld für den ihm
-ausgewiesenen und zugemessenen Platz mit 12 mg per Quadratrute also für
-den ganzen Platz mit sechzehn 12 g zur Fürstlichen Kammerkasse zu
+ausgewiesenen und zugemessenen Platz mit 12 mg per Quadratrute, also für
+den ganzen Platz mit sechzehn Rthlre: 12 g zur Fürstlichen Kammerkasse zu
 Bückeburg zu bezahlen, und da die Bezahlung hiernach bereits von ihm
 geleistet ist, so wird ihm und seinen Erben das Eigentum des erwähnten
 Platzes hiermit durch Einhändigung dieses Kaufkontrakts übergeben.
 
-§ 3.
+§ 3. 
 Der Käufer und seine Erben sind schuldig, den von diesem Platze angesetzten
 Rottzins und Kontribution auch sowohl gewöhnliche als etwa außerordentliche
 Abgaben und Prästande zu übernehmen und zu gehöriger Zeit in die Rechnung
@@ -51,9 +49,8 @@ Wenn der Kolon Krückeberg diesen seinen Verbindlichkeiten nachkommt, so
 soll er und seine Erben bei dem Besitze des ihm ausgewiesenen Platzes jeder
 und gegen jeden geschützt werden.
 
-Zur Urkunde dessen ist dieser Kaufbrief
-unter dem Fürstlichen Kammersiegel und gewöhnlicher Unterschrift
-ausgefertigt worden.
+Zur Urkunde dessen ist dieser Kaufbrief unter dem Fürstlichen Kammersiegel
+und gewöhnlicher Unterschrift ausgefertigt worden.
 
 Bburg. 16. Nov. 1818.
 
@@ -68,54 +65,57 @@ D. R. u. A.
 .Translation
 [literal.bordered,subs="quotes,verbatim"]
 ....
-19.)
+Stamp: 3 Groschen                                        *19.)*
 
-St. 3 mg
+Dispatched by: Knöttge
 
-Exp:p:Knöttge
+*Office copy of the purchase contract* for the colonist Krückeberg
+No. 10 at Berenbusch
 
-Office copy of the purchase contract for the Colon Krückeberg No. 10 in
-Berenbusch
+Between the Princely Rent Chamber at Bückeburg and the colonist
+Krückeberg No. 10 at Berenbusch, the following purchase contract has
+been concluded.
 
-Between the Princely Rentkammer at Bückeburg and the Colon Krückeberg
-No. 10 in Berenbusch the following purchase contract has been concluded.
+*§ 1.*
 
-§ 1.
-A parcel of forest land on the Söhre, located near the village of Nordholz
-in the Baumer Forest, has been granted for purchase to the said Colon
-Krückeberg, at his request, for the enlargement of his property; and the
-surveyor Stille has measured it at forty-nine square rods.
+A plot of land from the forest ground, located at the Söhre near the
+village of Nordholz in the Baumer Forest, has—at his request—been sold to
+the said colonist Krückeberg for the enlargement of his holdings, and has
+been surveyed by the land surveyor Stille as measuring forty-nine square
+rods.
 
-§ 2.
-The Colon Krückeberg is obligated to pay the fixed purchase price for
-the parcel assigned and measured to him at the rate of 12 Mariengroschen
-per square rod, thus for the entire parcel sixteen Reichsthaler and
-12 Mariengroschen to the Princely Chamber Treasury at Bückeburg. Since
-this payment has already been made by him, ownership of the aforementioned
-parcel is hereby transferred to him and to his heirs by delivery of this
-purchase contract.
+*§ 2.*
 
-§ 3.
-The purchaser and his heirs are obligated to assume the clearing rent
-(Rottzins) and the tax contribution assessed on this parcel, as well as
-both ordinary and any extraordinary dues and services, and to remit them
-properly and at the appropriate time into the accounts of the Office of
-Bückeburg.
+The colonist Krückeberg is obligated to pay the stipulated purchase price
+for the plot assigned and measured out to him, at the rate of 12 Groschen
+per square rod, thus for the entire plot a total of sixteen Reichsthaler
+and 12 Groschen, to the Princely Chamber Treasury at Bückeburg. As this
+payment has already been made by him, ownership of the said plot is hereby
+transferred to him and his heirs through delivery of this purchase
+contract.
 
-§ 4.
-If the Colon Krückeberg fulfills these obligations, then he and his
-heirs shall be protected in the possession of the parcel assigned to him
-against anyone and everyone.
+*§ 3.*
 
-In witness whereof this deed of purchase has been issued under the
-Princely Chamber seal and the customary signature.
+The purchaser and his heirs are obligated to assume a fixed rent for
+cleared forest land (Rottzins) and the tax assessed on this plot, as well
+as both ordinary and any extraordinary taxes, dues, and services, and to
+pay these properly and in due time into the accounts of the Bückeburg
+office.
 
-Bückeburg, 16 November 1818.
+*§ 4.*
 
-(L. S.) — Locus Sigilli (“place of the seal”)
+If the colonist Krückeberg fulfills these obligations, he and his heirs
+shall be protected in their possession of the assigned plot against all
+claims.
 
-For the Princely Schaumburg-Lippe Rentkammer
-Director, Councillors, and Clerk
+In witness whereof, this purchase deed has been executed under the
+Princely Chamber seal and customary signature.
 
-[initials]
+Bückeburg, 16 November 1818
+
+(L.S.)
+
+F.S.L. in the name of the Rent Chamber By order and authority
+
+{empty}[initials]
 ....
