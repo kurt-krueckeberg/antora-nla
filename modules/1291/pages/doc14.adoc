@@ -45,11 +45,11 @@ be most graciously granted to me.
 
 === Image
 
-image::27-l.png[title=Receipt,link=self]
+image::27-l.png[width=70%,title=Receipt,link=self]
 
-image::28-l.png[link=self]
+image::28-l.png[width=70%,link=self]
 
-image::28-r.png[link=self]
+image::28-r.png[width=70%,link=self]
 
 [.narrow]
 == Transliteration and Translation
