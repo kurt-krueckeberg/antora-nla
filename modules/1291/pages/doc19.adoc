@@ -62,6 +62,25 @@ D. R. u. A.
 [initials]
 ....
 
+
+[NOTE]
+====
+Brief note for readers:
+
+* *Rottzins (fixed rent for cleared forest land):* +
+A permanent, fixed annual payment attached to land that was originally
+cleared from forest. It arises from the terms under which the land was
+granted or sold and does not change.
+
+* *Kontribution (tax):* +
+A government-imposed tax on land or inhabitants. Unlike the Rottzins, it
+can vary over time and is part of general taxation.
+
+*Difference:*
+The Rottzins is a *fixed property-based obligation*, while the Kontribution
+is a *variable public tax*.
+====
+
 .Translation
 [literal.bordered,subs="quotes,verbatim"]
 ....
