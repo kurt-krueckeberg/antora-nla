@@ -85,6 +85,14 @@ Bückeburg
 44 Rthrl. 15 gl. 4 d.
 ....
 
+[NOTE]
+====
+We know that *1 Morgen = 120 Quadrat-Ruthen* from the
+xref:doc11.adoc[specification table] accompanying Document 11; thus 1
+Morgen 57 Ruthen = 177 Ruthen, matching the pricing breakdown (of 60 + 117
+Ruthen).
+====
+
 .Translation of Purchase Contract
 [literal.bordered,subs="quotes,verbatim"]
 ....
