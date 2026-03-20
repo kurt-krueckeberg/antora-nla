@@ -10,8 +10,6 @@ image::37-l.png[width=70%,link=slef]
 
 image::37-r.png[width=75%,link=self]
 
-image::38-r.png[width=75%,link=self]
-
 [.narrow]
 == Transliteration and Translation
 
@@ -65,24 +63,6 @@ Bburg. 16. Nov. 1818.
 
 F. S. L. z. R.
 v. D. R. u. A
-....
-
-.Receipt
-[literal.bordered,subs="quotes,verbatim"]
-....
-Num: 458.                                20.)
-Spring
-
-Daß der Kolon Brüggemann N: 14 in Nordholz für
-einen ausgewiesenen Platz 44 Rthrl. 15 gl. 4 d. in
-Fürstl. Kammerkasse bezahlt hat quittirt.
-
-Berger
-
-Bückeburg
-4 Nov. 1818
-
-44 Rthrl. 15 gl. 4 d.
 ....
 
 [NOTE]
@@ -149,22 +129,3 @@ Bückeburg, 16 November 1818
 For the Princely Schaumburg-Lippe Rent Chamber
 (by order of the Rent Chamber, duly issued)
 ....
-
-.Translation of Receipt
-[literal.bordered,subs="quotes,verbatim"]
-....
-No. 458.                                      20.)
-Spring
-
-That the Colon Brüggemann No. 14 in Nordholz has paid
-for an assigned plot 44 Reichsthaler 15 Groschen 4 Pfennige
-into the Princely Chamber Treasury is hereby receipted.
-
-Berger
-
-Bückeburg
-4 November 1818
-
-44 Reichsthaler 15 Groschen 4 Pfennige
-....
-
