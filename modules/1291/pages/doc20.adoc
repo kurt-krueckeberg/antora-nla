@@ -18,9 +18,6 @@ image::38-r.png[width=75%,link=self]
 .Transliteration
 [literal.bordered,subs="quotes,verbatim"]
 ....
-
-
-XXX
 St. 6 mg.                                                20.)
 
 Concept Kaufcontracts für den Neubauer Vogt No. 13. zu Nordholz.
@@ -99,7 +96,8 @@ Ruthen).
 .Translation of Purchase Contract
 [literal.bordered,subs="quotes,verbatim"]
 ....
-Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at Nordholz
+Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at
+Nordholz
 
 Forwarded by Knöttge.
 
