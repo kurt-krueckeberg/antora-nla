@@ -12,15 +12,14 @@ image::01-r.jpg[link=self]
 image::02-l.jpg[link=self]
 
 == Designation Actorum
-
 [%header,cols="1,5,3,2,1,1,1",frame=none]
 |===
 |No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
 |1.
-|xref:doc1.adoc[Petition of the shoemaker Krückeberg No. 10 in Berenbusch.
+|xref:doc1.adoc[Petition of the shoemaker Krückeberg No. 10 in Berenbusch.]
 
-Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
+xref:doc1.adoc[Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
 .11+|Allocation of forest land on the Söhre for Krückeberg No. 10 in Berenbusch, Vogt No. 13 in Nordholz, and Brüggemann No. 14 in Nordholz.
 
 Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
@@ -31,9 +30,9 @@ Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:
 |1.
 
 |2.
-|xref:doc2.adoc[Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
+|xref:doc2.adoc[Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.]
 
-Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
+xref:doc2.adoc[Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
 zum Baum mit Zeichnung.]
 |Bburg
 |1817
@@ -41,27 +40,27 @@ zum Baum mit Zeichnung.]
 |3
 
 |3.
-|xref:doc3.adoc[Prepared official decision to the local office.
+|xref:doc3.adoc[Prepared official decision to the local office.]
 
-Conc. K. Rescript ans Amt dahier.]
+xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
 |1817
 |Febr.
 |13
 
 |4.
-|xref:doc4.adoc[Petition of the lodger Vogt of Evesen, with official decision.
+|xref:doc4.adoc[Petition of the lodger Vogt of Evesen, with official decision.]
 
-Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
+xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
 |Bburg
 |1817
 |Novbr
 |3
 
 |5.
-|xref:doc5.adoc[Likewise from the soldier Brüggemann of No. 1 in Nordholz, with official decision.
+|xref:doc5.adoc[Likewise from the soldier Brüggemann of No. 1 in Nordholz, with official decision.]
 
-desgl. vom Soldat Brüggemann
+xref:doc5.adoc[desgl. vom Soldat Brüggemann
 von No. 1. zu Nordholz, cum Res. Cam.]
 |Bburg
 |1817
@@ -69,63 +68,63 @@ von No. 1. zu Nordholz, cum Res. Cam.]
 |15.
 
 |6.
-|xref:doc6.adoc[Report of the local office.
+|xref:doc6.adoc[Report of the local office.]
 
-Bericht hiesigen Amts.]
+xref:doc6.adoc[Bericht hiesigen Amts.]
 |Bburg
 |1817
 |Decbr
 |31.
 
 |7.
-|xref:doc7.adoc[Prepared official decision to the local office.
+|xref:doc7.adoc[Prepared official decision to the local office.]
 
-Conc. K. Rescript ans Amt dahier.]
+xref:doc7.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
 |1818
 |Jan
 |13
 
 |8.
-|xref:doc8.adoc[Report of the local office, together with drawing.
+|xref:doc8.adoc[Report of the local office, together with drawing.]
 
-Bericht hiesigen Amts, samt Zeichnung.]
+xref:doc8.adoc[Bericht hiesigen Amts, samt Zeichnung.]
 |Bburg
 |1818
 |Febr.
 |16.
 
 |9.
-|xref:doc9.adoc[Prepared official decision based on a report from the local office.
+|xref:doc9.adoc[Prepared official decision based on a report from the local office.]
 
-Conc. K. Rescript aus hiesige[m] Amt.]
+xref:doc9.adoc[Conc. K. Rescript aus hiesige[m] Amt.]
 |Bburg
 |1818
 |Febr.
 |26
 
 |10.
-|xref:doc10.adoc[Petition of Vogt from Nordholz, together with drawing.
+|xref:doc10.adoc[Petition of Vogt from Nordholz, together with drawing.]
 
-Vorstellung von Vogt aus Nordholz, samt Zeichnung.]
+xref:doc10.adoc[Vorstellung von Vogt aus Nordholz, samt Zeichnung.]
 |Bburg
 |1818
 |Maÿ.
 |24.
  
 |11.
-|xref:doc11.adoc[Report of the local office, together with drawing and specification.
+|xref:doc11.adoc[Report of the local office, together with drawing and specification.]
 
-Bericht hiesigen Amts, samt Zeichnung mit Specification.]
+xref:doc11.adoc[Bericht hiesigen Amts, samt Zeichnung mit Specification.]
 |Bburg
 |1818
 |Maÿ.
 |30.
 
 |12.
-|xref:doc12.adoc[Prepared official decision to the local office, likewise to the treasury.
+|xref:doc12.adoc[Prepared official decision to the local office, likewise to the treasury.]
 
-Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.]
+xref:doc12.adoc[Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.]
 |
 |Bburg
 |1818
@@ -133,9 +132,9 @@ Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.]
 |17
 
 |13.
-|xref:doc13.adoc[Treasury receipt.
+|xref:doc13.adoc[Treasury receipt.]
 
-Kammercassenquittung.]
+xref:doc13.adoc[Kammercassenquittung.]
 |
 |Bburg
 |1818
@@ -143,9 +142,9 @@ Kammercassenquittung.]
 |14.
 
 |14.
-|xref:doc14.adoc[Petition of the new settler Brüggemann No. 14 in Nordholz.
+|xref:doc14.adoc[Petition of the new settler Brüggemann No. 14 in Nordholz.]
 
-Vorstellung des Neubauers Brüggemann No 14. in Nordholz.]
+xref:doc14.adoc[Vorstellung des Neubauers Brüggemann No 14. in Nordholz.]
 |
 |Bburg
 |1818
@@ -153,9 +152,9 @@ Vorstellung des Neubauers Brüggemann No 14. in Nordholz.]
 |30
 
 |15.
-|xref:doc15.adoc[Official decision addressed to the aforementioned.
+|xref:doc15.adoc[Official decision addressed to the aforementioned.]
 
-Com. K. Resolution an Vorhin genannten.]
+xref:doc15.adoc[Com. K. Resolution an Vorhin genannten.]
 |
 |Bburg
 |1818
@@ -163,9 +162,9 @@ Com. K. Resolution an Vorhin genannten.]
 |7
 
 |16.
-|xref:doc16.adoc[Petition of the shoemaker Krückeberg No. 10 in Berenbusch.
+|xref:doc16.adoc[Petition of the shoemaker Krückeberg No. 10 in Berenbusch.]
 
-Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
+xref:doc16.adoc[Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.]
 .2+|Concerning the remission of the purchase price that had been deducted.
 
 Erlaß des Kaufpreises, so abgeschlagen betr:
@@ -175,18 +174,18 @@ Erlaß des Kaufpreises, so abgeschlagen betr:
 |7
 
 |17.
-|xref:doc17.adoc[Prepared official decision addressed to the same.
+|xref:doc17.adoc[Prepared official decision addressed to the same.]
 
-Conc. K. Resolution an denselben]
+xref:doc17.adoc[Conc. K. Resolution an denselben]
 |Bburg
 |1818
 |Oct.
 |7
 
 |18.
-|xref:doc18.adoc[Treasury receipt.
+|xref:doc18.adoc[Treasury receipt.]
 
-Kammercassenquittung]
+xref:doc18.adoc[Kammercassenquittung]
 .5+|Concerning the allocation of land.
 
 Ausweisung betr:
@@ -196,36 +195,36 @@ Ausweisung betr:
 |27
 
 |19.
-|xref:doc19.adoc[Prepared purchase contract for the colonist Krückeberg No. 10 in Berenbusch.
+|xref:doc19.adoc[Prepared purchase contract for the colonist Krückeberg No. 10 in Berenbusch.]
 
-Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch]
+xref:doc19.adoc[Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch]
 |Bburg
 |1818
 |Novbr
 |16
 
 |20.
-|xref:doc20.adoc[Likewise, prepared purchase contract for the new settler Vogt No. 13 in Nordholz.
+|xref:doc20.adoc[Likewise, prepared purchase contract for the new settler Vogt No. 13 in Nordholz.]
 
-desgl. für den Neubauer Vogt No 13. zu Nordholz.]
+xref:doc20.adoc[desgl. für den Neubauer Vogt No 13. zu Nordholz.]
 |Bburg
 |1818
 |Novbr
 |16
 
 |21.
-|xref:doc21.adoc[Treasury receipt.
+|xref:doc21.adoc[Treasury receipt.]
 
-Kammercassenquittung.]
+xref:doc21.adoc[Kammercassenquittung.]
 |Bburg
 |1818
 |Dec[?]
 |4
 
 |22.
-|xref:doc22.adoc[Prepared purchase contract for Brüggemann No. 14 in Nordholz.
+|xref:doc22.adoc[Prepared purchase contract for Brüggemann No. 14 in Nordholz.]
 
-Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.]
+xref:doc22.adoc[Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.]
 |Bburg
 |1818
 |Dec
