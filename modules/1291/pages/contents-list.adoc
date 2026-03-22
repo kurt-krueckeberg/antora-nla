@@ -54,7 +54,7 @@ xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
 |13
 
 |4.
-|xref:doc4.adoc[Petition of the lodger Vogt at Evesen, with
+|xref:doc4.adoc[Petition of the Einlieger (lodger) Vogt at Evesen, with
 chamber resolution.]
 
 xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
@@ -113,8 +113,7 @@ Conc. K. Rescript aus hiesige[m] Amt.
 |10.
 |xref:doc10.adoc[Petition of Vogt from Nordholz, with drawing.]
 
-Vorstellung von Vogt aus Nord-
-holz, samt Zeichnung.
+Vorstellung von Vogt aus Nordholz, samt Zeichnung.
 |Bburg
 |1818
 |Maÿ.
@@ -123,8 +122,7 @@ holz, samt Zeichnung.
 |11.
 |xref:doc11.adoc[Report of the local office, with drawing and specification.]
 
-Bericht hiesigen Amts, samt Zeich-
-nung mit Specification.
+Bericht hiesigen Amts, samt Zeichnung mit Specification.
 |Bburg
 |1818
 |Maÿ.
