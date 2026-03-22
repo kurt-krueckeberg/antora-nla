@@ -2,8 +2,8 @@
 
 == Review 1291 documents
 
-* Make sure all the headers to use the more understandable terms found in
-  xref:1291:terms.adoc[]. Later do this for all the other modules.
+* Make sure all the h1 headers match what is currently in
+  contents-list.adoc, the Designation Actorum.
 * In the translation use understandable explantions for the numeric
   notations found on the document, using document #1 as the template for
   doing this.
