@@ -1,4 +1,4 @@
-= Document 21: Chamber treasury receipt
+= Document 21: Treasury receipt
 :page-role: wide
 
 == Receipt
