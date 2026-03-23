@@ -40,7 +40,7 @@ zum Baum mit Zeichnung.]
 |3
 
 |3.
-|xref:doc3.adoc[Prepared official decision to the local office.]
+|xref:doc3.adoc[Prepared official decision of the Princely Finance Office to the local office.]
 
 xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
