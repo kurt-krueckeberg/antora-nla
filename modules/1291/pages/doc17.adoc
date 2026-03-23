@@ -1,4 +1,4 @@
-= Document 17: Concluded Chancery resolution to the same party. 
+= Document 17: Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
 :page-role: wide
 
 == Chancery Resolution 
@@ -13,7 +13,7 @@ image::32-r.png[width=65%,link=self]
 ....
 Num: Cam: 392.
 St. 3 mg
-
+:
 [signatures:]
 vdankwart
 MKaas

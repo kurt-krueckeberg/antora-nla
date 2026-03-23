@@ -151,9 +151,9 @@ xref:doc14.adoc[Vorstellung des Neubauers Brüggemann No 14. in Nordholz.]
 |30
 
 |15.
-|xref:doc15.adoc[Official decision addressed to the aforementioned.]
+|xref:doc15.adoc[Prepared official decision of the Princely Finance Office addressed to the aforementioned.]
 
-xref:doc15.adoc[Com. K. Resolution an Vorhin genannten.]
+xref:doc15.adoc[Conc. K. Resolution an Vorhin genannten.]
 |
 |Bburg
 |1818
@@ -173,7 +173,7 @@ Erlaß des Kaufpreises, so abgeschlagen betr:
 |7
 
 |17.
-|xref:doc17.adoc[Prepared official decision addressed to the same.]
+|xref:doc17.adoc[Prepared official decision of the Princely Finance Office addressed to the same.]
 
 xref:doc17.adoc[Conc. K. Resolution an denselben]
 |Bburg
