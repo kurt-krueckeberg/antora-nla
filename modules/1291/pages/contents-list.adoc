@@ -194,7 +194,7 @@ Ausweisung betr:
 |27
 
 |19.
-|xref:doc19.adoc[Prepared purchase contract for the colonist Krückeberg No. 10 in Berenbusch.]
+|xref:doc19.adoc[Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.]
 
 xref:doc19.adoc[Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch]
 |Bburg
@@ -203,7 +203,7 @@ xref:doc19.adoc[Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenb
 |16
 
 |20.
-|xref:doc20.adoc[Likewise, prepared purchase contract for the new settler Vogt No. 13 in Nordholz.]
+|xref:doc20.adoc[Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.]
 
 xref:doc20.adoc[desgl. für den Neubauer Vogt No 13. zu Nordholz.]
 |Bburg
