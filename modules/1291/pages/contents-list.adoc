@@ -121,7 +121,7 @@ xref:doc11.adoc[Bericht hiesigen Amts, samt Zeichnung mit Specification.]
 |30.
 
 |12.
-|xref:doc12.adoc[Prepared official decision to the local office, likewise to the treasury.]
+|xref:doc12.adoc[Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.]
 
 xref:doc12.adoc[Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.]
 |
