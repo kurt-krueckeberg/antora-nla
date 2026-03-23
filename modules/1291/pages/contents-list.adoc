@@ -49,7 +49,7 @@ xref:doc3.adoc[Conc. K. Rescript ans Amt dahier.]
 |13
 
 |4.
-|xref:doc4.adoc[Petition of the lodger Vogt of Evesen, with official decision.]
+|xref:doc4.adoc[Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.]
 
 xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
 |Bburg
@@ -58,10 +58,9 @@ xref:doc4.adoc[Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:]
 |3
 
 |5.
-|xref:doc5.adoc[Likewise from the soldier Brüggemann of No. 1 in Nordholz, with official decision.]
+|xref:doc5.adoc[Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.]
 
-xref:doc5.adoc[desgl. vom Soldat Brüggemann
-von No. 1. zu Nordholz, cum Res. Cam.]
+xref:doc5.adoc[desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.]
 |Bburg
 |1817
 |Decbr.
@@ -77,7 +76,7 @@ xref:doc6.adoc[Bericht hiesigen Amts.]
 |31.
 
 |7.
-|xref:doc7.adoc[Prepared official decision to the local office.]
+|xref:doc7.adoc[Prepared official decision of the Princely Finance Office to the local office.]
 
 xref:doc7.adoc[Conc. K. Rescript ans Amt dahier.]
 |Bburg
@@ -95,7 +94,7 @@ xref:doc8.adoc[Bericht hiesigen Amts, samt Zeichnung.]
 |16.
 
 |9.
-|xref:doc9.adoc[Prepared official decision based on a report from the local office.]
+|xref:doc9.adoc[Prepared official decision of the Princely Finance Office, based on a submission from the local office.]
 
 xref:doc9.adoc[Conc. K. Rescript aus hiesige[m] Amt.]
 |Bburg
