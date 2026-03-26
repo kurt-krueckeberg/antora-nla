@@ -1,6 +1,5 @@
 .xref:index.adoc[]
 * xref:cover.adoc[]
-* xref:common:case-file-docs-explained.adoc[]
 * xref:narr-timeline.adoc[]
 * xref:contents-list.adoc[]
 ** xref:doc1-1.adoc[]
