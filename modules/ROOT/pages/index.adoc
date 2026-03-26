@@ -1,7 +1,6 @@
 = Ancestral Case Files: Krückeberg-Related Documents from the Bückeburg Archives
 
-This site contains these case files of the
-xref:rentkammer-and-kolonat-system.adoc[Schaumburg-Lippe Rentkammer]
+This site contains these case files of the Schaumburg-Lippe Rentkammer
 related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
 
 .Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers

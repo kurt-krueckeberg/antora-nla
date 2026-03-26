@@ -1,5 +1,9 @@
 = Todoes
 
+== ROOT module
+
+Its index.adoc only mentions Rentkammer case files anod no other documents.
+
 == Review 1291 documents
 
 * In the translation use understandable explantions for the numeric
@@ -8,7 +12,7 @@
 * NOTE --> There is an error in the Specification table in the Morgen sum
 cell. It should be "2" not "3"--I THINK!!!
 
-* Ask chatgpt to explain and describe all the feed and duties mentioned in
+* Ask chatgpt to explain and describe all the fees and duties mentioned in
   document 11. What does each one mean? What is its origin and history in
 Schaumburg-Lippe?
 
