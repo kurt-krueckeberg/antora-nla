@@ -3,10 +3,6 @@
 
 == Narrative Overview
 
-[%collapsible]
-====
-[.narrow]
-[discrete]
 === Final Transfer of Ownership (December 1, 1800)
 
 Document 6, titled *Concept Cammeral:Kaufbriefs*, is the final instrument in
@@ -37,7 +33,6 @@ The document is dated *Bückeburg, December 1800*, and issued under the
 *impressed comital guardianship treasury seal* with signatures of the
 appointed directors and councillors: **Gladbeck, von Landesberg, Maas,
 Windt, and Wippermann**.  It was dispatched by **Beÿer**.
-====
 
 == Images
 
