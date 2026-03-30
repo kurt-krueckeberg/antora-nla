@@ -3,7 +3,7 @@
 
 == Images
 
-[cols="1a,1a",frame=none,grid=none,options="noheader']
+[cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |image::16-l.png[title="Click to Enlarge",link=self]
 |image::16-r.png[title="Click to Enlarge",link=self]
