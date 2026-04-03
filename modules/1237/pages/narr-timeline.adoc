@@ -2,14 +2,14 @@
 
 == Compressed Timeline
 
-[width="100%",cols="4%,17%,79%",options="header",]
+[width="100%",cols="1,2,7",options="header",]
 |===
 |Doc No. |Date |Key content / action
 
 |*3* |11 Mar 1799 |_Concept Cammer Rescript_ to the Bückeburg Office,
 ordering implementation of the Chamber’s decision following the 27 Feb
-1799 Office report. Signed "`Anstatt pp Hering Riehe MKaas Emmerwarth v.
-Landesberg.`"
+1799 Office report. Signed "Anstatt pp Hering Riehe MKaas Emmerwarth v.
+Landesberg."
 
 |*4* |18 Oct 1800 |_Report of the same officials_, apparently confirming
 execution or boundaries of the assigned plot.
@@ -19,7 +19,7 @@ valuation of the land. Usually attached to #4.
 
 |*5* |27 Oct 1800 |_Concept Cammer Rescript_ to the Bückeburg Office and to
 Chamber treasurer Stackmann, authorizing preparation of the purchase
-deed; closing line "`Grafl: p MKaas Wint J. Danckwerth.`"
+deed; closing line "Grafl: p MKaas Wint J. Danckwerth."
 
 |*6* |1 Dec 1800 |_Concept Kaufbrief_ (draft purchase letter) from the
 Rentkammer to Colon Krückeberg, finalizing the transfer of the small

@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?><?asciidoc-numbered?><article xmlns:xl="http://www.w3.org/1999/xlink" lang="en">
+  <info>
+    <title>Contents List</title>
+    <date>2026-03-22</date>
+  </info>
+  <simpara>The <emphasis role="strong">Designatio Actorum</emphasis> is the table of contents for the Rentkammer case
+file. It lists its documents in the second column and their topics in the
+third column.</simpara>
+  <section id="_digital_images">
+    <title>Digital Images</title>
+    <informalfigure>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="01-r.jpg"/>
+        </imageobject>
+        <textobject>
+          <phrase>01 r</phrase>
+        </textobject>
+      </mediaobject>
+    </informalfigure>
+    <informalfigure>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="02-l.jpg"/>
+        </imageobject>
+        <textobject>
+          <phrase>02 l</phrase>
+        </textobject>
+      </mediaobject>
+    </informalfigure>
+  </section>
+  <section id="_designation_actorum">
+    <title>Designation Actorum</title>
+    <informaltable frame="none" rowsep="1" colsep="1">
+      <tgroup cols="7">
+        <colspec colname="col_1" colwidth="7.1428*"/>
+        <colspec colname="col_2" colwidth="35.7142*"/>
+        <colspec colname="col_3" colwidth="21.4285*"/>
+        <colspec colname="col_4" colwidth="14.2857*"/>
+        <colspec colname="col_5" colwidth="7.1428*"/>
+        <colspec colname="col_6" colwidth="7.1428*"/>
+        <colspec colname="col_7" colwidth="7.1432*"/>
+        <thead>
+          <row>
+            <entry align="left" valign="top">No.</entry>
+            <entry align="left" valign="top">Designatio Actorum.</entry>
+            <entry align="left" valign="top">Betreff</entry>
+            <entry align="left" valign="top">Ort</entry>
+            <entry align="left" valign="top">Jahr</entry>
+            <entry align="left" valign="top">Monat</entry>
+            <entry align="left" valign="top">Tag</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>1.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc1.xml" remap="link">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</ulink>Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc1.xml" remap="link">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</ulink>Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top" morerows="10">
+              <simpara>Allocation of forest land on the Söhre for Krückeberg No. 10 in Berenbusch, Vogt No. 13 in Nordholz, and Brüggemann No. 14 in Nordholz.</simpara>
+              <simpara>Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
+Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Berenbusch</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Jan.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>2.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc2.xml" remap="link">Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.</ulink>Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc2.xml" remap="link">Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
+zum Baum mit Zeichnung.</ulink>Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
+zum Baum mit Zeichnung.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Febr</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>3</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>3.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc3.xml" remap="link">Prepared official decision of the Princely Finance Office to the local office.</ulink>Prepared official decision of the Princely Finance Office to the local office.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc3.xml" remap="link">Conc. K. Rescript ans Amt dahier.</ulink>Conc. K. Rescript ans Amt dahier.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Febr.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>13</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>4.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc4.xml" remap="link">Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.</ulink>Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc4.xml" remap="link">Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:</ulink>Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Novbr</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>3</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>5.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc5.xml" remap="link">Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.</ulink>Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc5.xml" remap="link">desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.</ulink>desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Decbr.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>15.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>6.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc6.xml" remap="link">Report of the local office.</ulink>Report of the local office.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc6.xml" remap="link">Bericht hiesigen Amts.</ulink>Bericht hiesigen Amts.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1817</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Decbr</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>31.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>7.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc7.xml" remap="link">Prepared official decision of the Princely Finance Office to the local office.</ulink>Prepared official decision of the Princely Finance Office to the local office.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc7.xml" remap="link">Conc. K. Rescript ans Amt dahier.</ulink>Conc. K. Rescript ans Amt dahier.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Jan</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>13</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>8.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc8.xml" remap="link">Report of the local office, together with drawing.</ulink>Report of the local office, together with drawing.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc8.xml" remap="link">Bericht hiesigen Amts, samt Zeichnung.</ulink>Bericht hiesigen Amts, samt Zeichnung.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Febr.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>16.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>9.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc9.xml" remap="link">Prepared official decision of the Princely Finance Office, based on a submission from the local office.</ulink>Prepared official decision of the Princely Finance Office, based on a submission from the local office.</link>
+              </simpara>
+              <simpara><link><ulink url="doc9.xml" remap="link">Conc. K. Rescript aus hiesige[m</ulink>Conc. K. Rescript aus hiesige[m</link> Amt.]</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Febr.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>26</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>10.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc10.xml" remap="link">Petition of Vogt from Nordholz, together with drawing.</ulink>Petition of Vogt from Nordholz, together with drawing.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc10.xml" remap="link">Vorstellung von Vogt aus Nordholz, samt Zeichnung.</ulink>Vorstellung von Vogt aus Nordholz, samt Zeichnung.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Maÿ.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>24.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>11.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc11.xml" remap="link">Report of the local office, together with drawing and specification.</ulink>Report of the local office, together with drawing and specification.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc11.xml" remap="link">Bericht hiesigen Amts, samt Zeichnung mit Specification.</ulink>Bericht hiesigen Amts, samt Zeichnung mit Specification.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Maÿ.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>30.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>12.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc12.xml" remap="link">Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.</ulink>Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc12.xml" remap="link">Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.</ulink>Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top"/>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Junÿ</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>17</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>13.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc13.xml" remap="link">Treasury receipt.</ulink>Treasury receipt.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc13.xml" remap="link">Kammercassenquittung.</ulink>Kammercassenquittung.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top"/>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Sept</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>14.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>14.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc14.xml" remap="link">Petition of the new settler Brüggemann No. 14 in Nordholz.</ulink>Petition of the new settler Brüggemann No. 14 in Nordholz.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc14.xml" remap="link">Vorstellung des Neubauers Brüggemann No 14. in Nordholz.</ulink>Vorstellung des Neubauers Brüggemann No 14. in Nordholz.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top"/>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Sept</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>30</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>15.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc15.xml" remap="link">Prepared official decision of the Princely Finance Office addressed to the aforementioned.</ulink>Prepared official decision of the Princely Finance Office addressed to the aforementioned.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc15.xml" remap="link">Conc. K. Resolution an Vorhin genannten.</ulink>Conc. K. Resolution an Vorhin genannten.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top"/>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Oct</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>7</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>16.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc16.xml" remap="link">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</ulink>Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc16.xml" remap="link">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</ulink>Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top" morerows="1">
+              <simpara>Concerning the remission of the purchase price that had been deducted.</simpara>
+              <simpara>Erlaß des Kaufpreises, so abgeschlagen betr:</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Berenbusch</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Sept</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>7</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>17.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc17.xml" remap="link">Prepared official decision of the Princely Finance Office addressed to the same.</ulink>Prepared official decision of the Princely Finance Office addressed to the same.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc17.xml" remap="link">Conc. K. Resolution an denselben</ulink>Conc. K. Resolution an denselben</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Oct.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>7</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>18.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc18.xml" remap="link">Treasury receipt.</ulink>Treasury receipt.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc18.xml" remap="link">Kammercassenquittung</ulink>Kammercassenquittung</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top" morerows="4">
+              <simpara>Concerning the allocation of land.</simpara>
+              <simpara>Ausweisung betr:</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Oct.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>27</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>19.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc19.xml" remap="link">Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.</ulink>Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc19.xml" remap="link">Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch</ulink>Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Novbr</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>16</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>20.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc20.xml" remap="link">Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.</ulink>Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc20.xml" remap="link">desgl. für den Neubauer Vogt No 13. zu Nordholz.</ulink>desgl. für den Neubauer Vogt No 13. zu Nordholz.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Novbr</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>16</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>21.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc21.xml" remap="link">Treasury receipt.</ulink>Treasury receipt.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc21.xml" remap="link">Kammercassenquittung.</ulink>Kammercassenquittung.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Dec[?]</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>4</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>22.</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>
+                <link><ulink url="doc22.xml" remap="link">Prepared purchase contract for Brüggemann No. 14 in Nordholz.</ulink>Prepared purchase contract for Brüggemann No. 14 in Nordholz.</link>
+              </simpara>
+              <simpara>
+                <link><ulink url="doc22.xml" remap="link">Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.</ulink>Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.</link>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Bburg</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1818</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Dec</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>14</simpara>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+  </section>
+</article>
