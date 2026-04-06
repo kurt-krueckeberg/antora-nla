@@ -28,11 +28,9 @@ of her holding.
 
 == Images of Petition of the widow Krückeberg 
 
-[cols="1a,1a"]
-|===
-|image::02.png[title=Click to Enlarge,link=self]
-|image::03-l.png[title=Click to Enlarge,link=self]
-|===
+image::02.png[title=Click to Enlarge,link=self]
+
+image::03-l.png[title=Click to Enlarge,link=self]
 
 [.narrow]
 == Transliteration and Translation

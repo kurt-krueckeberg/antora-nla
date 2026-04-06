@@ -55,17 +55,11 @@ that it had temporarily suspended the distraint order.
 
 == Images
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::04-r-original.png[title="Click to Enlarge",link=self]
-|image::05-l.png[title="Click to Enlarge",link=self]
-|===
+image::04-r-original.png[title="Click to Enlarge",link=self]
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::05-r.png[title="Click to Enlarge",link=self]
-|
-|===
+image::05-l.png[title="Click to Enlarge",link=self]
+
+image::05-r.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 

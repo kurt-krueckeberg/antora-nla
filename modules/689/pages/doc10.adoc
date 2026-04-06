@@ -3,11 +3,9 @@
 
 == NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::21-r.png[title="Click to Enlarge",link=self]
-|image::22.png[title="Click to Enlarge",link=self]
-|===
+image::21-r.png[title="Click to Enlarge",link=self]
+
+image::22.png[title="Click to Enlarge",link=self]
 
 === Transliteration and Translation
 

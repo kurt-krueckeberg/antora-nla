@@ -3,11 +3,9 @@
 
 == Images
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::19-l.png[title="Click to Enlarge",link=self]
-|image::19-r.png[title="Click to Enlarge",link=self]
-|===
+image::19-l.png[title="Click to Enlarge",link=self]
+
+image::19-r.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 

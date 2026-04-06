@@ -36,11 +36,9 @@ reliqui"*, which means he had the same conditions as all the others.
 
 == Images of Johann Heinrich Krückeberg's Recorded Answers 
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
-|image::2741-2.jpg[title=First page (Click to Enlarge),link=self]
-|===
+image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
+
+image::2741-2.jpg[title=First page (Click to Enlarge),link=self]
 
 [cols="1a,1a",frame=none,grid=none]
 |===

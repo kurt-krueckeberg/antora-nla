@@ -3,17 +3,13 @@
 
 == Images
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::12-r.png[title="Click to Enlarge",link=self]
-|image::13-l.png[title="Click to Enlarge",link=self]
-|===
+image::12-r.png[title="Click to Enlarge",link=self]
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::13-r.png[title="Click to Enlarge",link=self]
-|image::14-l.png[title="Click to Enlarge",link=self]
-|===
+image::13-l.png[title="Click to Enlarge",link=self]
+
+image::13-r.png[title="Click to Enlarge",link=self]
+
+image::14-l.png[title="Click to Enlarge",link=self]
 
 image::14-r.png[title="Click to Enlarge",link=self]
 

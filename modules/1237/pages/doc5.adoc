@@ -56,11 +56,9 @@ With these actions, the land enlargement for Krückeberg moved from
 
 == Draft of Chamber's Official Resolutions to the Bückeburg Officials: Terms Confirmed 
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|image::09-right-page.png[link=self]
-|image::10-left-page.png[link=self]
-|===
+image::09-right-page.png[link=self]
+
+image::10-left-page.png[link=self]
 
 [.narrow]
 == Transliteration and Translation

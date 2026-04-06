@@ -36,11 +36,9 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 == Images
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|image::11.png[align=left,title=Decision on Jobst Heinrich Krückeberg's Petition, part one (Click to enlarge),link=self]
-|image::12.png[align=left,title=Decision on Jobst Heinrich Krückeberg's Petition, part two (Click to enlarge),link=self]
-|===
+image::11.png[align=left,title=Decision on Jobst Heinrich Krückeberg's Petition, part one (Click to enlarge),link=self]
+
+image::12.png[align=left,title=Decision on Jobst Heinrich Krückeberg's Petition, part two (Click to enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation

@@ -28,19 +28,11 @@ Amt official Höcker.
 
 == Transliteration and Translation
 
-[cols="1a,1a",options=noheader"]
-|===
-|image::08-r.png[title=Click to Enlarge,link=self]
-|image::09-l.png[title=Click to Enlarge,link=self]
-|===
+image::08-r.png[title=Click to Enlarge,link=self]
 
+image::09-l.png[title=Click to Enlarge,link=self]
 
-[cols="1a,1a",options=noheader"]
-|===
-|image::09-r.png[title=Click to Enlarge,link=self]
-|
-|===
-
+image::09-r.png[title=Click to Enlarge,link=self]
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
