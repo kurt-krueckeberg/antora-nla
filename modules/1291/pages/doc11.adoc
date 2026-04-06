@@ -223,6 +223,7 @@ ad 11
 
 Specification von dreÿ Auswiesungen im Baumer Forste.
 ....
+
 [cols="6,6,4,2,2,2,6"]
 |===
 |Namen der Besitzer|Wohnort|Litt der Zeichnung| Morgen | Ruthen | Fuß |Anmerkung
