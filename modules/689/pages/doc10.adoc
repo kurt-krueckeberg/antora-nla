@@ -42,12 +42,7 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 *When/By whom:* Clerk at registration (after the letter was received). 
 |===
 
-*TODO*: Add explantory sentence before text like above.
-[.widepair,cols="1a,1a",grid=none,frame=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift Anweisung der Kammer
@@ -67,7 +62,8 @@ dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
 gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
 Quittung zu belegen.
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Copy. Order of the Chamber for the chamber treasurer Berger.
