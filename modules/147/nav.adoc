@@ -1,4 +1,4 @@
-.Die Stätte Nr. 19 zu Berenbusch
-* xref:cover.adoc[]
-* xref:contents-list.adoc[]
-** xref:doc5.adoc[]
+* xref:index.adoc[]
+** xref:cover.adoc[]
+** xref:contents-list.adoc[]
+*** xref:doc5.adoc[]
