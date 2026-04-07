@@ -20,7 +20,7 @@ Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallan
 Protokolle über die Befragung der einzelnen Hofbesitzer in 
 Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der 
 Generallandesvisitation (Landesvermessung) 
-|link:[NLA BU L 2 L Nr. 27/41]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA BU, L 2, L Nr. 27/41]
 
 |1745
 |xref:2713:index.adoc[]
