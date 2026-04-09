@@ -2,7 +2,7 @@
 Wilhelm Meyer at Röcke (1850)
 
 Only the case file cover and the Abschrift (copy) of
-xref:146:carl-fried-supplication-to-sel[N.C. 4386] are included here. The
+xref:146:carl-fried-supplication-to-sell.adoc[N.C. 4386] are included here. The
 other documents include technical details of the sale, but are hard to
 decipher due to their poor legibility. The important details are in the 
 xref:146:other-docs.adoc[] section of the case file xref:146:index.adoc[],
