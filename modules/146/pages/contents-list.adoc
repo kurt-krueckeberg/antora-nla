@@ -38,8 +38,8 @@ Pto Gesuch des Schneider Krückeberg in Evesen um Ausweisung eines Platzes zum H
 xref:doc1.adoc[Report of the administrative offices of Bückeburg and Arensburg]
 
 xref:doc1.adoc[Bericht der Aemter Bückeb: u. Arensburg]
-|" "
-|" "
+|"  "
+|"  "
 |Oct
 |21
 
@@ -48,9 +48,9 @@ xref:doc1.adoc[Bericht der Aemter Bückeb: u. Arensburg]
 xref:doc3.adoc[Drafts of Cameral rescripts from the Office of Bückeburg]
 
 xref:doc3.adoc[Concept Camr. Rescripts aus Amt Bückeburg]
-|" "
-|" "
-|" "
+|"  "
+|"  "
+|"  "
 |31
 
 |4
@@ -65,7 +65,7 @@ stakeholders.
 
 Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
 Hude-Interessenten.
-|" "
+|"  "
 |1809
 |Jan.
 |12
@@ -75,9 +75,9 @@ Hude-Interessenten.
 xref:doc5.adoc[Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg]
 
 xref:doc5.adoc[Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg]
-|" "
-|" "
-|" "
+|"  "
+|"  "
+|"  "
 |23
 
 |6 +
@@ -88,8 +88,8 @@ xref:ad6-survey-drawing.adoc[together with a geometrical (survey) drawing by Sti
 
 xref:doc6.adoc[Bericht gedachter Aemter] +
 xref:ad6-survey-drawing.adoc[Ein geometische Zeichnung von Stille]
-|" "
-|" "
+|"  "
+|"  "
 |Oct
 |28
 
@@ -104,16 +104,16 @@ Concerning the Cameral approval of the payment monies
 and the execution of the purchase deed.
 
 pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
-|" "
-|" "
+|"  "
+|"  "
 |Nov.
 |15
 
 |7
 |
 xref:doc7.adoc[Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann]
-|" "
-|" "
+|"  "
+|"  "
 |Nov.
 |15
 
@@ -123,8 +123,8 @@ xref:doc8.adoc[Petition of the wife of the new settler Krückeberg,
 No. 18, in Berenbusch]
 
 xref:doc8.adoc[Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch]
-|" "
-|" "
+|"  "
+|"  "
 |Decb.
 |7
 
@@ -133,9 +133,9 @@ xref:doc8.adoc[Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Beren
 xref:doc9.adoc[Draft of a Cameral decree addressed to this colonist Krückeberg]
 
 xref:doc9.adoc[Concept Camr Erlaß an diesen Kolon Krückeberg]
-|" "
-|" "
-|" "
+|"  "
+|"  "
+|"  "
 |12
 
 |10
@@ -145,10 +145,10 @@ by the aforementioned Krückeberg]
 
 xref:doc10.adoc[Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
 gedachten Krückeberg]
-|" "
-|" "
-|" "
-|" "
+|"  "
+|"  "
+|"  "
+|"  "
 
 |11
 |
@@ -157,8 +157,8 @@ concerning a building site for house construction and garden]
 
 xref:doc10.adoc[Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
 und Garten]
-|" "
-|" "
-|" "
+|"  "
+|"  "
+|"  "
 |20
 |===
