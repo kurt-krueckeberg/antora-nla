@@ -89,8 +89,8 @@ ____
 
 The exact wording of that order and any enclosures (such as the Forestry
 Report) are not preserved; only this short reference and the Office’s subsequent
-xref:contents-list.adoc#desfallsiger-bericht[Desfallsiger Bericht] in the
-Designatio Actorum (Document No. 2) remain.
+**Report on the matter from the Bückeburg officials, dated.**, which is the 
+second entry in the xref:contents-list.adoc[table of contents].
 
 == 5. The  “Report by the officials at Bückeburg on this matter.” (27 Feb. 1799) 
 
