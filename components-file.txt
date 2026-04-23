@@ -1,0 +1,3 @@
+components:
+  genealogy: ~/antora-genealogy
+  immanuel: ~/antora-immanuel
