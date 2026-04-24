@@ -98,8 +98,7 @@ dem Garthen
 
 7. Sey Illmo eigen.
 
-8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
-‚not‘]
+8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for "not"]
 
 9. jährl. 12 Burgfesten
 
@@ -217,7 +216,8 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
    Indicates earlier holders of the same dwelling/holding.
 
 2. He married in connection with it.
-   Formulaic reply indicating acquisition of the holding by marriage; the exact relationship to the predecessor is not specified.
+   Formulaic reply indicating acquisition of the holding by marriage; the exact
+   relationship to the predecessor is not specified.
 
 3. A Brinksitzer
    Small cottager living on the village edge with minimal land.
@@ -283,7 +283,8 @@ h) does not know
 i) like the others
    Pays the customary village amount.
 
-k) Livestock tax according to number of animals — 4 Mariengroschen 4 Pfennige, also 8 Mariengroschen
+k) Livestock tax according to number of animals — 4 Mariengroschen 4 Pfennige,
+   also 8 Mariengroschen
    Assessed per head of livestock, probably different animal classes.
 
 l) exempt / not applicable
