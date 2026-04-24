@@ -39,11 +39,7 @@ image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
 
 image::2741-2.jpg[title=Second page (Click to Enlarge),link=self]
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::2741-3.jpg[title=Third page (Click to Enlarge),link=self]
-|
-|===
+image::2741-3.jpg[title=Third page (Click to Enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation
