@@ -1,2 +1,2 @@
-* xref:index.adoc[Kolon List wiht House Numbers (1747)]
+* xref:index.adoc[Kolon List with House Numbers (1747)]
 ** xref:page-17.adoc[Berenbush Brinksitzer]
