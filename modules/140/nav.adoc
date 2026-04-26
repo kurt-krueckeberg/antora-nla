@@ -1,2 +1,2 @@
-* xref:index.adoc[]
-** xref:page-17.adoc[]
+* xref:index.adoc[List Kolons in the districts of Bückeburg and Arensburg (1747)]
+** xref:page-17.adoc[Berenbush Brinksitzer]
