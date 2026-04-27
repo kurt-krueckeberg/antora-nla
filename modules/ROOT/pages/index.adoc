@@ -39,7 +39,7 @@ Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit N
 BU, L 101a, A Nr. 140] 
 
 |1798 - 1800
-|xref:1237:index.adoc[]
+|xref:1237:intro.adoc[]
 //The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for the enlargement of his holding and garden
 
 Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
