@@ -1,4 +1,4 @@
-.xref:index.adoc[]
+.xref:index.adoc[Sale of Berenbusch No. 10 (1849)]
 * xref:cover.adoc[]
 * xref:narr-timeline.adoc[]
 * xref:contents-list.adoc[]

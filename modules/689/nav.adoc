@@ -1,4 +1,4 @@
-.xref:index.adoc[]
+.xref:index.adoc[Krückeberg no. 10 Chamber Loan (1841-1845)]
 //* xref:narrative.adoc[]
 //* Case File
 //* xref:analyze.adoc[]

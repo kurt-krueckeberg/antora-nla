@@ -1,3 +1,3 @@
-.xref:index.adoc[]
+.xref:index.adoc[Sale of No. 18 Berenbusch (1850)]
 * xref:cover.adoc[]
 * xref:abschrift-4386.adoc[]
