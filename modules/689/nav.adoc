@@ -5,7 +5,7 @@
 * xref:rentcammer-and-amt.adoc[]
 * xref:cover.adoc[]
 * xref:amt-decree.adoc[]
-* xref:content-list.adoc[]
+* xref:content.adoc[]
 ** xref:doc1.adoc[]
 ** xref:doc2-1.adoc[]
 ** xref:doc2-2.adoc[]

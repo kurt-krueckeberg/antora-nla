@@ -1,7 +1,7 @@
 .xref:intro.adoc[Krückeberg No. 10 Berenbusch Land Enlargement Request]
 * xref:cover.adoc[]
 * xref:narr-timeline.adoc[]
-* xref:contents-list.adoc[]
+* xref:content.adoc[]
 ** xref:doc1.adoc[]
 ** xref:doc2.adoc[]
 ** xref:doc3.adoc[]

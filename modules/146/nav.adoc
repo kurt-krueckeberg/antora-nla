@@ -1,6 +1,6 @@
 .xref:index.adoc[Berenbusch No. 18 Holding (1808–1810, 1850)]
 * xref:cover.adoc[]
-* xref:contents-list.adoc[]
+* xref:content.adoc[]
 ** xref:doc1.adoc[]
 ** xref:doc1-analysis.adoc[]
 ** xref:doc1-2nd-analysis.adoc[]
