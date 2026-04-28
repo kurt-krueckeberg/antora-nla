@@ -226,7 +226,7 @@ documents.”
 ++++
 
 This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
-the xref:contents-list.adoc[Designatio Actorum] (the contents list). These are:
+the xref:content.adoc[Designatio Actorum] (the contents list). These are:
 
 . *Rought draft (Concept) of the official reply (Rescript) to the widow Krückeberg* 
 . *Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum*.
