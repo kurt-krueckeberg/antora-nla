@@ -12,8 +12,6 @@ image::31-r-vert-text.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
-TODO: Normalize the spelling.
-
 [literal.bordered,subs="quotes,verbatim"]
 ....
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
