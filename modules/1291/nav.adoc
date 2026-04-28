@@ -1,6 +1,6 @@
 * xref:1291:index.adoc[Allotments to Krückeberg no. 10 & Lodgers Vogt & Nordholz]
 ** xref:workflow.adoc[]
-** xref:contents-list.adoc[]
+** xref:content.adoc[]
 *** xref:doc1.adoc[]
 *** xref:doc2.adoc[]
 *** xref:doc3.adoc[]
