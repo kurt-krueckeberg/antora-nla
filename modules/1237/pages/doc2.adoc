@@ -32,12 +32,9 @@ Kammer), giving administrative directives:
 [[doc-index-2-1]]
 == Images of the Land Assignment Report
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::03-right-page.png[scale=25,title="Land Assignment Report",link=self]
+image::03-right-page.png[scale=25,title="Land Assignment Report",link=self]
 
-|image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
-|===
+image::04-left-page.png[scale=25,title="Land Assignment Report",link=self]
 
 [.narrow]
 == Transliteration and Translation
