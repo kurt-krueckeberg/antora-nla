@@ -19,11 +19,6 @@ chamber treasury.
 
 == Transliteration and Translation
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5038                             pr. in Cam 12 Nov. 41
@@ -79,7 +74,6 @@ Conc[ipist]. GW Fuchs.                No 10 in Berenbusch.
 progg[short for:protokollieren].
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC. 5038            presented in the Chamber 12 Nov. [18]41
@@ -131,7 +125,6 @@ Bückeburg                     Your most humble servant,
 Drafted by GW Fuchs.               No 10 in Berenbusch.
 filed.
 ....
-|===
 
 The note _RC. Seite 3_ (Rentcammer page 3) refers to the third page in the
 set of three documents comprising docket item #3 in the Acten Designation,
