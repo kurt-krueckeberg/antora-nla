@@ -42,12 +42,7 @@ There are numerous abbrevations used in *NC 2422*. This table summarizes them.
 *When/By whom:* Clerk at registration (after the letter was received). 
 |===
 
-*TODO*: Add explantory sentence before text like above.
-[.widepair,cols="1a,1a",grid=none,frame=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Abschrift Anweisung der Kammer
@@ -67,7 +62,8 @@ dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
 gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
 Quittung zu belegen.
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Copy. Order of the Chamber for the chamber treasurer Berger.
@@ -87,15 +83,10 @@ treasury, together with interest—to record the disbursement at the proper
 place in the chamber accounts and to support this expenditure with that
 receipt.
 ....
-|===
 
 == Follow-up delivery/receipt; mortgage cancellation approved
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::23-r.png[title="Click to Enlarge",link=self]
-|
-|===
+image::23-r.png[title="Click to Enlarge",link=self]
 
 [cols="1a,6a",width="60%",frame=ends,grid=rows]
 |===
@@ -113,12 +104,7 @@ receipt.
 *Sequence:* Written on intake; the minute/response (Reck) follows on 2 May 1845.
 |===
 
-
-[.widepair,cols="1a,1a",options="header",frame=none,grid=none]
-|===
-|Transliteration |English translation
-
-|*Right-side request (large hand; includes heading)*
+.Right-side request (large hand; includes heading)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 An
@@ -133,7 +119,8 @@ zurückgeben zu lassen.
 Bückeburg 29 Apr. 1845
 Berger
 ....
-|*Right-side request (large hand; includes heading)*
+
+.Right-side request (large hand; includes heading)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 To the Princely Rent Chamber
@@ -147,8 +134,8 @@ returned.
 Bückeburg, 29 April 1845.
 Berger
 ....
-|*Left-side minute/response (small hand; Rentkammer; signed Reck)*
 
+.Left-side minute/response (small hand; Rentkammer; signed Reck)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 H.
@@ -165,7 +152,8 @@ vollständige Kaufgeld mit 858 p 10 G 2 Pf in Ausgabe zu stellen
 sei.  Bburg 2/5 45
 Reck
 ....
-|*Left-side minute/response (small hand; Rentkammer; signed Reck)*
+
+.Left-side minute/response (small hand; Rentkammer; signed Reck)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 The promissory note is to be **annotated with the following
@@ -182,13 +170,8 @@ return, the full purchase price of **858 thalers 10 groschen 2
 pfennigs** is to be entered as an expenditure.  
 Bückeburg, 2 May 1845. — Reck
 ....
-|===
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::24-l.png[title="Click to Enlarge",link=self]
-|
-|===
+image::24-l.png[title="Click to Enlarge",link=self]
 
 == NC 2696
 
@@ -209,11 +192,7 @@ TODO: Change this table to make it look like the one above with *Meaning*, *Plac
 |*"Dispatched/expedited"* by Schöttd., dated 8 May (1845). A routing/handling note.
 |===
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration | English translation & notes
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
                    N.C. 2696
@@ -237,7 +216,7 @@ Spm       L
 
                                          verte
 ....
-|
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
                    N.C. 2696
@@ -262,7 +241,7 @@ Spm       L
 
                             turn the page 
 ....
-|
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Probatur.
@@ -271,7 +250,7 @@ sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
 gezahlt mit [initialed: DH] 2 rt 12 gr
 Poppelbaum
 ....
-|
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Approved.  
@@ -279,15 +258,10 @@ Entered. The accrued interest from *12 Jan to 28 Apr 1845 (3½ months)*,
 paid — *[initialed: DH]* — *2 Reichthalers 12 groschen*.  
 Poppelbaum.
 ....
-|===
 
 == Concept Quittung
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::24-r.png[title="Click to Enlarge",link=self]
-|
-|===
+image::24-r.png[title="Click to Enlarge",link=self]
 
 [cols="1a,6a",frame=none,grid=none,width="60%"]
 |===
@@ -310,11 +284,7 @@ Poppelbaum.
 *Who / When:*
 |===
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration | English translation & notes
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Concept Quittung.
@@ -331,7 +301,6 @@ Bburg 5. Mai 1845.
 L
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Official Draft.
@@ -348,4 +317,3 @@ Bückeburg, 5 May 1845.
 
 L (routing/initial mark).
 ....
-|===

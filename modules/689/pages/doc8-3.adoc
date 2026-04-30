@@ -9,9 +9,6 @@ image::19-r.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
-[.widepair,cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Concept an den Kammerrentmeister Berger                
@@ -34,7 +31,7 @@ Krückeberg zu erheben u[nd] zu vernehmen.
 P.n.
 Das Capital ist am 25. Jan. 1842 ausgezahlt
 ....
-|
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Office Draft to the Treasurer Berger
@@ -59,4 +56,3 @@ P.N.
 The capital was paid out on 25 Jan. 1842.
 [Poppelbaum]
 ....
-|===
