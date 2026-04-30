@@ -10,12 +10,9 @@ chamber treasury.
 
 == Images
 
-[options="noheader",cols="1a,1a",frame=none,grid=none]
-|===
-|image::08-r.png[title="Click to Enlarge",link=self]
+image::08-r.png[title="Click to Enlarge",link=self]
 
-|image::09-l.png[title="Click to Enlarge",link=self]
-|===
+image::09-l.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
