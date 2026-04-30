@@ -1,18 +1,11 @@
 = Docket Item 9: Report from the District Office of Bückeburg (8 Feb 1842)
 :page-role: wide
 
-[cols="1a,1a",options="noheader",frame=none,grid=none]
-|===
-|image::20-r.png[title="Click to Enlarge",link=self]
-|
-|===
+image::20-r.png[title="Click to Enlarge",link=self]
 
+== Transliteration and Translation
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC 818                          pr. im Cam 15 Febr 42
@@ -55,7 +48,7 @@ an Krückeberg zugestellt.
 Schtt.
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC 818 – Presented in the Chamber, 15 February 1842
@@ -88,4 +81,3 @@ has been acknowledged by receipt and delivered to chamber
 treasurer Berger for return to Krückeberg.
 [signed: Schtt.]
 ....
-|===
