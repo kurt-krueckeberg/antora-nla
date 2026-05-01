@@ -106,19 +106,12 @@ for loan consent, etc
 
 == Images
 
-[cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|image::02-r.png[title="Click to Enlarge",link=self]
+image::02-r.png[title="Click to Enlarge",link=self]
 
-|image::03-l-original.png[title="Click to Enlarge",link=self]
-|===
+image::03-l-original.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC 4381                             pr. in Cam 2 Oct 1841
@@ -167,7 +160,6 @@ Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
 progg[short for:protokollieren].
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 NC 4381                   presented in Cammer 2 Oct 1841
@@ -215,4 +207,3 @@ drafted by G. W. Fuchs                           most humble servant,
 with fee                                         Colon Krückeberg
 filed                                            No. 10 in Berenbusch.
 ....
-|===
