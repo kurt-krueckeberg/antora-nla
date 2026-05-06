@@ -12,9 +12,6 @@ merely a reminder about Berenbusch woodland boundaries.
 
 image::07-right-page.png[width=50%,link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 ad Nro. 322  
@@ -29,7 +26,6 @@ B. 27. Octbr 1800
     MK.
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Re: No. 322  
@@ -44,7 +40,6 @@ Recorded 27 October 1800
 
     MK.
 ....
-|===
 
 [.narrow]
 == Glossary of Terms

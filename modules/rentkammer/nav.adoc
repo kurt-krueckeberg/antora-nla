@@ -1,3 +1,4 @@
 * xref:rentkammer-and-kolonat-system.adoc[Renkammer Overview]
 ** xref:case-file-docs-explained.adoc[]
+** xref:workflow.adoc[]
 ** xref:terms.adoc[]
