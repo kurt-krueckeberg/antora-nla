@@ -1,11 +1,13 @@
 = Contents List
 :page-role: wide
 
+* xref:cover.adoc[]
+ 
+== Digital Images
+
 The *Designatio Actorum* is the table of contents for the Rentkammer case
 file. It lists its documents in the second column and their topics in the
 third column.
- 
-== Digital Images
 
 image::01-r.jpg[link=self]
 
