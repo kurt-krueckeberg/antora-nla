@@ -1,8 +1,11 @@
 = Contents List
 :page-role: wide
 
-[role="narrow"]
+* xref:cove.adoc[Case File Cover]
+* xref:intro.adoc[Introduction to Case]
+* xref:timeline[Tineline]
 
+[role="narrow"]
 == The Designatio Actorum (Table of Contents)
 
 image::01.png[link=self]
