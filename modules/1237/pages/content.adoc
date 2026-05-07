@@ -1,7 +1,7 @@
 = Contents List
 :page-role: wide
 
-* xref:cove.adoc[Case File Cover]
+* xref:cover.adoc[Case File Cover]
 * xref:intro.adoc[Introduction to Case]
 * xref:timeline[Tineline]
 
