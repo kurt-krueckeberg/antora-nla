@@ -23,9 +23,10 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 [NOTE]
 ====
-*wapp.* = “wappniert,” meaning “sealed with the official seal”  
+*wapp.* = “wapponiert,” meaning “sealed with the official seal”  
 *Sim.* = “Similiter,” Latin for “likewise” or “in the same way”  
-*Copt.* = “Concept,” meaning “draft of a document for the record”
+*Copt.* = “Concept,” meaning “drafted" or "adopted", typically used to
+signify an Rentkammer decision
 ====
 
 .Expanded Transliteration with Translation
