@@ -58,7 +58,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 >|4
 
 |"
-|xref:doc1-4.adoc[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]
+|xref:doc1-4.adoc[Sim[iliter\]: wapp[oniert\] Schmöe, Kahlhuth und Creuzinger zu Baum]
 |xref:doc1-4.adoc[Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum].
 ^|" 
 ^|" 
