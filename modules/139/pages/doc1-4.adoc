@@ -20,7 +20,7 @@ image::03-r.png[width=75%,link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
-Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu]  Baum.
+Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu] Baum.
 
 Exp. Alveÿ
 
