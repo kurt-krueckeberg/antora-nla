@@ -35,7 +35,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |1.
 |xref:doc1-1.adoc[Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch]
-|xref:doc1-1.adoc[Petition of the widow Krückeberg, Holding 10 in Berenbusch]. 
+|xref:doc1-1.adoc[Petition of the widow Krückeberg, Holding No. 10 in Berenbusch]. 
 ^|Bburg 
 ^|1824 
 ^|July 
@@ -43,7 +43,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"
 |xref:doc1-2.adoc[Bericht des Amts Bückeberg]
-|xref:doc1-2.adoc[Report of the Office of Bückeberg]. 
+|xref:doc1-2.adoc[Report of the Bückeberg distrcit office]. 
 ^|" 
 ^|" 
 ^|" 
@@ -51,7 +51,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"
 |xref:doc1-3.adoc[Concept Rescript an die Wittwe Krückeberg]
-|xref:doc1-3.adoc[Draft of the official reply (Rescript) to the widow Krückeberg]. 
+|xref:doc1-3.adoc[Drafted official reply (Rescript) to the widow Krückeberg]. 
 ^|" 
 ^|" 
 ^|Aug
@@ -67,7 +67,7 @@ image::01.png[title=Clock to Enlarge,link=self]
 
 |"
 |xref:doc1-5.adoc[Concept Rescript aus Amt Bückeberg]
-|xref:doc1-5.adoc[Draft of the official reply (rescript) originating from the Office of Bückeberg]. 
+|xref:doc1-5.adoc[Drafted official reply originating from the Office of Bückeberg]. 
 ^|" 
 ^|" 
 ^|" 
