@@ -54,7 +54,8 @@ image::01.png[title=Clock to Enlarge,link=self]
 |xref:doc1-3.adoc[Draft of the official reply (Rescript) to the widow Krückeberg]. 
 ^|" 
 ^|" 
-^|Aug >|4
+^|Aug
+>|4
 
 |"
 |xref:doc1-4.adoc[Similiter: wapp[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum]
