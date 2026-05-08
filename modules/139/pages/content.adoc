@@ -43,8 +43,8 @@ signify an Rentkammer decision
 >|8
 
 |"
-|xref:doc1-2.adoc[Bericht des Amts Bückeberg]
-|xref:doc1-2.adoc[Report of the Bückeberg distrcit office]. 
+|xref:doc1-2.adoc[Bericht des Amts Bückeburg]
+|xref:doc1-2.adoc[Report of the Bückeburg distrcit office]. 
 ^|" 
 ^|" 
 ^|" 
@@ -67,16 +67,16 @@ signify an Rentkammer decision
 >|"
 
 |"
-|xref:doc1-5.adoc[Concept Rescript aus Amt Bückeberg]
-|xref:doc1-5.adoc[Drafted official reply originating from the Office of Bückeberg]. 
+|xref:doc1-5.adoc[Concept Rescript aus Amt Bückeburg]
+|xref:doc1-5.adoc[Drafted official reply originating from the Office of Bückeburg]. 
 ^|" 
 ^|" 
 ^|" 
 >|"
 
 |2.
-|xref:doc2.adoc[Bericht des Amts Bückeberg]
-|xref:doc2.adoc[Report of the Office of Bückeberg]. 
+|xref:doc2.adoc[Bericht des Amts Bückeburg]
+|xref:doc2.adoc[Report of the Office of Bückeburg]. 
 ^|" 
 ^|" 
 ^|" 
