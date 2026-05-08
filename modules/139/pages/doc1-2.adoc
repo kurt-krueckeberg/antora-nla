@@ -78,11 +78,6 @@ By authority of Prince Georg Wilhelm.
 [.narrow]
 == Reminder Instruction and Note
 
-++++
-<details>
-<summary><strong>Hide / show summary</strong></summary>
-++++
-
 The text appears on the left side of the back page. It is evidently
 a clerk’s instruction to verify whether the widow (the Supplikantin)
 still holds the parcel of pasture (Stück Land) that her late husband
@@ -91,13 +86,7 @@ had once bought from the Chamber.
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report. 
 
-++++
-</details>
-++++
-
-=== Transliteration and Translation
-
-image::03-left-side-of-page.png[algin=left,width=50%,title=Click to Enlarge,link=self]
+image::03-left-side-of-page.png[algin=left,width=75%,title=Click to Enlarge,link=self]
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
