@@ -6,8 +6,7 @@
 
 The report of the Bückeburg local government office appears on the *left
 side of the first page* of the wide Krückeberg's petition. The image below
-is merely the left side of the xref:doc1-1.adoc#images-of-petition-of-the-widow-krückeberg[first page].
-the widow Krückeberg's petition.
+is merely the left side of the xref:doc1-1.adoc[first page] of the widow Krückeberg's petition.
 
 == Image of Report from Bückeburg Office
 
