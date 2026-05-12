@@ -1,12 +1,7 @@
 = Docket Item 7: Draft of Official Order of the Chamber to the Office of Bückeburg (24 Dec. 1841)
 :page-role: wide
 
-[[doc-index-7-1]]
-[cols="1a,1a",grid=none,frame=none,options="noheader"]
-|===
-|image::17-r.png[title="Click to Enlarge",link=self]
-|
-|===
+image::17-r.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
@@ -16,11 +11,7 @@
 * *behufliche Obligation* = the requisite promissory note (i.e., the note required for this purpose).
 * *Amt* = district office.
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Stpl: 3 g         N. C. 5702.
@@ -49,7 +40,8 @@ Fürstl: p.
 
 [clerical initials:] Lm   L
 ....
-|
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Stpl: 3 g            N. C. 5702.
@@ -78,5 +70,3 @@ is to be informed* of this.
 
 [clerical initials:] Lm  L
 ....
-|===
-
