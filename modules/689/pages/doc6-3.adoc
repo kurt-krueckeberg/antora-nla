@@ -9,11 +9,7 @@ image::16-r.png[title="Click to Enlarge",link=self]
 
 image::17-l.png[title="Click to Enlarge",link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 P.V.
@@ -49,7 +45,7 @@ Bbg. 23. Decbr.
 Reck
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 per Vorstehung (by the authority of)
@@ -81,25 +77,18 @@ more than 800 rt.
 Bbg., 23 Dec. 1841.
 Reck
 ....
-|===
 
 === Left Margin Text in Parentheses
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 (Die Taxe wird indes wohl etwas niedrig seÿn.)
 ....
-|
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 (However, the appraisal/valuation will likely be somewhat low.)
 ....
-|===
 
 === Prince of Schaumburg-Lippe Georg Wilhelm's Decision and Signature.
 
@@ -107,17 +96,9 @@ On the last page, written vertically in the left margin--rotated below so
 one can read it--is the decision of the Sovereign ruler of
 Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
-[cols="1a,1a",frame=none,grid=none]
-|===
-|image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
-|
-|===
+image::17-l-vertical-text.png[title="Click to Enlarge",link=self]
 
-[.widepair,cols="1a,1a",frame=none,grid=none]
-|===
-|Transliteration|Translation
-
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
@@ -127,7 +108,7 @@ Bb 23 Dec.
 Georg Wilhelm
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 I approve, in accordance with the chamber’s petition, the loan of
@@ -136,5 +117,3 @@ accept the land and settle the debt upon it.
 Bückeburg, 23 Dec.
 Georg Wilhelm
 ....
-|===
-
