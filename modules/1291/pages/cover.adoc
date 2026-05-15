@@ -1,5 +1,11 @@
 = NLA 1291: Case File Cover
 
+== Digital Image
+
+image::cover.jpg[title=Click to Enlarge,link=self]
+
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
