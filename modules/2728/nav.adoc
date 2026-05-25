@@ -1,1 +1,1 @@
-* xref:survey-1737.adoc[Householder Survey (1737)]
+* xref:survey-1737.adoc[Householder Registration (1737)]
