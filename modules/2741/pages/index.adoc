@@ -1,5 +1,5 @@
 = Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744)
-:page-role: wide
+//:page-role: wide
 
 == Overview
 
@@ -34,11 +34,11 @@ reliqui"*, which means he had the same conditions as all the others.
 
 == Images of Johann Heinrich Krückeberg's Recorded Answers 
 
-image::2741-1.jpg[title=First page (Click to Enlarge),link=self]
+image::2741-1.jpg[width="75%",title=First page (Click to Enlarge),link=self]
 
-image::2741-2.jpg[title=Second page (Click to Enlarge),link=self]
+image::2741-2.jpg[width="75%",title=Second page (Click to Enlarge),link=self]
 
-image::2741-3.jpg[title=Third page (Click to Enlarge),link=self]
+image::2741-3.jpg[width="75%",title=Third page (Click to Enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation
