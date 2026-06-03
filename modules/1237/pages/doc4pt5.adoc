@@ -35,7 +35,7 @@ image::08-right-page.png[link=self]
 |Rinsehe No 11
 
 |Right side (horizontal, beneath vertical text)
-|7. Fuß Decim: [7 feet, decimal]
+|`7.` Fuß Decim: [7 feet, decimal]
 
 |Below entire diagram (horizontal)
 |Dorf Strasse (village street or drive)

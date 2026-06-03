@@ -83,8 +83,7 @@ MKaas
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Zeichnung
-eines Kolonieplatzes im Baumer Forstrevier
+Zeichnung eines Kolonieplatzes im Baumer Forstrevier
 für den Neubauer Driftmeier zu Berenbusch.
 Die Theile A u. B halten 1 Morgen 54 Ruth: 80 Fuß
 
