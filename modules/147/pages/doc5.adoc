@@ -67,15 +67,26 @@ Genehmiget.
 Bückeburg 29t Octbr 1819.
 
 Dabiehl Neusel
+....
 
-[vertical text on left of 1st page]
+*Vertical Text on left of 1st page:*
+
+[literal.bordered,subs="verbatim,quotes"]
+....
 Res: Cam: Genehmiget nach dem Amts-Vorschlage,
 wornach das Nöthige an das Amt u. an
 Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
 ....
 
+*Translitration of text in lower right quadrant of drawing:*
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
+Zeichnung
+eines Kolonieplatzes im Baumer Forstrevier
+für den Neubauer Driftmeier zu Berenbusch.
+Die Theile A u. B halten 1 Morgen 54 Ruth: 80 Fuß
 
+Stille
 ....
