@@ -43,9 +43,6 @@ image::08-right-page.png[link=self]
 
 === Main Text
 
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
@@ -65,7 +62,6 @@ Bückeburg d. 30ten Märtz 1799.
                         beeidigter Landmesser
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
@@ -84,7 +80,6 @@ Bückeburg, the 30th of March 1799.
                      Funck  
                 sworn surveyor
 ....
-|===
 
 The phrase "we make the proposal, without further negotiation, that he be
 assigned this land..." should be interpreted as:
