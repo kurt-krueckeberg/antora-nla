@@ -14,10 +14,6 @@ image::11.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
-[.widepair,cols="1a,1a"]
-|===
-
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 N. 431                                                     5.)
@@ -78,9 +74,7 @@ Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
-TODO
+
 ....
-|===
